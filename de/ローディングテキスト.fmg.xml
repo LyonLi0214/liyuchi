@@ -1,0 +1,377 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="50">&lt;?kgiconKc@12?&gt;: Ziel erfassen/freigeben
+&lt;?kgControlCamera?&gt; bei Zielerfassung: Ziel wechseln
+
+Zuerst musst du deinem Feind gegenübertreten. Die
+Zielerfassung ist für einen Sieg sehr wichtig.
+
+Wenn du deinen Feind immer vor Augen hast, kannst
+du leichter angreifen und abwehren/parieren.</text>
+<text id="51">&lt;?kgiconKc@16?&gt; halten: Stoßangriff
+
+Stoßangriffe können nicht abgewehrt werden und sind nützlich gegen Feinde mit einer guten Verteidigung.
+
+Es besteht jedoch eine Chance, dass sie von Feinden pariert werden.</text>
+<text id="52">&lt;?kgiconKc@5?&gt;: Ausweichschritt
+
+Du kannst feindlichen Angriffen mit einem gut getimten Ausweichschritt entgehen. Ausweichschritte sind effektiv gegen Angriffe, die nicht pariert werden können.
+
+Bei feindlichen Griffen ist es beispielsweise besser, ihnen auszuweichen, statt sie abwehren oder parieren zu wollen.</text>
+<text id="53">&lt;?kgiconKc@1?&gt;+&lt;?kgiconKc@5?&gt; bei feindlichem Treffer: Mikiri-Konter
+
+Mit dem freischaltbaren Shinobi-Kampfstil "Mikiri-Konter" kann ein Shinobi eingehende Stoßangriffe erkennen und kontern, indem er auf die feindliche Klinge tritt.
+
+"Mikiri-Konter" ist eine starke Technik, die der feindlichen Haltung mehr Schaden zufügt als gewöhnliches Parieren.</text>
+<text id="54">&lt;?kgToggleItems?&gt;: Schnellobjekte durchblättern
+&lt;?kgiconKc@21?&gt;: Schnellobjekt benutzen
+
+Nutze das Ausrüstungsmenü, um Schnellobjekte auszurüsten oder zu ändern.
+Ausgerüstete Schnellobjekte können mit &lt;?kgToggleItems?&gt; durchgeblättert 
+und das aktuell gewählte mit &lt;?kgiconKc@21?&gt; benutzt werden.
+
+Du kannst bis zu 5 Schnellobjekte gleichzeitig ausrüsten.</text>
+<text id="55">&lt;?kgMove?&gt;+&lt;?kgiconKc@5?&gt;+&lt;?kgiconKc@6?&gt;: Sprintsprung
+
+Aus einem Sprint heraus kannst du weiter springen.</text>
+<text id="56">&lt;?kgiconKc@6?&gt; nach Sprung über einen Rundumangriff: Sprungtritt-Konter
+
+Wenn du über einen feindlichen Rundumangriff springst, kannst du vor der Landung einen Sprungtritt-Konter ausführen, um der feindlichen Haltung großen Schaden zuzufügen.</text>
+<text id="57">&lt;?kgiconKc@6?&gt; bei durchbrochener Haltung: Übersprung
+
+Mit der Shinobi-Kampfkunst "Übersprung" gelangst du hinter Feinde mit durchbrochener Haltung. 
+
+Diese Shinobi-Kampfkunsttechnik ermöglicht den Einsatz von Hinterrücks-Todesschlägen mitten im Kampf, ohne getarnt zu sein. Shinobi verfügen natürlich auch über Spezialtricks für den Nahkampf.</text>
+<text id="58">&lt;?kgiconKc@22?&gt;: Lauschen
+
+Wenn ein Shinobi sich konzentriert, kann er die Stimmen anderer auch aus großer Entfernung hören.
+
+Lauschen ist ein Werkzeug der Shinobi, um Informationen zu sammeln.</text>
+<text id="59">&lt;?kgMove?&gt;+&lt;?kgiconKc@5?&gt;+&lt;?kgiconKc@16?&gt;: Sprintangriff
+
+Bei einem Angriff aus dem Sprint ist ein spezieller Ausfallschritt mit dem Schwert möglich.
+Mit dieser Technik kann die Lücke zu einem weit entfernten Feind schnell geschlossen werden, um sofort Schaden anzurichten, sobald du ihn erreichst.</text>
+<text id="60">&lt;?kgiconKc@5?&gt; am Boden oder bei durchbrochener Haltung: Ausweichrolle
+
+Wenn du taumelst oder niedergeschlagen wurdest, bist du anfällig für feindliche Angriffe.
+
+Mach eine Ausweichrolle, um auf die Beine zu kommen und deine Anfälligkeit zu minimieren.</text>
+<text id="61">Der Blitz fährt durch alle, die den Boden berühren, und paralysiert sie sofort.
+
+Mittels einer Geheimtechnik kann der Blitz in der Luft mit dem Schwert gefangen und zurückgeworfen werden. Sie nennt sich Blitzumkehr.
+
+&lt;?kgiconKc@16?&gt; noch vor der Landung, nachdem du in der Luft von einem Blitzangriff getroffen wurdest: Blitzumkehr</text>
+<text id="62">%null%</text>
+<text id="63">%null%</text>
+<text id="64">%null%</text>
+<text id="65">%null%</text>
+<text id="66">%null%</text>
+<text id="67">%null%</text>
+<text id="68">%null%</text>
+<text id="69">%null%</text>
+<text id="70">&lt;?kgiconKc@20?&gt; halten: Beute sammeln
+
+Besiegte Feinde lassen Beute wie Objekte oder Geld fallen.  
+
+Beute kann aus der Ferne und von mehreren Feinden
+gleichzeitig gesammelt werden.</text>
+<text id="100">Gib Emma Kürbissamen, damit die maximale
+Nutzungszahl der heilenden Kürbisflasche steigt.</text>
+<text id="101">Sammle 4 Gebetsperlen, um deine Körpermerkmale bei einer Figur des Bildhauers zu verbessern.
+
+Dadurch erhöhen sich deine maximale Vitalität und Haltung.</text>
+<text id="102">Biete einer Figur des Bildhauers Kampferinnerungen an, 
+um deine Angriffskraft zu verbessern.
+
+Mit verbesserter Angriffskraft kannst du Vitalität und Haltung 
+deiner Feinde mehr Schaden zufügen.</text>
+<text id="103">Wenn du dich duckst, an einer Kante hängst oder dich
+an eine Wand drückst, bist du schwer zu entdecken.
+
+Ducke dich in hohem Gras, um es dem Feind noch schwerer zu machen.</text>
+<text id="104">Je mehr Vitalität man verliert, desto langsamer wird die Haltung wiederhergestellt.
+
+Wenn sich die Haltung eines Feindes fast sofort erholt, solltest du dich darauf konzentrieren, zuerst seine Vitalität zu schwächen.</text>
+<text id="105">Zu viele Treffer durch Feuerangriffe wenden schließlich
+die Brennen-Status-Anomalie an.
+Das Abwehren von Feuerangriffen wird das Füllen der
+Brennend-Anzeige nicht verhindern.
+
+Wenn du brennst, sind Flammen an deinem Körper sichtbar,
+die Erholung deiner Haltung wird gestoppt und deine Vitalität
+nimmt mit der Zeit ab.</text>
+<text id="106">Die Farbe des Warnhinweises über dem Kopf eines Feindes gibt an, 
+ob er auf dich aufmerksam geworden ist.
+
+Gelb: Sie sind vorsichtig oder auf der Suche.
+Rot: Sie haben deine Präsenz entdeckt.
+
+Gelb bedeutet, dass der Feind nicht genau weiß, wo du bist. 
+Du kannst ihn also noch mit einem heimlichen Todesschlag überraschen.</text>
+<text id="107">Figuren des Bildhauers dienen einer Fülle von Funktionen, einschließlich der Möglichkeit des Rastens.
+
+Das Rasten stellt Vitalität wieder her, füllt die Anwendungen der heilenden Kürbisflasche auf und verschiebt Verbrauchsobjekte automatisch vom Lager ins Inventar.
+
+Allerdings holt das Rasten mit ein paar Ausnahmen auch bereits besiegte Gegner wieder zurück in die Welt.</text>
+<text id="108">Der Wolf verfügt über die Fähigkeit "Nachtauge", mit der er in der Dunkelheit außergewöhnlich gut sehen kann.
+
+Diese Fähigkeit ist angeboren und tritt an dunklen Orten automatisch in Kraft.</text>
+<text id="109">Ohne ausreichende Auferstehungsmacht kann es keine Auferstehung geben. Feinde zu besiegen stellt Auferstehungsmacht jedes Mal ein wenig wieder her.
+
+Allerdings kann die erste Einheit der Auferstehungsmacht des Wolfs nur durch Rasten an einer Figur des Bildhauers wiederhergestellt werden.</text>
+<text id="110">Wiederholte giftbasierte Angriffe hinterlassen häufig die Status-Anomalie "Gift".
+
+Das Abwehren solcher Angriffe verhindert nicht, dass sich das Gift ansammelt.
+
+Gift wirkt sich auf den Körper und Geist aus und reduziert mit der Zeit allmählich die Vitalität.</text>
+<text id="111">Das Erleiden von Schaden durch Erscheinungen erfüllt Körper und Geist mit Grauen.
+
+Das Abwehren solcher Angriffe verhindert die Zunahme des Grauens nicht.
+
+Wer dem Grauen erliegt, stirbt.</text>
+<text id="112">Blitzangriffe hinterlassen die Status-Anomalie "Schock", wenn sie einen am Boden treffen.  Dabei spielt es keine Rolle, ob der Angriff abgewehrt wurde oder nicht.
+
+Schock lässt Elektrizität durch den Körper fließen, die der Vitalität großen Schaden zufügt und das Opfer kurz betäubt.</text>
+<text id="113">Besiege Feinde, um Fähigkeitserfahrung zu erhalten.
+Wenn du genug Fähigkeitserfahrung gesammelt hast, erhältst du einen Fähigkeitspunkt.
+
+Esoterische Texte gewähren Zugang zu diversen Fähigkeiten, die mit Fähigkeitspunkten im Menü "Fähigkeiten erwerben" an einer Figur des Bildhauers erworben werden können.</text>
+<text id="114">Fähigkeiten des "Shinobi-Stils" sind Techniken, die Shinobi im Kampf nutzen.
+
+Solche Bewegungen sind den Samurai nicht möglich und umfassen Techniken wie Angriffe in der Luft oder das Verbergen des Körpers, um nicht gesehen zu werden.
+
+Dies sind die innersten Geheimnisse der Shinobi-Künste.</text>
+<text id="115">Fähigkeiten des "Prothesenstils" umfassen eine Reihe von Techniken für die Shinobi-Prothese.
+
+Dies ist weniger ein formaler Kampfstil als vielmehr eine Sammlung geheimer Bewegungen, die nur mit der Shinobi-Prothese ausgeübt werden können.
+</text>
+<text id="116">Techniken des "Ashina-Stils" basieren auf Isshin Ashinas Erkenntnissen aus seiner langen Historie von Kämpfen.
+
+Der junge Isshin suchte immer wieder händeringend nach Kämpfen, um seine Technik mit dem Blut seiner Feinde zu perfektionieren.</text>
+<text id="117">Der "Senpo-Stil" konzentriert sich streng auf Kampfkünste.
+
+Die Jünger des Senpo-Tempels meisterten im Streben nach Tugend die Kampfkünste. Sie glauben, dass die eigenen Fäuste und strenge Disziplin unabdingbar sind, um die Feinde Buddhas zu besiegen.</text>
+<text id="118">Mit Verbesserungsmaterialien wie "Eisenschrott" und "Schießpulver" kann der Bildhauer neue, verbesserte Versionen deiner Prothesen-Module herstellen.
+
+Solche Materialien kannst du von Feinden sammeln und auch in der Welt finden.</text>
+<text id="119">Wenn du Objekte erhältst, von denen du nicht noch mehr tragen kannst, werden diese automatisch im Lager abgelegt.
+
+Nach einer Rast an einer Figur des Bildhauers werden alle Objekte, die nicht die Besitzobergrenze erreicht haben, automatisch aus dem Lager aufgefüllt.
+
+Buddhas Lagerraum ist riesig; man sollte ihm dankbar sein, dass er ihn zur Nutzung zur Verfügung stellt.</text>
+<text id="120">Die Abendstunden sind gefährlich.
+
+Wenn die Finsternis der Nacht aufzieht und die Sonne schwindet, suchen mächtige Erscheinungen das Land heim.</text>
+<text id="121">Der Einsatz von Fähigkeiten wie Prothesen-Modulen kostet Geistembleme.
+
+Erhalte Geistembleme durch Besiegen von Feinden, in der Welt oder durch Kauf bei Figuren des Bildhauers.</text>
+<text id="122">Auf dem Boden kriechende Gegner, wie zum Beispiel Echsen, sind anfällig für Todesschläge, wenn du auf sie zuspringst.
+
+Der Todesschlag ist auch dann möglich, wenn sie dich bemerkt haben.</text>
+<text id="123">Manche seltene, sehr starke Gegner können nur mit einem zusätzlichen "Finalen Todesschlag" besiegt werden.
+
+Dieser finale Todesschlag kann erst ausgeführt werden, wenn alle Todesschlagsymbole des Gegners entfernt wurden.</text>
+<text id="124">Du kannst "Auferstehung" nicht mehrmals innerhalb kurzer Zeit nutzen. Sammle Auferstehungsmacht, um sie erneut nutzen zu können.
+
+Du erhältst Auferstehungsmacht für das Ausschalten von Feinden und durch Todesschläge.</text>
+<text id="125">Du verlierst beim Tod Fähigkeitserfahrungspunkte und Sen, aber in seltenen Fällen lässt sich dies durch einen Schutz namens göttliche Hilfe verhindern.
+
+Die Wahrscheinlichkeit für göttliche Hilfe findest du im Pausemenü.
+
+&lt;?kgiconKc@27?&gt;: Pausemenü öffnen</text>
+<text id="126">Fäule-Essenzen verraten dir, wer von der Drachenfäule befallen ist.
+
+Je mehr Fäule-Essenzen du hast, desto geringer sind deine Chancen auf göttliche Hilfe, um deine Verluste im Todesfall zu verhindern.</text>
+<text id="127">Ein Tropfen Drachenblut kann an einer Figur des Bildhauers geopfert werden, um die Gesundheit aller von Drachenfäule Befallenen wiederherzustellen.
+
+Eine Wiederherstellung heilt die Befallenen von der Drachenfäule, entfernt alle Fäule-Essenzen und setzt die Wahrscheinlichkeit für göttliche Hilfe auf den Standardwert zurück.</text>
+<text id="128">Je häufiger jemand mit der Macht des Drachenerbes stirbt, desto mehr verbreitet sich eine Krankheit namens Drachenfäule.
+
+Das überall wahrnehmbare Keuchen und Husten ist ein Anzeichen, dass jemand, der Kontakt zum Wolf hatte, von der Drachenfäule befallen ist.</text>
+<text id="129">Manche Kampfkünste verbrauchen Geistembleme.
+
+Wenn nicht ausreichend Geistembleme vorhanden sind, kann trotzdem eine schwächere Version der Technik ausgeführt werden.
+</text>
+<text id="130">Stoßangriffe können nicht geblockt, aber dafür pariert werden.
+
+Pariere einen Stoßangriff mit einem Mikiri-Konter, um der feindlichen Haltung mehr Schaden zuzufügen als mit gewöhnlichem Parieren.</text>
+<text id="131">Rundumangriffe können weder abgewehrt noch pariert werden. Du kannst ihnen jedoch mit einem Sprung entgehen.
+
+Ein Sprungtritt gegen einen Feind, der einen Rundumangriff ausführt, fügt seiner Haltung hohen Schaden zu und macht ihn oft anfällig für einen Todesschlag.</text>
+<text id="132">Greifangriffe können weder abgewehrt noch pariert werden. Hat ein Feind dich gepackt, lässt der Schaden sich nicht mehr vermeiden.
+
+Spring oder sprinte in sichere Entfernung, bevor dich der Greifangriff trifft, um dich nicht von einem Feind packen zu lassen.
+
+Manchen Greifangriffen kannst du auch mit einem gut getimten Ausweichschritt entgehen.</text>
+<text id="133">Das Parieren eines Angriffs beendet nicht immer den Angriff des Feindes.
+
+Kontere Angriffsfolgen mit Parier-Kette. Pariere jeden einzelnen Angriff, um der gegnerischen Haltung hohen Schaden zuzufügen.</text>
+<text id="134">Vor dem maroden Tempel findest du einen Krieger namens Hanbei, der Unsterbliche, der dir gerne beim Training hilft.
+
+Der Wolf kann neue Trainingsoptionen freischalten, indem er Trainingseinheiten mit Hanbei abschließt und neue Fähigkeiten erwirbt.
+
+Wenn ein Feind unbesiegbar erscheint, kann ein wenig Training helfen. Er lehrt die Grundlagen aller Schwertstile.</text>
+<text id="135">Freie Kämpfe vor dem maroden Tempel gegen Hanbei, den Unsterblichen, eignen sich perfekt zur Erprobung neuer Prothesen-Module und Fähigkeiten. Du kannst sie nach Belieben ausprobieren, ohne Geistembleme zu verbrauchen.
+
+Der Freie Kampf wird nach Abschluss aller Trainingseinheiten von Hanbei freigeschaltet.</text>
+<text id="136">Prothesen-Module können auf verschiedene Weise verbessert
+werden, z. B. durch das Hinzufügen eines Elementareffekts
+oder die Möglichkeit, neue Techniken damit auszuführen.
+
+Verbesserte Versionen können in Flammen gehüllt oder vielleicht in Gift getaucht sein und sind somit vielseitig einsetzbar oder wirksam gegen verschiedene Feinde.
+Neue verbesserte Prothesen-Module müssen im Ausrüstungsmenü ausgerüstet werden, bevor sie benutzt werden können.</text>
+<text id="150">Ein Shinobi will die Haltung seines Gegners durchbrechen.
+Das ist zum Beispiel durch Angriffe möglich.
+
+Wenn die Haltung des Gegners durchbrochen ist, ist er für einen "Shinobi-Todesschlag" anfällig.
+
+&lt;?kgiconKc@16?&gt;: Angriff
+&lt;?kgiconKc@16?&gt; bei durchbrochener Haltung: Todesschlag</text>
+<text id="151">Manchmal reicht ein unerbittlicher Angriff nicht aus,
+um die Haltung des Feindes zu durchbrechen.
+
+Das Parieren gegnerischer Angriffe durchbricht die
+Haltung des Feindes ebenfalls. Ein erfahrener Shinobi
+erreicht durch den Wechsel von Parieren und Angreifen
+einen schnellen Sieg.
+
+&lt;?kgiconKc@18?&gt; bei feindlichem Treffer: Parieren</text>
+<text id="152">&lt;?kgiconKc@18?&gt; bei feindlichem Treffer: Parieren
+&lt;?kgiconKc@16?&gt; nach dem Parieren: Konterhieb
+
+Ein "Konterhieb" wird durchgeführt, indem man direkt nach erfolgreichem Parieren eines feindlichen Treffers angreift.
+
+Durch eine Kombination aus Parieren und Angriffen kann die Haltung des Feindes schnell durchbrochen werden.</text>
+<text id="153">Gewinne Abstand von deinem Gegner, wenn du Schaden erleidest und deine Vitalität niedrig ist, und nutze eine heilende Kürbisflasche, um sie wieder aufzufüllen.
+
+&lt;?kgiconKc@21?&gt;: Schnellobjekt benutzen</text>
+<text id="154">Ein Todesschlag vom Hängen an einer Kante aus ist ein heimlicher Todesschlag, der nur gegen Feinde ausgeführt werden kann, die dich noch nicht entdeckt haben.
+
+Bewege dich direkt unter einen Feind, während du an einer Kante oder Klippe hängst, ehe er dich entdeckt, um ihn für diesen Todeschlag anfällig zu machen.</text>
+<text id="155">Ein Todesschlag von einer Wand aus ist ein heimlicher Todesschlag, der nur gegen Feinde ausgeführt werden kann, die dich noch nicht entdeckt haben.
+
+Lauere einem vorbeilaufenden Feind auf, während du dich unentdeckt an eine Wand drückst. Sobald er nahe genug ist, wird er anfällig für diesen Todesschlag.</text>
+<text id="156">Es gibt viele Prothesen-Module und nicht jede Strategie eignet sich für jeden Feind.
+
+Der Bildhauer sagt:
+
+"Starke Schilde? Brich sie auseinander ...
+Flinke Feinde? Schalte sie aus der Ferne aus.
+Mehr Module bedeuten mehr Wege,
+um Feinde zu vernichten."</text>
+<text id="157">Feinde mit roten Augen sind gefährlich und voller Wut. Im Nahkampf gegen sie anzutreten scheint unklug.
+
+Feuer ist jedoch überaus wirksam gegen sie.
+Sie sollen Feuer mehr als alles andere fürchten.</text>
+<text id="158">Hochgelegene Plattformen oder Kanten, die für den Greifhaken zu weit entfernt sind, können erreichbar werden, wenn du auf sie zuspringst.</text>
+<text id="159">Tiere haben Angst vor lauten Geräuschen.
+
+Das Prothesen-Modul "Shinobi-Feuerwerk" ist dadurch ziemlich wirksam gegen sie.</text>
+<text id="160">Holzschilde und Helme können mit gewöhnlichen Schwertangriffen nicht zerstört werden.
+
+Das Prothesen-Modul "Geladene Axt" kann jedoch helfen.
+Eine so schwere Waffe spaltet Holz, als wäre es Papier.</text>
+<text id="161">Einige größere Feinde tragen einfache Rüstung, die von Riemen zusammengehalten wird. Mit dem Prothesen-Modul "Geladener Speer" kann diese einfache Rüstung losgerissen werden.
+
+Diese Technik wird "Rüstung entfernen" genannt.</text>
+<text id="162">Die Haltung erholt sich beim Abwehren schneller.
+
+Wenn die Haltung des Wolfs so gut wie durchbrochen ist, kann eine schnelle Erholung den Unterschied zwischen Überleben und Tod bedeuten.
+
+&lt;?kgiconKc@18?&gt; halten: Abwehr</text>
+<text id="163">In vergangenen Kriegen konnte der giftige blaue Rost der Klinge die unmenschlichen Okami-Kriegerfrauen vertreiben.
+
+Vermutlich wirkt er auch auf ihre Nachfahren.</text>
+<text id="164">Wurfsterne sind effektiv gegen springende oder besonders schnelle Feinde.
+
+Wurfsterne lassen Feinde zudem zurückschrecken und unterbrechen so ihre Aktionen.</text>
+<text id="165">Buddhistisches Konfekt sind Objekte, die vorübergehend deine Werte steigern.
+
+Wenn man ein Konfekt isst und die richtige Haltung einnimmt, erhält man vielleicht seinen Segen.
+
+Solche Segen sind vorteilhaft, wenn man gefährliche Orte aufsucht oder sich schrecklichen Feinden stellt.</text>
+<text id="166">Kampfkünste lernst du über das Menü "Fähigkeiten erwerben" bei einer Figur des Bildhauers. Wenn du Fähigkeitskompendien findest, können sie auch sofort und ohne Fähigkeitspunkte dafür ausgeben zu müssen erworben werden.
+
+Kampfkünste können im Ausrüstungsmenü ausgerüstet werden.
+
+&lt;?kgiconKc@18?&gt; + &lt;?kgiconKc@16?&gt;: Ausgerüstete Kampfkunst benutzen</text>
+<text id="167">Drei Arten von Fähigkeiten können erlernt werden: "Kampfkünste", "Shinobi-Kampfkünste"
+und "Latente Fähigkeiten".
+"Kampfkünste" sind Angriffsfähigkeiten, die über
+das Ausrüstungsmenü ausgerüstet werden.
+"Shinobi-Kampfkünste" können in der richtigen Situation ausgeführt und müssen nicht ausgerüstet werden.
+"Latente Fähigkeiten" sind nach dem Erlernen immer aktiv und mehrere Fähigkeiten mit denselben Vorteilen lassen sich stapeln.</text>
+<text id="168">&lt;?kgiconKc@18?&gt; bei feindlichem Treffer: Parieren
+
+Die Taste muss zum richtigen Zeitpunkt gedrückt werden, denn je öfter &lt;?kgiconKc@18?&gt; gedrückt wird, desto schwieriger fällt das Parieren.
+
+Der richtige Augenblick zum Parieren ist gekommen, wenn die feindliche Klinge nur noch ein Haarbreit entfernt ist.</text>
+<text id="169">Diejenigen, die in vergifteten Gebieten leben, haben einen sehr hohen Giftwiderstand.
+
+Einige sind sogar völlig immun.</text>
+<text id="170">Der Wolf kann Kugeln und andere Projektile mit seinem Schwert parieren.</text>
+<text id="171">Wird ein Feind in Ruhe gelassen, erholt sich seine Haltung allmählich. Kreuzt du hingegen weiter die Schwerter mit ihm, erholt sich seine Haltung nicht.
+
+Ein Grundsatz des Shinobi-Kampfstils lautet, den Feind unnachgiebig mit Angriffen und Parieren zu überwältigen, um ihm keine Pause zu gewähren.</text>
+<text id="172">Es gibt Schwerttechniken, die nach dem Einsatz von Prothesen-Modulen eingesetzt werden können.
+
+Diese "Folgeangriffe" ermöglichen einen Kampfstil, der dich die Prothesen-Module noch wirksamer einsetzen lässt.
+
+Folgeangriffe können als "Prothesenkünste"-Fähigkeiten erlernt werden.</text>
+<text id="173">Diese Shinobi-Kampfkunst ermöglicht nach dem Einsatz bestimmter Prothesen-Module einen Sprint nach vorn mit einem Schwertschnitt.
+
+Prothesen-Angriff auf lange Distanz mit einem treibenden Schnitt, um direkt zum Feind aufzuschließen.
+
+Kann als "Prothesenkünste"-Fähigkeit erlernt werden.</text>
+<text id="300">Die Nachlassverwalter sind Händler, die ihre Waren als Opfergaben verkaufen.
+Wo immer es Verstorbene gibt, findet man auch die Nachlassverwalter.
+
+Ob in der Nähe eines Schlachtfeldes oder in einem verlassenen Verlies ... die Nachlassverwalter werden dort sein. Wenn du ihnen begegnest, zeigen sie dir gewiss ihre Waren.</text>
+<text id="301">Es gibt einen Krieger, genannt Hanbei, der Unsterbliche oder auch Hanbei, der Infizierte, der sich direkt vor dem maroden Tempel aufhält.
+
+"Ein Körper, der nicht sterben kann, könnte praktisch für Euch sein."
+
+Wenn du jemanden zum Trainieren suchst, ist er vielleicht der ideale Gegner.</text>
+<text id="302">Die Schuppen eines Schatzkarpfen leuchten und glitzern wunderschön.
+Für gewöhnliche Beobachter sind sie nur glitzernde Fischschuppen.
+
+Aber für andere sind sie wertvoller als alles andere auf der Welt.
+Sie zu sammeln kann durchaus lohnenswert sein.
+
+Schatzkarpfen werden jedoch von menschenfressenden Fischen begleitet, sodass man bei der Jagd sehr vorsichtig sein sollte.</text>
+<text id="303">Der Bildhauer im maroden Tempel ist ein Spezialist für Shinobi-Prothesen-Module.
+
+Er kann helfen, neue Module an die Shinobi-Prothese anzupassen oder bestehende zu verbessern.
+
+Suche ihn auf, wenn du Shinobi-Module oder nützlich erscheinende Materialen findest.</text>
+<text id="304">Esoterische Texte schalten neue Fähigkeitsbäume frei.
+
+Nach der Freischaltung können Kampfkünste innerhalb des Baums für Fähigkeitspunkte erworben werden.</text>
+<text id="305">%null%</text>
+<text id="306">Durchdringende Angriffe fügen der Vitalität und Haltung Schaden zu, selbst wenn der Feind sie abwehrt.
+
+Das macht Techniken, bei denen das Schwert erst noch gezogen werden muss, so effektiv.</text>
+<text id="307">Halte bei der Verwendung von Schnellobjekten &lt;?kgToggleItems?&gt; gedrückt, um sofort zum Schnellobjekt im ersten Platz zu springen.
+
+Häufig verwendete Objekte wie die heilende Kürbisflasche dem ersten Platz zuzuweisen kann im Kampf von Vorteil sein.</text>
+<text id="308">%null%</text>
+<text id="309">%null%</text>
+<text id="310">%null%</text>
+<text id="311">Shinobi können Schatten ihrer vergangenen Taten hinterlassen, sogenannte "Relikte".
+Relikte dienen als Anleitungen für andere Shinobi. Manche weisen den richtigen Weg, andere entfachen Konkurrenzkämpfe.
+
+&lt;?kgiconKc@44?&gt;: Relikt-Menü öffnen</text>
+<text id="312">Im Kampf besiegte starke Gegner können in Erinnerungen erneut bekämpft werden.
+Wähle im "Figur des Bildhauers"-Menü die Reflexion der Kraft.</text>
+<text id="313">Im Kampf besiegte starke Gegner können in Erinnerungen in aufeinanderfolgenden Kämpfen erneut bekämpft werden.
+Sich vergangenen Erinnerungen zu stellen, gleicht der Entdeckung neuer Möglichkeiten. Der Ausgang des Kampfes kann neue Erkenntnisse eröffnen.</text>
+<text id="314">%null%</text>
+<text id="315">Fremde Erinnerungen. Häufig sind es Gefühle der Reue oder drehen sich um bestimmte Ideen. Konzentriere dich an einer Figur des Bildhauers auf dieses Bedauern, um die Gestalt des Wolfs zu verändern. Das hat keine Auswirkungen auf seine Fähigkeiten.
+Die Übernahme des Bedauerns anderer ist nur von vorübergehender Dauer.</text>
+<text id="316">&lt;?kgiconKc@20?&gt; im Fall oder Sprung zu halten erleichtert Festhalten an einer Kante.</text>
+</entries>
+</fmg>

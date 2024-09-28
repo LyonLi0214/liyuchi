@@ -1,0 +1,3959 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="3">%null%</text>
+<text id="4">%null%</text>
+<text id="5">%null%</text>
+<text id="6">%null%</text>
+<text id="7">%null%</text>
+<text id="8">%null%</text>
+<text id="9">%null%</text>
+<text id="10">%null%</text>
+<text id="11">%null%</text>
+<text id="12">%null%</text>
+<text id="13">%null%</text>
+<text id="14">%null%</text>
+<text id="15">%null%</text>
+<text id="16">%null%</text>
+<text id="17">%null%</text>
+<text id="18">%null%</text>
+<text id="19">%null%</text>
+<text id="20">%null%</text>
+<text id="21">%null%</text>
+<text id="22">%null%</text>
+<text id="23">%null%</text>
+<text id="24">%null%</text>
+<text id="25">%null%</text>
+<text id="26">%null%</text>
+<text id="27">%null%</text>
+<text id="28">%null%</text>
+<text id="29">%null%</text>
+<text id="30">%null%</text>
+<text id="31">%null%</text>
+<text id="32">%null%</text>
+<text id="33">%null%</text>
+<text id="34">%null%</text>
+<text id="35">%null%</text>
+<text id="36">%null%</text>
+<text id="37">%null%</text>
+<text id="38">%null%</text>
+<text id="39">%null%</text>
+<text id="40">%null%</text>
+<text id="41">%null%</text>
+<text id="42">%null%</text>
+<text id="43">%null%</text>
+<text id="44">%null%</text>
+<text id="45">%null%</text>
+<text id="46">%null%</text>
+<text id="47">%null%</text>
+<text id="48">%null%</text>
+<text id="49">%null%</text>
+<text id="50">%null%</text>
+<text id="51">%null%</text>
+<text id="52">%null%</text>
+<text id="53">%null%</text>
+<text id="54">%null%</text>
+<text id="55">%null%</text>
+<text id="56">%null%</text>
+<text id="57">%null%</text>
+<text id="58">%null%</text>
+<text id="59">%null%</text>
+<text id="60">%null%</text>
+<text id="61">%null%</text>
+<text id="62">%null%</text>
+<text id="63">%null%</text>
+<text id="64">%null%</text>
+<text id="65">%null%</text>
+<text id="66">%null%</text>
+<text id="67">%null%</text>
+<text id="68">%null%</text>
+<text id="69">%null%</text>
+<text id="70">%null%</text>
+<text id="71">%null%</text>
+<text id="72">%null%</text>
+<text id="73">%null%</text>
+<text id="74">%null%</text>
+<text id="75">%null%</text>
+<text id="76">%null%</text>
+<text id="77">%null%</text>
+<text id="78">%null%</text>
+<text id="79">%null%</text>
+<text id="80">%null%</text>
+<text id="81">%null%</text>
+<text id="82">%null%</text>
+<text id="83">%null%</text>
+<text id="2290">%null%</text>
+<text id="2291">%null%</text>
+<text id="2292">%null%</text>
+<text id="2293">%null%</text>
+<text id="2294">%null%</text>
+<text id="2295">%null%</text>
+<text id="2296">%null%</text>
+<text id="2297">%null%</text>
+<text id="2298">%null%</text>
+<text id="2299">%null%</text>
+<text id="2300">%null%</text>
+<text id="2301">%null%</text>
+<text id="2302">%null%</text>
+<text id="2303">%null%</text>
+<text id="2304">%null%</text>
+<text id="2305">%null%</text>
+<text id="2306">%null%</text>
+<text id="2307">%null%</text>
+<text id="2308">%null%</text>
+<text id="2309">%null%</text>
+<text id="2310">%null%</text>
+<text id="2311">%null%</text>
+<text id="2312">%null%</text>
+<text id="2313">%null%</text>
+<text id="2314">%null%</text>
+<text id="2315">%null%</text>
+<text id="2316">%null%</text>
+<text id="2317">%null%</text>
+<text id="2318">%null%</text>
+<text id="2319">%null%</text>
+<text id="2320">%null%</text>
+<text id="2321">%null%</text>
+<text id="2322">%null%</text>
+<text id="2323">%null%</text>
+<text id="2324">%null%</text>
+<text id="2400">%null%</text>
+<text id="2401">%null%</text>
+<text id="2402">%null%</text>
+<text id="2403">%null%</text>
+<text id="2404">%null%</text>
+<text id="2405">%null%</text>
+<text id="2406">%null%</text>
+<text id="2407">%null%</text>
+<text id="2408">%null%</text>
+<text id="2409">%null%</text>
+<text id="2410">%null%</text>
+<text id="2411">%null%</text>
+<text id="2412">%null%</text>
+<text id="2413">%null%</text>
+<text id="2414">%null%</text>
+<text id="2415">%null%</text>
+<text id="2416">%null%</text>
+<text id="2417">%null%</text>
+<text id="2418">%null%</text>
+<text id="2419">%null%</text>
+<text id="2420">%null%</text>
+<text id="2421">%null%</text>
+<text id="2422">%null%</text>
+<text id="2450">%null%</text>
+<text id="2451">%null%</text>
+<text id="2452">%null%</text>
+<text id="2453">%null%</text>
+<text id="2500">%null%</text>
+<text id="2501">%null%</text>
+<text id="2502">%null%</text>
+<text id="2503">%null%</text>
+<text id="2504">%null%</text>
+<text id="2505">%null%</text>
+<text id="2506">%null%</text>
+<text id="2507">%null%</text>
+<text id="2508">%null%</text>
+<text id="2509">%null%</text>
+<text id="2510">%null%</text>
+<text id="2511">%null%</text>
+<text id="2512">%null%</text>
+<text id="2513">%null%</text>
+<text id="2514">%null%</text>
+<text id="2515">%null%</text>
+<text id="2516">%null%</text>
+<text id="2517">%null%</text>
+<text id="2518">%null%</text>
+<text id="2519">%null%</text>
+<text id="2520">%null%</text>
+<text id="2521">%null%</text>
+<text id="2522">%null%</text>
+<text id="2523">%null%</text>
+<text id="2524">%null%</text>
+<text id="2525">%null%</text>
+<text id="2526">%null%</text>
+<text id="2527">%null%</text>
+<text id="2528">%null%</text>
+<text id="2529">%null%</text>
+<text id="2530">%null%</text>
+<text id="2531">%null%</text>
+<text id="2532">%null%</text>
+<text id="2533">%null%</text>
+<text id="2534">%null%</text>
+<text id="2535">%null%</text>
+<text id="2610">%null%</text>
+<text id="2611">%null%</text>
+<text id="2612">%null%</text>
+<text id="2613">%null%</text>
+<text id="2614">%null%</text>
+<text id="2615">%null%</text>
+<text id="2616">%null%</text>
+<text id="2617">%null%</text>
+<text id="2618">%null%</text>
+<text id="2619">%null%</text>
+<text id="2620">%null%</text>
+<text id="2621">%null%</text>
+<text id="2622">%null%</text>
+<text id="2623">%null%</text>
+<text id="2624">%null%</text>
+<text id="2625">%null%</text>
+<text id="70000">手里剑（手里剑攻击后）</text>
+<text id="71000">爆竹（撒出后）</text>
+<text id="78000">机关长枪（突刺后/横扫后）</text>
+<text id="83000">机关斧（砍劈后）</text>
+<text id="84000">雾鸦（发动雾鸦后）</text>
+<text id="88000">机关长枪（拉近后）</text>
+<text id="96000">机关伞（防御中）
+　机关伞可以通过承受敌人的
+　射击武器进行蓄力
+　继而发动攻击</text>
+<text id="99000">口哨（吹起后）
+　吹起口哨后释放
+　可使哨音在瞄准的位置响起</text>
+<text id="102000">吹火筒（喷火后）</text>
+<text id="107000">神隐（旋风聚集后）</text>
+<text id="10010103">拾起道具</text>
+<text id="10010104">%null%</text>
+<text id="10010105">%null%</text>
+<text id="10010106">%null%</text>
+<text id="10010107">拾起道具</text>
+<text id="10010108">%null%</text>
+<text id="10010109">%null%</text>
+<text id="10010110">OK</text>
+<text id="10010111">%null%</text>
+<text id="10010112">%null%</text>
+<text id="10010113">%null%</text>
+<text id="10010114">%null%</text>
+<text id="10010115">%null%</text>
+<text id="10010116">%null%</text>
+<text id="10010117">%null%</text>
+<text id="10010118">%null%</text>
+<text id="10010119">%null%</text>
+<text id="10010120">调查</text>
+<text id="10010121">调查功德箱</text>
+<text id="10010122">前往幻廊</text>
+<text id="10010123">离开幻廊</text>
+<text id="10010124">%null%</text>
+<text id="10010125">%null%</text>
+<text id="10010126">%null%</text>
+<text id="10010127">%null%</text>
+<text id="10010128">%null%</text>
+<text id="10010129">%null%</text>
+<text id="10010130">拜谒祈福</text>
+<text id="10010131">拜谒祈福</text>
+<text id="10010132">%null%</text>
+<text id="10010133">%null%</text>
+<text id="10010134">%null%</text>
+<text id="10010135">%null%</text>
+<text id="10010136">%null%</text>
+<text id="10010137">%null%</text>
+<text id="10010138">%null%</text>
+<text id="10010139">%null%</text>
+<text id="10010140">阅读</text>
+<text id="10010141">%null%</text>
+<text id="10010142">%null%</text>
+<text id="10010143">%null%</text>
+<text id="10010144">%null%</text>
+<text id="10010145">%null%</text>
+<text id="10010146">%null%</text>
+<text id="10010147">%null%</text>
+<text id="10010148">%null%</text>
+<text id="10010149">%null%</text>
+<text id="10010150">已使用值班房的钥匙</text>
+<text id="10010151">已使用隐藏佛堂的钥匙</text>
+<text id="10010152">已使用暗道的钥匙</text>
+<text id="10010153">已使用铁炮要塞神社的钥匙</text>
+<text id="10010154">%null%</text>
+<text id="10010155">%null%</text>
+<text id="10010156">%null%</text>
+<text id="10010157">%null%</text>
+<text id="10010158">%null%</text>
+<text id="10010159">%null%</text>
+<text id="10010160">%null%</text>
+<text id="10010161">从这一侧打不开</text>
+<text id="10010162">门上锁了</text>
+<text id="10010163">门紧紧地关着</text>
+<text id="10010164">机关纹丝不动</text>
+<text id="10010182">与鬼佛对坐</text>
+<text id="10010183">与鬼佛对坐</text>
+<text id="10010184">%null%</text>
+<text id="10010185">%null%</text>
+<text id="10010186">%null%</text>
+<text id="10010187">%null%</text>
+<text id="10010188">%null%</text>
+<text id="10010189">%null%</text>
+<text id="10010190">跪于神子身侧</text>
+<text id="10010191">触碰残影</text>
+<text id="10010192">%null%</text>
+<text id="10010193">%null%</text>
+<text id="10010194">%null%</text>
+<text id="10010195">%null%</text>
+<text id="10010196">%null%</text>
+<text id="10010197">%null%</text>
+<text id="10010198">%null%</text>
+<text id="10010199">%null%</text>
+<text id="10010200">交谈</text>
+<text id="10010250">窃听</text>
+<text id="10010251">%null%</text>
+<text id="10010252">%null%</text>
+<text id="10010253">%null%</text>
+<text id="10010254">%null%</text>
+<text id="10010255">%null%</text>
+<text id="10010256">%null%</text>
+<text id="10010257">%null%</text>
+<text id="10010258">%null%</text>
+<text id="10010259">%null%</text>
+<text id="10010260">倾听残影</text>
+<text id="10010310">&lt;?kgiconKc@20?&gt;:贴墙</text>
+<text id="10010311">&lt;?kgiconKc@20?&gt;:离开</text>
+<text id="10010312">%null%</text>
+<text id="10010313">%null%</text>
+<text id="10010314">%null%</text>
+<text id="10010315">%null%</text>
+<text id="10010316">%null%</text>
+<text id="10010317">%null%</text>
+<text id="10010318">%null%</text>
+<text id="10010319">%null%</text>
+<text id="10010320">&lt;?kgiconKc@20?&gt;:悬垂</text>
+<text id="10010321">&lt;?kgiconKc@20?&gt;:攀爬</text>
+<text id="10010322">&lt;?kgiconKc@5?&gt;:跳下</text>
+<text id="10010323">%null%</text>
+<text id="10010324">%null%</text>
+<text id="10010325">%null%</text>
+<text id="10010326">%null%</text>
+<text id="10010327">%null%</text>
+<text id="10010328">%null%</text>
+<text id="10010329">%null%</text>
+<text id="10010330">&lt;?kgiconKc@17?&gt;:下潜</text>
+<text id="10010331">%null%</text>
+<text id="10010332">%null%</text>
+<text id="10010333">%null%</text>
+<text id="10010334">%null%</text>
+<text id="10010335">%null%</text>
+<text id="10010336">%null%</text>
+<text id="10010337">%null%</text>
+<text id="10010338">%null%</text>
+<text id="10010339">%null%</text>
+<text id="10010340">&lt;?kgiconKc@5?&gt;:水中加速</text>
+<text id="10010341">&lt;?kgiconKc@19?&gt;:上浮</text>
+<text id="10010342">&lt;?kgiconKc@17?&gt;:下潜</text>
+<text id="10010343">&lt;?kgiconKc@19?&gt;:上浮</text>
+<text id="10010390">&lt;?kgiconKc@16?&gt;:起死回生</text>
+<text id="10010391">&lt;?kgiconKc@18?&gt;:就此死去</text>
+<text id="10010392">%null%</text>
+<text id="10010393">%null%</text>
+<text id="10010394">%null%</text>
+<text id="10010395">%null%</text>
+<text id="10010396">%null%</text>
+<text id="10010397">%null%</text>
+<text id="10010398">%null%</text>
+<text id="10010399">%null%</text>
+<text id="10010400">开启</text>
+<text id="10010401">%null%</text>
+<text id="10010402">%null%</text>
+<text id="10010403">%null%</text>
+<text id="10010404">%null%</text>
+<text id="10010405">%null%</text>
+<text id="10010406">%null%</text>
+<text id="10010407">%null%</text>
+<text id="10010408">%null%</text>
+<text id="10010409">%null%</text>
+<text id="10010410">移开榻榻米</text>
+<text id="10010411">%null%</text>
+<text id="10010412">%null%</text>
+<text id="10010413">%null%</text>
+<text id="10010414">%null%</text>
+<text id="10010415">%null%</text>
+<text id="10010416">%null%</text>
+<text id="10010417">%null%</text>
+<text id="10010418">%null%</text>
+<text id="10010419">%null%</text>
+<text id="10010420">打开宝物柜</text>
+<text id="10010500">操纵机关</text>
+<text id="10010501">操纵机关</text>
+<text id="10010502">%null%</text>
+<text id="10010503">%null%</text>
+<text id="10010504">%null%</text>
+<text id="10010505">%null%</text>
+<text id="10010506">%null%</text>
+<text id="10010507">%null%</text>
+<text id="10010508">%null%</text>
+<text id="10010509">%null%</text>
+<text id="10010510">撞钟</text>
+<text id="10010511">敲钟</text>
+<text id="10010512">%null%</text>
+<text id="10010513">%null%</text>
+<text id="10010514">%null%</text>
+<text id="10010515">%null%</text>
+<text id="10010516">%null%</text>
+<text id="10010517">%null%</text>
+<text id="10010518">%null%</text>
+<text id="10010519">%null%</text>
+<text id="10010520">上轿</text>
+<text id="10010521">下轿</text>
+<text id="10010522">%null%</text>
+<text id="10010523">%null%</text>
+<text id="10010524">%null%</text>
+<text id="10010525">%null%</text>
+<text id="10010526">%null%</text>
+<text id="10010527">%null%</text>
+<text id="10010528">%null%</text>
+<text id="10010529">%null%</text>
+<text id="10010530">放风筝</text>
+<text id="10010531">松手</text>
+<text id="10010532">%null%</text>
+<text id="10010533">%null%</text>
+<text id="10010534">%null%</text>
+<text id="10010535">%null%</text>
+<text id="10010536">%null%</text>
+<text id="10010537">%null%</text>
+<text id="10010538">%null%</text>
+<text id="10010539">%null%</text>
+<text id="10010540">翻转</text>
+<text id="10010541">翻转</text>
+<text id="10010542">忍者之捷径无法通行</text>
+<text id="10010543">%null%</text>
+<text id="10010544">%null%</text>
+<text id="10010545">%null%</text>
+<text id="10010546">%null%</text>
+<text id="10010547">%null%</text>
+<text id="10010548">%null%</text>
+<text id="10010549">%null%</text>
+<text id="10010550">上轿</text>
+<text id="10010551">前往源之宫</text>
+<text id="10010552">不前往源之宫</text>
+<text id="10010553">%null%</text>
+<text id="10010554">%null%</text>
+<text id="10010555">%null%</text>
+<text id="10010556">%null%</text>
+<text id="10010557">%null%</text>
+<text id="10010558">%null%</text>
+<text id="10010559">%null%</text>
+<text id="10010560">拜谒祈福</text>
+<text id="10010561">巫女安静地沉睡着</text>
+<text id="10010562">%null%</text>
+<text id="10010563">%null%</text>
+<text id="10010564">%null%</text>
+<text id="10010565">%null%</text>
+<text id="10010566">%null%</text>
+<text id="10010567">%null%</text>
+<text id="10010568">%null%</text>
+<text id="10010569">%null%</text>
+<text id="10010570">%null%</text>
+<text id="10010571">%null%</text>
+<text id="10010572">%null%</text>
+<text id="10010573">%null%</text>
+<text id="10010574">%null%</text>
+<text id="10010575">%null%</text>
+<text id="10010576">%null%</text>
+<text id="10010577">%null%</text>
+<text id="10010578">%null%</text>
+<text id="10010579">%null%</text>
+<text id="10010580">调查香炉</text>
+<text id="10010581">焚起源之香</text>
+<text id="10010582">%null%</text>
+<text id="10010583">%null%</text>
+<text id="10010584">%null%</text>
+<text id="10010585">%null%</text>
+<text id="10010586">%null%</text>
+<text id="10010587">%null%</text>
+<text id="10010588">%null%</text>
+<text id="10010589">%null%</text>
+<text id="10010590">停止修炼</text>
+<text id="10010591">%null%</text>
+<text id="10010592">%null%</text>
+<text id="10010593">%null%</text>
+<text id="10010594">%null%</text>
+<text id="10010595">%null%</text>
+<text id="10010596">%null%</text>
+<text id="10010597">%null%</text>
+<text id="10010598">%null%</text>
+<text id="10010599">%null%</text>
+<text id="10010600">&lt;?kgiconKc@44?&gt;:中止记录</text>
+<text id="10010700">前面似乎是暗道
+要吹响芦苇叶笛，呼唤神子吗？</text>
+<text id="10010713">尚未完成游戏的安装
+无法继续前进</text>
+<text id="10010714">%null%</text>
+<text id="10010715">%null%</text>
+<text id="10010716">%null%</text>
+<text id="10010717">%null%</text>
+<text id="10010718">%null%</text>
+<text id="10010719">%null%</text>
+<text id="10010720">请选择要返回的地点</text>
+<text id="10010768">&lt;?null?&gt;</text>
+<text id="10010769">%null%</text>
+<text id="10010770">燃烧</text>
+<text id="10010771">中毒</text>
+<text id="10010772">恐惧</text>
+<text id="10010773">%null%</text>
+<text id="10010774">%null%</text>
+<text id="10010775">%null%</text>
+<text id="10010776">衰老</text>
+<text id="10010777">打雷</text>
+<text id="10010778">%null%</text>
+<text id="10010779">%null%</text>
+<text id="10010780">%null%</text>
+<text id="10010781">%null%</text>
+<text id="10010782">%null%</text>
+<text id="10010783">%null%</text>
+<text id="10010784">%null%</text>
+<text id="10010785">%null%</text>
+<text id="10010786">%null%</text>
+<text id="10010787">%null%</text>
+<text id="10010788">%null%</text>
+<text id="10010789">%null%</text>
+<text id="10010790">危险</text>
+<text id="10010791">%null%</text>
+<text id="10010792">%null%</text>
+<text id="10010793">%null%</text>
+<text id="10010794">%null%</text>
+<text id="10010795">%null%</text>
+<text id="10010796">%null%</text>
+<text id="10010797">%null%</text>
+<text id="10010798">%null%</text>
+<text id="10010799">%null%</text>
+<text id="10010800">目前似乎没有流落至此的道具</text>
+<text id="10010900">SHINOBI EXECUTION</text>
+<text id="10010901">SCULPTOR'S IDOL FOUND</text>
+<text id="10010902">DEATH</text>
+<text id="10010903">IMMORTALITY SEVERED</text>
+<text id="10010950">GRACIOUS GIFT OF TEARS</text>
+<text id="10010951">SINISTER BURDEN</text>
+<text id="10010952">BURDEN DISPELLED</text>
+<text id="10010953">UNSEEN AID</text>
+<text id="10010954">DRAGONROT HEALED</text>
+<text id="10010955">INNER REFLECTION CONQUERED</text>
+<text id="10011951">破旧寺院的鬼佛</text>
+<text id="10011952">最后对坐的鬼佛</text>
+<text id="10020000">%null%</text>
+<text id="10020001">%null%</text>
+<text id="10020002">%null%</text>
+<text id="10020003">%null%</text>
+<text id="10020004">%null%</text>
+<text id="10020005">%null%</text>
+<text id="10020006">%null%</text>
+<text id="10020007">%null%</text>
+<text id="10020008">%null%</text>
+<text id="10020009">%null%</text>
+<text id="10020010">地板下移动</text>
+<text id="10020011">蹲着便可以
+进入地板下等狭窄的地方</text>
+<text id="10020012">%null%</text>
+<text id="10020013">%null%</text>
+<text id="10020014">%null%</text>
+<text id="10020015">%null%</text>
+<text id="10020016">%null%</text>
+<text id="10020017">%null%</text>
+<text id="10020018">%null%</text>
+<text id="10020019">%null%</text>
+<text id="10020020">空中钩绳</text>
+<text id="10020021">&lt;?kgiconKc@6?&gt;→&lt;?kgiconKc@19?&gt;:空中钩绳</text>
+<text id="10020022">%null%</text>
+<text id="10020023">%null%</text>
+<text id="10020024">%null%</text>
+<text id="10020025">%null%</text>
+<text id="10020026">%null%</text>
+<text id="10020027">%null%</text>
+<text id="10020028">%null%</text>
+<text id="10020029">%null%</text>
+<text id="10020030">%null%</text>
+<text id="10020031">%null%</text>
+<text id="10020032">%null%</text>
+<text id="10020033">%null%</text>
+<text id="10020034">%null%</text>
+<text id="10020035">%null%</text>
+<text id="10020036">%null%</text>
+<text id="10020037">%null%</text>
+<text id="10020038">%null%</text>
+<text id="10020039">%null%</text>
+<text id="10020040">蹬墙悬垂</text>
+<text id="10020041">跳跃中在墙边按&lt;?kgiconKc@6?&gt;:蹬墙
+在边缘按&lt;?kgiconKc@20?&gt;:悬垂</text>
+<text id="10020042">%null%</text>
+<text id="10020043">%null%</text>
+<text id="10020044">%null%</text>
+<text id="10020045">%null%</text>
+<text id="10020046">%null%</text>
+<text id="10020047">%null%</text>
+<text id="10020048">%null%</text>
+<text id="10020049">%null%</text>
+<text id="10020050">%null%</text>
+<text id="10020051">%null%</text>
+<text id="10020052">%null%</text>
+<text id="10020053">%null%</text>
+<text id="10020054">%null%</text>
+<text id="10020055">%null%</text>
+<text id="10020056">%null%</text>
+<text id="10020057">%null%</text>
+<text id="10020058">%null%</text>
+<text id="10020059">%null%</text>
+<text id="10020060">连续蹬墙</text>
+<text id="10020061">在有落脚点的墙壁连续按&lt;?kgiconKc@6?&gt;:连续蹬墙</text>
+<text id="10020080">%null%</text>
+<text id="10020081">%null%</text>
+<text id="10020082">%null%</text>
+<text id="10020083">%null%</text>
+<text id="10020084">%null%</text>
+<text id="10020085">%null%</text>
+<text id="10020086">%null%</text>
+<text id="10020087">%null%</text>
+<text id="10020088">%null%</text>
+<text id="10020089">%null%</text>
+<text id="10020090">跳跃悬垂</text>
+<text id="10020091">&lt;?kgiconKc@6?&gt;:跳跃
+在边缘按&lt;?kgiconKc@20?&gt;:悬垂</text>
+<text id="10020120">对空忍杀</text>
+<text id="10020121">朝着跳起的敌人按&lt;?kgiconKc@6?&gt;:跳跃
+出现红色印记时按&lt;?kgiconKc@16?&gt;:对空忍杀</text>
+<text id="10020250">水中操作</text>
+<text id="10020251">&lt;?kgiconKc@17?&gt;:下潜
+&lt;?kgiconKc@19?&gt;:上浮
+一边推动&lt;?kgMove?&gt;移动一边按&lt;?kgiconKc@5?&gt;:水中加速</text>
+<text id="10020252">%null%</text>
+<text id="10020253">%null%</text>
+<text id="10020254">%null%</text>
+<text id="10020255">%null%</text>
+<text id="10020256">%null%</text>
+<text id="10020257">%null%</text>
+<text id="10020258">%null%</text>
+<text id="10020259">%null%</text>
+<text id="10020260">落下忍杀</text>
+<text id="10020261">&lt;?kgiconKc@12?&gt;:固定目标
+&lt;?kgiconKc@6?&gt;:跳跃
+敌人头上
+出现红色印记时按&lt;?kgiconKc@16?&gt;:落下忍杀</text>
+<text id="10020262">%null%</text>
+<text id="10020263">%null%</text>
+<text id="10020264">%null%</text>
+<text id="10020265">%null%</text>
+<text id="10020266">%null%</text>
+<text id="10020267">%null%</text>
+<text id="10020268">%null%</text>
+<text id="10020269">%null%</text>
+<text id="10020270">隐密行动</text>
+<text id="10020271">现在身上没有刀
+悄悄地避开敌人，向观月望楼前进比较好</text>
+<text id="10020272">%null%</text>
+<text id="10020273">%null%</text>
+<text id="10020274">%null%</text>
+<text id="10020275">%null%</text>
+<text id="10020276">%null%</text>
+<text id="10020277">%null%</text>
+<text id="10020278">%null%</text>
+<text id="10020279">%null%</text>
+<text id="10020280">射击武器的应对方式</text>
+<text id="10020281">可以用刀弹开子弹或投掷武器</text>
+<text id="10020282">%null%</text>
+<text id="10020283">%null%</text>
+<text id="10020284">%null%</text>
+<text id="10020285">%null%</text>
+<text id="10020286">%null%</text>
+<text id="10020287">%null%</text>
+<text id="10020288">%null%</text>
+<text id="10020289">%null%</text>
+<text id="10020290">雷电奉还</text>
+<text id="10020291">在空中承受雷击，并于着地前按&lt;?kgiconKc@16?&gt;:雷电奉还</text>
+<text id="10020292">%null%</text>
+<text id="10020293">%null%</text>
+<text id="10020294">%null%</text>
+<text id="10020295">%null%</text>
+<text id="10020296">%null%</text>
+<text id="10020297">%null%</text>
+<text id="10020298">%null%</text>
+<text id="10020299">%null%</text>
+<text id="10020300">咳声</text>
+<text id="10020301">若罹患龙咳者增加
+持有的“咳声”越多
+冥助概率会越低</text>
+<text id="10020302">%null%</text>
+<text id="10020303">%null%</text>
+<text id="10020304">%null%</text>
+<text id="10020305">%null%</text>
+<text id="10020306">%null%</text>
+<text id="10020307">%null%</text>
+<text id="10020308">%null%</text>
+<text id="10020309">%null%</text>
+<text id="10020310">记忆中的事</text>
+<text id="10020311">由再战、连战返回原本的世界
+消耗的道具与纸人便会恢复原状
+
+若是在记忆中
+大可毫无保留地使用</text>
+<text id="10020840">%null%</text>
+<text id="10020841">%null%</text>
+<text id="10021000">&lt;?kgControlCamera?&gt;:移动视角</text>
+<text id="10021001">%null%</text>
+<text id="10021002">%null%</text>
+<text id="10021003">%null%</text>
+<text id="10021004">%null%</text>
+<text id="10021005">%null%</text>
+<text id="10021006">%null%</text>
+<text id="10021007">%null%</text>
+<text id="10021008">%null%</text>
+<text id="10021009">%null%</text>
+<text id="10021010">&lt;?kgiconKc@6?&gt;:跳跃</text>
+<text id="10021011">%null%</text>
+<text id="10021012">%null%</text>
+<text id="10021013">%null%</text>
+<text id="10021014">%null%</text>
+<text id="10021015">%null%</text>
+<text id="10021016">%null%</text>
+<text id="10021017">%null%</text>
+<text id="10021018">%null%</text>
+<text id="10021019">%null%</text>
+<text id="10021020">跳跃中在墙边按&lt;?kgiconKc@6?&gt;:蹬墙</text>
+<text id="10021021">%null%</text>
+<text id="10021022">%null%</text>
+<text id="10021023">%null%</text>
+<text id="10021024">%null%</text>
+<text id="10021025">%null%</text>
+<text id="10021026">%null%</text>
+<text id="10021027">%null%</text>
+<text id="10021028">%null%</text>
+<text id="10021029">%null%</text>
+<text id="10021030">&lt;?kgiconKc@20?&gt;:贴墙/离开</text>
+<text id="10021031">%null%</text>
+<text id="10021032">%null%</text>
+<text id="10021033">%null%</text>
+<text id="10021034">%null%</text>
+<text id="10021035">%null%</text>
+<text id="10021036">%null%</text>
+<text id="10021037">%null%</text>
+<text id="10021038">%null%</text>
+<text id="10021039">%null%</text>
+<text id="10021040">贴墙时推动&lt;?kgMove?&gt;:贴墙移动</text>
+<text id="10021041">%null%</text>
+<text id="10021042">%null%</text>
+<text id="10021043">%null%</text>
+<text id="10021044">%null%</text>
+<text id="10021045">%null%</text>
+<text id="10021046">%null%</text>
+<text id="10021047">%null%</text>
+<text id="10021048">%null%</text>
+<text id="10021049">%null%</text>
+<text id="10021050">&lt;?kgiconKc@7?&gt;:蹲下/站起</text>
+<text id="10021051">%null%</text>
+<text id="10021052">%null%</text>
+<text id="10021053">%null%</text>
+<text id="10021054">%null%</text>
+<text id="10021055">%null%</text>
+<text id="10021056">%null%</text>
+<text id="10021057">%null%</text>
+<text id="10021058">%null%</text>
+<text id="10021059">%null%</text>
+<text id="10021060">&lt;?kgiconKc@22?&gt;:窃听</text>
+<text id="10021061">%null%</text>
+<text id="10021062">%null%</text>
+<text id="10021063">%null%</text>
+<text id="10021064">%null%</text>
+<text id="10021065">%null%</text>
+<text id="10021066">%null%</text>
+<text id="10021067">%null%</text>
+<text id="10021068">%null%</text>
+<text id="10021069">%null%</text>
+<text id="10021070">在边缘附近按&lt;?kgiconKc@20?&gt;:悬垂</text>
+<text id="10021071">%null%</text>
+<text id="10021072">%null%</text>
+<text id="10021073">%null%</text>
+<text id="10021074">%null%</text>
+<text id="10021075">%null%</text>
+<text id="10021076">%null%</text>
+<text id="10021077">%null%</text>
+<text id="10021078">%null%</text>
+<text id="10021079">%null%</text>
+<text id="10021080">悬垂时推动&lt;?kgMove?&gt;:悬垂移动</text>
+<text id="10021081">%null%</text>
+<text id="10021082">%null%</text>
+<text id="10021083">%null%</text>
+<text id="10021084">%null%</text>
+<text id="10021085">%null%</text>
+<text id="10021086">%null%</text>
+<text id="10021087">%null%</text>
+<text id="10021088">%null%</text>
+<text id="10021089">%null%</text>
+<text id="10021090">&lt;?kgiconKc@20?&gt;:攀爬</text>
+<text id="10021091">%null%</text>
+<text id="10021092">%null%</text>
+<text id="10021093">%null%</text>
+<text id="10021094">%null%</text>
+<text id="10021095">%null%</text>
+<text id="10021096">%null%</text>
+<text id="10021097">%null%</text>
+<text id="10021098">%null%</text>
+<text id="10021099">%null%</text>
+<text id="10021100">&lt;?kgiconKc@5?&gt;:解除悬垂</text>
+<text id="10021101">%null%</text>
+<text id="10021102">%null%</text>
+<text id="10021103">%null%</text>
+<text id="10021104">%null%</text>
+<text id="10021105">%null%</text>
+<text id="10021106">%null%</text>
+<text id="10021107">%null%</text>
+<text id="10021108">%null%</text>
+<text id="10021109">%null%</text>
+<text id="10021110">&lt;?kgiconKc@27?&gt;:打开装备菜单</text>
+<text id="10021111">%null%</text>
+<text id="10021112">%null%</text>
+<text id="10021113">%null%</text>
+<text id="10021114">%null%</text>
+<text id="10021115">%null%</text>
+<text id="10021116">%null%</text>
+<text id="10021117">%null%</text>
+<text id="10021118">%null%</text>
+<text id="10021119">%null%</text>
+<text id="10021120">&lt;?kgiconKc@12?&gt;:固定/解除目标</text>
+<text id="10021121">%null%</text>
+<text id="10021122">%null%</text>
+<text id="10021123">%null%</text>
+<text id="10021124">%null%</text>
+<text id="10021125">%null%</text>
+<text id="10021126">%null%</text>
+<text id="10021127">%null%</text>
+<text id="10021128">%null%</text>
+<text id="10021129">%null%</text>
+<text id="10021130">&lt;?kgiconKc@16?&gt;:攻击</text>
+<text id="10021131">%null%</text>
+<text id="10021132">%null%</text>
+<text id="10021133">%null%</text>
+<text id="10021134">%null%</text>
+<text id="10021135">%null%</text>
+<text id="10021136">%null%</text>
+<text id="10021137">%null%</text>
+<text id="10021138">%null%</text>
+<text id="10021139">%null%</text>
+<text id="10021140">对失去平衡的敌人按&lt;?kgiconKc@16?&gt;:忍杀</text>
+<text id="10021141">%null%</text>
+<text id="10021142">%null%</text>
+<text id="10021143">%null%</text>
+<text id="10021144">%null%</text>
+<text id="10021145">%null%</text>
+<text id="10021146">%null%</text>
+<text id="10021147">%null%</text>
+<text id="10021148">%null%</text>
+<text id="10021149">%null%</text>
+<text id="10021150">配合敌人攻击按&lt;?kgiconKc@18?&gt;:弹开</text>
+<text id="10021151">%null%</text>
+<text id="10021152">%null%</text>
+<text id="10021153">%null%</text>
+<text id="10021154">%null%</text>
+<text id="10021155">%null%</text>
+<text id="10021156">%null%</text>
+<text id="10021157">%null%</text>
+<text id="10021158">%null%</text>
+<text id="10021159">%null%</text>
+<text id="10021160">固定目标时推动&lt;?kgControlCamera?&gt;:切换目标</text>
+<text id="10021161">%null%</text>
+<text id="10021162">%null%</text>
+<text id="10021163">%null%</text>
+<text id="10021164">%null%</text>
+<text id="10021165">%null%</text>
+<text id="10021166">%null%</text>
+<text id="10021167">%null%</text>
+<text id="10021168">%null%</text>
+<text id="10021169">%null%</text>
+<text id="10021170">&lt;?kgiconKc@5?&gt;:解除悬垂</text>
+<text id="10021171">%null%</text>
+<text id="10021172">%null%</text>
+<text id="10021173">%null%</text>
+<text id="10021174">%null%</text>
+<text id="10021175">%null%</text>
+<text id="10021176">%null%</text>
+<text id="10021177">%null%</text>
+<text id="10021178">%null%</text>
+<text id="10021179">%null%</text>
+<text id="10021180">&lt;?kgiconKc@19?&gt;:钩绳</text>
+<text id="10021181">%null%</text>
+<text id="10021182">%null%</text>
+<text id="10021183">%null%</text>
+<text id="10021184">%null%</text>
+<text id="10021185">%null%</text>
+<text id="10021186">%null%</text>
+<text id="10021187">%null%</text>
+<text id="10021188">%null%</text>
+<text id="10021189">%null%</text>
+<text id="10021190">%null%</text>
+<text id="10021191">%null%</text>
+<text id="10021192">%null%</text>
+<text id="10021193">%null%</text>
+<text id="10021194">%null%</text>
+<text id="10021195">%null%</text>
+<text id="10021196">%null%</text>
+<text id="10021197">%null%</text>
+<text id="10021198">%null%</text>
+<text id="10021199">%null%</text>
+<text id="10021200">&lt;?kgiconKc@17?&gt;:义手忍具</text>
+<text id="10021201">%null%</text>
+<text id="10021202">%null%</text>
+<text id="10021203">%null%</text>
+<text id="10021204">%null%</text>
+<text id="10021205">%null%</text>
+<text id="10021206">%null%</text>
+<text id="10021207">%null%</text>
+<text id="10021208">%null%</text>
+<text id="10021209">%null%</text>
+<text id="10021210">&lt;?kgiconKc@15?&gt;:切换义手忍具</text>
+<text id="10021211">%null%</text>
+<text id="10021212">%null%</text>
+<text id="10021213">%null%</text>
+<text id="10021214">%null%</text>
+<text id="10021215">%null%</text>
+<text id="10021216">%null%</text>
+<text id="10021217">%null%</text>
+<text id="10021218">%null%</text>
+<text id="10021219">%null%</text>
+<text id="10021220">&lt;?kgiconKc@21?&gt;:使用道具</text>
+<text id="10021221">%null%</text>
+<text id="10021222">%null%</text>
+<text id="10021223">%null%</text>
+<text id="10021224">%null%</text>
+<text id="10021225">%null%</text>
+<text id="10021226">%null%</text>
+<text id="10021227">%null%</text>
+<text id="10021228">%null%</text>
+<text id="10021229">%null%</text>
+<text id="10021230">背后忍杀敌人时按&lt;?kgiconKc@16?&gt;：忍杀忍术</text>
+<text id="10021231">%null%</text>
+<text id="10021232">%null%</text>
+<text id="10021233">%null%</text>
+<text id="10021234">%null%</text>
+<text id="10021235">%null%</text>
+<text id="10021236">%null%</text>
+<text id="10021237">%null%</text>
+<text id="10021238">%null%</text>
+<text id="10021239">%null%</text>
+<text id="10021240">&lt;?kgiconKc@20?&gt;长按:获取遗物</text>
+<text id="10021241">%null%</text>
+<text id="10021242">%null%</text>
+<text id="10021243">%null%</text>
+<text id="10021244">%null%</text>
+<text id="10021245">%null%</text>
+<text id="10021246">%null%</text>
+<text id="10021247">%null%</text>
+<text id="10021248">%null%</text>
+<text id="10021249">%null%</text>
+<text id="10021250">&lt;?kgiconKc@6?&gt;→&lt;?kgiconKc@19?&gt;:空中钩绳</text>
+<text id="10021251">%null%</text>
+<text id="10021252">%null%</text>
+<text id="10021253">%null%</text>
+<text id="10021254">%null%</text>
+<text id="10021255">%null%</text>
+<text id="10021256">%null%</text>
+<text id="10021257">%null%</text>
+<text id="10021258">%null%</text>
+<text id="10021259">%null%</text>
+<text id="10021260">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:流派招式</text>
+<text id="10021261">%null%</text>
+<text id="10021262">%null%</text>
+<text id="10021263">%null%</text>
+<text id="10021264">%null%</text>
+<text id="10021265">%null%</text>
+<text id="10021266">%null%</text>
+<text id="10021267">%null%</text>
+<text id="10021268">%null%</text>
+<text id="10021269">%null%</text>
+<text id="10021270">&lt;?kgiconKc@5?&gt;:垫步</text>
+<text id="10021271">%null%</text>
+<text id="10021272">%null%</text>
+<text id="10021273">%null%</text>
+<text id="10021274">%null%</text>
+<text id="10021275">%null%</text>
+<text id="10021276">%null%</text>
+<text id="10021277">%null%</text>
+<text id="10021278">%null%</text>
+<text id="10021279">%null%</text>
+<text id="10021280">贴墙时推动&lt;?kgMove?&gt;移动至边缘:窥视</text>
+<text id="10021500">在鬼佛前按&lt;?kgiconKc@20?&gt;:与鬼佛对坐</text>
+<text id="10021501">%null%</text>
+<text id="10021502">%null%</text>
+<text id="10021503">%null%</text>
+<text id="10021504">%null%</text>
+<text id="10021505">%null%</text>
+<text id="10021506">%null%</text>
+<text id="10021507">%null%</text>
+<text id="10021508">%null%</text>
+<text id="10021509">%null%</text>
+<text id="10021510">配合射击武器按&lt;?kgiconKc@18?&gt;:弹开</text>
+<text id="10021511">%null%</text>
+<text id="10021512">%null%</text>
+<text id="10021513">%null%</text>
+<text id="10021514">%null%</text>
+<text id="10021515">%null%</text>
+<text id="10021516">%null%</text>
+<text id="10021517">%null%</text>
+<text id="10021518">%null%</text>
+<text id="10021519">%null%</text>
+<text id="10021520">忍杀后出现红色印记时按&lt;?kgiconKc@16?&gt;:致命忍杀</text>
+<text id="10021521">%null%</text>
+<text id="10021522">%null%</text>
+<text id="10021523">%null%</text>
+<text id="10021524">%null%</text>
+<text id="10021525">%null%</text>
+<text id="10021526">%null%</text>
+<text id="10021527">%null%</text>
+<text id="10021528">%null%</text>
+<text id="10021529">%null%</text>
+<text id="10021530">失去平衡或倒地时按&lt;?kgiconKc@6?&gt;/&lt;?kgiconKc@5?&gt;:翻滚闪避</text>
+<text id="10021531">%null%</text>
+<text id="10021532">%null%</text>
+<text id="10021533">%null%</text>
+<text id="10021534">%null%</text>
+<text id="10021535">%null%</text>
+<text id="10021536">%null%</text>
+<text id="10021537">%null%</text>
+<text id="10021538">%null%</text>
+<text id="10021539">%null%</text>
+<text id="10021540">弹开后按&lt;?kgiconKc@16?&gt;:反斩</text>
+<text id="10021541">%null%</text>
+<text id="10021542">%null%</text>
+<text id="10021543">%null%</text>
+<text id="10021544">%null%</text>
+<text id="10021545">%null%</text>
+<text id="10021546">%null%</text>
+<text id="10021547">%null%</text>
+<text id="10021548">%null%</text>
+<text id="10021549">%null%</text>
+<text id="10021550">长按&lt;?kgiconKc@16?&gt;:突刺</text>
+<text id="10021551">%null%</text>
+<text id="10021552">%null%</text>
+<text id="10021553">%null%</text>
+<text id="10021554">%null%</text>
+<text id="10021555">%null%</text>
+<text id="10021556">%null%</text>
+<text id="10021557">%null%</text>
+<text id="10021558">%null%</text>
+<text id="10021559">%null%</text>
+<text id="10021560">长按&lt;?kgiconKc@5?&gt;＋&lt;?kgMove?&gt;:冲刺</text>
+<text id="10021800">%null%</text>
+<text id="10021801">%null%</text>
+<text id="10021802">%null%</text>
+<text id="10021803">%null%</text>
+<text id="10021804">%null%</text>
+<text id="10021805">%null%</text>
+<text id="10021806">%null%</text>
+<text id="10021807">%null%</text>
+<text id="10021808">%null%</text>
+<text id="10021809">%null%</text>
+<text id="10021810">%null%</text>
+<text id="10021811">%null%</text>
+<text id="10021812">%null%</text>
+<text id="10021813">%null%</text>
+<text id="10021814">%null%</text>
+<text id="10021815">%null%</text>
+<text id="10021816">%null%</text>
+<text id="10021817">%null%</text>
+<text id="10021818">%null%</text>
+<text id="10021819">%null%</text>
+<text id="10021820">%null%</text>
+<text id="10022000">躯干</text>
+<text id="10022001">躯干量表归零时，玩家或敌人均会失去平衡
+可通过攻击或弹开，减少敌人的躯干量表</text>
+<text id="10022002">%null%</text>
+<text id="10022003">%null%</text>
+<text id="10022004">%null%</text>
+<text id="10022005">%null%</text>
+<text id="10022006">%null%</text>
+<text id="10022007">%null%</text>
+<text id="10022008">%null%</text>
+<text id="10022009">%null%</text>
+<text id="10022010">%null%</text>
+<text id="10022011">%null%</text>
+<text id="10022012">%null%</text>
+<text id="10022013">%null%</text>
+<text id="10022014">%null%</text>
+<text id="10022015">%null%</text>
+<text id="10022016">%null%</text>
+<text id="10022017">%null%</text>
+<text id="10022018">%null%</text>
+<text id="10022019">%null%</text>
+<text id="10022020">%null%</text>
+<text id="10022021">%null%</text>
+<text id="10022022">%null%</text>
+<text id="10022023">%null%</text>
+<text id="10022024">%null%</text>
+<text id="10022025">%null%</text>
+<text id="10022026">%null%</text>
+<text id="10022027">%null%</text>
+<text id="10022028">%null%</text>
+<text id="10022029">%null%</text>
+<text id="10022030">%null%</text>
+<text id="10022031">%null%</text>
+<text id="10022032">%null%</text>
+<text id="10022033">%null%</text>
+<text id="10022034">%null%</text>
+<text id="10022035">%null%</text>
+<text id="10022036">%null%</text>
+<text id="10022037">%null%</text>
+<text id="10022038">%null%</text>
+<text id="10022039">%null%</text>
+<text id="10022040">%null%</text>
+<text id="10022041">%null%</text>
+<text id="10022042">%null%</text>
+<text id="10022043">%null%</text>
+<text id="10022044">%null%</text>
+<text id="10022045">%null%</text>
+<text id="10022046">%null%</text>
+<text id="10022047">%null%</text>
+<text id="10022048">%null%</text>
+<text id="10022049">%null%</text>
+<text id="10022050">%null%</text>
+<text id="10022051">%null%</text>
+<text id="10022052">%null%</text>
+<text id="10022053">%null%</text>
+<text id="10022054">%null%</text>
+<text id="10022055">%null%</text>
+<text id="10022056">%null%</text>
+<text id="10022057">%null%</text>
+<text id="10022058">%null%</text>
+<text id="10022059">%null%</text>
+<text id="10022060">落下忍杀</text>
+<text id="10022061">&lt;?kgiconKc@6?&gt;:跳跃
+敌人头上出现红色印记时按&lt;?kgiconKc@16?&gt;:落下忍杀</text>
+<text id="10023000">剑戟</text>
+<text id="10023001">&lt;?kgiconKc@16?&gt;:攻击
+配合敌人的攻击按&lt;?kgiconKc@18?&gt;:弹开</text>
+<text id="10023002">%null%</text>
+<text id="10023003">%null%</text>
+<text id="10023004">%null%</text>
+<text id="10023005">%null%</text>
+<text id="10023006">%null%</text>
+<text id="10023007">%null%</text>
+<text id="10023008">%null%</text>
+<text id="10023009">%null%</text>
+<text id="10023010">%null%</text>
+<text id="10023011">%null%</text>
+<text id="10023012">%null%</text>
+<text id="10023013">%null%</text>
+<text id="10023014">%null%</text>
+<text id="10023015">%null%</text>
+<text id="10023016">%null%</text>
+<text id="10023017">%null%</text>
+<text id="10023018">%null%</text>
+<text id="10023019">%null%</text>
+<text id="10023020">&lt;?kgiconKc@21?&gt;:使用道具</text>
+<text id="10023021">%null%</text>
+<text id="10023022">%null%</text>
+<text id="10023023">%null%</text>
+<text id="10023024">%null%</text>
+<text id="10023025">%null%</text>
+<text id="10023026">%null%</text>
+<text id="10023027">%null%</text>
+<text id="10023028">%null%</text>
+<text id="10023029">%null%</text>
+<text id="10023030">纸人</text>
+<text id="10023031">消耗纸人以使用义手忍具</text>
+<text id="10023032">%null%</text>
+<text id="10023033">%null%</text>
+<text id="10023034">%null%</text>
+<text id="10023035">%null%</text>
+<text id="10023036">%null%</text>
+<text id="10023037">%null%</text>
+<text id="10023038">%null%</text>
+<text id="10023039">%null%</text>
+<text id="10023040">鬼佛</text>
+<text id="10023041">拜谒鬼佛即可休息
+重新挑战时，将从最后拜谒的鬼佛处开始</text>
+<text id="10023042">%null%</text>
+<text id="10023043">%null%</text>
+<text id="10023044">%null%</text>
+<text id="10023045">%null%</text>
+<text id="10023046">%null%</text>
+<text id="10023047">%null%</text>
+<text id="10023048">%null%</text>
+<text id="10023049">%null%</text>
+<text id="10023050">&lt;?kgiconKc@5?&gt;:垫步</text>
+<text id="10023051">%null%</text>
+<text id="10023052">%null%</text>
+<text id="10023053">%null%</text>
+<text id="10023054">%null%</text>
+<text id="10023055">%null%</text>
+<text id="10023056">%null%</text>
+<text id="10023057">%null%</text>
+<text id="10023058">%null%</text>
+<text id="10023059">%null%</text>
+<text id="10023060">道具</text>
+<text id="10023061">&lt;?kgiconKc@21?&gt;:使用道具
+&lt;?kgToggleItems?&gt;:切换道具</text>
+<text id="10023062">%null%</text>
+<text id="10023063">%null%</text>
+<text id="10023064">%null%</text>
+<text id="10023065">%null%</text>
+<text id="10023066">%null%</text>
+<text id="10023067">%null%</text>
+<text id="10023068">%null%</text>
+<text id="10023069">%null%</text>
+<text id="10023070">躯干恢复速度</text>
+<text id="10023071">躯干量表会随时间经过而恢复
+但生命力越低，恢复会越慢</text>
+<text id="10023090">危险攻击</text>
+<text id="10023091">有些攻击无法防御
+此种攻击必定非常危险
+
+但越是危险之人越会放出强烈的杀气
+若出现“危”字
+看清其攻击，见招拆招即可
+
+配合突刺攻击按&lt;?kgiconKc@18?&gt;:弹开
+配合下段攻击按&lt;?kgiconKc@6?&gt;:跳跃
+配合擒拿攻击按&lt;?kgiconKc@5?&gt;:垫步</text>
+<text id="10023092">%null%</text>
+<text id="10023093">%null%</text>
+<text id="10023094">%null%</text>
+<text id="10023095">%null%</text>
+<text id="10023096">%null%</text>
+<text id="10023097">%null%</text>
+<text id="10023098">%null%</text>
+<text id="10023099">%null%</text>
+<text id="10023100">%null%</text>
+<text id="10023101">%null%</text>
+<text id="10023102">%null%</text>
+<text id="10023103">%null%</text>
+<text id="10023104">%null%</text>
+<text id="10023105">%null%</text>
+<text id="10023106">%null%</text>
+<text id="10023107">%null%</text>
+<text id="10023108">%null%</text>
+<text id="10023109">%null%</text>
+<text id="10023110">落下忍杀</text>
+<text id="10023111">对未发现我方的敌人
+跳上其头顶
+可发动忍杀
+
+&lt;?kgiconKc@12?&gt;:固定目标
+&lt;?kgiconKc@6?&gt;:跳跃
+敌人头上
+出现红色印记时按&lt;?kgiconKc@16?&gt;:落下忍杀</text>
+<text id="10023112">%null%</text>
+<text id="10023113">%null%</text>
+<text id="10023114">%null%</text>
+<text id="10023115">%null%</text>
+<text id="10023116">%null%</text>
+<text id="10023117">%null%</text>
+<text id="10023118">%null%</text>
+<text id="10023119">%null%</text>
+<text id="10023120">剑戟</text>
+<text id="10023121">剑戟是“针对躯干的攻击”
+
+通过攻击或弹开
+对敌人的躯干造成伤害
+可使敌人失去平衡，并进行忍杀
+
+&lt;?kgiconKc@16?&gt;:攻击
+配合敌人的攻击按&lt;?kgiconKc@18?&gt;:弹开
+对失去平衡的敌人按&lt;?kgiconKc@16?&gt;:忍杀</text>
+<text id="10023122">%null%</text>
+<text id="10023123">%null%</text>
+<text id="10023124">%null%</text>
+<text id="10023125">%null%</text>
+<text id="10023126">%null%</text>
+<text id="10023127">%null%</text>
+<text id="10023128">%null%</text>
+<text id="10023129">%null%</text>
+<text id="10023130">义手忍具</text>
+<text id="10023131">可装入忍义手的秘密道具
+
+义手忍具种类繁多
+根据情况，效果也会有所不同
+
+&lt;?kgiconKc@17?&gt;:使用义手忍具
+&lt;?kgiconKc@15?&gt;:切换义手忍具</text>
+<text id="10023150">使用道具</text>
+<text id="10023151">道具有各式各样的种类
+可根据情况切换使用
+
+例如受到敌人攻击时
+可以用“伤药葫芦”恢复生命力
+
+&lt;?kgiconKc@21?&gt;:使用道具
+&lt;?kgToggleItems?&gt;:切换道具</text>
+<text id="10023152">%null%</text>
+<text id="10023153">%null%</text>
+<text id="10023154">%null%</text>
+<text id="10023155">%null%</text>
+<text id="10023156">%null%</text>
+<text id="10023157">%null%</text>
+<text id="10023158">%null%</text>
+<text id="10023159">%null%</text>
+<text id="10023160">翻滚闪避</text>
+<text id="10023161">当身体失去平衡时
+可通过翻滚闪避减小破绽
+
+被敌人攻击而失去平衡或倒地时
+按&lt;?kgiconKc@6?&gt;或&lt;?kgiconKc@5?&gt;:翻滚闪避</text>
+<text id="10023162">%null%</text>
+<text id="10023163">%null%</text>
+<text id="10023164">%null%</text>
+<text id="10023165">%null%</text>
+<text id="10023166">%null%</text>
+<text id="10023167">%null%</text>
+<text id="10023168">%null%</text>
+<text id="10023169">%null%</text>
+<text id="10023170">&lt;?kgToggleItems?&gt;:切换道具</text>
+<text id="10024500">隐密行动</text>
+<text id="10024501">下蹲隐藏于草木中，或在地板下移动
+可以不被敌人发现地前进
+
+现在身上没有刀
+悄悄地避开敌人，向观月望楼前进比较好
+
+快要被敌人发现时
+敌人头上会显示警戒标记</text>
+<text id="10024502">%null%</text>
+<text id="10024503">%null%</text>
+<text id="10024504">%null%</text>
+<text id="10024505">%null%</text>
+<text id="10024506">%null%</text>
+<text id="10024507">%null%</text>
+<text id="10024508">%null%</text>
+<text id="10024509">%null%</text>
+<text id="10024510">使用道具</text>
+<text id="10024511">道具有各式各样的种类
+可根据情况切换使用
+
+例如受到敌人攻击时
+可以用“伤药葫芦”恢复生命力
+
+&lt;?kgiconKc@21?&gt;:使用道具
+&lt;?kgToggleItems?&gt;:切换道具</text>
+<text id="10024512">%null%</text>
+<text id="10024513">%null%</text>
+<text id="10024514">%null%</text>
+<text id="10024515">%null%</text>
+<text id="10024516">%null%</text>
+<text id="10024517">%null%</text>
+<text id="10024518">%null%</text>
+<text id="10024519">%null%</text>
+<text id="10024520">反斩</text>
+<text id="10024521">弹开敌人攻击后立即进行“反斩”
+
+这样可以不给敌人喘息的时间
+并对其躯干造成伤害
+
+配合敌人的攻击按&lt;?kgiconKc@18?&gt;:弹开
+弹开后按&lt;?kgiconKc@16?&gt;:反斩</text>
+<text id="10024522">%null%</text>
+<text id="10024523">%null%</text>
+<text id="10024524">%null%</text>
+<text id="10024525">%null%</text>
+<text id="10024526">%null%</text>
+<text id="10024527">%null%</text>
+<text id="10024528">%null%</text>
+<text id="10024529">%null%</text>
+<text id="10024530">对强者的忍杀</text>
+<text id="10024531">也存在一次忍杀无法解决的强者
+
+若一次无法死去
+多杀几次，直到能杀死为止
+
+若要彻底杀死ＨＰ量表上方
+显示有忍杀标记的敌人
+标记有几个，便需进行几次忍杀</text>
+<text id="10024532">%null%</text>
+<text id="10024533">%null%</text>
+<text id="10024534">%null%</text>
+<text id="10024535">%null%</text>
+<text id="10024536">%null%</text>
+<text id="10024537">%null%</text>
+<text id="10024538">%null%</text>
+<text id="10024539">%null%</text>
+<text id="10024540">钩绳</text>
+<text id="10024541">用藏于忍义手的钩绳
+可移动至无路可循，常人无法到达的地方
+
+若从高处眺望战场
+可以计划如何挑战敌人
+
+可以挂住钩子的地方将会显示标记
+标记变成绿色时便可甩出钩绳
+
+&lt;?kgiconKc@19?&gt;:钩绳</text>
+<text id="10024542">%null%</text>
+<text id="10024543">%null%</text>
+<text id="10024544">%null%</text>
+<text id="10024545">%null%</text>
+<text id="10024546">%null%</text>
+<text id="10024547">%null%</text>
+<text id="10024548">%null%</text>
+<text id="10024549">%null%</text>
+<text id="10024550">隐密忍杀</text>
+<text id="10024551">对没有发现我方的敌人
+可以突袭施展“隐密忍杀”
+
+从敌人头顶跳下发动的称作落下忍杀
+是隐密忍杀的一种
+
+&lt;?kgiconKc@12?&gt;:固定目标
+&lt;?kgiconKc@6?&gt;:跳跃
+敌人头上
+出现红色印记时按&lt;?kgiconKc@16?&gt;:落下忍杀</text>
+<text id="10024552">%null%</text>
+<text id="10024553">%null%</text>
+<text id="10024554">%null%</text>
+<text id="10024555">%null%</text>
+<text id="10024556">%null%</text>
+<text id="10024557">%null%</text>
+<text id="10024558">%null%</text>
+<text id="10024559">%null%</text>
+<text id="10024560">安装义手忍具</text>
+<text id="10024561">忍具无法直接使用
+交给佛雕师
+便可以装入忍义手
+
+使用鬼佛的佛渡或归佛
+可快速返回佛雕师所在处</text>
+<text id="10024562">%null%</text>
+<text id="10024563">%null%</text>
+<text id="10024564">%null%</text>
+<text id="10024565">%null%</text>
+<text id="10024566">%null%</text>
+<text id="10024567">%null%</text>
+<text id="10024568">%null%</text>
+<text id="10024569">%null%</text>
+<text id="10024570">义手忍具</text>
+<text id="10024571">装入忍义手的忍具
+
+在装备菜单进行装备
+消耗纸人便可以使用
+
+&lt;?kgiconKc@27?&gt;:打开装备菜单
+&lt;?kgiconKc@17?&gt;:使用义手忍具
+&lt;?kgiconKc@15?&gt;:切换义手忍具</text>
+<text id="10024572">%null%</text>
+<text id="10024573">%null%</text>
+<text id="10024574">%null%</text>
+<text id="10024575">%null%</text>
+<text id="10024576">%null%</text>
+<text id="10024577">%null%</text>
+<text id="10024578">%null%</text>
+<text id="10024579">%null%</text>
+<text id="10024580">危险攻击</text>
+<text id="10024581">有些攻击无法防御
+
+此类危险攻击会释放强烈的杀气
+若出现“危”字
+看清其攻击，见招拆招即可
+
+配合突刺攻击按&lt;?kgiconKc@18?&gt;:弹开
+配合下段攻击按&lt;?kgiconKc@6?&gt;:跳跃
+应对擒拿攻击时，或拉开距离避免被擒
+或按&lt;?kgiconKc@5?&gt;:以垫步闪避</text>
+<text id="10024582">%null%</text>
+<text id="10024583">%null%</text>
+<text id="10024584">%null%</text>
+<text id="10024585">%null%</text>
+<text id="10024586">%null%</text>
+<text id="10024587">%null%</text>
+<text id="10024588">%null%</text>
+<text id="10024589">%null%</text>
+<text id="10024590">制作强化义手忍具</text>
+<text id="10024591">将机关筒交给佛雕师
+便可制作强化义手忍具
+
+使用鬼佛的佛渡或归佛
+可快速返回佛雕师所在处</text>
+<text id="10024592">%null%</text>
+<text id="10024593">%null%</text>
+<text id="10024594">%null%</text>
+<text id="10024595">%null%</text>
+<text id="10024596">%null%</text>
+<text id="10024597">%null%</text>
+<text id="10024598">%null%</text>
+<text id="10024599">%null%</text>
+<text id="10024600">龙胤的淤淀</text>
+<text id="10024601">在无起死回生之力时死亡
+会积存“龙胤的淤淀”
+
+若在淤淀积满的状态下死亡
+淤淀有可能会满溢
+而每一次死亡，都会使其概率上升
+
+一旦淤淀满溢
+与狼相识的某人便会患上名为“龙咳”的疾病
+且将有一个起死回生之力无法使用</text>
+<text id="10024602">%null%</text>
+<text id="10024603">%null%</text>
+<text id="10024604">%null%</text>
+<text id="10024605">%null%</text>
+<text id="10024606">%null%</text>
+<text id="10024607">%null%</text>
+<text id="10024608">%null%</text>
+<text id="10024609">%null%</text>
+<text id="10024610">治疗龙咳</text>
+<text id="10024611">罹患龙咳的人
+放任不管的话会死去
+
+不过，给予其永真制作的龙咳药便可治愈
+
+消耗一个起死回生之力
+便可以制作龙咳药</text>
+<text id="10024612">%null%</text>
+<text id="10024613">%null%</text>
+<text id="10024614">%null%</text>
+<text id="10024615">%null%</text>
+<text id="10024616">%null%</text>
+<text id="10024617">%null%</text>
+<text id="10024618">%null%</text>
+<text id="10024619">%null%</text>
+<text id="10024620">雷电奉还</text>
+<text id="10024621">雷电会流遍脚踩地面之人的全身
+令人瞬间动弹不得
+
+腾空的瞬间，用刀身承受雷击
+还击回去的秘技称作雷电奉还
+
+在空中承受雷击，并于着地前按&lt;?kgiconKc@16?&gt;:雷电奉还</text>
+<text id="10024622">%null%</text>
+<text id="10024623">%null%</text>
+<text id="10024624">%null%</text>
+<text id="10024625">%null%</text>
+<text id="10024626">%null%</text>
+<text id="10024627">%null%</text>
+<text id="10024628">%null%</text>
+<text id="10024629">%null%</text>
+<text id="10024630">技能</text>
+<text id="10024631">拥有“秘籍”
+即可于鬼佛处习得
+该秘籍的流派技能
+
+通过积累每次打倒敌人时
+所获得的技能经验值
+可得到习得所需的技能点数
+
+此外，也可以通过“技法书”或
+打倒敌人习得技能</text>
+<text id="10024632">%null%</text>
+<text id="10024633">%null%</text>
+<text id="10024634">%null%</text>
+<text id="10024635">%null%</text>
+<text id="10024636">%null%</text>
+<text id="10024637">%null%</text>
+<text id="10024638">%null%</text>
+<text id="10024639">%null%</text>
+<text id="10024640">流派招式</text>
+<text id="10024641">对应流派特征的
+特殊攻击称作“流派招式”
+
+在技能菜单或秘籍中习得的流派招式
+从装备菜单中选择，并装备便可以使用
+
+按住&lt;?kgiconKc@18?&gt;并按&lt;?kgiconKc@16?&gt;:流派招式</text>
+<text id="10024642">%null%</text>
+<text id="10024643">%null%</text>
+<text id="10024644">%null%</text>
+<text id="10024645">%null%</text>
+<text id="10024646">%null%</text>
+<text id="10024647">%null%</text>
+<text id="10024648">%null%</text>
+<text id="10024649">%null%</text>
+<text id="10024650">派生攻击</text>
+<text id="10024651">使用义手忍具后
+可派生发动的剑术
+
+&lt;?kgiconKc@17?&gt;:义手忍具
+使用义手忍具后按&lt;?kgiconKc@16?&gt;:派生攻击
+
+可以在装备菜单中确认
+每个派生攻击的操作方法</text>
+<text id="10024652">%null%</text>
+<text id="10024653">%null%</text>
+<text id="10024654">%null%</text>
+<text id="10024655">%null%</text>
+<text id="10024656">%null%</text>
+<text id="10024657">%null%</text>
+<text id="10024658">%null%</text>
+<text id="10024659">%null%</text>
+<text id="10024660">忍杀忍术</text>
+<text id="10024661">从背后忍杀敌人时
+可使用被称为
+“忍杀忍术”的特殊方法
+
+可从装备菜单装备任意一项
+消耗纸人即可发动
+
+从背后忍杀敌人时按&lt;?kgiconKc@16?&gt;：忍杀忍术</text>
+<text id="10024662">%null%</text>
+<text id="10024663">%null%</text>
+<text id="10024664">%null%</text>
+<text id="10024665">%null%</text>
+<text id="10024666">%null%</text>
+<text id="10024667">%null%</text>
+<text id="10024668">%null%</text>
+<text id="10024669">%null%</text>
+<text id="10024670">获取遗物</text>
+<text id="10024671">遗物指已杀敌人掉落的道具或金钱
+可一并获取
+
+原本就放置有的道具不是遗物
+直接靠近拾起即可
+
+&lt;?kgiconKc@20?&gt;长按:获取遗物
+靠近放置着的道具按&lt;?kgiconKc@20?&gt;:拾起道具</text>
+<text id="10024672">%null%</text>
+<text id="10024673">%null%</text>
+<text id="10024674">%null%</text>
+<text id="10024675">%null%</text>
+<text id="10024676">%null%</text>
+<text id="10024677">%null%</text>
+<text id="10024678">%null%</text>
+<text id="10024679">%null%</text>
+<text id="10024680">起死回生</text>
+<text id="10024681">龙胤神子的力量
+消耗起死回生之力，可以使自己复苏
+
+起死回生之力
+基础的一个可在鬼佛处休息补充
+其余的可通过打倒敌人收集获得
+
+起死回生不能连续使用
+通过击倒或忍杀敌人，可以再次发动</text>
+<text id="10024682">%null%</text>
+<text id="10024683">%null%</text>
+<text id="10024684">%null%</text>
+<text id="10024685">%null%</text>
+<text id="10024686">%null%</text>
+<text id="10024687">%null%</text>
+<text id="10024688">%null%</text>
+<text id="10024689">%null%</text>
+<text id="10024690">水中行动</text>
+<text id="10024691">有水生呼吸术便可以持续呼吸
+可以自由呼吸，便能下潜了
+
+&lt;?kgiconKc@17?&gt;:下潜
+&lt;?kgiconKc@19?&gt;:上浮
+一边推动&lt;?kgMove?&gt;移动一边按&lt;?kgiconKc@5?&gt;:水中加速</text>
+<text id="10024692">%null%</text>
+<text id="10024693">%null%</text>
+<text id="10024694">%null%</text>
+<text id="10024695">%null%</text>
+<text id="10024696">%null%</text>
+<text id="10024697">%null%</text>
+<text id="10024698">%null%</text>
+<text id="10024699">%null%</text>
+<text id="10024700">异常状态</text>
+<text id="10024701">身心失常的状态称为异常状态
+根据种类将产生不同的负面效果
+战斗上陷入不利境地
+
+一部分攻击会使耐性量表蓄积
+当量表蓄满便会引发异常状态
+
+也有道具可以抑制已蓄积的耐性量表
+解除异常状态</text>
+<text id="10024702">%null%</text>
+<text id="10024703">%null%</text>
+<text id="10024704">%null%</text>
+<text id="10024705">%null%</text>
+<text id="10024706">%null%</text>
+<text id="10024707">%null%</text>
+<text id="10024708">%null%</text>
+<text id="10024709">%null%</text>
+<text id="10024710">翻滚闪避</text>
+<text id="10024711">姿势失去平衡时
+若就此倒下的话必死无疑
+
+翻滚着站起，可以减小破绽
+
+被敌人攻击而失去平衡或倒地时按
+&lt;?kgiconKc@6?&gt;或&lt;?kgiconKc@5?&gt;:翻滚闪避</text>
+<text id="10024712">%null%</text>
+<text id="10024713">%null%</text>
+<text id="10024714">%null%</text>
+<text id="10024715">%null%</text>
+<text id="10024716">%null%</text>
+<text id="10024717">%null%</text>
+<text id="10024718">%null%</text>
+<text id="10024719">%null%</text>
+<text id="10024720">纸人</text>
+<text id="10024721">纸人是发动义手忍具等动作的必需品
+每次使用都会被消耗
+
+纸人除了可以通过打倒敌人获取
+有时也会飘浮于附近，靠近即可获取
+
+此外，也可于鬼佛处购入</text>
+<text id="10024740">功德箱</text>
+<text id="10024741">时光流逝，流离失所之物会流落而至的功德箱
+
+箱子发光时
+便是有道具流落至此了
+
+调查功德箱并捐献金钱
+可以获得道具</text>
+<text id="10024742">%null%</text>
+<text id="10024743">%null%</text>
+<text id="10024744">%null%</text>
+<text id="10024745">%null%</text>
+<text id="10024746">%null%</text>
+<text id="10024747">%null%</text>
+<text id="10024748">%null%</text>
+<text id="10024749">%null%</text>
+<text id="10024750">躯干与忍杀</text>
+<text id="10024751">忍者的攻击在于削减对方“躯干”
+持续攻击，敌人终将姿势失衡
+
+一旦敌人姿势失衡，便可用“忍杀”一击毙命
+
+&lt;?kgiconKc@16?&gt;:攻击
+对失去平衡的敌人按&lt;?kgiconKc@16?&gt;:忍杀</text>
+<text id="10024752">%null%</text>
+<text id="10024753">%null%</text>
+<text id="10024754">%null%</text>
+<text id="10024755">%null%</text>
+<text id="10024756">%null%</text>
+<text id="10024757">%null%</text>
+<text id="10024758">%null%</text>
+<text id="10024759">%null%</text>
+<text id="10024760">弹开</text>
+<text id="10024761">有些对手只凭挥砍无法使其失衡
+
+弹开敌人的攻击
+可以趁势削减其躯干
+优秀忍者的防御
+同时也兼具攻击
+
+配合敌人的攻击按&lt;?kgiconKc@18?&gt;:弹开</text>
+<text id="10024762">%null%</text>
+<text id="10024763">%null%</text>
+<text id="10024764">%null%</text>
+<text id="10024765">%null%</text>
+<text id="10024766">%null%</text>
+<text id="10024767">%null%</text>
+<text id="10024768">%null%</text>
+<text id="10024769">%null%</text>
+<text id="10024770">固定目标</text>
+<text id="10024771">固定目标
+使敌人持续位于自己正面
+更容易进行攻击或弹开等剑戟动作
+
+&lt;?kgiconKc@12?&gt;:固定/解除目标
+固定目标时推动&lt;?kgControlCamera?&gt;:切换目标</text>
+<text id="10024772">%null%</text>
+<text id="10024773">%null%</text>
+<text id="10024774">%null%</text>
+<text id="10024775">%null%</text>
+<text id="10024776">%null%</text>
+<text id="10024777">%null%</text>
+<text id="10024778">%null%</text>
+<text id="10024779">%null%</text>
+<text id="10024780">打雷</text>
+<text id="10024781">若在脚踩地面的状态遭受雷击
+雷电会流遍全身使ＨＰ受到大伤害
+并且身体将暂时无法自由活动
+
+腾空的瞬间，用刀身承受雷击再还击回去的秘技
+称作雷电奉还
+
+在空中承受雷击，并于着地前按&lt;?kgiconKc@16?&gt;:雷电奉还</text>
+<text id="10024782">%null%</text>
+<text id="10024783">%null%</text>
+<text id="10024784">%null%</text>
+<text id="10024785">%null%</text>
+<text id="10024786">%null%</text>
+<text id="10024787">%null%</text>
+<text id="10024788">%null%</text>
+<text id="10024789">%null%</text>
+<text id="10024790">擒拿攻击</text>
+<text id="10024791">擒拿攻击无法弹开
+一旦被擒，将无计可施遭受重创
+
+但在即将被擒之前，若以跳跃或冲刺拉开距离
+能避免被抓
+此外，也可以用垫步瞬间闪避
+
+&lt;?kgiconKc@6?&gt;＋&lt;?kgMove?&gt;:向推动方向跳跃
+长按&lt;?kgiconKc@5?&gt;＋&lt;?kgMove?&gt;:冲刺
+&lt;?kgiconKc@5?&gt;:垫步</text>
+<text id="10024792">%null%</text>
+<text id="10024793">%null%</text>
+<text id="10024794">%null%</text>
+<text id="10024795">%null%</text>
+<text id="10024796">%null%</text>
+<text id="10024797">%null%</text>
+<text id="10024798">%null%</text>
+<text id="10024799">%null%</text>
+<text id="10024800">死亡丧失</text>
+<text id="10024801">若死亡将会失去一半的金钱和技能经验值
+且无法挽回
+
+死亡必会带来损失
+若有神佛相助，或许……</text>
+<text id="10024802">%null%</text>
+<text id="10024803">%null%</text>
+<text id="10024804">%null%</text>
+<text id="10024805">%null%</text>
+<text id="10024806">%null%</text>
+<text id="10024807">%null%</text>
+<text id="10024808">%null%</text>
+<text id="10024809">%null%</text>
+<text id="10024810">冥助</text>
+<text id="10024811">“死亡丧失”会失去
+一半的金钱和技能经验值
+但偶尔可以避免该现象
+
+那便是被称为“冥助”的神佛相助
+
+可于暂停菜单确认冥助的发生概率
+
+&lt;?kgiconKc@27?&gt;:打开暂停菜单</text>
+<text id="10024812">%null%</text>
+<text id="10024813">%null%</text>
+<text id="10024814">%null%</text>
+<text id="10024815">%null%</text>
+<text id="10024816">%null%</text>
+<text id="10024817">%null%</text>
+<text id="10024818">%null%</text>
+<text id="10024819">%null%</text>
+<text id="10024820">龙咳</text>
+<text id="10024821">龙胤之力的持有者若多次死亡
+名为“龙咳”的疾病便会散播于世间
+无论是否使用起死回生
+龙咳皆因狼的不断死亡而产生
+
+从某处传来的咳嗽声
+代表与狼相关之人罹患了龙咳
+
+持有的“咳声”越多，冥助概率越低</text>
+<text id="10024822">%null%</text>
+<text id="10024823">%null%</text>
+<text id="10024824">%null%</text>
+<text id="10024825">%null%</text>
+<text id="10024826">%null%</text>
+<text id="10024827">%null%</text>
+<text id="10024828">%null%</text>
+<text id="10024829">%null%</text>
+<text id="10024830">龙咳痊愈</text>
+<text id="10024831">有了“痊愈护身符”
+便可以在鬼佛处使龙咳痊愈
+
+龙咳痊愈将消耗“龙胤露滴”
+如此一来，可一次使所有龙咳患者痊愈
+
+所持有的“咳声”将消失
+下降的冥助概率也会复原</text>
+<text id="10024832">%null%</text>
+<text id="10024833">%null%</text>
+<text id="10024834">%null%</text>
+<text id="10024835">%null%</text>
+<text id="10024836">%null%</text>
+<text id="10024837">%null%</text>
+<text id="10024838">%null%</text>
+<text id="10024839">%null%</text>
+<text id="10024840">ＨＰ与躯干</text>
+<text id="10024841">若ＨＰ减少，躯干恢复速度将变缓
+随着躯干恢复速度变缓
+量表的背景色将由黄色转为红色
+
+对付躯干能快速恢复的强大对手
+通过垫步后攻击等方式削减其ＨＰ
+进而使其躯干失衡的战术会更有效
+
+&lt;?kgiconKc@5?&gt;:垫步
+闪避敌人的攻击后按&lt;?kgiconKc@16?&gt;:垫步后攻击</text>
+<text id="10024842">%null%</text>
+<text id="10024843">%null%</text>
+<text id="10024844">%null%</text>
+<text id="10024845">%null%</text>
+<text id="10024846">%null%</text>
+<text id="10024847">%null%</text>
+<text id="10024848">%null%</text>
+<text id="10024849">%null%</text>
+<text id="10024850">突刺的应对方式</text>
+<text id="10024851">突刺攻击可以弹开，但不能防御
+
+若已习得忍者招式的“识破”技能
+可以识破突刺攻击使其无效
+并给予敌人比弹开更大的躯干伤害</text>
+<text id="10024880">残影</text>
+<text id="10024881">忍者可将其行动以幻影的形式留下
+称之为“残影”
+
+忍者为了彼此的修练而留下残影
+时为指引道路之师
+时为应看齐之竞争对手
+
+&lt;?kgiconKc@44?&gt;:打开残影菜单
+
+※欲留下残影，需连接网络</text>
+<text id="10024882">%null%</text>
+<text id="10024883">%null%</text>
+<text id="10024884">%null%</text>
+<text id="10024885">%null%</text>
+<text id="10024886">%null%</text>
+<text id="10024887">%null%</text>
+<text id="10024888">%null%</text>
+<text id="10024889">%null%</text>
+<text id="10024890">再战稀世强者</text>
+<text id="10024891">可与曾交手并战胜过的稀世强者
+在记忆中再战
+
+可于鬼佛处再战稀世强者</text>
+<text id="10024892">%null%</text>
+<text id="10024893">%null%</text>
+<text id="10024894">%null%</text>
+<text id="10024895">%null%</text>
+<text id="10024896">%null%</text>
+<text id="10024897">%null%</text>
+<text id="10024898">%null%</text>
+<text id="10024899">%null%</text>
+<text id="10024900">连战稀世强者</text>
+<text id="10024901">可与曾交手并战胜过的众多稀世强者
+在记忆中进行连战
+
+可于鬼佛处连战稀世强者
+
+直面自己的记忆
+就如同找出全新可能性的过程
+
+想必在战斗的尽头，能看到新的境界吧</text>
+<text id="10024902">%null%</text>
+<text id="10024903">%null%</text>
+<text id="10024904">%null%</text>
+<text id="10024905">%null%</text>
+<text id="10024906">%null%</text>
+<text id="10024907">%null%</text>
+<text id="10024908">%null%</text>
+<text id="10024909">%null%</text>
+<text id="10024910">再战、连战稀世强者</text>
+<text id="10024911">可与曾交手并战胜过的众多稀世强者
+在记忆中再战或连战
+
+可于鬼佛处再战或连战稀世强者
+
+直面自己的记忆
+就如同找出全新可能性的过程
+
+想必在战斗的尽头，能看到新的境界吧</text>
+<text id="10024912">%null%</text>
+<text id="10024913">%null%</text>
+<text id="10024914">%null%</text>
+<text id="10024915">%null%</text>
+<text id="10024916">%null%</text>
+<text id="10024917">%null%</text>
+<text id="10024918">%null%</text>
+<text id="10024919">%null%</text>
+<text id="10024920">其他记忆</text>
+<text id="10024921">他人所留下的记忆
+也有心中遗憾、执念之称
+
+只要于鬼佛处将其寄宿心中，便能改变狼的外形
+但不会对能力造成影响
+
+毕竟即使接下他人的心中遗憾
+也不过只是一时罢了</text>
+<text id="10024922">%null%</text>
+<text id="10024923">%null%</text>
+<text id="10024924">%null%</text>
+<text id="10024925">%null%</text>
+<text id="10024926">%null%</text>
+<text id="10024927">%null%</text>
+<text id="10024928">%null%</text>
+<text id="10024929">%null%</text>
+<text id="10024930">残影的风评</text>
+<text id="10024931">留下的残影得到好评
+HP便会恢复
+
+忍者的名声会随风流传
+传入耳中令人心情舒畅，也算是些许疗愈吧
+
+※欲获得残影的风评
+　需连接网络</text>
+<text id="10025000">装备菜单　使用道具</text>
+<text id="10025001">可在装备菜单确认或更换装备
+
+可向5个栏位装备任意的道具
+切换使用</text>
+<text id="10025002">%null%</text>
+<text id="10025003">%null%</text>
+<text id="10025004">%null%</text>
+<text id="10025005">%null%</text>
+<text id="10025006">%null%</text>
+<text id="10025007">%null%</text>
+<text id="10025008">%null%</text>
+<text id="10025009">%null%</text>
+<text id="10025010">装备菜单　义手忍具</text>
+<text id="10025011">已解锁义手忍具的装备栏位
+
+可向3个栏位装备任意的义手忍具
+切换使用
+
+可在选择装备画面
+用&lt;?kgicon@2010?&gt;确认操作方法</text>
+<text id="10025012">%null%</text>
+<text id="10025013">%null%</text>
+<text id="10025014">%null%</text>
+<text id="10025015">%null%</text>
+<text id="10025016">%null%</text>
+<text id="10025017">%null%</text>
+<text id="10025018">%null%</text>
+<text id="10025019">%null%</text>
+<text id="10025020">技能菜单</text>
+<text id="10025021">可在技能菜单
+确认当前习得的技能
+
+用&lt;?kgicon@2014?&gt;和&lt;?kgicon@2015?&gt;可选择各种分类
+
+可以在装备菜单替换流派招式</text>
+<text id="10025022">%null%</text>
+<text id="10025023">%null%</text>
+<text id="10025024">%null%</text>
+<text id="10025025">%null%</text>
+<text id="10025026">%null%</text>
+<text id="10025027">%null%</text>
+<text id="10025028">%null%</text>
+<text id="10025029">%null%</text>
+<text id="10025030">装备菜单　忍杀忍术</text>
+<text id="10025031">已解锁忍杀忍术的装备栏位
+
+可向栏位中装备任意一项忍杀忍术</text>
+<text id="10025050">佛渡</text>
+<text id="10025051">已解锁佛渡菜单
+
+在佛渡菜单
+选择已经对坐过的鬼佛
+便可立即移动至其所在位置</text>
+<text id="10025070">体力成长</text>
+<text id="10025071">已解锁体力成长菜单
+
+消耗4颗佛珠，获得穿成串的念珠
+可使体力成长
+
+体力成长后，ＨＰ与躯干的最大值便会提升</text>
+<text id="10025090">安装义手忍具</text>
+<text id="10025091">可在安装义手忍具菜单
+通过消耗忍具来制作义手忍具</text>
+<text id="10025092">%null%</text>
+<text id="10025093">%null%</text>
+<text id="10025094">%null%</text>
+<text id="10025095">%null%</text>
+<text id="10025096">%null%</text>
+<text id="10025097">%null%</text>
+<text id="10025098">%null%</text>
+<text id="10025099">%null%</text>
+<text id="10025100">制作强化义手忍具</text>
+<text id="10025101">可在制作强化义手忍具菜单中
+通过消耗筒药和钱，制作强化义手忍具
+
+制作强化义手忍具，需要获得相对应的义手忍具
+且需要其父级的强化义手忍具已完成制作
+
+制作强化义手忍具后，不会失去强化前的义手忍具</text>
+<text id="10025102">%null%</text>
+<text id="10025103">%null%</text>
+<text id="10025104">%null%</text>
+<text id="10025105">%null%</text>
+<text id="10025106">%null%</text>
+<text id="10025107">%null%</text>
+<text id="10025108">%null%</text>
+<text id="10025109">%null%</text>
+<text id="10025110">习得技能</text>
+<text id="10025111">可在习得技能菜单
+通过消耗技能点数习得新的技能
+解锁新的流派需要专用的秘籍
+
+技能有“流派招式”“忍者体术”和“常时效果”
+“流派招式”在装备菜单进行装备方可使用
+“忍者体术”和“常时效果”只要习得便能发挥效果</text>
+<text id="10025140">习得技能</text>
+<text id="10025141">已解锁习得技能菜单
+
+可在习得技能菜单
+通过消耗技能点数，习得任意技能</text>
+<text id="10025200">持有物品菜单</text>
+<text id="10025201">可在持有物品菜单
+确认当前持有的道具
+
+用&lt;?kgicon@2014?&gt;和&lt;?kgicon@2015?&gt;可选择各种类别</text>
+<text id="10025202">%null%</text>
+<text id="10025203">%null%</text>
+<text id="10025204">%null%</text>
+<text id="10025205">%null%</text>
+<text id="10025206">%null%</text>
+<text id="10025207">%null%</text>
+<text id="10025208">%null%</text>
+<text id="10025209">%null%</text>
+<text id="10025210">装备菜单 流派招式</text>
+<text id="10025211">已解锁流派招式的装备栏位
+
+可向栏位中装备任意一项流派招式</text>
+<text id="10025212">%null%</text>
+<text id="10025213">%null%</text>
+<text id="10025214">%null%</text>
+<text id="10025215">%null%</text>
+<text id="10025216">%null%</text>
+<text id="10025217">%null%</text>
+<text id="10025218">%null%</text>
+<text id="10025219">%null%</text>
+<text id="10025220">攻击力成长</text>
+<text id="10025221">已解锁攻击力成长菜单
+
+消耗佛珠，便可以提升攻击力
+
+攻击力提升后
+对敌人ＨＰ与躯干造成的伤害也会增加</text>
+<text id="10025222">%null%</text>
+<text id="10025223">%null%</text>
+<text id="10025224">%null%</text>
+<text id="10025225">%null%</text>
+<text id="10025226">%null%</text>
+<text id="10025227">%null%</text>
+<text id="10025228">%null%</text>
+<text id="10025229">%null%</text>
+<text id="10025230">鬼佛菜单</text>
+<text id="10025231">开放散布于苇名国的鬼佛
+与其相对而坐便可使用各种功能
+
+休息可恢复全部ＨＰ，补充伤药葫芦的次数
+以及超过所持上限而被传送至鬼佛的道具
+但除小部分外的所有敌人也将复活
+死亡后，将从最后对坐的鬼佛处开始</text>
+<text id="10025232">%null%</text>
+<text id="10025233">%null%</text>
+<text id="10025234">%null%</text>
+<text id="10025235">%null%</text>
+<text id="10025236">%null%</text>
+<text id="10025237">%null%</text>
+<text id="10025238">%null%</text>
+<text id="10025239">%null%</text>
+<text id="10025240">龙咳痊愈</text>
+<text id="10025241">已解锁龙咳痊愈菜单
+
+消耗“龙胤露滴”
+可以使罹患龙咳的患者痊愈</text>
+<text id="10025260">改变外形</text>
+<text id="10025261">在改变外形菜单中
+可变更狼的外观
+
+不管选择任何外形，狼的能力也不会有所改变
+
+可变更的外形会随着
+获得“其他记忆”而增加</text>
+<text id="10025262">%null%</text>
+<text id="10025263">%null%</text>
+<text id="10025264">%null%</text>
+<text id="10025265">%null%</text>
+<text id="10025266">%null%</text>
+<text id="10025267">%null%</text>
+<text id="10025268">%null%</text>
+<text id="10025269">%null%</text>
+<text id="10025270">再战稀世强者</text>
+<text id="10025271">在战斗记忆中，可选择一个
+已击败的稀世强者进行再战
+
+在记忆中，狼的攻击力是固定的
+此外，一旦返回原本的世界
+消耗的道具与纸人便会恢复原状</text>
+<text id="10025272">%null%</text>
+<text id="10025273">%null%</text>
+<text id="10025274">%null%</text>
+<text id="10025275">%null%</text>
+<text id="10025276">%null%</text>
+<text id="10025277">%null%</text>
+<text id="10025278">%null%</text>
+<text id="10025279">%null%</text>
+<text id="10025280">连战稀世强者</text>
+<text id="10025281">回溯战斗记忆，与已击败的稀世强者们连续战斗
+
+依序战斗，打倒后便能继续与下一个强者战斗
+败北即为挑战失败，将返回原本的世界
+
+在记忆中，狼的攻击力是固定的
+此外，一旦返回原本的世界，消耗的道具与纸人便会恢复原状</text>
+<text id="10025300">改变外形</text>
+<text id="10025301">已解锁改变外形菜单
+
+在改变外形菜单中
+可对应所持有的“其他记忆”改变外观</text>
+<text id="10025302">%null%</text>
+<text id="10025303">%null%</text>
+<text id="10025304">%null%</text>
+<text id="10025305">%null%</text>
+<text id="10025306">%null%</text>
+<text id="10025307">%null%</text>
+<text id="10025308">%null%</text>
+<text id="10025309">%null%</text>
+<text id="10025310">再战稀世强者</text>
+<text id="10025311">已解锁再战稀世强者菜单
+
+在再战稀世强者菜单中
+可与已击败的稀世强者再次战斗</text>
+<text id="10025312">%null%</text>
+<text id="10025313">%null%</text>
+<text id="10025314">%null%</text>
+<text id="10025315">%null%</text>
+<text id="10025316">%null%</text>
+<text id="10025317">%null%</text>
+<text id="10025318">%null%</text>
+<text id="10025319">%null%</text>
+<text id="10025320">连战稀世强者</text>
+<text id="10025321">已解锁连战稀世强者菜单
+
+在连战稀世强者菜单中
+可与已击败的稀世强者们连续战斗</text>
+<text id="10025322">%null%</text>
+<text id="10025323">%null%</text>
+<text id="10025324">%null%</text>
+<text id="10025325">%null%</text>
+<text id="10025326">%null%</text>
+<text id="10025327">%null%</text>
+<text id="10025328">%null%</text>
+<text id="10025329">%null%</text>
+<text id="10025330">记忆的连战·跨越死斗</text>
+<text id="10025331">回溯战斗记忆，与所有稀世强者连战
+
+是条没有任何回报的漫长死斗之路</text>
+<text id="10025332">%null%</text>
+<text id="10025333">%null%</text>
+<text id="10025334">%null%</text>
+<text id="10025335">%null%</text>
+<text id="10025336">%null%</text>
+<text id="10025337">%null%</text>
+<text id="10025338">%null%</text>
+<text id="10025339">%null%</text>
+<text id="10025340">残影</text>
+<text id="10025341">忍者能将一定时间的行动化为“残影”留下
+只要残影得到评价，ＨＰ便会恢复
+
+从“已记录的残影一览”标签选择任意栏位可记录残影
+此外，也能为残影附加笔记
+
+选择栏位&lt;?kgiconKc@33?&gt;:开始记录残影</text>
+<text id="10025342">%null%</text>
+<text id="10025343">%null%</text>
+<text id="10025344">%null%</text>
+<text id="10025345">%null%</text>
+<text id="10025346">%null%</text>
+<text id="10025347">%null%</text>
+<text id="10025348">%null%</text>
+<text id="10025349">%null%</text>
+<text id="10025350">已确认的残影一览</text>
+<text id="10025351">在“已确认的残影一览”标签中
+会以一览表的形式显示过去看过的他人残影
+
+此外，也可从这里评价已确认的残影</text>
+<text id="10025352">%null%</text>
+<text id="10025353">%null%</text>
+<text id="10025354">%null%</text>
+<text id="10025355">%null%</text>
+<text id="10025356">%null%</text>
+<text id="10025357">%null%</text>
+<text id="10025358">%null%</text>
+<text id="10025359">%null%</text>
+<text id="10025360">赋予笔记</text>
+<text id="10025361">可对残影赋予笔记
+
+笔记是通过选择本文与字词进行编辑
+若选择“笔记的构成”，还可追加第2段
+
+选择“开始记录残影”便会开始记录</text>
+<text id="10025362">%null%</text>
+<text id="10025363">%null%</text>
+<text id="10025364">%null%</text>
+<text id="10025365">%null%</text>
+<text id="10025366">%null%</text>
+<text id="10025367">%null%</text>
+<text id="10025368">%null%</text>
+<text id="10025369">%null%</text>
+<text id="10025370">稀世强者的新境界</text>
+<text id="10025371">在战斗记忆中，发现了稀世强者的新境界
+
+于“再战稀世强者”中
+也能与“心中的弦一郎”战斗</text>
+<text id="10025372">%null%</text>
+<text id="10025373">%null%</text>
+<text id="10025374">%null%</text>
+<text id="10025375">%null%</text>
+<text id="10025376">%null%</text>
+<text id="10025377">%null%</text>
+<text id="10025378">%null%</text>
+<text id="10025379">%null%</text>
+<text id="10025380">稀世强者的新境界</text>
+<text id="10025381">在战斗记忆中，发现了稀世强者的新境界
+
+于“再战稀世强者”中
+也能与“心中的义父”战斗</text>
+<text id="10025382">%null%</text>
+<text id="10025383">%null%</text>
+<text id="10025384">%null%</text>
+<text id="10025385">%null%</text>
+<text id="10025386">%null%</text>
+<text id="10025387">%null%</text>
+<text id="10025388">%null%</text>
+<text id="10025389">%null%</text>
+<text id="10025390">稀世强者的新境界</text>
+<text id="10025391">在战斗记忆中，发现了稀世强者的新境界
+
+于“再战稀世强者”中
+也能与“心中的一心”战斗</text>
+<text id="10090000">%null%</text>
+<text id="10090001">%null%</text>
+<text id="10090002">%null%</text>
+<text id="10090003">%null%</text>
+<text id="10090004">%null%</text>
+<text id="10090005">%null%</text>
+<text id="10090006">%null%</text>
+<text id="10090007">%null%</text>
+<text id="10090008">%null%</text>
+<text id="10090009">%null%</text>
+<text id="10090010">%null%</text>
+<text id="10090011">%null%</text>
+<text id="10090012">%null%</text>
+<text id="10090013">%null%</text>
+<text id="10090014">%null%</text>
+<text id="10090015">%null%</text>
+<text id="10090016">%null%</text>
+<text id="10090017">%null%</text>
+<text id="10090018">%null%</text>
+<text id="10090019">%null%</text>
+<text id="10090020">%null%</text>
+<text id="10090021">%null%</text>
+<text id="10090022">%null%</text>
+<text id="10090023">%null%</text>
+<text id="10090024">%null%</text>
+<text id="10090025">%null%</text>
+<text id="10090026">%null%</text>
+<text id="10090027">%null%</text>
+<text id="10090028">%null%</text>
+<text id="10090029">%null%</text>
+<text id="10090030">%null%</text>
+<text id="10090031">%null%</text>
+<text id="10090032">%null%</text>
+<text id="10090033">%null%</text>
+<text id="10090034">%null%</text>
+<text id="10090035">%null%</text>
+<text id="10090036">%null%</text>
+<text id="10090037">%null%</text>
+<text id="10090038">%null%</text>
+<text id="10090039">%null%</text>
+<text id="10090040">%null%</text>
+<text id="10090041">%null%</text>
+<text id="10090042">%null%</text>
+<text id="10090043">%null%</text>
+<text id="10090044">%null%</text>
+<text id="10090045">%null%</text>
+<text id="10090046">%null%</text>
+<text id="10090047">%null%</text>
+<text id="10090048">%null%</text>
+<text id="10090049">%null%</text>
+<text id="10090050">%null%</text>
+<text id="10090051">%null%</text>
+<text id="11000000">%null%</text>
+<text id="11000001">%null%</text>
+<text id="11000020">%null%</text>
+<text id="11010030">%null%</text>
+<text id="11010031">%null%</text>
+<text id="11010060">%null%</text>
+<text id="11010061">%null%</text>
+<text id="11010062">%null%</text>
+<text id="11010063">%null%</text>
+<text id="11010064">%null%</text>
+<text id="11010065">%null%</text>
+<text id="11010066">%null%</text>
+<text id="11010067">%null%</text>
+<text id="11010068">%null%</text>
+<text id="11010069">%null%</text>
+<text id="11010070">%null%</text>
+<text id="11010071">%null%</text>
+<text id="11010072">%null%</text>
+<text id="11010073">%null%</text>
+<text id="11010074">%null%</text>
+<text id="11010075">%null%</text>
+<text id="11010076">%null%</text>
+<text id="11010077">%null%</text>
+<text id="11010078">%null%</text>
+<text id="11010079">%null%</text>
+<text id="11010080">%null%</text>
+<text id="11010081">%null%</text>
+<text id="11010082">%null%</text>
+<text id="11010083">%null%</text>
+<text id="11010084">%null%</text>
+<text id="11010085">%null%</text>
+<text id="11010086">%null%</text>
+<text id="11010087">%null%</text>
+<text id="11010088">%null%</text>
+<text id="11010089">%null%</text>
+<text id="11010090">%null%</text>
+<text id="11010091">%null%</text>
+<text id="11100000">攻击</text>
+<text id="11100001">忍者的攻击在于削减对方“躯干”
+持续攻击，敌人终将姿势失衡
+
+一旦敌人姿势失衡，便可用“忍杀”一击毙命
+
+“攻击敌人使其失去平衡，进行3次忍杀”
+
+&lt;?kgiconKc@16?&gt;:攻击
+对失去平衡的敌人按&lt;?kgiconKc@16?&gt;:忍杀</text>
+<text id="11100002">%null%</text>
+<text id="11100003">%null%</text>
+<text id="11100004">%null%</text>
+<text id="11100005">%null%</text>
+<text id="11100006">%null%</text>
+<text id="11100007">%null%</text>
+<text id="11100008">%null%</text>
+<text id="11100009">%null%</text>
+<text id="11100010">弹开</text>
+<text id="11100011">有些对手只凭挥砍无法使其失衡
+
+弹开敌人的攻击
+可以趁势削减其躯干
+忍者的防御同时也兼具攻击
+
+“弹开敌人的攻击，进行3次忍杀”
+
+配合敌人的攻击按&lt;?kgiconKc@18?&gt;:弹开
+对失去平衡的敌人按&lt;?kgiconKc@16?&gt;:忍杀</text>
+<text id="11100012">%null%</text>
+<text id="11100013">%null%</text>
+<text id="11100014">%null%</text>
+<text id="11100015">%null%</text>
+<text id="11100016">%null%</text>
+<text id="11100017">%null%</text>
+<text id="11100018">%null%</text>
+<text id="11100019">%null%</text>
+<text id="11100020">反斩</text>
+<text id="11100021">弹开敌人攻击后立即进行“反斩”
+
+这样可以不给敌人喘息的时间
+并对其躯干造成伤害
+
+“交替进行弹开与攻击，进行3次忍杀”
+
+配合敌人的攻击按&lt;?kgiconKc@18?&gt;:弹开
+弹开后按&lt;?kgiconKc@16?&gt;:反斩</text>
+<text id="11100022">%null%</text>
+<text id="11100023">%null%</text>
+<text id="11100024">%null%</text>
+<text id="11100025">%null%</text>
+<text id="11100026">%null%</text>
+<text id="11100027">%null%</text>
+<text id="11100028">%null%</text>
+<text id="11100029">%null%</text>
+<text id="11100030">闪避</text>
+<text id="11100031">使用垫步可闪避敌人的攻击
+
+虽然闪避无法削减敌人的躯干
+但垫步后的攻击容易攻其破绽
+适合削减ＨＰ
+
+“闪避敌人的攻击再进攻，进行3次忍杀”
+
+&lt;?kgiconKc@5?&gt;:垫步
+闪避敌人的攻击按&lt;?kgiconKc@16?&gt;:垫步后攻击</text>
+<text id="11100032">%null%</text>
+<text id="11100033">%null%</text>
+<text id="11100034">%null%</text>
+<text id="11100035">%null%</text>
+<text id="11100036">%null%</text>
+<text id="11100037">%null%</text>
+<text id="11100038">%null%</text>
+<text id="11100039">%null%</text>
+<text id="11100040">ＨＰ与躯干</text>
+<text id="11100041">不论敌我，ＨＰ减少将使躯干恢复速度变缓
+
+对很难使其姿势失衡的敌人
+先通过垫步后攻击等方式削减其ＨＰ
+再使其躯干失衡即可
+
+“忍杀敌人3次”
+
+&lt;?kgiconKc@5?&gt;:垫步
+闪避敌人的攻击按&lt;?kgiconKc@16?&gt;:垫步后攻击</text>
+<text id="11100042">%null%</text>
+<text id="11100043">%null%</text>
+<text id="11100044">%null%</text>
+<text id="11100045">%null%</text>
+<text id="11100046">%null%</text>
+<text id="11100047">%null%</text>
+<text id="11100048">%null%</text>
+<text id="11100049">%null%</text>
+<text id="11100050">突刺攻击的应对方式</text>
+<text id="11100051">突刺攻击无法防御
+因此不可正面承受
+
+可通过弹开或垫步应对
+
+“应对敌人的突刺攻击，进行3次忍杀”
+
+配合敌人的突刺攻击按&lt;?kgiconKc@18?&gt;:弹开
+&lt;?kgiconKc@5?&gt;:垫步</text>
+<text id="11100052">%null%</text>
+<text id="11100053">%null%</text>
+<text id="11100054">%null%</text>
+<text id="11100055">%null%</text>
+<text id="11100056">%null%</text>
+<text id="11100057">%null%</text>
+<text id="11100058">%null%</text>
+<text id="11100059">%null%</text>
+<text id="11100060">下段攻击的应对方式</text>
+<text id="11100061">下段攻击无法防御也无法弹开
+不过，可以用跳跃来闪避
+若能从空中踢中对方，可大幅削减其躯干
+敌人姿势不稳时，也可以顺势忍杀
+
+“应对敌人的下段攻击，进行3次忍杀”
+
+&lt;?kgiconKc@6?&gt;:跳跃
+跳跃中按&lt;?kgiconKc@6?&gt;:空中踢</text>
+<text id="11100062">%null%</text>
+<text id="11100063">%null%</text>
+<text id="11100064">%null%</text>
+<text id="11100065">%null%</text>
+<text id="11100066">%null%</text>
+<text id="11100067">%null%</text>
+<text id="11100068">%null%</text>
+<text id="11100069">%null%</text>
+<text id="11100070">识破</text>
+<text id="11100071">忍者之眼可捕捉凌厉的突刺动作
+
+面对敌人的突刺攻击
+向前方垫步踏住敌人的刀刃
+可给予敌人比弹开更大的躯干伤害
+
+“使用识破，进行3次忍杀”
+
+配合敌人的突刺攻击按&lt;?kgiconKc@5?&gt;:识破</text>
+<text id="11100072">%null%</text>
+<text id="11100073">%null%</text>
+<text id="11100074">%null%</text>
+<text id="11100075">%null%</text>
+<text id="11100076">%null%</text>
+<text id="11100077">%null%</text>
+<text id="11100078">%null%</text>
+<text id="11100079">%null%</text>
+<text id="11100080">失衡绕袭</text>
+<text id="11100081">对失去平衡的敌人使用失衡绕袭
+可以绕到敌人背后
+进行背后忍杀
+
+“使用失衡绕袭，进行3次背后忍杀”
+
+在失去平衡的敌人面前按&lt;?kgiconKc@6?&gt;:失衡绕袭</text>
+<text id="11100082">%null%</text>
+<text id="11100083">%null%</text>
+<text id="11100084">%null%</text>
+<text id="11100085">%null%</text>
+<text id="11100086">%null%</text>
+<text id="11100087">%null%</text>
+<text id="11100088">%null%</text>
+<text id="11100089">%null%</text>
+<text id="11100090">连续弹开</text>
+<text id="11100091">有时用一次弹开不能阻止敌人的攻击
+
+应对敌人的连续攻击，可以用“连续弹开”
+若能弹开所有攻击
+将可以大幅削减敌人的躯干
+
+“弹开敌人所有连续攻击，进行3次忍杀”
+
+配合敌人的连击连续按&lt;?kgiconKc@18?&gt;:连续弹开
+对失去平衡的敌人按&lt;?kgiconKc@16?&gt;:忍杀</text>
+<text id="11101000">剑戟</text>
+<text id="11101001">&lt;?kgiconKc@16?&gt;:攻击
+配合敌人的攻击按&lt;?kgiconKc@18?&gt;:弹开
+对失去平衡的敌人按&lt;?kgiconKc@16?&gt;:忍杀</text>
+<text id="11101002">%null%</text>
+<text id="11101003">%null%</text>
+<text id="11101004">%null%</text>
+<text id="11101005">%null%</text>
+<text id="11101006">%null%</text>
+<text id="11101007">%null%</text>
+<text id="11101008">%null%</text>
+<text id="11101009">%null%</text>
+<text id="11101010">闪避与反击</text>
+<text id="11101011">&lt;?kgiconKc@5?&gt;:垫步
+闪避敌人的攻击按&lt;?kgiconKc@16?&gt;:攻击</text>
+<text id="11101012">%null%</text>
+<text id="11101013">%null%</text>
+<text id="11101014">%null%</text>
+<text id="11101015">%null%</text>
+<text id="11101016">%null%</text>
+<text id="11101017">%null%</text>
+<text id="11101018">%null%</text>
+<text id="11101019">%null%</text>
+<text id="11101020">下段攻击的应对方式</text>
+<text id="11101021">&lt;?kgiconKc@6?&gt;:跳跃
+跳跃中按&lt;?kgiconKc@6?&gt;:空中踢</text>
+<text id="11101022">%null%</text>
+<text id="11101023">%null%</text>
+<text id="11101024">%null%</text>
+<text id="11101025">%null%</text>
+<text id="11101026">%null%</text>
+<text id="11101027">%null%</text>
+<text id="11101028">%null%</text>
+<text id="11101029">%null%</text>
+<text id="11101030">模拟战（基础）</text>
+<text id="11101031">活用至今的修炼，战斗吧</text>
+<text id="11101032">%null%</text>
+<text id="11101033">%null%</text>
+<text id="11101034">%null%</text>
+<text id="11101035">%null%</text>
+<text id="11101036">%null%</text>
+<text id="11101037">%null%</text>
+<text id="11101038">%null%</text>
+<text id="11101039">%null%</text>
+<text id="11101040">模拟战（应用）</text>
+<text id="11101041">活用至今的修炼
+应对各式各样的攻击，战斗吧</text>
+<text id="11101042">%null%</text>
+<text id="11101043">%null%</text>
+<text id="11101044">%null%</text>
+<text id="11101045">%null%</text>
+<text id="11101046">%null%</text>
+<text id="11101047">%null%</text>
+<text id="11101048">%null%</text>
+<text id="11101049">%null%</text>
+<text id="11101050">ＨＰ与躯干（一）</text>
+<text id="11101051">敌人的躯干恢复很快
+所以先用垫步后攻击削减其ＨＰ吧</text>
+<text id="11101052">%null%</text>
+<text id="11101053">%null%</text>
+<text id="11101054">%null%</text>
+<text id="11101055">%null%</text>
+<text id="11101056">%null%</text>
+<text id="11101057">%null%</text>
+<text id="11101058">%null%</text>
+<text id="11101059">%null%</text>
+<text id="11101060">ＨＰ与躯干（二）</text>
+<text id="11101061">已充分削减了敌人的ＨＰ
+故其躯干恢复变慢了
+
+接下来削减躯干进行忍杀吧</text>
+<text id="11101062">%null%</text>
+<text id="11101063">%null%</text>
+<text id="11101064">%null%</text>
+<text id="11101065">%null%</text>
+<text id="11101066">%null%</text>
+<text id="11101067">%null%</text>
+<text id="11101068">%null%</text>
+<text id="11101069">%null%</text>
+<text id="11101070">防御时的躯干恢复速度</text>
+<text id="11101071">防御时躯干的恢复会加快
+
+长按&lt;?kgiconKc@18?&gt;:防御</text>
+<text id="11101072">%null%</text>
+<text id="11101073">%null%</text>
+<text id="11101074">%null%</text>
+<text id="11101075">%null%</text>
+<text id="11101076">%null%</text>
+<text id="11101077">%null%</text>
+<text id="11101078">%null%</text>
+<text id="11101079">%null%</text>
+<text id="11101080">旧时记忆中的强者</text>
+<text id="11101081">阻挡于旧时记忆中的强者实力雄厚
+
+若难以战胜
+也可以暂时离开旧时记忆
+在其他地图修炼强化之后再战</text>
+<text id="11102000">&lt;?kgiconKc@16?&gt;:攻击</text>
+<text id="11102001">%null%</text>
+<text id="11102002">%null%</text>
+<text id="11102003">%null%</text>
+<text id="11102004">%null%</text>
+<text id="11102005">%null%</text>
+<text id="11102006">%null%</text>
+<text id="11102007">%null%</text>
+<text id="11102008">%null%</text>
+<text id="11102009">%null%</text>
+<text id="11102010">配合敌人的攻击按&lt;?kgiconKc@18?&gt;:弹开</text>
+<text id="11102011">%null%</text>
+<text id="11102012">%null%</text>
+<text id="11102013">%null%</text>
+<text id="11102014">%null%</text>
+<text id="11102015">%null%</text>
+<text id="11102016">%null%</text>
+<text id="11102017">%null%</text>
+<text id="11102018">%null%</text>
+<text id="11102019">%null%</text>
+<text id="11102020">对失去平衡的敌人按&lt;?kgiconKc@16?&gt;:忍杀</text>
+<text id="11102021">%null%</text>
+<text id="11102022">%null%</text>
+<text id="11102023">%null%</text>
+<text id="11102024">%null%</text>
+<text id="11102025">%null%</text>
+<text id="11102026">%null%</text>
+<text id="11102027">%null%</text>
+<text id="11102028">%null%</text>
+<text id="11102029">%null%</text>
+<text id="11102030">配合敌人的突刺攻击按&lt;?kgiconKc@18?&gt;:弹开</text>
+<text id="11102031">%null%</text>
+<text id="11102032">%null%</text>
+<text id="11102033">%null%</text>
+<text id="11102034">%null%</text>
+<text id="11102035">%null%</text>
+<text id="11102036">%null%</text>
+<text id="11102037">%null%</text>
+<text id="11102038">%null%</text>
+<text id="11102039">%null%</text>
+<text id="11102040">配合敌人的突刺攻击按&lt;?kgiconKc@5?&gt;:识破</text>
+<text id="11102041">%null%</text>
+<text id="11102042">%null%</text>
+<text id="11102043">%null%</text>
+<text id="11102044">%null%</text>
+<text id="11102045">%null%</text>
+<text id="11102046">%null%</text>
+<text id="11102047">%null%</text>
+<text id="11102048">%null%</text>
+<text id="11102049">%null%</text>
+<text id="11102050">在失去平衡的敌人面前按&lt;?kgiconKc@6?&gt;:失衡绕袭</text>
+<text id="11102051">%null%</text>
+<text id="11102052">%null%</text>
+<text id="11102053">%null%</text>
+<text id="11102054">%null%</text>
+<text id="11102055">%null%</text>
+<text id="11102056">%null%</text>
+<text id="11102057">%null%</text>
+<text id="11102058">%null%</text>
+<text id="11102059">%null%</text>
+<text id="11102060">&lt;?kgiconKc@5?&gt;:垫步</text>
+<text id="11102061">%null%</text>
+<text id="11102062">%null%</text>
+<text id="11102063">%null%</text>
+<text id="11102064">%null%</text>
+<text id="11102065">%null%</text>
+<text id="11102066">%null%</text>
+<text id="11102067">%null%</text>
+<text id="11102068">%null%</text>
+<text id="11102069">%null%</text>
+<text id="11102070">闪避敌人的攻击按&lt;?kgiconKc@16?&gt;:攻击</text>
+<text id="11102071">%null%</text>
+<text id="11102072">%null%</text>
+<text id="11102073">%null%</text>
+<text id="11102074">%null%</text>
+<text id="11102075">%null%</text>
+<text id="11102076">%null%</text>
+<text id="11102077">%null%</text>
+<text id="11102078">%null%</text>
+<text id="11102079">%null%</text>
+<text id="11102080">%null%</text>
+<text id="11102081">%null%</text>
+<text id="11102082">%null%</text>
+<text id="11102083">%null%</text>
+<text id="11102084">%null%</text>
+<text id="11102085">%null%</text>
+<text id="11102086">%null%</text>
+<text id="11102087">%null%</text>
+<text id="11102088">%null%</text>
+<text id="11102089">%null%</text>
+<text id="11102090">%null%</text>
+<text id="11102091">%null%</text>
+<text id="11102092">%null%</text>
+<text id="11102093">%null%</text>
+<text id="11102094">%null%</text>
+<text id="11102095">%null%</text>
+<text id="11102096">%null%</text>
+<text id="11102097">%null%</text>
+<text id="11102098">%null%</text>
+<text id="11102099">%null%</text>
+<text id="11102100">%null%</text>
+<text id="12000000">欲保首级劝君速回
+无首者无首可斩
+且刀枪不入</text>
+<text id="12000001">佛堂布告</text>
+<text id="12000002">%null%</text>
+<text id="12000003">%null%</text>
+<text id="12000004">%null%</text>
+<text id="12000005">%null%</text>
+<text id="12000006">%null%</text>
+<text id="12000007">%null%</text>
+<text id="12000008">%null%</text>
+<text id="12000009">%null%</text>
+<text id="12000010">古战挂轴</text>
+<text id="12000011">苇名曾有妖至
+
+妖之雷乃源之神的怒号
+若无神业无法弹回
+
+迅即足不沾地施展雷电奉还</text>
+<text id="12000012">%null%</text>
+<text id="12000013">%null%</text>
+<text id="12000014">%null%</text>
+<text id="12000015">%null%</text>
+<text id="12000016">%null%</text>
+<text id="12000017">%null%</text>
+<text id="12000018">%null%</text>
+<text id="12000019">%null%</text>
+<text id="12000020">崩塌的供养塔</text>
+<text id="12000021">国家被盗而被处以死刑的
+苇名众之凶暴亡魂
+
+镇护于此</text>
+<text id="12000022">%null%</text>
+<text id="12000023">%null%</text>
+<text id="12000024">%null%</text>
+<text id="12000025">%null%</text>
+<text id="12000026">%null%</text>
+<text id="12000027">%null%</text>
+<text id="12000028">%null%</text>
+<text id="12000029">%null%</text>
+<text id="12000030">坠落之谷谷民的记录</text>
+<text id="12000031">坠落之谷的民众为崇拜白蛇之一族
+一旦发现外敌便会将其射杀
+
+其中以蛇眼火石箭最为恐怖
+
+其女众拥有稀世的好眼力
+可轻易射穿远方之物</text>
+<text id="12000230">给永真</text>
+<text id="12000231">有事外出
+不必担心</text>
+<text id="12000232">%null%</text>
+<text id="12000233">%null%</text>
+<text id="12000234">%null%</text>
+<text id="12000235">%null%</text>
+<text id="12000236">%null%</text>
+<text id="12000237">%null%</text>
+<text id="12000238">%null%</text>
+<text id="12000239">%null%</text>
+<text id="12000240">给只狼</text>
+<text id="12000241">这次是坠落之谷的入口
+白蛇神社附近喧嚣不已
+天狗去看鼠辈的动静</text>
+<text id="12000242">%null%</text>
+<text id="12000243">%null%</text>
+<text id="12000244">%null%</text>
+<text id="12000245">%null%</text>
+<text id="12000246">%null%</text>
+<text id="12000247">%null%</text>
+<text id="12000248">%null%</text>
+<text id="12000249">%null%</text>
+<text id="12000250">泥泞堂布告</text>
+<text id="12000251">此处尽是泥，泥泞不堪
+
+行走会溅起淤泥
+不论是谁皆会溅起</text>
+<text id="12000252">泥泞堂布告</text>
+<text id="12000253">此处尽是泥，泥泞不堪
+
+行走会溅起淤泥
+不论是谁皆会溅起
+
+观猴、闻猴、言猴，还有　　　也会……</text>
+<text id="12000254">%null%</text>
+<text id="12000255">%null%</text>
+<text id="12000256">%null%</text>
+<text id="12000257">%null%</text>
+<text id="12000258">%null%</text>
+<text id="12000259">%null%</text>
+<text id="12000260">轰鸣堂布告</text>
+<text id="12000261">轰鸣瀑布轰隆轰隆
+轰鸣声下听不见响动</text>
+<text id="12000262">轰鸣堂布告</text>
+<text id="12000263">轰鸣瀑布轰隆轰隆
+
+轰鸣声下听不见响动
+耳朵再灵也无用武之地</text>
+<text id="12000264">%null%</text>
+<text id="12000265">%null%</text>
+<text id="12000266">%null%</text>
+<text id="12000267">%null%</text>
+<text id="12000268">%null%</text>
+<text id="12000269">%null%</text>
+<text id="12000270">灯火堂布告</text>
+<text id="12000271">风中烛火
+熄灭便是一片黑暗</text>
+<text id="12000272">灯火堂布告</text>
+<text id="12000273">隐约的灯火容易消失
+正所谓风中烛火
+
+熄灭便是一片黑暗
+看不见会令人不安
+即便视力再好，也只会恐惧</text>
+<text id="12000274">灯火堂布告</text>
+<text id="12000275">风中烛火
+熄灭便是一片黑暗</text>
+<text id="12000276">%null%</text>
+<text id="12000277">%null%</text>
+<text id="12000278">%null%</text>
+<text id="12000279">%null%</text>
+<text id="12000280">地狱堂布告</text>
+<text id="12000281">下有地狱，深不见底
+上有黑暗，不见五指</text>
+<text id="12000282">地狱堂布告</text>
+<text id="12000283">下有无底地狱
+上有无尽黑暗
+
+攀爬上去，是不见五指的黑暗
+即便视力再好，也只会恐惧</text>
+<text id="12000284">地狱堂布告</text>
+<text id="12000285">下有地狱，深不见底
+上有黑暗，不见五指</text>
+<text id="12000286">%null%</text>
+<text id="12000287">%null%</text>
+<text id="12000288">%null%</text>
+<text id="12000289">%null%</text>
+<text id="12000290">结宿之石的祭坛</text>
+<text id="12000291">结宿乃吉兆
+馨香四溢，恭奉上轿吧
+
+放入神轿，便会前来迎接</text>
+<text id="12000292">%null%</text>
+<text id="12000293">%null%</text>
+<text id="12000294">%null%</text>
+<text id="12000295">%null%</text>
+<text id="12000296">%null%</text>
+<text id="12000297">%null%</text>
+<text id="12000298">%null%</text>
+<text id="12000299">%null%</text>
+<text id="12000300">天狗的字条</text>
+<text id="12000301">这次是白蛇神社喧嚣不已
+天狗去看鼠辈的动静
+
+只狼啊，乐意的话你也来吧</text>
+<text id="12000302">%null%</text>
+<text id="12000303">%null%</text>
+<text id="12000304">%null%</text>
+<text id="12000305">%null%</text>
+<text id="12000306">%null%</text>
+<text id="12000307">%null%</text>
+<text id="12000308">%null%</text>
+<text id="12000309">%null%</text>
+<text id="12000310">神子的字条</text>
+<text id="12000311">给狼
+
+　有事调查
+　书库已打开，我在那里
+
+　　　　　　　　　　　　　九郎</text>
+<text id="12000312">%null%</text>
+<text id="12000313">%null%</text>
+<text id="12000314">%null%</text>
+<text id="12000315">%null%</text>
+<text id="12000316">%null%</text>
+<text id="12000317">%null%</text>
+<text id="12000318">%null%</text>
+<text id="12000319">%null%</text>
+<text id="12000320">耳鸣钟的布告</text>
+<text id="12000321">此钟振聋发聩
+擅自撞响即会耳鸣</text>
+<text id="12000322">%null%</text>
+<text id="12000323">%null%</text>
+<text id="12000324">%null%</text>
+<text id="12000325">%null%</text>
+<text id="12000326">%null%</text>
+<text id="12000327">%null%</text>
+<text id="12000328">%null%</text>
+<text id="12000329">%null%</text>
+<text id="12000330">忍者小路的布告</text>
+<text id="12000331">忍者之捷径
+可通往恶鬼之钟</text>
+<text id="12000332">%null%</text>
+<text id="12000333">%null%</text>
+<text id="12000334">%null%</text>
+<text id="12000335">%null%</text>
+<text id="12000336">%null%</text>
+<text id="12000337">%null%</text>
+<text id="12000338">%null%</text>
+<text id="12000339">%null%</text>
+<text id="12000340">钟上铭文</text>
+<text id="12000341">切莫撞响此钟
+
+厄运降临，可助功德
+然实乃艰辛困苦之修行是也</text>
+<text id="12001000">确定要献上&lt;?evntAcquittalPrice?&gt;技能点数，以强化攻击力吗？</text>
+<text id="12001001">%null%</text>
+<text id="12001002">%null%</text>
+<text id="12001003">%null%</text>
+<text id="12001004">%null%</text>
+<text id="12001005">%null%</text>
+<text id="12001006">%null%</text>
+<text id="12001007">%null%</text>
+<text id="12001008">%null%</text>
+<text id="12001009">%null%</text>
+<text id="12001010">确定要进行龙咳痊愈吗？</text>
+<text id="12001011">%null%</text>
+<text id="12001012">%null%</text>
+<text id="12001013">%null%</text>
+<text id="12001014">%null%</text>
+<text id="12001015">%null%</text>
+<text id="12001016">%null%</text>
+<text id="12001017">%null%</text>
+<text id="12001018">%null%</text>
+<text id="12001019">%null%</text>
+<text id="12001020">确定要结束战斗，返回原本的鬼佛吗？
+（即使结束战斗也不会失去任何东西）</text>
+<text id="12001021">%null%</text>
+<text id="12001022">%null%</text>
+<text id="12001023">%null%</text>
+<text id="12001024">%null%</text>
+<text id="12001025">%null%</text>
+<text id="12001026">%null%</text>
+<text id="12001027">%null%</text>
+<text id="12001028">%null%</text>
+<text id="12001029">%null%</text>
+<text id="12001030">确定要结束战斗，返回原本的鬼佛吗？
+（一旦结束战斗，连战进度将会重置）</text>
+<text id="12001031">%null%</text>
+<text id="12001032">%null%</text>
+<text id="12001033">%null%</text>
+<text id="12001034">%null%</text>
+<text id="12001035">%null%</text>
+<text id="12001036">%null%</text>
+<text id="12001037">%null%</text>
+<text id="12001038">%null%</text>
+<text id="12001039">%null%</text>
+<text id="12001040">攻击力已强化至极限，无法再继续强化
+要将战斗记忆换成战斗残滓吗？</text>
+<text id="12010000">确定要交付机关筒吗？</text>
+<text id="12010100">真的确定要拿回护身符，远离更大的苦难吗？
+（一旦选择远离，在本回游玩中将无法进入更大的苦难）</text>
+<text id="12011100">确定要踏入更大的苦难吗？</text>
+<text id="12014000">确定要用&lt;?evntAcquittalPrice?&gt;钱购买龙胤露滴吗？</text>
+<text id="12017002">确定要告知苇名武士想要的东西吗？</text>
+<text id="12017003">确定要用&lt;?evntAcquittalPrice?&gt;钱购买情报吗？</text>
+<text id="12022000">确定要交付仙峰上人的经卷吗？</text>
+<text id="12022001">确定要交付柿子吗？</text>
+<text id="12022002">确定要交付太郎柿吗？</text>
+<text id="12023000">确定要消耗起死回生之力制作龙咳药丸吗？</text>
+<text id="12023001">确定要消耗葫芦种子，增加伤药葫芦的使用次数吗？</text>
+<text id="12023002">确定要交付龙咳血块吗？</text>
+<text id="12090000">若开始第&lt;?nextLoopCount?&gt;回的战斗
+将无法返回现在第&lt;?loopCount?&gt;回的战斗
+确定要开始第&lt;?nextLoopCount?&gt;回的战斗吗？</text>
+<text id="12095000">确定要交付苇名酒吗？</text>
+<text id="12095001">确定要交付浊酒吗？</text>
+<text id="12095002">确定要交付猿酒吗？</text>
+<text id="12095003">确定要交付龙泉吗？</text>
+<text id="12095004">确定要交付苇名酒吗？</text>
+<text id="12095005">确定要交付浊酒吗？</text>
+<text id="12095006">%null%</text>
+<text id="12095007">%null%</text>
+<text id="12095008">%null%</text>
+<text id="12095009">%null%</text>
+<text id="12095010">确定要交付龙咳药丸吗？</text>
+<text id="13000000">未持有葫芦种子</text>
+<text id="13000001">确定要消耗葫芦种子，增加伤药葫芦的使用次数吗？</text>
+<text id="13000002">已增加伤药葫芦的使用次数</text>
+<text id="13000003">伤药葫芦已无法再增加使用次数</text>
+<text id="13000004">%null%</text>
+<text id="13000005">%null%</text>
+<text id="13000006">%null%</text>
+<text id="13000007">%null%</text>
+<text id="13000008">%null%</text>
+<text id="13000009">%null%</text>
+<text id="13000010">未持有&lt;?evntAcquittalPrice?&gt;颗佛珠</text>
+<text id="13000011">确定要消耗&lt;?evntAcquittalPrice?&gt;颗佛珠，以提升体力吗？</text>
+<text id="13000012">体力提升，ＨＰ与躯干皆升至了最大值</text>
+<text id="13000013">体力已无法再提升</text>
+<text id="13000014">%null%</text>
+<text id="13000015">%null%</text>
+<text id="13000016">%null%</text>
+<text id="13000017">%null%</text>
+<text id="13000018">%null%</text>
+<text id="13000019">%null%</text>
+<text id="13000020">未持有抑制淤淀所需的&lt;?evntAcquittalPrice?&gt;钱</text>
+<text id="13000021">确定要向鬼佛献出&lt;?evntAcquittalPrice?&gt;钱，抑制淤淀吗？</text>
+<text id="13000022">已抑制淤淀</text>
+<text id="13000023">目前龙胤没有淤淀</text>
+<text id="13000024">%null%</text>
+<text id="13000025">%null%</text>
+<text id="13000026">%null%</text>
+<text id="13000027">%null%</text>
+<text id="13000028">%null%</text>
+<text id="13000029">%null%</text>
+<text id="13000030">%null%</text>
+<text id="13000031">%null%</text>
+<text id="13000032">%null%</text>
+<text id="13000033">%null%</text>
+<text id="13000034">%null%</text>
+<text id="13000035">%null%</text>
+<text id="13000036">%null%</text>
+<text id="13000037">%null%</text>
+<text id="13000038">%null%</text>
+<text id="13000039">%null%</text>
+<text id="13000040">已强化攻击力</text>
+<text id="13000041">攻击力已无法再强化</text>
+<text id="13000042">未持有战斗记忆</text>
+<text id="13000043">%null%</text>
+<text id="13000044">%null%</text>
+<text id="13000045">%null%</text>
+<text id="13000046">%null%</text>
+<text id="13000047">%null%</text>
+<text id="13000048">%null%</text>
+<text id="13000049">%null%</text>
+<text id="13000050">技能点数不足</text>
+<text id="13000051">献出技能点数，强化了攻击力</text>
+<text id="13000052">攻击力已强化至最大</text>
+<text id="13000053">%null%</text>
+<text id="13000054">%null%</text>
+<text id="13000055">%null%</text>
+<text id="13000056">%null%</text>
+<text id="13000057">%null%</text>
+<text id="13000058">%null%</text>
+<text id="13000059">%null%</text>
+<text id="13000060">所有龙咳患者都得到了治愈</text>
+<text id="13000061">%null%</text>
+<text id="13000062">%null%</text>
+<text id="13000063">%null%</text>
+<text id="13000064">%null%</text>
+<text id="13000065">%null%</text>
+<text id="13000066">%null%</text>
+<text id="13000067">%null%</text>
+<text id="13000068">%null%</text>
+<text id="13000069">%null%</text>
+<text id="13000070">未持有龙胤露滴</text>
+<text id="13000071">%null%</text>
+<text id="13000072">%null%</text>
+<text id="13000073">%null%</text>
+<text id="13000074">%null%</text>
+<text id="13000075">%null%</text>
+<text id="13000076">%null%</text>
+<text id="13000077">%null%</text>
+<text id="13000078">%null%</text>
+<text id="13000079">%null%</text>
+<text id="13000080">没有人罹患龙咳</text>
+<text id="13001700">所需的钱不够</text>
+<text id="13010000">没有可以制作的义手忍具</text>
+<text id="13010001">%null%</text>
+<text id="13010002">%null%</text>
+<text id="13010003">%null%</text>
+<text id="13010004">%null%</text>
+<text id="13010005">%null%</text>
+<text id="13010006">%null%</text>
+<text id="13010007">%null%</text>
+<text id="13010008">%null%</text>
+<text id="13010009">%null%</text>
+<text id="13010010">没有可以强化的义手忍具</text>
+<text id="13010011">%null%</text>
+<text id="13010012">%null%</text>
+<text id="13010013">%null%</text>
+<text id="13010014">%null%</text>
+<text id="13010015">%null%</text>
+<text id="13010016">%null%</text>
+<text id="13010017">%null%</text>
+<text id="13010018">%null%</text>
+<text id="13010019">%null%</text>
+<text id="13010020">%null%</text>
+<text id="13010021">%null%</text>
+<text id="13010022">%null%</text>
+<text id="13010023">%null%</text>
+<text id="13010024">%null%</text>
+<text id="13010025">%null%</text>
+<text id="13010026">%null%</text>
+<text id="13010027">%null%</text>
+<text id="13010028">%null%</text>
+<text id="13010029">%null%</text>
+<text id="13010030">%null%</text>
+<text id="13010031">%null%</text>
+<text id="13010032">%null%</text>
+<text id="13010033">%null%</text>
+<text id="13010034">%null%</text>
+<text id="13010035">%null%</text>
+<text id="13010036">%null%</text>
+<text id="13010037">%null%</text>
+<text id="13010038">%null%</text>
+<text id="13010039">%null%</text>
+<text id="13010040">%null%</text>
+<text id="13010041">%null%</text>
+<text id="13010042">%null%</text>
+<text id="13010043">%null%</text>
+<text id="13010044">%null%</text>
+<text id="13010045">%null%</text>
+<text id="13010046">%null%</text>
+<text id="13010047">%null%</text>
+<text id="13010048">%null%</text>
+<text id="13010049">%null%</text>
+<text id="13010050">%null%</text>
+<text id="13010051">%null%</text>
+<text id="13010052">%null%</text>
+<text id="13010053">%null%</text>
+<text id="13010054">%null%</text>
+<text id="13010055">%null%</text>
+<text id="13010056">%null%</text>
+<text id="13010057">%null%</text>
+<text id="13010058">%null%</text>
+<text id="13010059">%null%</text>
+<text id="13010060">%null%</text>
+<text id="13010061">%null%</text>
+<text id="13010062">%null%</text>
+<text id="13010063">%null%</text>
+<text id="13010064">%null%</text>
+<text id="13010065">%null%</text>
+<text id="13010066">%null%</text>
+<text id="13010067">%null%</text>
+<text id="13010068">%null%</text>
+<text id="13010069">%null%</text>
+<text id="13010070">%null%</text>
+<text id="13010071">%null%</text>
+<text id="13010072">%null%</text>
+<text id="13010073">%null%</text>
+<text id="13010074">%null%</text>
+<text id="13010075">%null%</text>
+<text id="13010076">%null%</text>
+<text id="13010077">%null%</text>
+<text id="13010078">%null%</text>
+<text id="13010079">%null%</text>
+<text id="13010080">%null%</text>
+<text id="13010081">%null%</text>
+<text id="13010082">%null%</text>
+<text id="13010083">%null%</text>
+<text id="13010084">%null%</text>
+<text id="13010085">%null%</text>
+<text id="13010086">%null%</text>
+<text id="13010087">%null%</text>
+<text id="13010088">%null%</text>
+<text id="13010089">%null%</text>
+<text id="13010090">%null%</text>
+<text id="13010091">%null%</text>
+<text id="13010092">%null%</text>
+<text id="13010093">%null%</text>
+<text id="13010094">%null%</text>
+<text id="13010095">%null%</text>
+<text id="13010096">%null%</text>
+<text id="13010097">%null%</text>
+<text id="13010098">%null%</text>
+<text id="13010099">%null%</text>
+<text id="13010100">已避免更大的苦难</text>
+<text id="13010101">交付了机关筒</text>
+<text id="13010102">组入了机关筒</text>
+<text id="13010103">追溯旧时记忆需依次进行
+需要先供奉的铃似乎就在某处</text>
+<text id="13010104">是慈悲面相的佛祖大人
+似乎可以供奉些什么</text>
+<text id="13011000">不能撇下神子不管</text>
+<text id="13011011">从香炉隐约飘来樱花香气</text>
+<text id="13011100">已踏入了更大的苦难</text>
+<text id="13011101">%null%</text>
+<text id="13011102">%null%</text>
+<text id="13011103">%null%</text>
+<text id="13011104">%null%</text>
+<text id="13011105">%null%</text>
+<text id="13011106">%null%</text>
+<text id="13011107">%null%</text>
+<text id="13011108">%null%</text>
+<text id="13011109">%null%</text>
+<text id="13011110">已交付给九郎的米</text>
+<text id="13011111">%null%</text>
+<text id="13011112">%null%</text>
+<text id="13011113">%null%</text>
+<text id="13011114">%null%</text>
+<text id="13011115">%null%</text>
+<text id="13011116">%null%</text>
+<text id="13011117">%null%</text>
+<text id="13011118">%null%</text>
+<text id="13011119">%null%</text>
+<text id="13011120">起死回生之力的可使用次数增加了</text>
+<text id="13011121">未持有龙胤露滴</text>
+<text id="13011122">无法再继续强化</text>
+<text id="13012200">没有能介绍的去处</text>
+<text id="13013000">可以进行模拟战了</text>
+<text id="13013001">可以同破旧寺院的不死武士
+进行新的修炼了</text>
+<text id="13013002">%null%</text>
+<text id="13013003">可以同破旧寺院的不死武士
+进行“识破”的修炼了</text>
+<text id="13013004">可以同破旧寺院的不死武士
+进行“失衡绕袭”的修炼了</text>
+<text id="13013005">可以同破旧寺院的不死武士
+进行新的修炼了</text>
+<text id="13013006">可以进行模拟战了</text>
+<text id="13013007">可以选择新的项目了</text>
+<text id="13013008">可以选择“识破”了</text>
+<text id="13013009">可以选择“失衡绕袭”了</text>
+<text id="13013010">可以选择“模拟战（运用）”了</text>
+<text id="13017000">收到了&lt;?evntAcquittalPrice?&gt;钱</text>
+<text id="13017001">支付了&lt;?evntAcquittalPrice?&gt;钱</text>
+<text id="13022000">未持有柿子</text>
+<text id="13023003">未持有葫芦种子</text>
+<text id="13023004">已增加伤药葫芦的使用次数</text>
+<text id="13023005">伤药葫芦已无法再增加使用次数</text>
+<text id="13023006">已交付龙咳血块</text>
+<text id="13024000">连战稀世强者，“记忆的连战·夺回神子”已解锁</text>
+<text id="13024001">%null%</text>
+<text id="13024002">%null%</text>
+<text id="13024003">%null%</text>
+<text id="13024004">%null%</text>
+<text id="13024005">%null%</text>
+<text id="13024006">%null%</text>
+<text id="13024007">%null%</text>
+<text id="13024008">%null%</text>
+<text id="13024009">%null%</text>
+<text id="13024010">连战稀世强者，“记忆的连战·修罗”已解锁</text>
+<text id="13024011">%null%</text>
+<text id="13024012">%null%</text>
+<text id="13024013">%null%</text>
+<text id="13024014">%null%</text>
+<text id="13024015">%null%</text>
+<text id="13024016">%null%</text>
+<text id="13024017">%null%</text>
+<text id="13024018">%null%</text>
+<text id="13024019">%null%</text>
+<text id="13024020">连战稀世强者，“记忆的连战·断绝不死”已解锁</text>
+<text id="13024021">%null%</text>
+<text id="13024022">%null%</text>
+<text id="13024023">%null%</text>
+<text id="13024024">%null%</text>
+<text id="13024025">%null%</text>
+<text id="13024026">%null%</text>
+<text id="13024027">%null%</text>
+<text id="13024028">%null%</text>
+<text id="13024029">%null%</text>
+<text id="13024030">连战稀世强者，“记忆的连战·跨越死斗”已解锁</text>
+<text id="14000000">给其服下龙咳药丸</text>
+<text id="14000001">不给其服下龙咳药丸</text>
+<text id="14000002">取得吐出的血</text>
+<text id="14000003">什么都不做</text>
+<text id="14000100">让他服下樱龙之泪</text>
+<text id="14000101">让他服下樱龙之泪和常樱之花</text>
+<text id="14000102">让他服下樱龙之泪和冰泪</text>
+<text id="14000500">给予尊贵饵食</text>
+<text id="14000501">选择真正尊贵饵食</text>
+<text id="14000502">离开</text>
+<text id="14000503">坛子贵人·春长给的饵食</text>
+<text id="14000504">坛子贵人·维盛给的饵食</text>
+<text id="14010000">询问看到了什么</text>
+<text id="14010001">不询问看到了什么</text>
+<text id="14010002">%null%</text>
+<text id="14010003">%null%</text>
+<text id="14010004">%null%</text>
+<text id="14010005">%null%</text>
+<text id="14010006">%null%</text>
+<text id="14010007">%null%</text>
+<text id="14010008">%null%</text>
+<text id="14010009">%null%</text>
+<text id="14010010">拿回九郎的护身符</text>
+<text id="14010011">请他代为保管九郎的护身符</text>
+<text id="14011000">交付九郎的护身符</text>
+<text id="14011001">什么都不做</text>
+<text id="14011002">%null%</text>
+<text id="14011003">%null%</text>
+<text id="14011004">%null%</text>
+<text id="14011005">%null%</text>
+<text id="14011006">%null%</text>
+<text id="14011007">%null%</text>
+<text id="14011008">%null%</text>
+<text id="14011009">%null%</text>
+<text id="14011010">坚持归还</text>
+<text id="14011011">继续保管</text>
+<text id="14011012">%null%</text>
+<text id="14011013">%null%</text>
+<text id="14011014">%null%</text>
+<text id="14011015">%null%</text>
+<text id="14011016">%null%</text>
+<text id="14011017">%null%</text>
+<text id="14011018">%null%</text>
+<text id="14011019">%null%</text>
+<text id="14011020">协助神子</text>
+<text id="14011021">遵从戒律，守护神子</text>
+<text id="14011022">%null%</text>
+<text id="14011023">%null%</text>
+<text id="14011024">%null%</text>
+<text id="14011025">%null%</text>
+<text id="14011026">%null%</text>
+<text id="14011027">%null%</text>
+<text id="14011028">%null%</text>
+<text id="14011029">%null%</text>
+<text id="14011030">叫醒</text>
+<text id="14011031">不叫醒</text>
+<text id="14011032">%null%</text>
+<text id="14011033">%null%</text>
+<text id="14011034">%null%</text>
+<text id="14011035">%null%</text>
+<text id="14011036">%null%</text>
+<text id="14011037">%null%</text>
+<text id="14011038">%null%</text>
+<text id="14011039">%null%</text>
+<text id="14011040">说明投身之所相关的事</text>
+<text id="14011041">不知道</text>
+<text id="14011042">%null%</text>
+<text id="14011043">%null%</text>
+<text id="14011044">%null%</text>
+<text id="14011045">%null%</text>
+<text id="14011046">%null%</text>
+<text id="14011047">%null%</text>
+<text id="14011048">%null%</text>
+<text id="14011049">%null%</text>
+<text id="14011050">交付樱露</text>
+<text id="14011051">不交付樱露</text>
+<text id="14011052">%null%</text>
+<text id="14011053">%null%</text>
+<text id="14011054">%null%</text>
+<text id="14011055">%null%</text>
+<text id="14011056">%null%</text>
+<text id="14011057">%null%</text>
+<text id="14011058">%null%</text>
+<text id="14011059">%null%</text>
+<text id="14011060">闻过遗香</text>
+<text id="14011061">没有闻过遗香</text>
+<text id="14012000">遵从戒律，舍弃神子</text>
+<text id="14012001">违背戒律，不舍弃神子</text>
+<text id="14012002">%null%</text>
+<text id="14012003">%null%</text>
+<text id="14012004">%null%</text>
+<text id="14012005">%null%</text>
+<text id="14012006">%null%</text>
+<text id="14012007">%null%</text>
+<text id="14012008">%null%</text>
+<text id="14012009">%null%</text>
+<text id="14012010">遵从戒律，舍弃神子</text>
+<text id="14012011">违背戒律，不舍弃神子</text>
+<text id="14013000">接受</text>
+<text id="14013001">拒绝</text>
+<text id="14013002">道歉</text>
+<text id="14013003">道谢</text>
+<text id="14013004">告知是不死斩</text>
+<text id="14013005">不想告知</text>
+<text id="14013006">接受</text>
+<text id="14013007">不想杀他</text>
+<text id="14014000">不知道</text>
+<text id="14014001">知道</text>
+<text id="14014002">没有线索</text>
+<text id="14014003">有线索</text>
+<text id="14015000">询问哭泣的理由</text>
+<text id="14015001">不询问哭泣的理由</text>
+<text id="14015002">不知道</text>
+<text id="14015003">不回答</text>
+<text id="14016000">回答不是她儿子</text>
+<text id="14016001">什么都不说</text>
+<text id="14017000">询问那一晚的事</text>
+<text id="14017001">什么都不说</text>
+<text id="14017002">支付&lt;?evntAcquittalPrice?&gt;钱购买情报</text>
+<text id="14017003">不购买情报</text>
+<text id="14018000">回答</text>
+<text id="14018001">不回答</text>
+<text id="14022000">拔刀</text>
+<text id="14022001">不拔刀</text>
+<text id="14022002">交付柿子</text>
+<text id="14022003">不交付柿子</text>
+<text id="14022004">上前搭话</text>
+<text id="14022005">交付永旅经·虫赐之章</text>
+<text id="14022006">离开</text>
+<text id="14022007">交付蛇柿</text>
+<text id="14022008">不交付蛇柿</text>
+<text id="14022009">交付樱露</text>
+<text id="14022010">不交付樱露</text>
+<text id="14023000">询问进入一心望楼的方法</text>
+<text id="14023001">不询问进入一心望楼的方法</text>
+<text id="14023002">同意。想救九郎的性命</text>
+<text id="14023003">拒绝。断绝不死是主人的命令</text>
+<text id="14023004">重新考虑。还是想救九郎的性命</text>
+<text id="14023005">想法不变</text>
+<text id="14023006">默默离开</text>
+<text id="14023007">询问隐瞒之事</text>
+<text id="14024000">知道</text>
+<text id="14024001">不知道</text>
+<text id="14024050">接受</text>
+<text id="14024051">拒绝</text>
+<text id="14025000">交付鱼王的白须</text>
+<text id="14025001">不交付鱼王的白须</text>
+<text id="14025002">什么都不做</text>
+<text id="14026000">询问哭泣的理由</text>
+<text id="14026001">不询问哭泣的理由</text>
+<text id="14026002">交付红白色风车</text>
+<text id="14026003">交付洁白的风车</text>
+<text id="14026004">诱导前往地牢</text>
+<text id="14026005">介绍货郎穴山</text>
+<text id="14026006">接受</text>
+<text id="14026007">拒绝</text>
+<text id="14026008">介绍可去之地</text>
+<text id="14026009">什么都不做</text>
+<text id="14026010">取消</text>
+<text id="14027000">上前搭话</text>
+<text id="14027001">不上前搭话</text>
+<text id="14028000">上前搭话</text>
+<text id="14028001">不上前搭话</text>
+<text id="14028002">交付京城水</text>
+<text id="14028003">不交付京城水</text>
+<text id="14029000">交付米</text>
+<text id="14029001">不交付米</text>
+<text id="14029002">什么都不做</text>
+<text id="14030000">上前搭话</text>
+<text id="14030001">不上前搭话</text>
+<text id="14030002">诱导前往地牢</text>
+<text id="14030003">不知道</text>
+<text id="14030004">不诱导前往地牢</text>
+<text id="14031002">承认</text>
+<text id="14031003">什么都不说</text>
+<text id="14031004">交付鲤鱼的红眼球</text>
+<text id="14031005">不交付鲤鱼的红眼球</text>
+<text id="14031006">告知</text>
+<text id="14031007">不告知</text>
+<text id="14032000">询问关于尊贵之人的事</text>
+<text id="14032001">不回答</text>
+<text id="14036000">倾听秘密</text>
+<text id="14036001">不听秘密</text>
+<text id="14047000">承认</text>
+<text id="14047001">什么都不说</text>
+<text id="14070000">询问发生了什么</text>
+<text id="14070001">询问现今是何年</text>
+<text id="14070002">什么都不问</text>
+<text id="14070003">%null%</text>
+<text id="14070004">%null%</text>
+<text id="14070005">接受</text>
+<text id="14070006">什么都不说</text>
+<text id="15000000">交谈</text>
+<text id="15000001">%null%</text>
+<text id="15000002">%null%</text>
+<text id="15000003">%null%</text>
+<text id="15000004">%null%</text>
+<text id="15000005">离开</text>
+<text id="15000006">取消</text>
+<text id="15000007">%null%</text>
+<text id="15000008">%null%</text>
+<text id="15000009">%null%</text>
+<text id="15000010">购买道具</text>
+<text id="15000011">变卖道具</text>
+<text id="15000012">购买纸人</text>
+<text id="15000013">%null%</text>
+<text id="15000014">%null%</text>
+<text id="15000015">%null%</text>
+<text id="15000016">%null%</text>
+<text id="15000017">%null%</text>
+<text id="15000018">%null%</text>
+<text id="15000019">%null%</text>
+<text id="15000020">%null%</text>
+<text id="15000110">离开</text>
+<text id="15000111">%null%</text>
+<text id="15000112">%null%</text>
+<text id="15000113">%null%</text>
+<text id="15000114">%null%</text>
+<text id="15000115">%null%</text>
+<text id="15000116">%null%</text>
+<text id="15000117">%null%</text>
+<text id="15000118">%null%</text>
+<text id="15000119">%null%</text>
+<text id="15000120">休息</text>
+<text id="15000121">%null%</text>
+<text id="15000122">%null%</text>
+<text id="15000123">%null%</text>
+<text id="15000124">%null%</text>
+<text id="15000125">%null%</text>
+<text id="15000126">%null%</text>
+<text id="15000127">%null%</text>
+<text id="15000128">%null%</text>
+<text id="15000129">%null%</text>
+<text id="15000130">%null%</text>
+<text id="15000131">%null%</text>
+<text id="15000132">%null%</text>
+<text id="15000133">%null%</text>
+<text id="15000134">%null%</text>
+<text id="15000135">%null%</text>
+<text id="15000136">%null%</text>
+<text id="15000137">%null%</text>
+<text id="15000138">%null%</text>
+<text id="15000139">%null%</text>
+<text id="15000140">购买道具</text>
+<text id="15000141">%null%</text>
+<text id="15000142">%null%</text>
+<text id="15000143">%null%</text>
+<text id="15000144">%null%</text>
+<text id="15000145">%null%</text>
+<text id="15000146">%null%</text>
+<text id="15000147">%null%</text>
+<text id="15000148">%null%</text>
+<text id="15000149">%null%</text>
+<text id="15000150">佛渡</text>
+<text id="15000170">提升体力</text>
+<text id="15000171">%null%</text>
+<text id="15000172">%null%</text>
+<text id="15000173">%null%</text>
+<text id="15000174">%null%</text>
+<text id="15000175">%null%</text>
+<text id="15000176">%null%</text>
+<text id="15000177">%null%</text>
+<text id="15000178">%null%</text>
+<text id="15000179">%null%</text>
+<text id="15000180">抑制淤淀</text>
+<text id="15000181">%null%</text>
+<text id="15000182">%null%</text>
+<text id="15000183">%null%</text>
+<text id="15000184">%null%</text>
+<text id="15000185">%null%</text>
+<text id="15000186">%null%</text>
+<text id="15000187">%null%</text>
+<text id="15000188">%null%</text>
+<text id="15000189">%null%</text>
+<text id="15000190">开始第&lt;?nextLoopCount?&gt;回的战斗</text>
+<text id="15000191">%null%</text>
+<text id="15000192">%null%</text>
+<text id="15000193">%null%</text>
+<text id="15000194">%null%</text>
+<text id="15000195">%null%</text>
+<text id="15000196">%null%</text>
+<text id="15000197">%null%</text>
+<text id="15000198">%null%</text>
+<text id="15000199">%null%</text>
+<text id="15000200">下一项</text>
+<text id="15000201">前一项</text>
+<text id="15000250">治疗龙咳</text>
+<text id="15000300">习得技能</text>
+<text id="15000400">%null%</text>
+<text id="15000401">%null%</text>
+<text id="15000402">%null%</text>
+<text id="15000403">%null%</text>
+<text id="15000500">款待苇名酒</text>
+<text id="15000501">款待浊酒</text>
+<text id="15000502">款待猿酒</text>
+<text id="15000503">款待龙泉</text>
+<text id="15000504">%null%</text>
+<text id="15000505">%null%</text>
+<text id="15000506">%null%</text>
+<text id="15000507">%null%</text>
+<text id="15000508">%null%</text>
+<text id="15000509">%null%</text>
+<text id="15000510">款待美酒</text>
+<text id="15000511">%null%</text>
+<text id="15000512">%null%</text>
+<text id="15000513">%null%</text>
+<text id="15000514">%null%</text>
+<text id="15000515">%null%</text>
+<text id="15000516">%null%</text>
+<text id="15000517">%null%</text>
+<text id="15000518">%null%</text>
+<text id="15000519">%null%</text>
+<text id="15000520">给其服下龙咳药丸</text>
+<text id="15000521">取得龙咳血块</text>
+<text id="15000600">强化攻击力</text>
+<text id="15000601">强化攻击力（消耗技能点数）</text>
+<text id="15000700">直面战斗记忆·鬼形部</text>
+<text id="15000701">%null%</text>
+<text id="15000702">%null%</text>
+<text id="15000703">%null%</text>
+<text id="15000704">%null%</text>
+<text id="15000705">%null%</text>
+<text id="15000706">%null%</text>
+<text id="15000707">%null%</text>
+<text id="15000708">%null%</text>
+<text id="15000709">%null%</text>
+<text id="15000710">直面战斗记忆·鬼形部</text>
+<text id="15000711">直面战斗记忆·幻影之蝶</text>
+<text id="15000712">直面战斗记忆·苇名弦一郎</text>
+<text id="15000713">直面战斗记忆·屏风猿猴</text>
+<text id="15000714">直面战斗记忆·狮子猿</text>
+<text id="15000715">直面战斗记忆·破戒僧</text>
+<text id="15000716">直面战斗记忆·巨型忍者 枭</text>
+<text id="15000717">直面战斗记忆·义父</text>
+<text id="15000718">直面战斗记忆·宫内破戒僧</text>
+<text id="15000719">直面战斗记忆·樱龙</text>
+<text id="15000720">直面战斗记忆·怨恨之鬼</text>
+<text id="15000721">直面战斗记忆·剑圣苇名一心</text>
+<text id="15000722">直面战斗记忆·苇名一心</text>
+<text id="15000723">直面战斗记忆·无首狮子猿</text>
+<text id="15000724">%null%</text>
+<text id="15000725">%null%</text>
+<text id="15000726">%null%</text>
+<text id="15000727">%null%</text>
+<text id="15000728">%null%</text>
+<text id="15000729">%null%</text>
+<text id="15000730">直面战斗记忆·心中的弦一郎</text>
+<text id="15000731">直面战斗记忆·心中的义父</text>
+<text id="15000732">直面战斗记忆·心中的一心</text>
+<text id="15000800">给其服下龙咳药丸</text>
+<text id="15000811">取得吐出的血</text>
+<text id="15000900">再战稀世强者</text>
+<text id="15000901">连战稀世强者</text>
+<text id="15000902">改变外形</text>
+<text id="15000903">%null%</text>
+<text id="15000904">%null%</text>
+<text id="15000905">%null%</text>
+<text id="15000906">%null%</text>
+<text id="15000907">%null%</text>
+<text id="15000908">%null%</text>
+<text id="15000909">%null%</text>
+<text id="15000910">休息</text>
+<text id="15000911">购买纸人</text>
+<text id="15000912">再战稀世强者</text>
+<text id="15000913">结束战斗</text>
+<text id="15000914">%null%</text>
+<text id="15000915">%null%</text>
+<text id="15000916">%null%</text>
+<text id="15000917">%null%</text>
+<text id="15000918">%null%</text>
+<text id="15000919">%null%</text>
+<text id="15000920">休息</text>
+<text id="15000921">购买纸人</text>
+<text id="15000922">与下一个稀世强者战斗</text>
+<text id="15000923">结束战斗</text>
+<text id="15001000">连战稀世强者</text>
+<text id="15001001">记忆的连战·夺回神子</text>
+<text id="15001002">记忆的连战·修罗</text>
+<text id="15001003">记忆的连战·断绝不死</text>
+<text id="15001004">记忆的连战·跨越死斗</text>
+<text id="15010000">安装义手忍具</text>
+<text id="15010001">强化义手忍具</text>
+<text id="15010002">交付机关筒</text>
+<text id="15010003">请他看忍义手</text>
+<text id="15010300">询问关于自己的事</text>
+<text id="15010301">询问关于左臂的事</text>
+<text id="15010302">询问关于神子之血的事</text>
+<text id="15010900">避免更大的苦难</text>
+<text id="15011010">出示樱露</text>
+<text id="15011011">交付樱露</text>
+<text id="15011012">关于花</text>
+<text id="15011013">关于石头</text>
+<text id="15011014">关于樱</text>
+<text id="15011015">关于神子的血</text>
+<text id="15011016">关于少主人的守护铃</text>
+<text id="15013000">修炼</text>
+<text id="15013001">模拟战</text>
+<text id="15013002">告知不死斩相关的事</text>
+<text id="15013003">说明不死斩相关的事</text>
+<text id="15013004">说明神社相关的事</text>
+<text id="15013005">%null%</text>
+<text id="15013006">%null%</text>
+<text id="15013007">%null%</text>
+<text id="15013008">%null%</text>
+<text id="15013009">%null%</text>
+<text id="15013010">模拟战（基础）</text>
+<text id="15013011">模拟战（应用）</text>
+<text id="15013012">%null%</text>
+<text id="15013013">%null%</text>
+<text id="15013014">%null%</text>
+<text id="15013015">%null%</text>
+<text id="15013016">%null%</text>
+<text id="15013017">%null%</text>
+<text id="15013018">%null%</text>
+<text id="15013019">%null%</text>
+<text id="15013020">攻击</text>
+<text id="15013021">弹开</text>
+<text id="15013022">闪避</text>
+<text id="15013023">连续弹开</text>
+<text id="15013024">ＨＰ与躯干</text>
+<text id="15013025">突刺攻击的应对方式</text>
+<text id="15013026">下段攻击的应对方式</text>
+<text id="15013027">识破</text>
+<text id="15013028">失衡绕袭</text>
+<text id="15013039">取消</text>
+<text id="15014000">购买道具</text>
+<text id="15017000">%null%</text>
+<text id="15017001">%null%</text>
+<text id="15017002">%null%</text>
+<text id="15017003">购买道具</text>
+<text id="15017004">变卖道具</text>
+<text id="15017005">%null%</text>
+<text id="15017006">购买情报</text>
+<text id="15017007">购买情报</text>
+<text id="15017008">%null%</text>
+<text id="15017009">确认购买的情报</text>
+<text id="15022004">获得米</text>
+<text id="15022005">交付永旅经·虫赐之章</text>
+<text id="15022006">交付柿子</text>
+<text id="15022007">出示樱露</text>
+<text id="15022008">交付柿子</text>
+<text id="15022009">交付太郎柿</text>
+<text id="15023000">制作龙咳药丸</text>
+<text id="15023001">出示伤药葫芦</text>
+<text id="15023002">交付葫芦种子</text>
+<text id="15023003">交付龙咳血块</text>
+<text id="15023004">询问窃听到的事</text>
+<text id="15023005">说明龙咳相关的事</text>
+<text id="15023006">关于一心的口信</text>
+<text id="15024000">关于断绝不死</text>
+<text id="15024001">关于不死斩的所在</text>
+<text id="15026002">介绍货郎穴山</text>
+<text id="15027000">询问关于村子的事</text>
+<text id="15027001">询问关于村人的事</text>
+<text id="15027002">询问关于神官的事</text>
+<text id="15036000">交换鳞片</text>
+<text id="15048000">询问关于紫色和服的猴子</text>
+<text id="15048001">询问关于橙色和服的猴子</text>
+<text id="15048002">询问关于绿色和服的猴子</text>
+<text id="15100000">&lt;?null?&gt;</text>
+<text id="15100001">%null%</text>
+<text id="15100002">%null%</text>
+<text id="15100003">%null%</text>
+<text id="15100004">%null%</text>
+<text id="15100005">&lt;?null?&gt;</text>
+<text id="15100006">&lt;?null?&gt;</text>
+<text id="15100007">%null%</text>
+<text id="15100008">%null%</text>
+<text id="15100009">%null%</text>
+<text id="15100010">&lt;?null?&gt;</text>
+<text id="15100011">&lt;?null?&gt;</text>
+<text id="15100120">在鬼佛处休息</text>
+<text id="15100140">购买纸人</text>
+<text id="15100141">%null%</text>
+<text id="15100142">%null%</text>
+<text id="15100143">%null%</text>
+<text id="15100144">%null%</text>
+<text id="15100145">%null%</text>
+<text id="15100146">%null%</text>
+<text id="15100147">%null%</text>
+<text id="15100148">%null%</text>
+<text id="15100149">%null%</text>
+<text id="15100150">佛渡至曾经对坐过的鬼佛前</text>
+<text id="15100170">消耗佛珠，提升ＨＰ与躯干</text>
+<text id="15100190">开始第&lt;?nextLoopCount?&gt;回的战斗</text>
+<text id="15100250">使龙咳痊愈</text>
+<text id="15100300">使用技能点数，习得技能</text>
+<text id="15100500">&lt;?null?&gt;</text>
+<text id="15100501">&lt;?null?&gt;</text>
+<text id="15100502">&lt;?null?&gt;</text>
+<text id="15100503">&lt;?null?&gt;</text>
+<text id="15100504">%null%</text>
+<text id="15100505">%null%</text>
+<text id="15100506">%null%</text>
+<text id="15100507">%null%</text>
+<text id="15100508">%null%</text>
+<text id="15100509">%null%</text>
+<text id="15100510">&lt;?null?&gt;</text>
+<text id="15100511">%null%</text>
+<text id="15100512">%null%</text>
+<text id="15100513">%null%</text>
+<text id="15100514">%null%</text>
+<text id="15100515">%null%</text>
+<text id="15100516">%null%</text>
+<text id="15100517">%null%</text>
+<text id="15100518">%null%</text>
+<text id="15100519">%null%</text>
+<text id="15100520">&lt;?null?&gt;</text>
+<text id="15100521">&lt;?null?&gt;</text>
+<text id="15100600">直面战斗记忆，强化攻击力</text>
+<text id="15100601">消耗技能点数，强化攻击力</text>
+<text id="15100700">直面战斗记忆，强化攻击力</text>
+<text id="15100701">%null%</text>
+<text id="15100702">%null%</text>
+<text id="15100703">%null%</text>
+<text id="15100704">%null%</text>
+<text id="15100705">%null%</text>
+<text id="15100706">%null%</text>
+<text id="15100707">%null%</text>
+<text id="15100708">%null%</text>
+<text id="15100709">%null%</text>
+<text id="15100710">直面战斗记忆·鬼形部，强化攻击力</text>
+<text id="15100711">直面战斗记忆·幻影之蝶，强化攻击力</text>
+<text id="15100712">直面战斗记忆·苇名弦一郎，强化攻击力</text>
+<text id="15100713">直面战斗记忆·屏风猿猴，强化攻击力</text>
+<text id="15100714">直面战斗记忆·狮子猿，强化攻击力</text>
+<text id="15100715">直面战斗记忆·破戒僧，强化攻击力</text>
+<text id="15100716">直面战斗记忆·巨型忍者 枭，强化攻击力</text>
+<text id="15100717">直面战斗记忆·义父，强化攻击力</text>
+<text id="15100718">直面战斗记忆·宫内破戒僧，强化攻击力</text>
+<text id="15100719">直面战斗记忆·樱龙，强化攻击力</text>
+<text id="15100720">直面战斗记忆·怨恨之鬼，强化攻击力</text>
+<text id="15100721">直面战斗记忆·剑圣苇名一心，强化攻击力</text>
+<text id="15100722">直面战斗记忆·苇名一心，强化攻击力</text>
+<text id="15100723">直面战斗记忆·无首狮子猿，强化攻击力</text>
+<text id="15100724">%null%</text>
+<text id="15100725">%null%</text>
+<text id="15100726">%null%</text>
+<text id="15100727">%null%</text>
+<text id="15100728">%null%</text>
+<text id="15100729">%null%</text>
+<text id="15100730">直面战斗记忆·心中的弦一郎，强化攻击力</text>
+<text id="15100731">直面战斗记忆·心中的义父，强化攻击力</text>
+<text id="15100732">直面战斗记忆·心中的一心，强化攻击力</text>
+<text id="15100810">&lt;?null?&gt;</text>
+<text id="15100811">&lt;?null?&gt;</text>
+<text id="15100900">于记忆中再战稀世强者</text>
+<text id="15100901">于记忆中连战稀世强者</text>
+<text id="15100902">变更狼的外形</text>
+<text id="15100903">%null%</text>
+<text id="15100904">%null%</text>
+<text id="15100905">%null%</text>
+<text id="15100906">%null%</text>
+<text id="15100907">%null%</text>
+<text id="15100908">%null%</text>
+<text id="15100909">%null%</text>
+<text id="15100910">于鬼佛处休息</text>
+<text id="15100911">购买纸人</text>
+<text id="15100912">选择稀世强者再战</text>
+<text id="15100913">结束战斗，返回原本的鬼佛</text>
+<text id="15100914">%null%</text>
+<text id="15100915">%null%</text>
+<text id="15100916">%null%</text>
+<text id="15100917">%null%</text>
+<text id="15100918">%null%</text>
+<text id="15100919">%null%</text>
+<text id="15100920">在鬼佛处休息</text>
+<text id="15100921">购买纸人</text>
+<text id="15100922">选择下一个欲挑战的稀世强者</text>
+<text id="15100923">结束战斗，返回原本的鬼佛</text>
+<text id="15101001">回溯夺回神子的记忆，连战稀世强者</text>
+<text id="15101002">回溯修罗的记忆，连战稀世强者</text>
+<text id="15101003">回溯断绝不死的记忆，连战稀世强者</text>
+<text id="15101004">回溯战斗记忆，连战所有稀世强者</text>
+<text id="15110000">&lt;?null?&gt;</text>
+<text id="15110001">&lt;?null?&gt;</text>
+<text id="15110002">&lt;?null?&gt;</text>
+<text id="15110003">&lt;?null?&gt;</text>
+<text id="15110300">&lt;?null?&gt;</text>
+<text id="15110301">&lt;?null?&gt;</text>
+<text id="15110302">&lt;?null?&gt;</text>
+<text id="15110900">&lt;?null?&gt;</text>
+<text id="15111010">&lt;?null?&gt;</text>
+<text id="15111011">&lt;?null?&gt;</text>
+<text id="15111012">&lt;?null?&gt;</text>
+<text id="15111013">&lt;?null?&gt;</text>
+<text id="15111014">&lt;?null?&gt;</text>
+<text id="15111015">&lt;?null?&gt;</text>
+<text id="15111016">&lt;?null?&gt;</text>
+<text id="15113000">进行战斗相关的基础修炼</text>
+<text id="15113001">进行模拟战</text>
+<text id="15113002">&lt;?null?&gt;</text>
+<text id="15113003">&lt;?null?&gt;</text>
+<text id="15113004">%null%</text>
+<text id="15113005">%null%</text>
+<text id="15113006">%null%</text>
+<text id="15113007">%null%</text>
+<text id="15113008">%null%</text>
+<text id="15113009">%null%</text>
+<text id="15113010">进行模拟战（基础）</text>
+<text id="15113011">进行模拟战（运用）</text>
+<text id="15113012">%null%</text>
+<text id="15113013">%null%</text>
+<text id="15113014">%null%</text>
+<text id="15113015">%null%</text>
+<text id="15113016">%null%</text>
+<text id="15113017">%null%</text>
+<text id="15113018">%null%</text>
+<text id="15113019">%null%</text>
+<text id="15113020">修炼“攻击”的基本技巧</text>
+<text id="15113021">修炼“弹开”的基本技巧</text>
+<text id="15113022">修炼“闪避”的基本技巧</text>
+<text id="15113023">修炼“连续弹开”</text>
+<text id="15113024">修炼“ＨＰ与躯干”</text>
+<text id="15113025">修炼“突刺攻击的应对方式”</text>
+<text id="15113026">修炼“下段攻击的应对方式”</text>
+<text id="15113027">修炼“识破”</text>
+<text id="15113028">修炼“失衡绕袭”</text>
+<text id="15113039">%null%</text>
+<text id="15114000">&lt;?null?&gt;</text>
+<text id="15114001">&lt;?null?&gt;</text>
+<text id="15117000">%null%</text>
+<text id="15117001">%null%</text>
+<text id="15117002">%null%</text>
+<text id="15117003">&lt;?null?&gt;</text>
+<text id="15117004">&lt;?null?&gt;</text>
+<text id="15117005">%null%</text>
+<text id="15117006">&lt;?null?&gt;</text>
+<text id="15117007">&lt;?null?&gt;</text>
+<text id="15117008">&lt;?null?&gt;</text>
+<text id="15122000">&lt;?null?&gt;</text>
+<text id="15122001">&lt;?null?&gt;</text>
+<text id="15122002">&lt;?null?&gt;</text>
+<text id="15122003">&lt;?null?&gt;</text>
+<text id="15122004">&lt;?null?&gt;</text>
+<text id="15122005">&lt;?null?&gt;</text>
+<text id="15122006">&lt;?null?&gt;</text>
+<text id="15122007">&lt;?null?&gt;</text>
+<text id="15122008">&lt;?null?&gt;</text>
+<text id="15122009">&lt;?null?&gt;</text>
+<text id="15123000">&lt;?null?&gt;</text>
+<text id="15123001">&lt;?null?&gt;</text>
+<text id="15123002">&lt;?null?&gt;</text>
+<text id="15123003">&lt;?null?&gt;</text>
+<text id="15123004">&lt;?null?&gt;</text>
+<text id="15123005">&lt;?null?&gt;</text>
+<text id="15123006">&lt;?null?&gt;</text>
+<text id="15124000">&lt;?null?&gt;</text>
+<text id="15124001">&lt;?null?&gt;</text>
+<text id="15126000">&lt;?null?&gt;</text>
+<text id="15126001">&lt;?null?&gt;</text>
+<text id="15127000">&lt;?null?&gt;</text>
+<text id="15127001">&lt;?null?&gt;</text>
+<text id="15127002">&lt;?null?&gt;</text>
+<text id="15136000">&lt;?null?&gt;</text>
+<text id="15148000">&lt;?null?&gt;</text>
+<text id="15148001">&lt;?null?&gt;</text>
+<text id="15148002">&lt;?null?&gt;</text>
+<text id="50000210">触碰残影</text>
+<text id="50000500">触碰自己的残影</text>
+<text id="80010400">%null%</text>
+<text id="80010500">%null%</text>
+<text id="80010501">%null%</text>
+</entries>
+</fmg>

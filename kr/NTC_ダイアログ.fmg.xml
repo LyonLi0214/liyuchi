@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">OK</text>
+<text id="2">취소</text>
+<text id="3">예</text>
+<text id="4">아니요</text>
+<text id="15">재시도</text>
+<text id="16">계속하기</text>
+<text id="17">타이틀 화면으로 돌아가기</text>
+<text id="11020">사용할 수량을 선택하십시오</text>
+<text id="12300">구입할 수량을 선택하십시오</text>
+<text id="12320">교환할 수량을 선택하십시오</text>
+<text id="12400">판매할 수량을 선택하십시오</text>
+<text id="40200">소지금이 부족합니다</text>
+<text id="40201">필요한 아이템이 부족합니다</text>
+<text id="40202">소지금, 필요한 아이템이 부족합니다</text>
+<text id="40300">설정을 초기 상태로 되돌립니다
+계속하시겠습니까?</text>
+<text id="40500">모든 설정을 초기 상태로 되돌립니다
+계속하시겠습니까?</text>
+<text id="102000">&lt;?itemName?&gt; 아이템을 사용하시겠습니까?</text>
+<text id="102001">소지금의 상한을 초과하게 됩니다
+상한을 초과한 금전은 잃게 되지만, 그래도 사용하시겠습니까?</text>
+<text id="110500">게임을 저장하고 타이틀 화면으로 돌아갑니다
+계속하시겠습니까?</text>
+<text id="110501">게임을 종료하고 타이틀 화면으로 돌아갑니다
+계속하시겠습니까?</text>
+<text id="111100">설정을 변경했습니다
+&lt;?remainingSec?&gt;초 후에 원래 설정으로 돌아갑니다
+현재 설정을 반영하시겠습니까?</text>
+<text id="111101">현재 설정을 반영하시겠습니까?</text>
+<text id="111102">일부 설정은 타이틀 화면으로 돌아가기 전에는 반영되지 않습니다</text>
+<text id="111103">이 항목은 게임을 다시 기동해야 반영됩니다</text>
+<text id="111104">설정을 변경했습니다
+&lt;?remainingSec?&gt;초 후에 원래 설정으로 돌아갑니다
+현재 설정을 반영하시겠습니까?</text>
+<text id="111105">일부 설정은 타이틀 화면으로 돌아가기 전에는 반영되지 않습니다</text>
+<text id="111106">HDR을 OFF로 변경합니다</text>
+<text id="111107">HDR을 ON으로 변경합니다</text>
+<text id="210000">마주 앉아 있는 귀불로는 불상 건너기를 할 수 없습니다</text>
+<text id="210001">선택한 귀불은 현재 기능을 잃었습니다
+다시 귀불과 마주 앉으면 기능을 회복시킬 수 있습니다</text>
+<text id="220000">&lt;?retryBossName?&gt;(와)과의 싸움을 시작하시겠습니까?</text>
+<text id="230000">소지금 &lt;?demandSoul?&gt;으로 다음을 구입합니다
+&lt;?itemName?&gt;</text>
+<text id="230001">%null%</text>
+<text id="230002">%null%</text>
+<text id="230003">%null%</text>
+<text id="230004">%null%</text>
+<text id="230005">%null%</text>
+<text id="230006">%null%</text>
+<text id="230007">%null%</text>
+<text id="230008">%null%</text>
+<text id="230009">%null%</text>
+<text id="230010">소지 상한을 초과한 아이템을 수납했습니다</text>
+<text id="230011">%null%</text>
+<text id="230012">%null%</text>
+<text id="230013">%null%</text>
+<text id="230014">%null%</text>
+<text id="230015">%null%</text>
+<text id="230016">%null%</text>
+<text id="230017">%null%</text>
+<text id="230018">%null%</text>
+<text id="230019">%null%</text>
+<text id="230020">소지 및 수납 상한이 초과되어 구입할 수 없습니다</text>
+<text id="230100">품절되어 구입할 수 없습니다</text>
+<text id="232000">&lt;?gdsparam@10000?&gt;&lt;?demandScale?&gt;개를 다음으로 교환합니다
+&lt;?itemName?&gt;</text>
+<text id="232001">%null%</text>
+<text id="232002">%null%</text>
+<text id="232003">%null%</text>
+<text id="232004">%null%</text>
+<text id="232005">%null%</text>
+<text id="232006">%null%</text>
+<text id="232007">%null%</text>
+<text id="232008">%null%</text>
+<text id="232009">%null%</text>
+<text id="232010">소지 상한을 초과한 아이템을 수납했습니다</text>
+<text id="232011">%null%</text>
+<text id="232012">%null%</text>
+<text id="232013">%null%</text>
+<text id="232014">%null%</text>
+<text id="232015">%null%</text>
+<text id="232016">%null%</text>
+<text id="232017">%null%</text>
+<text id="232018">%null%</text>
+<text id="232019">%null%</text>
+<text id="232020">소지 및 수납 상한이 초과되어 교환할 수 없습니다</text>
+<text id="232100">품절되어 교환할 수 없습니다</text>
+<text id="240000">&lt;?itemName?&gt; 아이템을 &lt;?sellSouls?&gt;금전에 판매합니다</text>
+<text id="240001">장비하고 있는 아이템은 판매할 수 없습니다</text>
+<text id="250000">&lt;?itemName?&gt; 아이템을 작성하시겠습니까?</text>
+<text id="260000">&lt;?itemName?&gt; 아이템을 강화하시겠습니까?</text>
+<text id="260001">%null%</text>
+<text id="260002">%null%</text>
+<text id="260003">%null%</text>
+<text id="260004">%null%</text>
+<text id="260005">%null%</text>
+<text id="260006">%null%</text>
+<text id="260007">%null%</text>
+<text id="260008">%null%</text>
+<text id="260009">%null%</text>
+<text id="260010">3단계 정보가 해금되었습니다</text>
+<text id="260011">4단계 정보가 해금되었습니다</text>
+<text id="260012">5단계 정보가 해금되었습니다</text>
+<text id="260013">최종 단계 정보가 해금되었습니다</text>
+<text id="260110">필요한 의수 닌자 도구의 강화가 완료되어 있지 않았습니다</text>
+<text id="260111">정보가 해금되는 강화 단계에 도달하지 않았습니다</text>
+<text id="260112">대응하는 의수 닌자 도구를 소지하고 있지 않습니다</text>
+<text id="270000">&lt;?itemName?&gt; 스킬을 해금하시겠습니까?</text>
+<text id="270100">필요한 스킬 포인트가 부족합니다</text>
+<text id="270101">필요한 스킬을 습득하지 않았습니다</text>
+<text id="270102">스킬을 확인할 수 있는 단계에 도달하지 않았습니다</text>
+<text id="270103">필요한 스킬을 습득하지 않았기 때문에
+스킬을 확인할 수 없습니다</text>
+<text id="280000">이 항목의 할당을 해제할 수 없습니다</text>
+<text id="280001">모든 설정을 초기 상태로 되돌립니다
+계속하시겠습니까?</text>
+<text id="280002">중복된 설정이 있습니다
+설정을 확인해 주십시오</text>
+<text id="280003">중복된 설정이 있습니다
+설정을 저장하지 않고 종료하시겠습니까?</text>
+<text id="280004">프라이머리 디바이스가 변경되어 설정을 취소했습니다</text>
+<text id="311000">이 잔영을 삭제합니다
+계속하시겠습니까?</text>
+<text id="311001">이 잔영을 평가하시겠습니까?</text>
+<text id="311002">이 잔영에 악평을 하시겠습니까?</text>
+<text id="321000">이 내용의 비망록으로 잔영 기록을 시작하시겠습니까?</text>
+<text id="321001">설정 중인 비망록을 파기합니다
+계속하시겠습니까?</text>
+<text id="321002">%null%</text>
+<text id="321003">%null%</text>
+<text id="321004">%null%</text>
+<text id="321005">%null%</text>
+<text id="321006">%null%</text>
+<text id="321007">%null%</text>
+<text id="321008">%null%</text>
+<text id="321009">%null%</text>
+<text id="321010">잔영 메뉴는 사용할 수 없습니다.</text>
+<text id="321011">잔영 메뉴는 사용할 수 없습니다.</text>
+<text id="322000">이 잔영을 삭제합니다
+계속하시겠습니까?</text>
+<text id="322001">잔영 기록을 시작하시겠습니까?</text>
+<text id="322002">현재 잔영을 삭제하고 새로 잔영 기록을 시작하시겠습니까?</text>
+<text id="322003">현재 잔영을 삭제하고 새로 잔영의 비망록을 설정하시겠습니까?</text>
+<text id="322004">기존의 비망록을 불러오시겠습니까?</text>
+<text id="323000">잔영 기록을 완료하시겠습니까?</text>
+<text id="323001">잔영 기록을 파기하시겠습니까?</text>
+<text id="401701">&lt;?sysmsg@401701?&gt;</text>
+<text id="404020">HDR 설정이 ON일 때
+게임 내 일시 정지 메뉴의 설정 메뉴에서만
+화질을 조정할 수 있습니다</text>
+<text id="406011">선택한 프로필로 시작합니다</text>
+<text id="406012">선택한 프로필을 삭제하고
+새로운 게임을 시작하시겠습니까?</text>
+<text id="406013">선택한 프로필을 삭제합니다
+계속하시겠습니까?</text>
+<text id="450000">이대로 &lt;?nextLoopCount?&gt;주차의 세계를 시작하시겠습니까? 
+지금 시작하지 않을 경우, 황폐한 절의 대귀불에서
+&lt;?nextLoopCount?&gt;주차의 세계를 시작할 수 있습니다</text>
+<text id="450001">&lt;?nextLoopCount?&gt;주차의 세계를 시작하면
+현재의 &lt;?loopCount?&gt;주차 세계로는 돌아올 수 없습니다
+&lt;?nextLoopCount?&gt;주차의 세계를 시작하시겠습니까?</text>
+</entries>
+</fmg>

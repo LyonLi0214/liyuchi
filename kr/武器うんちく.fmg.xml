@@ -1,0 +1,940 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="5000">&lt;?null?&gt;</text>
+<text id="5100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: 선풍베기
+회전하며 주변을 벤다</text>
+<text id="5200">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: 쏙독새 베기
+회전해 날아들며 벤다</text>
+<text id="5201">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: 쏙독새 베기
+회전해 날아들며 벤다
+
+타깃 고정 중
+&lt;?kgiconKc@2?&gt; 배후 방향으로 입력 &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: 거꾸로 돌리기
+벤 뒤에 허공을 돌며 착지한다</text>
+<text id="5300">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: 일문자
+묵직한 상단 베기
+발을 내디뎠을 때, 체간을 회복한다
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; 길게 누르기: 전심 일문자
+전심으로 펼치는 혼신의 상단 베기
+발을 내디뎠을 때, 체간을 회복한다</text>
+<text id="5301">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: 일문자
+묵직한 상단 베기
+발을 내디뎠을 때, 체간을 회복한다
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; 길게 누르기: 전심 일문자
+전심으로 펼치는 혼신의 상단 베기
+발을 내디뎠을 때에, 체간을 회복한다
+
+일문자 또는 전심 일문자 후 &lt;?kgiconKc@16?&gt;: 추격 일문자
+반격을 쳐내는 2격째의 베기
+발을 내디뎠을 때, 체간을 회복한다</text>
+<text id="5400">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: 발도 베어 내리기
+칼날을 뽑으며 고속으로 베어 내린다
+베어 내리기에는 진공파가 동반된다
+카타시로를 소비해 사용한다
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; 길게 누르기: 용섬
+칼날을 뽑으며 고속으로 베어 내린다
+베어 내리기에는 진공파가 동반되며
+그 후, 땅을 덮는 충격파를 날린다
+카타시로를 소비해 사용한다</text>
+<text id="5500">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; 길게 누르기: 거합 자세 개시
+칼날을 칼집에 넣고, 거합 자세를 취한다
+
+&lt;?kgiconKc@18?&gt; 해제: 거합 자세 중단
+거합 자세를 그만둔다
+
+&lt;?kgiconKc@16?&gt; 해제: 발도 십문자
+발도하며 고속으로 십문자로 찢는다
+카타시로를 소비해 사용한다</text>
+<text id="5600">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;: 쪽배 건너기
+춤을 추는 듯한 5연격을 펼친다</text>
+<text id="5601">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;: 소용돌이 구름 건너기
+춤을 추는 듯한 9연격을 펼치고
+주변에 진공파를 일으킨다
+카타시로를 소비해 사용한다</text>
+<text id="5700">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;: 불사베기
+불사베기를 뽑고 사정거리가 긴 칼날로 적을 횡으로 벤다
+카타시로를 소비해 사용한다</text>
+<text id="5701">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;: 불사베기
+불사베기를 뽑고
+사정거리가 긴 칼날로 적을 횡으로 벤다
+카타시로를 소비해 사용한다
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; 길게 누르기 →&lt;?kgiconKc@16?&gt; 길게 누르기: 불사베기 모으기
+염을 담아
+위력이 높고 사정거리가 긴 참격을 펼친다
+카타시로를 소비해 사용한다</text>
+<text id="5800">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;: 선봉각
+날아들며 연속 발차기</text>
+<text id="5801">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;: 선봉각
+날아들며 연속 발차기
+
+선봉각 후 &lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;: 보살각
+연속 참격에서의 전방 발차기</text>
+<text id="5900">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;: 경배연권
+팔꿈치 치기에서 손바닥의 연격</text>
+<text id="5901">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;: 경배연권
+팔꿈치 치기에서 손바닥의 연격
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; 길게 누르기 또는 경배연권 후 &lt;?kgiconKc@16?&gt;: 파마의 배격
+후방에서의 묵직한 몸통 박치기</text>
+<text id="6000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: 대닌자 찌르기
+원거리에서 닿는 찌르기 공격
+찌른 뒤 적을 발판 삼아 날아오른다
+날아올랐을 때 카타시로를 소비한다
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; 길게 누르기: 대닌자 찌르기 모으기
+찌르기 사정거리가 늘어난 대닌자 찌르기
+날아올랐을 때 카타시로를 소비한다</text>
+<text id="6001">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: 대닌자 찌르기
+원거리에서 닿는 찌르기 공격
+찌른 뒤 적을 발판 삼아 날아오른다
+날아올랐을 때 카타시로를 소비한다
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; 길게 누르기: 대닌자 찌르기 모으기
+찌르기 사정거리가 늘어난 대닌자 찌르기
+날아올랐을 때 카타시로를 소비한다
+
+날아오른 후 &lt;?kgiconKc@16?&gt;: 대닌자 떨구기
+낙하하며 회전 베기</text>
+<text id="6100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; 길게 누르기: 거합 자세 개시
+칼날을 칼집에 넣고, 거합 자세를 취한다
+
+&lt;?kgiconKc@18?&gt; 해제: 거합 자세 중단
+거합 자세를 그만둔다
+
+&lt;?kgiconKc@16?&gt; 해제: 잇신
+발도하며 보이지 않는 속도로 적을 벤다
+카타시로를 소비해 사용한다
+
+잇신 후 &lt;?kgiconKc@16?&gt;: 거합 추격
+전방으로 발을 내디디는 거합의 추격</text>
+<text id="7000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: 쏙독새 베기
+회전해 날아들며 벤다
+
+타깃 고정 중
+&lt;?kgiconKc@2?&gt; 배후 방향으로 입력 &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: 거꾸로 돌리기
+벤 뒤에 허공을 돌며 착지한다</text>
+<text id="7100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: 일문자
+묵직한 상단 베기
+발을 내디뎠을 때, 체간을 회복한다
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; 길게 누르기: 전심 일문자
+전심으로 펼치는 혼신의 상단 베기
+발을 내디뎠을 때에, 체간을 회복한다
+
+일문자 또는 전심 일문자 후 &lt;?kgiconKc@16?&gt;: 추격 일문자
+반격을 쳐내는 2격째의 베기
+발을 내디뎠을 때, 체간을 회복한다</text>
+<text id="7200">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;: 소용돌이 구름 건너기
+춤을 추는 듯한 9연격을 펼치고
+주변에 진공파를 일으킨다
+카타시로를 소비해 사용한다</text>
+<text id="7300">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;: 불사베기
+불사베기를 뽑고
+사정거리가 긴 칼날로 적을 횡으로 벤다
+카타시로를 소비해 사용한다
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; 길게 누르기 →&lt;?kgiconKc@16?&gt; 길게 누르기: 불사베기 모으기
+염을 담아
+위력이 높고 사정거리가 긴 참격을 펼친다
+카타시로를 소비해 사용한다</text>
+<text id="7400">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;: 선봉각
+날아들며 연속 발차기
+
+선봉각 후 &lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;: 보살각
+연속 참격에서의 전방 발차기</text>
+<text id="7500">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;: 경배연권
+팔꿈치 치기에서 손바닥의 연격
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; 길게 누르기 또는 경배연권 후 &lt;?kgiconKc@16?&gt;: 파마의 배격
+후방에서의 묵직한 몸통 박치기</text>
+<text id="7600">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: 대닌자 찌르기
+원거리에서 닿는 찌르기 공격
+찌른 뒤 적을 발판 삼아 날아오른다
+날아올랐을 때 카타시로를 소비한다
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; 길게 누르기: 대닌자 찌르기 모으기
+찌르기 사정거리가 늘어난 대닌자 찌르기
+날아올랐을 때 카타시로를 소비한다
+
+날아오른 후 &lt;?kgiconKc@16?&gt;: 대닌자 떨구기
+낙하하며 회전 베기</text>
+<text id="7700">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:비전 - 앵무
+회전의 힘으로 춤추듯 뛰어 세 번 벤다
+적의 하단 공격을 회피하며 날카로운 참격으로
+가드 중이어도 대미지를 입힌다
+
+공격 후에는 공중 공방으로 연결할 수도 있다
+카타시로를 소비해 사용한다</text>
+<text id="70000">&lt;?kgiconKc@17?&gt;: 수리검 투척
+수리검을 투척한다</text>
+<text id="70100">&lt;?kgiconKc@17?&gt;: 수리검 투척
+수리검을 투척한다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 회전 투척
+수리검에 회전력을 담아 투척한다
+적을 연속으로 타격한다</text>
+<text id="70200">&lt;?kgiconKc@17?&gt;: 수리검 투척
+날카로운 칼날의 수리검을 투척한다
+관통 효과가 있으며
+적의 HP와 체간을 가드 중이어도 깎는다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 회전 투척
+수리검에 회전력을 담아 투척한다
+적을 연속으로 타격한다</text>
+<text id="70300">&lt;?kgiconKc@17?&gt;: 환영의 나비
+쿠나이를 던진 후 환영의 나비가 날아오른다
+환영의 나비는 적을 추적해 날아가며
+가드 중이어도 대미지를 준다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 환영의 나비 - 군무
+모으면, 수많은 환영의 나비를 날린다</text>
+<text id="70400">&lt;?kgiconKc@17?&gt;: 금전 던지기
+다수의 금전을 던진다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 잔치 베풀기
+많은 금전을 방사형으로 뿌린다
+
+소지금에 따라 던지는 금전의 수는 변한다
+
+　빈털터리는 먼지만 나온다
+　가난뱅이는 금전을 조금 던진다
+　부자는 금전을 많이 던진다
+　대부는 금전을 아주 많이 던진다</text>
+<text id="70500">&lt;?kgiconKc@17?&gt;: 유리 수리검
+유리의 날카로운 수리검을 투척한다
+관통 효과가 있으며
+적의 HP와 체간을 가드 중이어도 깎는다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 유리 팽이 수리검
+회전력을 담아 유리 수리검을 투척한다
+적을 연속으로 타격한다</text>
+<text id="71000">&lt;?kgiconKc@17?&gt;: 폭죽
+폭죽을 전방에 뿌린다
+짐승은 크게 겁을 먹는다</text>
+<text id="71100">&lt;?kgiconKc@17?&gt;: 폭죽
+폭죽을 전방에 뿌린다
+짐승은 크게 겁을 먹는다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 폭죽 - 용수철식
+용수철 기계 장치로 힘을 모으고
+회전하면서 폭죽을 전방위에 뿌린다</text>
+<text id="71200">&lt;?kgiconKc@17?&gt;: 긴 불꽃
+장시간 남는 폭죽을 전방에 뿌린다
+짐승은 크게 겁을 먹는다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 긴 불꽃 - 용수철식
+용수철 기계 장치로 힘을 모으고
+회전하면서 폭죽을 전방위에 뿌린다</text>
+<text id="71300">&lt;?kgiconKc@17?&gt;: 자줏빛 연기 불꽃
+자줏빛 연기가 피어오르는 폭죽을 전방에 뿌린다
+보통 폭죽보다 늦게 작열한다
+폭죽으로 겁을 먹은 적에게 주는
+HP와 체간 대미지가 약간 늘어난다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 자줏빛 연기 불꽃 - 용수철식
+용수철 기계 장치로 힘을 모으고
+회전하면서 폭죽을 전방위에 뿌린다</text>
+<text id="72000">&lt;?kgiconKc@17?&gt;: 화염 방사
+전방에 불을 방사한다</text>
+<text id="72100">&lt;?kgiconKc@17?&gt;: 화염 방사
+전방에 불을 방사한다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 폭염
+용수철 기계 장치로 힘을 모으고, 전방에 폭염을 방사한다
+폭염은 적을 날려버린다</text>
+<text id="72200">&lt;?kgiconKc@17?&gt;: 화염 방사
+전방에 불을 방사한다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 폭염
+화약을 충전해, 전방에 폭염을 방사한다
+폭염은 적을 날려버린다
+
+&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt; 길게 누르기: 화염 흘리기
+전방에 계속해서 불을 방사한다</text>
+<text id="72300">&lt;?kgiconKc@17?&gt;: 정화
+전방에 신성이 깃든 불을 방사한다
+원령에게 공격이 유효
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 정화 폭염
+전방에 신성이 깃든 폭염을 방사한다
+폭염은 적을 날려버린다
+
+&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt; 길게 누르기: 정화 흘리기
+전방에 계속해서 불을 방사한다</text>
+<text id="73000">&lt;?kgiconKc@17?&gt;: 내려찍기
+도끼를 내려찍는다
+나무 방패 정도는 파괴한다</text>
+<text id="73100">&lt;?kgiconKc@17?&gt;: 내려찍기
+도끼를 내려찍는다
+나무 방패 정도는 파괴한다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 마구 돌려 찍기
+도끼를 가로로 휘두르고 찍는다
+휘두르는 중 &lt;?kgiconKc@17?&gt;으로 반복하여 휘두를 수 있다</text>
+<text id="73200">&lt;?kgiconKc@17?&gt;: 부싯돌
+불을 휘감은 도끼를 내려찍는다
+나무 방패 정도는 파괴하고
+찍었을 때 폭염을 일으킨다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 마구 돌려 찍기
+불을 휘감은 도끼를
+가로로 휘두르고 찍는다
+휘두르는 중 &lt;?kgiconKc@17?&gt;으로 반복하여 휘두를 수 있다</text>
+<text id="73300">&lt;?kgiconKc@17?&gt;: 유리치기
+유리의 무거운 도끼를 찍어
+환영을 없애는 소리를 내는 충격파를 일으킨다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 유리 휘둘러 찍기
+유리의 무거운 도끼를
+가로로 휘두르고 찍는다
+휘두르는 중 &lt;?kgiconKc@17?&gt;으로 반복하여 휘두를 수 있다</text>
+<text id="74000">&lt;?kgiconKc@17?&gt;: 안개 태세
+태세를 취하고 공격을 받으면
+&lt;?kgMove?&gt;의 방향으로 순식간에 이동한다</text>
+<text id="74100">&lt;?kgiconKc@17?&gt;: 안개 태세
+태세를 취하고 공격을 받으면
+&lt;?kgMove?&gt;의 방향으로 순식간에 이동한다
+
+공격을 받은 후 &lt;?kgiconKc@17?&gt;: 안개 까마귀
+&lt;?kgMove?&gt;의 방향으로 순식간에 이동한다</text>
+<text id="74200">&lt;?kgiconKc@17?&gt;: 진홍의 안개 태세
+태세를 취하고 공격을 받으면
+&lt;?kgMove?&gt;의 방향으로 순식간에 이동한다
+남은 깃털이 타오르는 화염이 된다
+
+공격을 받은 후 &lt;?kgiconKc@17?&gt;: 진홍의 안개 까마귀
+&lt;?kgMove?&gt;의 방향으로 순식간에 이동한다
+남은 깃털이 타오르는 화염이 된다</text>
+<text id="75000">&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;: 연격
+사비마루라는 도를 이용한 재빠른 연격
+사비마루의 공격은 적을 "중독" 상태로 만든다</text>
+<text id="75100">&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;: 연격(표/리)
+사비마루라는 도를 이용한 겉과 속이 다른 연격
+
+연격(표/리) 중 &lt;?kgiconKc@16?&gt;: 표리 전환 공격
+도를 이용해 표리의 연격을 전환하는 도 공격
+몸을 돌리는 이 공격은 회피에도 이용할 수 있다</text>
+<text id="75200">&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;: 연격(표/리)
+사비마루라는 도를 이용한 겉과 속이 다른 연격
+예리한 칼날의 사비마루는
+적의 HP와 체간을 가드 중이어도 깎는다
+
+연격(표/리) 중 &lt;?kgiconKc@16?&gt;: 표리 전환 공격
+도를 이용해 표리의 연격을 전환하는 도 공격
+몸을 돌리는 이 공격은 회피에도 이용할 수 있다</text>
+<text id="75300">&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;: 연격(표/리)
+사비마루라는 도를 이용한 겉과 속이 다른 연격
+사비마루를 휘두를 때마다 독안개가 발생한다
+
+연격(표/리) 중 &lt;?kgiconKc@16?&gt;: 표리 전환 공격
+도를 이용해 표리의 연격을 전환하는 도 공격
+몸을 돌리는 이 공격은 회피에도 이용할 수 있다</text>
+<text id="76000">&lt;?kgiconKc@17?&gt; 길게 누르기: 비 피하기
+철선을 우산처럼 펴 전방위의 공격을 가드
+가벼운 공격은 받아내며 이동할 수 있다
+
+적의 공격에 맞춰 &lt;?kgiconKc@17?&gt;: 이슬 튕겨내기
+철선을 펼쳐 적의 공격을 튕겨낸다
+도의 튕겨내기 보다 공격을 튕겨내기 쉽다</text>
+<text id="76100">&lt;?kgiconKc@17?&gt; 길게 누르기: 비 피하기
+철선을 우산처럼 펴 전방위의 공격을 가드
+가벼운 공격은 받아내며 이동할 수 있다
+
+적의 공격에 맞춰 &lt;?kgiconKc@17?&gt;: 이슬 튕겨내기
+철선을 펼쳐 적의 공격을 튕겨낸다
+도의 튕겨내기보다 공격을 튕겨내기 쉽다
+
+비 피하기 중 적의 공격에 맞춰 &lt;?kgiconKc@18?&gt;: 우산 돌리기
+펼친 우산을 회전시켜 적의 공격을 튕겨낸다</text>
+<text id="76200">&lt;?kgiconKc@17?&gt; 길게 누르기: 비 피하기
+철선을 우산처럼 펴 전방위의 공격을 가드
+가벼운 공격은 받아내며 이동할 수 있다
+
+적의 공격에 맞춰 &lt;?kgiconKc@17?&gt;: 이슬 튕겨내기
+철선을 펼쳐 적의 공격을 튕겨낸다
+도의 튕겨내기보다 공격을 튕겨내기 쉽다
+
+비 피하기 중 적의 공격에 맞춰 &lt;?kgiconKc@18?&gt;: 우산 돌리기
+펼친 우산을 회전시켜 적의 공격을 튕겨낸다</text>
+<text id="76300">&lt;?kgiconKc@17?&gt; 길게 누르기: 비 피하기
+철선을 우산처럼 펴 전방위의 공격을 가드
+가벼운 공격은 받아내며 이동할 수 있다
+
+적의 공격에 맞춰 &lt;?kgiconKc@17?&gt;: 이슬 튕겨내기
+철선을 펼쳐 적의 공격을 튕겨낸다
+도의 튕겨내기보다 공격을 튕겨내기 쉽다
+
+비 피하기 중 적의 공격에 맞춰 &lt;?kgiconKc@18?&gt;: 우산 돌리기
+펼친 우산을 회전시켜 적의 공격을 튕겨낸다</text>
+<text id="77000">&lt;?kgiconKc@17?&gt;: 소용돌이 바람 모으기
+부채를 부치며 소용돌이 바람을 모아 몸에 휘감는다
+
+소용돌이 바람 모으기 중 &lt;?kgiconKc@17?&gt;: 행방불명
+소용돌이 바람을 날려 정면의 적이 등을 보이게 한다
+
+일부 강적을 제외하고
+자신의 모습을 놓치게 만들 수 있다</text>
+<text id="77100">&lt;?kgiconKc@17?&gt;: 거대 소용돌이 모으기
+부채를 부치며 거대한 소용돌이 바람을 모아 몸에 휘감는다 
+
+거대 소용돌이 모으기 중 &lt;?kgiconKc@17?&gt;: 행방불명
+소용돌이 바람을 날려 정면의 적이 등을 보이게 한다
+두 번 연속 날릴 수 있다
+
+일부 강적을 제외하고
+자신의 모습을 놓치게 만들 수 있다</text>
+<text id="77200">&lt;?kgiconKc@17?&gt;: 황금 소용돌이 모으기
+부채를 부치며 황금 소용돌이 바람을 모아 몸에 휘감는다
+
+거대 소용돌이 모으기 중 &lt;?kgiconKc@17?&gt;: 봉납 돌리기
+소용돌이 바람을 날려 정면의 적이 등을 보이게 하고
+아이템이나 금전을 떨어뜨리게 만든다
+두 번 연속 날릴 수 있다
+
+일부 강적을 제외하고
+자신의 모습을 놓치게 만들 수 있다</text>
+<text id="78000">&lt;?kgiconKc@17?&gt;: 찌르기
+정면을 창으로 찌른다
+
+&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;: 끌어당기기
+창으로 찌른 적을 끌어당긴다
+무거운 적의 조잡한 갑옷이라면 벗겨낸다</text>
+<text id="78100">&lt;?kgiconKc@17?&gt;: 찌르기
+정면을 창으로 찌른다
+
+&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;: 끌어당기기
+창으로 찌른 적을 끌어당긴다
+무거운 적의 조잡한 갑옷이라면 벗겨낸다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 돌격
+창을 들고 정면으로 돌격한다</text>
+<text id="78200">&lt;?kgiconKc@17?&gt;: 찌르기
+정면을 창으로 찌른다
+
+&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;: 끌어당기기
+창으로 찌른 적을 끌어당긴다
+무거운 적의 조잡한 갑옷이라면 벗겨낸다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 후려치기
+힘을 모아 그 기세로 후려친다</text>
+<text id="78300">&lt;?kgiconKc@17?&gt;: 나선 찌르기
+정면에 나선으로 회전하는 예리한 찌르기를 펼친다
+적의 HP와 체간을 가드 중이어도 깎아낸다
+
+&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;: 끌어당기기
+창으로 찌른 적을 끌어당긴다
+무겁고 조잡한 갑옷이라면 벗겨낸다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 나선 돌격
+창을 들고 나선으로 회전하는 예리한 돌격을 펼친다</text>
+<text id="78400">&lt;?kgiconKc@17?&gt;: 화염 찌르기
+화염을 휘감은 창으로 정면을 찌른다
+적을 상태 이상 "화상"으로 만든다
+
+&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;: 끌어당기기
+창으로 찌른 적을 끌어당긴다
+무겁고 조잡한 갑옷이라면 벗겨낸다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 불 가르기
+힘을 모아 그 기세로 화염과 함께 후려친다</text>
+<text id="79000">&lt;?kgiconKc@17?&gt;: 손가락 피리
+손가락 피리를 불어 적의 주의를 끈다
+짐승을 미치게 해 적과 아군을 구별하지 않고 공격하게 만든다
+
+손가락 피리 소리는 타깃 고정 중엔
+노린 적에게만 들리며, 그렇지 않을 때는
+주변의 모든 적에게 들린다</text>
+<text id="79100">&lt;?kgiconKc@17?&gt;: 손가락 피리
+손가락 피리를 불어 적의 주의를 끈다
+짐승을 미치게 해 적과 아군을 구별하지 않고 공격하게 만든다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 메아리 치기
+손가락 피리를 분 후, 소리를 늦게 발생시킨다
+
+손가락 피리 소리는 타깃 고정 중엔
+노린 적에게만 들리며, 그렇지 않을 때는
+주변의 모든 적에게 들린다</text>
+<text id="79200">&lt;?kgiconKc@17?&gt;: 울보의 손가락 피리
+손가락 피리를 불어 적의 주의를 끈다
+원령을 괴로움에 빠지게 해 빈틈을 만든다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 메아리 치기
+손가락 피리를 분 후, 소리를 늦게 발생시킨다
+
+손가락 피리 소리는 타깃 고정 중엔
+노린 적에게만 들리며, 그렇지 않을 때는
+주변의 모든 적에게 들린다</text>
+<text id="200000">갈고리 이동 중 &lt;?kgiconKc@16?&gt;: 갈고리 공격
+갈고리 이동의 기세로 공격한다</text>
+<text id="200100">공중에서 &lt;?kgiconKc@18?&gt;: 공중 가드
+공중에서 적의 공격을 가드한다
+
+공중에서 적의 공격에 맞춰 &lt;?kgiconKc@18?&gt;: 공중 튕겨내기
+공중에서 적의 공격을 튕겨낸다</text>
+<text id="200200">공중에서 &lt;?kgiconKc@17?&gt;: 공중 의수 닌자 도구
+공중에서 의수 닌자 도구를 사용한다</text>
+<text id="200300">적의 찌르기 공격에 맞춰 &lt;?kgiconKc@5?&gt;: 간파하기
+칼날을 밟아 찌르기 공격을 무효화하고
+체간에 큰 대미지</text>
+<text id="200400">대시 중 &lt;?kgiconKc@7?&gt;: 미끄러지기
+대시에서 슬라이딩으로 웅크리기</text>
+<text id="200500">공중에서 &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: 공중 유파 기술</text>
+<text id="200600">적의 자세가 무너졌을 때 &lt;?kgiconKc@6?&gt;: 무너진 배후 돌기
+적의 배후로 돌아간다</text>
+<text id="210000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: 선풍베기
+회전하며 주변을 벤다</text>
+<text id="211000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: 대닌자 찌르기
+원거리에서 닿는 찌르기 공격
+찌른 뒤 적을 발판 삼아 날아오른다
+날아올랐을 때 카타시로를 소비한다
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; 길게 누르기: 대닌자 찌르기 모으기
+찌르기 사정거리가 늘어난 대닌자 찌르기
+날아올랐을 때 카타시로를 소비한다</text>
+<text id="301000">일부 의수 닌자 도구 사용 후 &lt;?kgiconKc@16?&gt;: 추격 베기
+전방으로 크게 발을 내디디며 후려친다
+
+ - 대상 의수 닌자 도구
+&lt;?wepTextCS@70000?&gt;
+
+&lt;?wepTextCS@71000?&gt;
+
+&lt;?wepTextCS@78000?&gt;</text>
+<text id="301100">일부 의수 닌자 도구 사용 후 &lt;?kgiconKc@16?&gt;: 연결 베기
+의수 닌자 도구와 도를 동시에 또는 연속으로 휘두른다
+
+ - 대상 의수 닌자 도구
+&lt;?wepTextSS@73000?&gt;
+
+&lt;?wepTextSS@78000?&gt;
+
+&lt;?wepTextSS@74000?&gt;</text>
+<text id="301200">일부 의수 닌자 도구 사용 후 &lt;?kgiconKc@16?&gt;: 방출 베기
+의수 닌자 도구의 효과를 전방으로 방출하는 공격
+
+ - 대상 의수 닌자 도구
+&lt;?wepTextPS@76000?&gt;
+
+&lt;?wepTextPS@79000?&gt;</text>
+<text id="301300">일부 의수 닌자 도구 사용 후 &lt;?kgiconKc@16?&gt;: 휘감아 베기
+도에 의수 닌자 도구의 효과를 휘감는 공격
+
+ - 대상 의수 닌자 도구
+&lt;?wepTextES@72000?&gt;
+
+&lt;?wepTextES@77000?&gt;</text>
+<text id="310000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: 쏙독새 베기
+회전해 날아들며 벤다</text>
+<text id="310100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: 쏙독새 베기
+회전해 날아들며 벤다
+
+타깃 고정 중
+&lt;?kgiconKc@2?&gt; 배후 방향으로 입력 &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: 거꾸로 돌리기
+벤 뒤에 허공을 돌며 착지한다</text>
+<text id="410000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: 일문자
+묵직한 상단 베기
+발을 내디뎠을 때, 체간을 회복한다
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; 길게 누르기: 전심 일문자
+전심으로 펼치는 혼신의 상단 베기
+발을 내디뎠을 때, 체간을 회복한다</text>
+<text id="410100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: 일문자
+묵직한 상단 베기
+발을 내디뎠을 때, 체간을 회복한다
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; 길게 누르기: 전심 일문자
+전심으로 펼치는 혼신의 상단 베기
+발을 내디뎠을 때에, 체간을 회복한다
+
+일문자 또는 전심 일문자 후 &lt;?kgiconKc@16?&gt;: 추격 일문자
+반격을 쳐내는 2격째의 베기
+발을 내디뎠을 때, 체간을 회복한다</text>
+<text id="411000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; 길게 누르기: 거합 자세 개시
+칼날을 칼집에 넣고, 거합 자세를 취한다
+
+&lt;?kgiconKc@18?&gt; 해제: 거합 자세 중단
+거합 자세를 그만둔다
+
+&lt;?kgiconKc@16?&gt; 해제: 발도 십문자
+발도하며 고속으로 십문자로 찢는다
+카타시로를 소비해 사용한다</text>
+<text id="510000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;: 경배연권
+팔꿈치 치기에서 손바닥의 연격</text>
+<text id="510100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;: 경배연권
+팔꿈치 치기에서 손바닥의 연격
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; 길게 누르기 또는 경배연권 후 &lt;?kgiconKc@16?&gt;: 파마의 배격
+후방에서의 묵직한 몸통 박치기</text>
+<text id="511000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;: 선봉각
+날아들며 연속 발차기</text>
+<text id="511100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;: 선봉각
+날아들며 연속 발차기
+
+선봉각 후 &lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;: 보살각
+연속 참격에서의 전방 발차기</text>
+<text id="610100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: 대닌자 찌르기
+원거리에서 닿는 찌르기 공격
+찌른 뒤 적을 발판 삼아 날아오른다
+날아올랐을 때 카타시로를 소비한다
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; 길게 누르기: 대닌자 찌르기 모으기
+찌르기 사정거리가 늘어난 대닌자 찌르기
+날아올랐을 때 카타시로를 소비한다
+
+날아오른 후 &lt;?kgiconKc@16?&gt;: 대닌자 떨구기
+낙하하며 회전 베기</text>
+<text id="611100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;: 소용돌이 구름 건너기
+춤을 추는 듯한 9연격을 펼치고
+주변에 진공파를 일으킨다
+카타시로를 소비해 사용한다</text>
+<text id="612100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;: 불사베기
+불사베기를 뽑고
+사정거리가 긴 칼날로 적을 횡으로 벤다
+카타시로를 소비해 사용한다
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; 길게 누르기 →&lt;?kgiconKc@16?&gt; 길게 누르기: 불사베기 모으기
+염을 담아
+위력이 높고 사정거리가 긴 참격을 펼친다
+카타시로를 소비해 사용한다</text>
+<text id="620000">&lt;?null?&gt;</text>
+<text id="620100">&lt;?null?&gt;</text>
+<text id="630000">&lt;?null?&gt;</text>
+<text id="630100">&lt;?null?&gt;</text>
+<text id="640000">&lt;?null?&gt;</text>
+<text id="640100">&lt;?null?&gt;</text>
+<text id="640200">&lt;?null?&gt;</text>
+<text id="640300">&lt;?null?&gt;</text>
+<text id="640400">&lt;?null?&gt;</text>
+<text id="650000">&lt;?null?&gt;</text>
+<text id="650100">&lt;?null?&gt;</text>
+<text id="650200">&lt;?null?&gt;</text>
+<text id="650300">&lt;?null?&gt;</text>
+<text id="650400">&lt;?null?&gt;</text>
+<text id="660000">&lt;?null?&gt;</text>
+<text id="660100">&lt;?null?&gt;</text>
+<text id="660200">&lt;?null?&gt;</text>
+<text id="660300">&lt;?null?&gt;</text>
+<text id="660400">&lt;?null?&gt;</text>
+<text id="660500">&lt;?null?&gt;</text>
+<text id="660600">&lt;?null?&gt;</text>
+<text id="660700">&lt;?null?&gt;</text>
+<text id="660800">&lt;?null?&gt;</text>
+<text id="670000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;: 불사베기
+불사베기를 뽑고 사정거리가 긴 칼날로 적을 횡으로 벤다
+카타시로를 소비해 사용한다</text>
+<text id="671000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: 발도 베어 내리기
+칼날을 뽑으며 고속으로 베어 내린다
+베어 내리기에는 진공파가 동반된다
+카타시로를 소비해 사용한다
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; 길게 누르기: 용섬
+칼날을 뽑으며 고속으로 베어 내린다
+베어 내리기에는 진공파가 동반되며
+그 후, 땅을 덮는 충격파를 날린다
+카타시로를 소비해 사용한다</text>
+<text id="672000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;: 쪽배 건너기
+춤을 추는 듯한 5연격을 펼친다</text>
+<text id="673000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; 길게 누르기: 거합 자세 개시
+칼날을 칼집에 넣고, 거합 자세를 취한다
+
+&lt;?kgiconKc@18?&gt; 해제: 거합 자세 중단
+거합 자세를 그만둔다
+
+&lt;?kgiconKc@16?&gt; 해제: 잇신
+발도하며 보이지 않는 속도로 적을 벤다
+카타시로를 소비해 사용한다
+
+잇신 후 &lt;?kgiconKc@16?&gt;: 거합 추격
+전방으로 발을 내디디는 거합의 추격</text>
+<text id="674000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: 비전 - 앵무
+회전의 힘으로 춤추듯 뛰어 세 번 벤다
+적의 하단 공격을 회피하며 날카로운 참격으로
+가드 중이어도 대미지를 입힌다
+
+공격 후에는 공중 공방으로 연결할 수도 있다
+카타시로를 소비해 사용한다</text>
+<text id="680000">&lt;?null?&gt;</text>
+<text id="681000">높이 뛰어오른 적 부근에서 &lt;?kgiconKc@16?&gt;: 대공 인살
+공중에서 적을 인살한다</text>
+<text id="690000">&lt;?null?&gt;</text>
+<text id="690100">&lt;?null?&gt;</text>
+<text id="690200">&lt;?null?&gt;</text>
+<text id="690300">&lt;?null?&gt;</text>
+<text id="690400">&lt;?null?&gt;</text>
+<text id="699000">&lt;?null?&gt;</text>
+<text id="701000">&lt;?kgiconKc@17?&gt;: 수리검 투척
+수리검을 투척한다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 회전 투척
+수리검에 회전력을 담아 투척한다
+적을 연속으로 타격한다</text>
+<text id="702000">&lt;?kgiconKc@17?&gt;: 수리검 투척
+날카로운 칼날의 수리검을 투척한다
+관통 효과가 있으며
+적의 HP와 체간을 가드 중이어도 깎는다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 회전 투척
+수리검에 회전력을 담아 투척한다
+적을 연속으로 타격한다</text>
+<text id="703000">&lt;?kgiconKc@17?&gt;: 환영의 나비
+쿠나이를 던진 후 환영의 나비가 날아오른다
+환영의 나비는 적을 추적해 날아가며
+가드 중이어도 대미지를 준다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 환영의 나비 - 군무
+모으면, 수많은 환영의 나비를 날린다</text>
+<text id="704000">&lt;?kgiconKc@17?&gt;: 금전 던지기
+다수의 금전을 던진다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 잔치 베풀기
+많은 금전을 방사형으로 뿌린다
+
+소지금에 따라 던지는 금전의 수는 변한다
+
+　빈털터리는 먼지만 나온다
+　가난뱅이는 금전을 조금 던진다
+　부자는 금전을 많이 던진다
+　대부는 금전을 아주 많이 던진다</text>
+<text id="705000">&lt;?kgiconKc@17?&gt;: 유리 수리검
+유리의 날카로운 수리검을 투척한다
+관통 효과가 있으며
+적의 HP와 체간을 가드 중이어도 깎는다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 유리 팽이 수리검
+회전력을 담아 유리 수리검을 투척한다
+적을 연속으로 타격한다</text>
+<text id="711000">&lt;?kgiconKc@17?&gt;: 폭죽
+폭죽을 전방에 뿌린다
+짐승은 크게 겁을 먹는다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 폭죽 - 용수철식
+용수철 기계 장치로 힘을 모으고
+회전하면서 폭죽을 전방위에 뿌린다</text>
+<text id="712000">&lt;?kgiconKc@17?&gt;: 긴 불꽃
+장시간 남는 폭죽을 전방에 뿌린다
+짐승은 크게 겁을 먹는다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 긴 불꽃 - 용수철식
+용수철 기계 장치로 힘을 모으고
+회전하면서 폭죽을 전방위에 뿌린다</text>
+<text id="713000">&lt;?kgiconKc@17?&gt;: 자줏빛 연기 불꽃
+자줏빛 연기가 피어오르는 폭죽을 전방에 뿌린다
+보통 폭죽보다 늦게 작열한다
+폭죽으로 겁을 먹은 적에게 주는
+HP와 체간 대미지가 약간 늘어난다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 자줏빛 연기 불꽃 - 용수철식
+용수철 기계 장치로 힘을 모으고
+회전하면서 폭죽을 전방위에 뿌린다</text>
+<text id="721000">&lt;?kgiconKc@17?&gt;: 화염 방사
+전방에 불을 방사한다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 폭염
+용수철 기계 장치로 힘을 모으고, 전방에 폭염을 방사한다
+폭염은 적을 날려버린다</text>
+<text id="722000">&lt;?kgiconKc@17?&gt;: 화염 방사
+전방에 불을 방사한다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 폭염
+화약을 충전해, 전방에 폭염을 방사한다
+폭염은 적을 날려버린다
+
+&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt; 길게 누르기: 화염 흘리기
+전방에 계속해서 불을 방사한다</text>
+<text id="723000">&lt;?kgiconKc@17?&gt;: 정화
+전방에 신성이 깃든 불을 방사한다
+원령에게 공격이 유효
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 정화 폭염
+전방에 신성이 깃든 폭염을 방사한다
+폭염은 적을 날려버린다
+
+&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt; 길게 누르기: 정화 흘리기
+전방에 계속해서 불을 방사한다</text>
+<text id="731000">&lt;?kgiconKc@17?&gt;: 내려찍기
+도끼를 내려찍는다
+나무 방패 정도는 파괴한다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 마구 돌려 찍기
+도끼를 가로로 휘두르고 찍는다
+휘두르는 중 &lt;?kgiconKc@17?&gt;으로 반복하여 휘두를 수 있다</text>
+<text id="732000">&lt;?kgiconKc@17?&gt;: 부싯돌
+불을 휘감은 도끼를 내려찍는다
+나무 방패 정도는 파괴하고
+찍었을 때 폭염을 일으킨다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 마구 돌려 찍기
+불을 휘감은 도끼를
+가로로 휘두르고 찍는다
+휘두르는 중 &lt;?kgiconKc@17?&gt;으로 반복하여 휘두를 수 있다</text>
+<text id="733000">&lt;?kgiconKc@17?&gt;: 유리치기
+유리의 무거운 도끼를 찍어
+환영을 없애는 소리를 내는 충격파를 일으킨다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 유리 휘둘러 찍기
+유리의 무거운 도끼를
+가로로 휘두르고 찍는다
+휘두르는 중 &lt;?kgiconKc@17?&gt;으로 반복하여 휘두를 수 있다</text>
+<text id="741000">&lt;?kgiconKc@17?&gt;: 안개 태세
+태세를 취하고 공격을 받으면
+&lt;?kgMove?&gt;의 방향으로 순식간에 이동한다
+
+공격을 받은 후 &lt;?kgiconKc@17?&gt;: 안개 까마귀
+&lt;?kgMove?&gt;의 방향으로 순식간에 이동한다</text>
+<text id="742000">&lt;?kgiconKc@17?&gt;: 진홍의 안개 태세
+태세를 취하고 공격을 받으면
+&lt;?kgMove?&gt;의 방향으로 순식간에 이동한다
+남은 깃털이 타오르는 화염이 된다
+
+공격을 받은 후 &lt;?kgiconKc@17?&gt;: 진홍의 안개 까마귀
+&lt;?kgMove?&gt;의 방향으로 순식간에 이동한다
+남은 깃털이 타오르는 화염이 된다</text>
+<text id="751000">&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;: 연격(표/리)
+사비마루라는 도를 이용한 겉과 속이 다른 연격
+
+연격(표/리) 중 &lt;?kgiconKc@16?&gt;: 표리 전환 공격
+도를 이용해 표리의 연격을 전환하는 도 공격
+몸을 돌리는 이 공격은 회피에도 이용할 수 있다</text>
+<text id="752000">&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;: 연격(표/리)
+사비마루라는 도를 이용한 겉과 속이 다른 연격
+예리한 칼날의 사비마루는
+적의 HP와 체간을 가드 중이어도 깎는다
+
+연격(표/리) 중 &lt;?kgiconKc@16?&gt;: 표리 전환 공격
+도를 이용해 표리의 연격을 전환하는 도 공격
+몸을 돌리는 이 공격은 회피에도 이용할 수 있다</text>
+<text id="753000">&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;: 연격(표/리)
+사비마루라는 도를 이용한 겉과 속이 다른 연격
+사비마루를 휘두를 때마다 독안개가 발생한다
+
+연격(표/리) 중 &lt;?kgiconKc@16?&gt;: 표리 전환 공격
+도를 이용해 표리의 연격을 전환하는 도 공격
+몸을 돌리는 이 공격은 회피에도 이용할 수 있다</text>
+<text id="761000">&lt;?kgiconKc@17?&gt; 길게 누르기: 비 피하기
+철선을 우산처럼 펴 전방위의 공격을 가드
+가벼운 공격은 받아내며 이동할 수 있다
+
+적의 공격에 맞춰 &lt;?kgiconKc@17?&gt;: 이슬 튕겨내기
+철선을 펼쳐 적의 공격을 튕겨낸다
+도의 튕겨내기보다 공격을 튕겨내기 쉽다
+
+비 피하기 중 적의 공격에 맞춰 &lt;?kgiconKc@18?&gt;: 우산 돌리기
+펼친 우산을 회전시켜 적의 공격을 튕겨낸다</text>
+<text id="762000">&lt;?kgiconKc@17?&gt; 길게 누르기: 비 피하기
+철선을 우산처럼 펴 전방위의 공격을 가드
+가벼운 공격은 받아내며 이동할 수 있다
+
+적의 공격에 맞춰 &lt;?kgiconKc@17?&gt;: 이슬 튕겨내기
+철선을 펼쳐 적의 공격을 튕겨낸다
+도의 튕겨내기보다 공격을 튕겨내기 쉽다
+
+비 피하기 중 적의 공격에 맞춰 &lt;?kgiconKc@18?&gt;: 우산 돌리기
+펼친 우산을 회전시켜 적의 공격을 튕겨낸다</text>
+<text id="763000">&lt;?kgiconKc@17?&gt; 길게 누르기: 비 피하기
+철선을 우산처럼 펴 전방위의 공격을 가드
+가벼운 공격은 받아내며 이동할 수 있다
+
+적의 공격에 맞춰 &lt;?kgiconKc@17?&gt;: 이슬 튕겨내기
+철선을 펼쳐 적의 공격을 튕겨낸다
+도의 튕겨내기보다 공격을 튕겨내기 쉽다
+
+비 피하기 중 적의 공격에 맞춰 &lt;?kgiconKc@18?&gt;: 우산 돌리기
+펼친 우산을 회전시켜 적의 공격을 튕겨낸다</text>
+<text id="771000">&lt;?kgiconKc@17?&gt;: 거대 소용돌이 모으기
+부채를 부치며 거대한 소용돌이 바람을 모아 몸에 휘감는다 
+
+거대 소용돌이 모으기 중 &lt;?kgiconKc@17?&gt;: 행방불명
+소용돌이 바람을 날려 정면의 적이 등을 보이게 한다
+두 번 연속 날릴 수 있다
+
+일부 강적을 제외하고
+자신의 모습을 놓치게 만들 수 있다</text>
+<text id="772000">&lt;?kgiconKc@17?&gt;: 황금 소용돌이 모으기
+부채를 부치며 황금 소용돌이 바람을 모아 몸에 휘감는다
+
+거대 소용돌이 모으기 중 &lt;?kgiconKc@17?&gt;: 봉납 돌리기
+소용돌이 바람을 날려 정면의 적이 등을 보이게 하고
+아이템이나 금전을 떨어뜨리게 만든다
+두 번 연속 날릴 수 있다
+
+일부 강적을 제외하고
+자신의 모습을 놓치게 만들 수 있다</text>
+<text id="781000">&lt;?kgiconKc@17?&gt;: 찌르기
+정면을 창으로 찌른다
+
+&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;: 끌어당기기
+창으로 찌른 적을 끌어당긴다
+무거운 적의 조잡한 갑옷이라면 벗겨낸다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 돌격
+창을 들고 정면으로 돌격한다</text>
+<text id="782000">&lt;?kgiconKc@17?&gt;: 찌르기
+정면을 창으로 찌른다
+
+&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;: 끌어당기기
+창으로 찌른 적을 끌어당긴다
+무거운 적의 조잡한 갑옷이라면 벗겨낸다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 후려치기
+힘을 모아 그 기세로 후려친다</text>
+<text id="783000">&lt;?kgiconKc@17?&gt;: 나선 찌르기
+정면에 나선으로 회전하는 예리한 찌르기를 펼친다
+적의 HP와 체간을 가드 중이어도 깎아낸다
+
+&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;: 끌어당기기
+창으로 찌른 적을 끌어당긴다
+무겁고 조잡한 갑옷이라면 벗겨낸다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 나선 돌격
+창을 들고 나선으로 회전하는 예리한 돌격을 펼친다</text>
+<text id="784000">&lt;?kgiconKc@17?&gt;: 화염 찌르기
+화염을 휘감은 창으로 정면을 찌른다
+적을 상태 이상 "화상"으로 만든다
+
+&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;: 끌어당기기
+창으로 찌른 적을 끌어당긴다
+무겁고 조잡한 갑옷이라면 벗겨낸다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 불 가르기
+힘을 모아 그 기세로 화염과 함께 후려친다</text>
+<text id="791000">&lt;?kgiconKc@17?&gt;: 손가락 피리
+손가락 피리를 불어 적의 주의를 끈다
+짐승을 미치게 해 적과 아군을 구별하지 않고 공격하게 만든다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 메아리 치기
+손가락 피리를 분 후, 소리를 늦게 발생시킨다
+
+손가락 피리 소리는 타깃 고정 중엔
+노린 적에게만 들리며, 그렇지 않을 때는
+주변의 모든 적에게 들린다</text>
+<text id="792000">&lt;?kgiconKc@17?&gt;: 울보의 손가락 피리
+손가락 피리를 불어 적의 주의를 끈다
+원령을 괴로움에 빠지게 해 빈틈을 만든다
+
+&lt;?kgiconKc@17?&gt; 길게 누르기: 메아리 치기
+손가락 피리를 분 후, 소리를 늦게 발생시킨다
+
+손가락 피리 소리는 타깃 고정 중엔
+노린 적에게만 들리며, 그렇지 않을 때는
+주변의 모든 적에게 들린다</text>
+<text id="1700000">? ? ?</text>
+<text id="1710000">? ? ?</text>
+<text id="1720000">? ? ?</text>
+<text id="1730000">? ? ?</text>
+<text id="1740000">? ? ?</text>
+<text id="1750000">? ? ?</text>
+<text id="1760000">? ? ?</text>
+<text id="1770000">? ? ?</text>
+<text id="1780000">? ? ?</text>
+<text id="1790000">? ? ?</text>
+<text id="2700000">? ? ?</text>
+</entries>
+</fmg>

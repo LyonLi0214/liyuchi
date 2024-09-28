@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="0">%null%</text>
+<text id="103000">본연의 기억 - 늑대</text>
+<text id="303000">다른 기억 - 수라</text>
+<text id="403000">다른 기억 - 아시나의 옛 닌자</text>
+<text id="503000">다른 기억 - 텐구</text>
+</entries>
+</fmg>

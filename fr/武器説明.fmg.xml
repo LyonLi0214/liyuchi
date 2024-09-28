@@ -1,0 +1,547 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="5000">&lt;?null?&gt;</text>
+<text id="5100">Une technique permettant de frapper plusieurs ennemis d'un coup.
+
+Cette taillade tourbillonnante peut facilement frapper plusieurs ennemis et infliger des dégâts même en cas de garde.
+
+Une technique de shinobi parfaite pour s'extraire d'un encerclement ennemi.</text>
+<text id="5200">Un Art du combat mêlant tourbillon et plongeon. Il permet de se rapprocher instantanément ou de s'éloigner des ennemis. 
+C'est une technique du clan des engoulevents, les shinobi qui servent Ashina. Le clan des engoulevents exécute la Taille des engoulevents grâce à la force de rotation produite par le poids d'un grand shuriken. La prothèse de shinobi étant en acier, elle peut servir de la même façon.</text>
+<text id="5201">Un Art du combat mêlant tourbillon et bond. Il permet de se rapprocher instantanément ou de s'éloigner des ennemis. Le saut d'estoc des engoulevents permet de bondir vers l'avant en une pirouette inversée, ce qui en fait simultanément une compétence d'attaque et de défense. Approchez, frappez et fuyez. C'est à ce style de combat que les engoulevents doivent leur nom.</text>
+<text id="5300">Un Art du combat qui assène un puissant coup de haut en bas et qui inflige des dégâts importants à la Posture de l'ennemi, tout en récupérant votre Posture en avançant.
+
+Un coup frontal et brutal. En se concentrant sur cette technique, l'école Ashina est devenue très puissante. Cette technique maîtrisée, on peut l'améliorer.</text>
+<text id="5301">Un Art du combat qui ajoute une autre attaque qui peut être accomplie après Ichimonji, une autre attaque de haut en bas. Cet Art du combat inflige des dégâts importants à la Posture de l'ennemi, tout en récupérant votre Posture en avançant.
+La 2e frappe est très utile pour empêcher les contre-attaques. 
+La technique Ichimonji d'Ashina est parachevée par la 2e attaque.</text>
+<text id="5400">Un art du combat pour trancher rapidement depuis la position du fourreau. Le charger enverra une onde de choc. Coûte des emblèmes spirituels.
+Le jeune Isshin, connu sous le nom de "démon du sabre", passait ses journées en batailles désespérées et en massacres.
+Comment tuer ? Comment celui-ci doit-il être tué ? Il continua de réfléchir sans fin à ce problème et, avant de le savoir, sa lame sembla prendre vie.</text>
+<text id="5500">Un Art du combat utilisant un sabre dans son fourreau pour des attaques à grande vitesse. Coûte des emblèmes spirituels.
+
+Maintenir la position permet de contrer à tout moment.
+Technique secrète de l'école Ashina, l'attaque tue vite.
+Sa puissance est telle qu'elle pourrait couper le bras d'un Shura, d'après Isshin Ashina.</text>
+<text id="5600">Un Art du combat dans lequel les attaques sont répétées comme pour une danse. Ces mouvements fluides submergent l'ennemi.
+
+Bien qu'il s'agisse d'un Art du combat Ashina, il est considéré comme hérétique pour avoir été enseigné par un étranger.
+L'utilisatrice de cette technique a traversé le Passage flottant pour descendre jusqu'à Ashina. Son nom était Tomoe.</text>
+<text id="5601">La Spirale de nuages est un Art du combat développé pour déchaîner des ondes de choc. Coûte des emblèmes spirituels. 
+Son nom provient d'une grande spirale de nuages peut se voir au loin, là où l'eau de la source ne coule pas. On l'appelle la Spirale de la source. Tomoe regardait son jeune maître observer ces nuages. Cette vue représentait beaucoup pour Tomoe.</text>
+<text id="5700">Un Art du combat accompli avec la lame de la mort. Coûte des emblèmes spirituels. L'épée jaillit vers l'avant et tronçonne les ennemis dans une traînée rouge-noir. Un coup extrêmement puissant.
+
+La technique utilisant la lame qu'on ne dégaine pas n'est possible que pour les combattants liés à l'héritier divin.</text>
+<text id="5701">Un Art du combat qui utilise la lame de la mort. Coûte des emblèmes spirituels.
+
+En se concentrant avant de dégainer la lame de la mort, on peut augmenter sa puissance et frapper plus loin et plus fort. 
+Une technique qui n'est utilisable que par les disciples de l'héritier divin de l'héritage du dragon.</text>
+<text id="5800">Un Art du combat dans lequel les attaques répétées commencent avec un coup de pied sauté. Un contre aérien combiné avec un mouvement qui évite les balayages permet de déclencher un tourbillon de coups de pieds. Le coup de pied a pour origine les reclus qui portent le nom du temple Senpo. Le coup de pied initial doit d'abord être parfait, avant que l'entraînement réel puisse commencer.</text>
+<text id="5801">Une technique secrète du style Senpo qui améliore le Coup de pied sauté. Atteindre l'illumination libère l'esprit, ce qui permet des attaques fluides et répétées. La forme de cette technique dépend de l'état d'esprit de l'utilisateur. Pour Loup, utiliser son cher sabre Kusabimaru est tout naturel.</text>
+<text id="5900">Un Art de combat utilisant des coups de coude et de paume successifs. Déchaîne un tourbillon d'attaques rapides en empêchant l'ennemi de contre-attaquer.
+
+Ces frappes sont à la fois un art martial et une forme de prière. "Sans force, on ne peut vaincre les ennemis du Bouddha..." Les moines du temple Senpo gardent ces mots derrière des lèvres closes et, en priant, frappent pour accumuler des vertus.</text>
+<text id="5901">Un Art martial qui ajoute un coup de grâce aux frappes de prière.
+Déchaînez un tourbillon d'attaques rapides pour infliger des dégâts en empêchant une contre-attaque, puis donnez un puissant coup avec tout le poids du corps.
+
+Les moines de Senpo utilisent également cette technique pour se purger de leurs désirs charnels. Mais il est d'autres passions...</text>
+<text id="6000">Un Art du combat conçu par le grand shinobi. Il relève des techniques secrètes du style Shinobi.
+
+Permet d'infliger un estoc rapide à longue distance, puis d'utiliser l'adversaire empalé comme plateforme pour bondir en l'air. 
+Percer la proie et s'envoler est la technique de chasse des chouettes. Les emblèmes spirituels sont consommés lors du bond.</text>
+<text id="6001">Une évolution de Charge de l'ombre. C'est une technique secrète du style Ashina Mushin. Chute de l'ombre est une taillade en vrille descendante que vous pouvez effectuer après avoir sauté d'un ennemi avec une Charge de l'ombre.
+Percez, volez et plongez. Voler en toute liberté, c'est cela, être une chouette. Coûte des emblèmes spirituels.</text>
+<text id="6100">Un Art du combat qui déchaîne une série d'attaques depuis la position du fourreau, si rapide que la lame est presque invisible. Coûte des emblèmes spirituels.
+Le bretteur doit exclusivement se concentrer sur le mouvement de sa lame. Cette concentration permet la vitesse d'exécution.
+Seuls les vétérans des maîtres Isshin peuvent maîtriser cette technique.</text>
+<text id="7000">Un Art du combat mêlant tourbillon et bond. Il permet de se rapprocher instantanément ou de s'éloigner des ennemis. Le saut d'estoc des engoulevents permet de bondir vers l'avant en une pirouette inversée, ce qui en fait simultanément une compétence d'attaque et de défense. Approchez, frappez et fuyez. C'est à ce style de combat que les engoulevents doivent leur nom.</text>
+<text id="7100">Un Art du combat qui ajoute une autre attaque qui peut être accomplie après Ichimonji, une autre attaque de haut en bas. Cet Art du combat inflige des dégâts importants à la Posture de l'ennemi, tout en récupérant votre Posture en avançant.
+La 2e frappe est très utile pour empêcher les contre-attaques. 
+La technique Ichimonji d'Ashina est parachevée par la 2e attaque.</text>
+<text id="7200">La Spirale de nuages est un Art du combat développé pour déchaîner des ondes de choc. Coûte des emblèmes spirituels. 
+Son nom provient d'une grande spirale de nuages peut se voir au loin, là où l'eau de la source ne coule pas. On l'appelle la Spirale de la source. Tomoe regardait son jeune maître observer ces nuages. Cette vue représentait beaucoup pour Tomoe.</text>
+<text id="7300">Un Art du combat qui utilise la lame de la mort. Coûte des emblèmes spirituels.
+
+En se concentrant avant de dégainer la lame de la mort, on peut augmenter sa puissance et frapper plus loin et plus fort. 
+Une technique qui n'est utilisable que par les disciples de l'héritier divin de l'héritage du dragon.</text>
+<text id="7400">Une technique secrète du style Senpo qui améliore le Coup de pied sauté. Atteindre l'illumination libère l'esprit, ce qui permet des attaques fluides et répétées. La forme de cette technique dépend de l'état d'esprit de l'utilisateur. Pour Loup, utiliser son cher sabre Kusabimaru est tout naturel.</text>
+<text id="7500">Un Art martial qui ajoute un coup de grâce aux frappes de prière.
+Déchaînez un tourbillon d'attaques rapides pour infliger des dégâts en empêchant une contre-attaque, puis donnez un puissant coup avec tout le poids du corps.
+
+Les moines de Senpo utilisent également cette technique pour se purger de leurs désirs charnels. Mais il est d'autres passions...</text>
+<text id="7600">Une évolution de Charge de l'ombre. C'est une technique secrète du style Ashina Mushin. Chute de l'ombre est une taillade en vrille descendante que vous pouvez effectuer après avoir sauté d'un ennemi avec une Charge de l'ombre.
+Percez, volez et plongez. Voler en toute liberté, c'est cela, être une chouette. Coûte des emblèmes spirituels.</text>
+<text id="7700">Un Art du combat dans lequel on pirouette et taille avec grâce. Peut s'enchaîner avec une manœuvre de prothèse en l'air à la fois offensive et défensive. Coûte des emblèmes spirituels.
+
+La technique secrète de Tomoe, qu'elle effectuait autrefois comme une danse en l'honneur de son maître. 
+Les fleurs de cerisier vont bientôt tomber. Si retourner au pays est impossible, au moins la danse peut-elle vous consoler.</text>
+<text id="70000">Un outil de prothèse équipé d'une roue de shurikens. Coûte des emblèmes spirituels.
+
+Permet, d'un seul geste, d'utiliser un shuriken chargé sur la roue pour le lancer sur une cible.
+Rognez la Vitalité et la posture d'un ennemi avec des lames lancées à grande vitesse. Inflige de plus grands dégâts aux ennemis qui bondissent.
+
+</text>
+<text id="70100">Un shuriken amélioré par une énergie cinétique latente. Coûte des emblèmes spirituels.
+Rogne la Vitalité et la Posture de l'ennemi. Inflige de plus grands dégâts aux ennemis qui bondissent.
+Lâcher l'énergie stockée dans le ressort permet de continuer à blesser les ennemis au-delà de la première cible. Ce sont comme des toupies... avec des lames.</text>
+<text id="70200">Un puissant shuriken qui traverse les ennemis avec ses lames aiguisées. Coûte des emblèmes spirituels.
+Ces lames perforantes conservent leur vitesse même après avoir frappé un ennemi. Elles endommagent la Vitalité et la Posture de l'ennemi, même s'il se garde. 
+Chargez pour augmenter la puissance du ressort et permettre à la lame de frapper plusieurs ennemis d'un seul tir.</text>
+<text id="70300">Le kunaï du papillon est intégré dans la roue de shurikens. Coûte des emblèmes spirituels.
+
+Le kunaï émet un son audible quand on le jette. Des papillons fantômes jaillissent après le lancement d'un kunaï. Les papillons pourchassent les ennemis et peuvent infliger des dégâts même lorsqu'ils sont en garde.</text>
+<text id="70400">Un outil de prothèse qui tire des pièces. L'utilisation requiert des sen et des emblèmes spirituels. Il n'a pas la portée d'un shuriken, mais il inflige des dégâts élevés aux ennemis proches en tirant une nuée de pièces qui touchent plusieurs fois. Le nombre de pièces dépend de la bourse de l'utilisateur. En d'autres termes, plus il est riche, plus le tir est puissant. Si la bourse est vide, la décharge ne tire que de la poussière.</text>
+<text id="70500">Un shuriken béni par la grâce du lapis-lazuli de la source. Coûte des emblèmes spirituels.
+
+Son tranchant divin peut endommager grandement la Posture et la Vitalité d'un ennemi qui se garde, et même blesser les esprits vengeurs. Les lames chargées ne ralentissent pas, même si elles traversent un ennemi. La lumière bleue des lapis-lazulis rappelle les étoiles filantes.</text>
+<text id="71000">Un outil de prothèse équipé des pétards de Robert. Coûte des emblèmes spirituels.
+
+Déchaîne un éclair explosif qui inflige des dégâts à la Posture des ennemis. A une courte portée, mais une vaste dispersion peut toucher de multiples ennemis à la fois. Parfait pour immobiliser temporairement les ennemis, très efficace pour effrayer les bêtes.</text>
+<text id="71100">Un pétard amélioré utilisant un mécanisme à ressort. Coûte des emblèmes spirituels.
+
+L'explosion émet un éclair et un bruit puissant, endommageant la Posture des bêtes.
+
+Chargez le mécanisme pour répandre plus efficacement la poudre à canon, ce qui permet d'augmenter la zone d'effet dans toutes les directions.</text>
+<text id="71200">Un pétard amélioré utilisant un composé de poudre à canon. Coûte des emblèmes spirituels.
+
+Le composé de poudre fait une longue étincelle. En augmentant la proportion de poudre à canon noire, cet effet peut être prolongé.
+
+Les flammes des pétards s'étoffent pendant un court moment.</text>
+<text id="71300">Un pétard amélioré qui émet une fumée pourpre. Coûte des emblèmes spirituels.
+
+Ce composé de poudre est appelé "Brume pourpre".
+
+L'adjonction de cire permet de retarder légèrement l'explosion. Les ennemis aveuglés subissent temporairement un peu plus de dégâts de Vitalité et de Posture.</text>
+<text id="72000">Un outil de prothèse comprenant un tube de flammes chargé. Coûte des emblèmes spirituels. 
+La puissante explosion à courte portée inflige des dégâts de feu et l'altération d'état Brûlure. Il est difficile de contrôler la rage des "Yeux rouges" par la seule force humaine. Mais ils craignent les flammes. Cet outil est capable de les faire trembler.</text>
+<text id="72100">Un tube de flammes doté d'un mécanisme à poudre à canon. Coûte des emblèmes spirituels.
+
+Inflige des dégâts de feu aux ennemis et l'altération d'état Brûlure.
+
+Peut également emporter un surcroît de poudre à canon pour détruire les ennemis avec une explosion de flammes.</text>
+<text id="72200">Un tube contenant de la résine incandescente qui sert de catalyseur pour l'explosion. Consomme des emblèmes spirituels.
+
+Lance des flammes à courte portée. Les dégâts de feu continus infligent l'altération d'état Brûlure. Il est possible de maintenir un jet de flammes continu grâce à la résine dans le mécanisme du tube.</text>
+<text id="72300">Un tube de flammes doté de lapis-Lazuli de la source. Coûte des emblèmes spirituels.
+
+Infligez des dégâts même aux esprits vengeurs avec cette flamme pourpre. La flamme, en revanche, n'inflige pas l'effet Brûlure. Les feux de lapis-lazuli sont des émanations divines. Brûlez dans le feu la haine absorbée.</text>
+<text id="73000">Un outil de prothèse avec une lourde hache de shinobi. Coûte des emblèmes spirituels.
+
+La puissance de la hache chargée réside dans son poids.
+
+Un coup peut facilement détruire un bouclier de bois ou la Posture de l'ennemi.</text>
+<text id="73100">Une hache chargée renforcée par un mécanisme à ressort. Coûte des emblèmes spirituels.
+
+La puissance de la hache réside dans son poids. Il permet de parer les coups ennemis et peut facilement détruire un bouclier de bois. Charger et déchaîner l'énergie dans le mécanisme à ressort permet de larges attaques de balayage, en dépit du poids de l'arme.</text>
+<text id="73200">Une hache chargée avec un marteau à percussion qui crée des flammes. Coûte des emblèmes spirituels.
+
+Permet de lancer des attaques baignant dans les flammes avec la lame de la hache. Frapper le marteau à percussion cause une violente éruption de flammes et augmente la zone d'attaque. C'est non seulement une hache lourde, mais aussi une arme à feu.</text>
+<text id="73300">Cette hache équipée d'un lapis-lazuli est devenue un trésor légendaire digne de l'admiration d'un dieu. Coûte des emblèmes spirituels.
+
+Cette lourde hache inflige des dégâts à un ennemi en garde. Le son du lapis-lazuli frappant un ennemi peut dissiper des illusions.</text>
+<text id="74000">Un outil de prothèse équipé d'une plume de Corbeau de la Brume. Coûte des emblèmes spirituels.
+
+Quand vous êtes attaqué en position, vous disparaissez instantanément et vous vous déplacez comme la brume.
+
+Vous croyez en attraper un, et il ne reste que des plumes. Telle est la marque d'un vrai Corbeau de la Brume.</text>
+<text id="74100">Des plumes de Corbeau de la Brume avec des encoches au bout. Coûte des emblèmes spirituels.
+Disparaissez en un instant comme la brume et éloignez-vous. Peut être utilisé en position ou après avoir subi des dégâts. Les encoches sur les plumes donnent l'apparence d'un vieux Corbeau de la Brume. Elles permettent de se fondre dans la brume encore plus facilement.</text>
+<text id="74200">Des plumes de corbeau de la Brume, mélangées avec des plumes couleur rouge sang. Coûte des emblèmes spirituels. Disparaissez en un instant comme la brume et éloignez-vous. Peut être utilisé en position ou après avoir subi des dégâts. Les plumes pourpres donnent l'apparence du Grand corbeau de la Brume et laissent un sillage de plumes enflammées. Le Grand corbeau est le dieu de cette terre, et les dieux impriment partout leur marque.</text>
+<text id="75000">Un outil de prothèse fabriqué avec une lame Sabimaru, permettant une série d'attaques rapides avec le sabre. Coûte des emblèmes spirituels. Le poison de rouille bleu sur la lame de Sabimaru applique l'altération d'état Poison. La légende veut que la rouille bleue venimeuse de la lame soit capable de repousser même les inhumaines guerrières Okami. Il est probable qu'elle soit efficace également contre leurs descendantes.</text>
+<text id="75100">Sabimaru avec un mécanisme amélioré pour actionner la lame. Coûte des emblèmes spirituels.
+
+Grâce au mécanisme révisé, il est possible de combattre en enchaînant différentes attaques secondaires, de front et à l'arrière.
+Le poison de rouille bleu sur la lame ronge l'ennemi et lui inflige une altération d'état Poison.</text>
+<text id="75200">Sabimaru améliorée avec une lame affûtée. Coûte des emblèmes spirituels.
+Des attaques répétées avec la lame fraîchement aiguisée érodent la Vitalité et la Posture de l'ennemi, même s'il est en garde.
+Le poison de rouille bleu sur la lame de Sabimaru ronge l'ennemi et lui inflige une altération d'état Poison.</text>
+<text id="75300">Sabimaru bénéficiant de la grâce des lapis-lazuli de la source. Coûte des emblèmes spirituels.
+
+La combinaison des lapis-lazuli et de la rouille bleue de la lame produit une brume toxique à chaque coup.
+
+La rouille bleue de l'antique Sabimaru a été mêlée au lapis-lazuli pour créer cette lame.</text>
+<text id="76000">Un outil de prothèse doté d'un parapluie à bords de fer indestructible. Consomme des emblèmes spirituels.
+
+Permet de se garder des attaques dans toutes les directions quand le parapluie est ouvert. Tenez-le en vous déplaçant pour vous protéger des attaques légères.
+
+Il ne protège que contre les attaques venant du dessus, pas d'en dessous.</text>
+<text id="76100">Un parapluie chargé amélioré par l'ajout d'un mécanisme magnétique. Coûte des emblèmes spirituels. Permet de se garder des attaques dans toutes les directions quand le parapluie est ouvert. Tenez-le en vous déplaçant pour vous protéger des attaques légères. Son renforcement magnétique le rend pratiquement incassable. Il suffit de le faire tournoyer pour dévier les attaques ennemies.</text>
+<text id="76200">Un parapluie chargé arborant un oiseau rouge. Coûte des emblèmes spirituels.
+
+Permet de se garder des attaques dans toutes les directions quand le parapluie est ouvert. Tenez-le en vous déplaçant pour vous protéger des attaques légères. Il protège des dégâts de feu et empêche l'accumulation d'effets Brûlure.</text>
+<text id="76300">Un parapluie arborant un phénix violet. Coûte des emblèmes spirituels.
+
+Permet de se garder des attaques dans toutes les directions quand il est ouvert. Tenez-le en vous déplaçant pour vous protéger des attaques légères.
+
+Il peut protéger contre les dégâts causés par les esprits vengeurs.</text>
+<text id="77000">Un outil de prothèse équipé d'un grand éventail. Coûte des emblèmes spirituels.
+
+Rassemblez beaucoup de vents et déchaînez-les pour forcer les ennemis pris dans le vortex à regarder dans l'autre direction.
+
+C'est une petite possession divine dont on revient rapidement. Cependant, ceux qui ont déjà subi cet effet ne peuvent plus être affectés.</text>
+<text id="77100">Un grand éventail doré qui crée un grand tourbillon de vent. Coûte des emblèmes spirituels.
+
+Rassemblez beaucoup de vents et déchaînez-les pour forcer les ennemis pris dans le vortex à regarder dans l'autre direction. Peut être utilisé deux fois à la suite. C'est une petite possession divine dont on revient rapidement. Cependant, ceux qui ont déjà subi cet effet ne peuvent plus être affectés.</text>
+<text id="77200">Un grand éventail doré. Coûte des emblèmes spirituels.
+
+Rassemblez d'illustres vents dorés et déchaînez-les pour forcer les ennemis pris dans le vortex à regarder dans l'autre direction. Peut être utilisé deux fois à la suite. Les ennemis perdent dans le mouvement des objets ou de l'argent, qui sont considérés comme des donations.</text>
+<text id="78000">Un outil de prothèse doté de la corne brisée de Gyobu. Coûte des emblèmes spirituels.
+
+Déchaîne des attaques d'estoc à distance. Les ennemis légers touchés par l'attaque sont attirés vers l'utilisateur.
+
+Cette arme peut même arracher les armures. On appelle ça le Démembrement d'armure. C'était l'une des techniques de Gyobu Oniwa.</text>
+<text id="78100">Une lance chargée renforcée par un mécanisme à ressort. Coûte des emblèmes spirituels.
+
+Déchaîne des attaques d'estoc à longue portée. Les ennemis légers touchés par l'attaque sont attirés vers l'utilisateur. Peut même retirer les armures.
+Charger la puissance du mécanisme à ressort permet des estocs successifs.</text>
+<text id="78200">Une lance chargée renforcée par un mécanisme à ressort. Coûte des emblèmes spirituels.
+
+Déchaîne des attaques d'estoc à longue portée. Les ennemis légers touchés par l'attaque sont attirés vers l'utilisateur. Peut même retirer les armures. Charger la puissance du mécanisme à ressort permet de déchaîner une puissante attaque Fendoir.</text>
+<text id="78300">Une lance chargée avec une spirale insérée dans la lame. Consomme des emblèmes spirituels.
+
+Les attaques d'estoc rapides entament la Vitalité et la posture de l'ennemi, même s'il est en garde.
+
+La spirale de la lance crée une onde de choc en tourbillon qui arrache la chair en la pénétrant.</text>
+<text id="78400">Une lance chargée avec un marteau à percussion pour créer des flammes. Coûte des emblèmes spirituels.
+
+La pointe de la lance chargée est entourée de flammes qui en fait une dangereuse arme enflammée. Une seule grande frappe chargée de la lance projette les ennemis en l'air et les consume dans des flammes ardentes.</text>
+<text id="79000">Un outil de prothèse créé en ajoutant un doigt fin à la prothèse. Coûte des emblèmes spirituels.
+
+Le son qu'il émet attire l'attention de l'ennemi et le conduit jusqu'à l'emplacement du sifflet. Verrouillez une cible pour qu'elle soit la seule à entendre le sifflet. Le son du sifflet de doigt enrage les bêtes, qui ne sont plus capables de distinguer les amis des ennemis.</text>
+<text id="79100">Un sifflet de doigts à échos. Coûte des emblèmes spirituels.
+
+Le son du sifflet attire l'attention de l'ennemi et le fait venir là où le sifflement a été entendu. Si on verrouille une cible, elle seule entend le sifflement.
+
+Prendre une grande goulée d'air avant d'utiliser un sifflement à écho permet de retarder le son.</text>
+<text id="79200">Le sifflet de doigt renforcé par l'anneau du mécontent. Consomme des emblèmes spirituels.
+
+Cet anneau est capable de créer une ouverture en causant la peur des esprits vengeurs, mais il n'a pas d'effet sur les bêtes.
+À l'intérieur de l'anneau, l'inscription est "Roi pêcheur". Les Rois pêcheurs pleuraient le long des rives dans la Vallée engloutie. Ils n'y pleurent plus.</text>
+<text id="110000">-</text>
+<text id="200000">Un Art martial du shinobi utilisé pour se jeter sur les ennemis avec le crochet et les traverser.
+
+La prothèse du shinobi est l'outil parfait pour se débarrasser des déplacements excessifs en combinant attaque et mouvement d'entraînement.</text>
+<text id="200100">Un Art martial du shinobi qui garde contre les attaques aériennes ou les dévie.
+
+Les armes à feu et les armes de jet infligent des dégâts supplémentaires aux cibles en l'air et cette technique permet de s'en protéger.
+
+Les shinobi ne seront pas si faciles à abattre.</text>
+<text id="200200">Un Art martial du shinobi qui utilise des outils de prothèse en l'air.
+
+La prothèse du shinobi est faite de fer, d'où son poids. Néanmoins, on peut l'utiliser en l'air grâce aux techniques de son fabricant, Dogen, et à l'entraînement du Sculpteur. C'est sans doute une bonne chose que les outils de shinobi soient exploitables lorsqu'on n'est pas au sol.</text>
+<text id="200300">Un Art martial du shinobi qui contre les estocs de l'ennemi et endommage grandement sa Posture.
+Il est presque impossible de percevoir la vitesse d'un estoc, sauf si on a des yeux de shinobi. Utilisez cette technique pour marcher sur l'arme d'un ennemi et préparer une contre-attaque. Le contre Mikiri doit être utilisé au moment exact. Une erreur conduit à la mort, mais il en va de même pour votre ennemi.</text>
+<text id="200400">Un Art martial du shinobi utilisé pour la furtivité. Glissez jusqu'à vous accroupir après un sprint.
+
+Courez sur une zone et glissez pour vous camoufler.
+
+Cet Art martial trompe facilement les yeux de votre ennemi.</text>
+<text id="200500">Un Art martial du shinobi qui permet d'utiliser les Arts du combat en l'air.
+
+Réduisez la distance avec un saut ou évitez un balayage, puis effectuez une attaque d'Art du combat.
+
+Des compétences parfaites pour les combats de shinobi où les pieds touchent rarement le sol.</text>
+<text id="200600">Un Art martial du shinobi qui permet de sauter derrière un ennemi déstabilisé.
+
+Cette technique permet l'utilisation des coups mortels dans le dos au milieu de la bataille, sans même utiliser la furtivité.
+
+Cela fait partie des techniques de shinobi utilisables de près.</text>
+<text id="210000">Une technique de taillade permettant de tourbillonner dans son environnement.
+
+Cette attaque permet de combattre simultanément divers ennemis et inflige des dégâts même en cas de garde.
+
+Une technique de shinobi parfaite pour s'extraire d'un encerclement ennemi.</text>
+<text id="211000">Un Art du combat conçu par le Grand shinobi. Enfoncez votre lame dans l'ennemi depuis une grande distance, puis utilisez l'ennemi comme plateforme pour sauter dans les cieux.
+
+S'envoler après avoir percé l'ennemi est la manière de chasser de la chouette.
+
+Vous consommez des emblèmes spirituels quand vous sautez.</text>
+<text id="301000">Après l'utilisation de certains outils de prothèse, cet Art martial permet de faire un grand pas en avant puis de tailler avec le sabre.
+Une attaque d'outil de prothèse combinée avec un Fendoir permet de se rapprocher instantanément des ennemis.
+Outils de prothèse concernés : 
+&lt;?acquiredWeaponNameId@70000?&gt;, &lt;?acquiredWeaponNameId@71000?&gt;, &lt;?acquiredWeaponNameId@78000?&gt;</text>
+<text id="301100">Après l'utilisation de certains outils de prothèse, cet Art martial du shinobi permet d'effectuer des attaques simultanées ou suivies avec l'outil de prothèse ou le sabre.
+Cette technique permet de tuer avec le croc et la lame en même temps.
+Outils de prothèse concernés :
+&lt;?acquiredWeaponNameId@73000?&gt;, &lt;?acquiredWeaponNameId@78000?&gt;, &lt;?acquiredWeaponNameId@74000?&gt;</text>
+<text id="301200">Après l'utilisation de certains outils de prothèse, attaquez immédiatement votre ennemi avec un balayage du sabre pour effectuer l'attaque secondaire. 
+Chaque couleur apporte une autre forme de mort. 
+Outils de prothèse concernés :
+&lt;?acquiredWeaponNameId@76000?&gt;, &lt;?acquiredWeaponNameId@79000?&gt;</text>
+<text id="301300">Après l'utilisation de certains outils de prothèse, il est possible de combiner l'effet de l'outil avec le sabre.
+Avec ces ultimes développements, le Sculpteur abandonna la prothèse de shinobi. Il était allé trop loin et avait trop tué, au point que les flammes de la haine avaient commencé à se répandre.
+Outils de prothèse concernés :
+&lt;?acquiredWeaponNameId@72000?&gt;, &lt;?acquiredWeaponNameId@77000?&gt;</text>
+<text id="310000">Un Art du combat mêlant tourbillon et plongeon. Il permet de se rapprocher instantanément ou de s'éloigner des ennemis. 
+C'est une technique du clan des engoulevents, les shinobi qui servent Ashina. Le clan des engoulevents exécute la Taille des engoulevents grâce à la force de rotation produite par le poids d'un grand shuriken. La prothèse de shinobi étant en acier, elle peut servir de la même façon.</text>
+<text id="310100">Un Art du combat mêlant tourbillon et plongeon. Il permet de se rapprocher instantanément ou de s'éloigner des ennemis. 
+Cette technique permet de choisir dans quelle direction tourbillonner.
+
+Approchez, frappez et fuyez. C'est à ce style de combat que les engoulevents doivent leur nom.</text>
+<text id="410000">Un Art du combat qui assène un puissant coup de haut en bas et qui inflige des dégâts importants à la Posture de l'ennemi, tout en récupérant votre Posture en avançant.
+
+Un coup frontal et brutal. En se concentrant sur cette technique, l'école Ashina est devenue très puissante. Cette technique maîtrisée, on peut l'améliorer.</text>
+<text id="410100">Un Art du combat qui ajoute une autre attaque qui peut être accomplie après Ichimonji, une autre attaque de haut en bas. Cet Art du combat inflige des dégâts importants à la Posture de l'ennemi, tout en récupérant votre Posture en avançant.
+La 2e frappe est très utile pour empêcher les contre-attaques. 
+La technique Ichimonji d'Ashina est parachevée par la 2e attaque.</text>
+<text id="411000">Un Art du combat utilisant un sabre dans son fourreau pour des attaques à grande vitesse. Coûte des emblèmes spirituels.
+
+Maintenir la position permet de contrer à tout moment.
+Technique secrète de l'école Ashina, l'attaque tue vite.
+Sa puissance est telle qu'elle pourrait couper le bras d'un Shura, d'après Isshin Ashina.</text>
+<text id="510000">Un Art de combat utilisant des coups de coude et de paume successifs. Déchaîne un tourbillon d'attaques rapides en empêchant l'ennemi de contre-attaquer.
+
+Ces frappes sont à la fois un art martial et une forme de prière. "Sans force, on ne peut vaincre les ennemis du Bouddha..." Les moines du temple Senpo gardent ces mots derrière des lèvres closes et, en priant, frappent pour accumuler des vertus.</text>
+<text id="510100">Un Art martial qui ajoute un coup de grâce aux frappes de prière.
+Déchaînez un tourbillon d'attaques rapides pour infliger des dégâts en empêchant une contre-attaque, puis donnez un puissant coup avec tout le poids du corps.
+
+Les moines de Senpo utilisent également cette technique pour se purger de leurs désirs charnels. Mais il est d'autres passions...</text>
+<text id="511000">Un Art du combat dans lequel les attaques répétées commencent avec un coup de pied sauté. Un contre aérien combiné avec un mouvement qui évite les balayages permet de déclencher un tourbillon de coups de pieds. Le coup de pied a pour origine les reclus qui portent le nom du temple Senpo. Le coup de pied initial doit d'abord être parfait, avant que l'entraînement réel puisse commencer.</text>
+<text id="511100">Un Art du combat qui ajoute coups de pieds et taillades au Coup de pied sauté Senpo. Très peu de disciples du temple Senpo apprennent cette technique.
+
+La technique n'a pas de vraie forme et le flux des attaques différera d'un guerrier à l'autre. Tout comme le cœur, le pilier apparaîtra. C'est une seconde nature pour le loup que d'utiliser le don de son maître en effectuant cette technique.</text>
+<text id="610100">Un Art du combat qui est une évolution de Charge de l'ombre. C'est une technique secrète du style Ashina Mushin. Coûte des emblèmes spirituels.
+Vous pouvez maintenant effectuer une taillade en vrille descendante après avoir sauté en l'air avec une Charge de l'ombre. 
+Percez, volez et plongez. Voler en toute liberté, c'est cela, être une chouette.</text>
+<text id="611100">La Spirale de nuages est un Art du combat développé pour déchaîner des ondes de choc. Coûte des emblèmes spirituels. 
+Son nom provient d'une grande spirale de nuages peut se voir au loin, là où l'eau de la source ne coule pas. On l'appelle la Spirale de la source. Tomoe regardait son jeune maître observer ces nuages. Cette vue représentait beaucoup pour Tomoe.</text>
+<text id="612100">Un Art du combat qui utilise la lame de la mort. Coûte des emblèmes spirituels.
+
+En se concentrant avant de dégainer la lame de la mort, on peut augmenter sa puissance et frapper plus loin et plus fort. 
+Une technique qui n'est utilisable que par les disciples de l'héritier divin de l'héritage du dragon.</text>
+<text id="620000">Une compétence passive qui vous camoufle à la vue ennemie quand vous êtes en mode furtif.
+
+C'est une autre technique shinobi. Être invisible est l'une des marques du shinobi.</text>
+<text id="620100">Une compétence passive qui camoufle aux ennemis les sons de vos déplacements.
+
+C'est une autre technique shinobi. Étouffer les sons que l'on émet est l'une des marques du shinobi.</text>
+<text id="630000">Une compétence passive qui améliore le nombre de sen et le taux d'apparition des objets sur les ennemis vaincus.
+
+Selon les mots du grand-prêtre du temple Senpo,
+"Les êtres illuminés multiplient les actes vertueux et renoncent aux rêves d'opulence."</text>
+<text id="630100">Une compétence passive qui améliore le nombre de sen et le taux d'apparition des objets sur les ennemis vaincus.
+
+Selon le grand-prêtre du temple Senpo...
+
+"Il faut multiplier les actes vertueux et renoncer aux rêves d'opulence."</text>
+<text id="640000">Une compétence passive qui augmente les effets des objets de soins.
+
+Emma a enseigné ce savoir médicinal au Sculpteur il y a bien longtemps.
+
+Retenez bien le goût prononcé de ce remède pour en amplifier les effets. Mais cela ne le rend pas plus savoureux.</text>
+<text id="640100">Une compétence passive qui augmente les effets des objets de soins.
+
+Emma a enseigné ce savoir médicinal au Sculpteur il y a bien longtemps.
+
+Retenez bien l'arôme prononcé de ce remède pour en amplifier les effets. Cela ne rend pas l'odeur plus agréable.</text>
+<text id="640200">Une compétence passive qui améliore l'effet des objets de récupération.
+
+Les connaissances médicales sont vitales pour la survie d'un shinobi, car on n'échappe pas aux blessures au combat.
+
+Le seul moyen d'apprendre de telles techniques consiste à être gravement blessé encore et encore par des adversaires dignes de valeur.</text>
+<text id="640300">Une compétence passive qui améliore l'effet des objets de récupération.
+
+Un shinobi peut parfois survivre à une mort certaine. Pour cela, il lui est vital de disposer de connaissances médicales.
+
+Le seul moyen d'apprendre de telles techniques consiste à être gravement blessé encore et encore par des adversaires dignes de valeur.</text>
+<text id="640400">Une compétence passive qui améliore l'effet des objets de récupération.
+
+Un shinobi combat en loup solitaire. Il lui est vital de disposer de connaissances médicales.
+
+Le seul moyen d'apprendre de telles techniques consiste à être gravement blessé encore et encore par des adversaires dignes de valeur.</text>
+<text id="650000">Une compétence passive qui augmente le nombre maximum d'emblèmes spirituels qu'on peut détenir.
+
+Les emblèmes spirituels sont des manifestations du regret. Ceux qui regrettent leurs actions viles sont hantés par de nombreux emblèmes spirituels.
+Un shinobi qui a beaucoup tué traverse la vie en portant le poids physiques de ses péchés.</text>
+<text id="650100">Une compétence passive qui augmente le nombre maximum d'emblèmes spirituels qu'on peut détenir.
+
+Les emblèmes spirituels sont des manifestations du regret. Ceux qui regrettent leurs actions viles sont hantés par de nombreux emblèmes spirituels.
+Un shinobi qui a beaucoup tué traverse la vie en portant le poids de ses péchés dans son âme.</text>
+<text id="650200">Une compétence passive qui augmente le nombre maximum d'emblèmes spirituels qu'on peut détenir.
+Les emblèmes spirituels sont des manifestations du regret. Ceux qui regrettent leurs actions viles sont hantés par de nombreux emblèmes spirituels. Cette prothèse du shinobi est un outil gorgé de péchés. Le sang qui a aspergé cette prothèse vire à la rouille permanente, ce qui prouve le fardeau de l'utilisateur.</text>
+<text id="650300">Une compétence passive qui augmente le nombre maximum d'emblèmes spirituels qu'on peut détenir.
+Les emblèmes spirituels sont des manifestations du regret. Ceux qui regrettent leurs actions viles sont hantés par de nombreux emblèmes spirituels. Cette prothèse du shinobi est un outil gorgé de péchés. Les nombreuses petites coupures et cicatrices de la prothèse prouvent les morts innombrables qu'elle a causées.</text>
+<text id="650400">Une compétence passive qui augmente le nombre maximum d'emblèmes spirituels qu'on peut détenir. Les emblèmes spirituels sont des manifestations du regret. Ceux qui regrettent leurs actions viles sont hantés par de nombreux emblèmes spirituels. Peut-être cette bête innocente porte-t-elle le fardeau d'un karma d'homme. Hériter du karma de ceux qu'ils ont tués fait partie de la vie des shinobi.</text>
+<text id="660000">Une compétence passive qui rend de la Vitalité lors d'un coup mortel réussi.
+
+Les coups mortels permettent au shinobi de respirer.
+
+Un shinobi peut calmer son corps et son esprit grâce à la respiration, même pendant les exécutions, ce qui lui permet de tuer davantage.</text>
+<text id="660100">Une compétence passive qui rend de la Vitalité lors d'un coup mortel réussi.
+
+Les coups mortels permettent au shinobi de respirer.
+
+Affronter des adversaires plus puissants renforce ce moment de répit.</text>
+<text id="660200">Une compétence passive qui permet à la Posture de récupérer en cas de coup mortel réussi.
+
+Le style Ashina dispose également de techniques conçues pour combattre quand on est surclassé numériquement. Après avoir tué un ennemi, il faut conserver toute sa concentration et expirer profondément pour apaiser son esprit et son corps.</text>
+<text id="660300">Une compétence passive qui permet à la Posture de récupérer lors d'un coup mortel réussi.
+Un shinobi doit être préparé aux combats dans lesquels il est surclassé numériquement. Après avoir tué un ennemi, vous devez expirer vos regrets et réaffirmer votre Posture. Affronter des adversaires plus puissants renforce ce moment d'exhalaison.</text>
+<text id="660400">Une compétence passive qui augmente les dégâts infligés à la Posture en réussissant un contre Mikiri.
+
+En fait, les yeux d'un shinobi ne suivent pas la lame sans anticiper ses mouvements. Rester calme même face au plus tranchant des sabres est le secret de la victoire.</text>
+<text id="660500">Une compétence passive qui augmente la durée d'efficacité des bonbons bouddhistes.
+
+Les plus dévots profitent plus longtemps de la bénédiction des dieux.</text>
+<text id="660600">Une compétence passive qui augmente les dégâts infligés à la Posture en cas de déviation réussie.
+
+Le style Ashina est connecté au flux des eaux de la source. Pour lui, réussir à dévier une lame, c'est comme pour la carpe réussir à remonter une cascade.</text>
+<text id="660700">Une compétence passive qui augmente tous les types de dégâts infligés à la Posture pendant quelques secondes en cas de déviation réussie.
+
+Le style Ashina est connecté au flux des eaux de la source. Pour lui, réussir à dévier une lame, c'est comme pour la carpe réussir à descendre une cascade.</text>
+<text id="660800">Une compétence passive qui réduit vos dégâts de posture quand un ennemi vous attaque avec une épée.
+
+Tout comme les eaux limpides du clan Ashina, la force ne doit pas être contrée par la force mais déviée comme le cours de l'eau.</text>
+<text id="670000">Un Art du combat accompli avec la lame de la mort. Coûte des emblèmes spirituels. L'épée jaillit vers l'avant et tronçonne les ennemis dans une traînée rouge-noir. Un coup extrêmement puissant.
+
+La technique utilisant la lame qu'on ne dégaine pas n'est possible que pour les combattants liés à l'héritier divin.</text>
+<text id="671000">Un art du combat pour trancher rapidement depuis la position du fourreau. Le charger enverra une onde de choc. Coûte des emblèmes spirituels.
+Le jeune Isshin, connu sous le nom de "démon du sabre", passait ses journées en batailles désespérées et en massacres.
+Comment tuer ? Comment celui-ci doit-il être tué ? Il continua de réfléchir sans fin à ce problème et, avant de le savoir, sa lame sembla prendre vie.</text>
+<text id="672000">Un Art du combat dans lequel les attaques sont répétées comme pour une danse. Ces mouvements fluides submergent l'ennemi.
+
+Bien qu'il s'agisse d'un Art du combat Ashina, il est considéré comme hérétique pour avoir été enseigné par un étranger.
+L'utilisatrice de cette technique a traversé le Passage flottant pour descendre jusqu'à Ashina. Son nom était Tomoe.</text>
+<text id="673000">Un Art du combat qui déchaîne une série d'attaques depuis la position du fourreau, si rapide que la lame est presque invisible. Coûte des emblèmes spirituels.
+Le bretteur doit exclusivement se concentrer sur le mouvement de sa lame. Cette concentration permet la vitesse d'exécution.
+Seuls les vétérans des maîtres Isshin peuvent maîtriser cette technique.</text>
+<text id="674000">Un Art du combat dans lequel on pirouette et taille avec grâce. Peut s'enchaîner avec une manœuvre de prothèse en l'air à la fois offensive et défensive. Coûte des emblèmes spirituels.
+
+La technique secrète de Tomoe, qu'elle effectuait autrefois comme une danse en l'honneur de son maître. 
+Les fleurs de cerisier vont bientôt tomber. Si retourner au pays est impossible, au moins la danse peut-elle vous consoler.</text>
+<text id="680000">Une méthode de respiration secrète connue sous le nom de technique de respiration Mibu.
+Cette compétence passive permet de plonger sous l'eau et d'y respirer indéfiniment.
+Elle a été développée par le fondateur du village de Mibu.
+"Ceux qui veulent se joindre à la procession doivent maîtriser la technique de respiration Mibu. Sans elle, on ne peut rencontrer le dragon divin."</text>
+<text id="681000">Un art de shinobi conçu pour arrêter net les ennemis qui bondissent dans les airs.
+
+Permet d'exploiter la vulnérabilité de l'ennemi quand il est dans les airs en bondissant vers lui pour effectuer un coup mortel.
+
+La compétence idéale pour un shinobi qui veut reprendre l'avantage contre des ennemis aériens.</text>
+<text id="690000">Art du combat inconnu</text>
+<text id="690100">Amélioration d'art du combat inconnue</text>
+<text id="690200">Art martial de shinobi inconnu</text>
+<text id="690300">Compétence passive inconnue</text>
+<text id="690400">Art du combat secret inconnu</text>
+<text id="699000">Art du combat secret inconnu</text>
+<text id="701000">Un shuriken amélioré par une énergie cinétique latente. Coûte des emblèmes spirituels.
+Rogne la Vitalité et la Posture de l'ennemi. Inflige de plus grands dégâts aux ennemis qui bondissent.
+Lâcher l'énergie stockée dans le ressort permet de continuer à blesser les ennemis au-delà de la première cible. Ce sont comme des toupies... avec des lames.</text>
+<text id="702000">Un puissant shuriken qui traverse les ennemis avec ses lames aiguisées. Coûte des emblèmes spirituels.
+Ces lames perforantes conservent leur vitesse même après avoir frappé un ennemi. Elles endommagent la Vitalité et la Posture de l'ennemi, même s'il se garde. 
+Chargez pour augmenter la puissance du ressort et permettre à la lame de frapper plusieurs ennemis d'un seul tir.</text>
+<text id="703000">Le kunaï du papillon est intégré dans la roue de shurikens. Coûte des emblèmes spirituels.
+
+Le kunaï émet un son audible quand on le jette. Des papillons fantômes jaillissent après le lancement d'un kunaï. Les papillons pourchassent les ennemis et peuvent infliger des dégâts même lorsqu'ils sont en garde.</text>
+<text id="704000">Un outil de prothèse qui tire des pièces. L'utilisation requiert des sen et des emblèmes spirituels. Il n'a pas la portée d'un shuriken, mais il inflige des dégâts élevés aux ennemis proches en tirant une nuée de pièces qui touchent plusieurs fois. Le nombre de pièces dépend de la bourse de l'utilisateur. En d'autres termes, plus il est riche, plus le tir est puissant. Si la bourse est vide, la décharge ne tire que de la poussière.</text>
+<text id="705000">Un shuriken béni par la grâce du lapis-lazuli de la source. Coûte des emblèmes spirituels.
+
+Son tranchant divin peut endommager grandement la Posture et la Vitalité d'un ennemi qui se garde, et même blesser les esprits vengeurs. Les lames chargées ne ralentissent pas, même si elles traversent un ennemi. La lumière bleue des lapis-lazulis rappelle les étoiles filantes.</text>
+<text id="711000">Un pétard amélioré utilisant un mécanisme à ressort. Coûte des emblèmes spirituels.
+
+L'explosion émet un éclair et un bruit puissant, endommageant la Posture des bêtes.
+
+Chargez le mécanisme pour répandre plus efficacement la poudre à canon, ce qui permet d'augmenter la zone d'effet dans toutes les directions.</text>
+<text id="712000">Un pétard amélioré utilisant un composé de poudre à canon. Coûte des emblèmes spirituels.
+
+Le composé de poudre fait une longue étincelle. En augmentant la proportion de poudre à canon noire, cet effet peut être prolongé.
+
+Les flammes des pétards s'étoffent pendant un court moment.</text>
+<text id="713000">Un pétard amélioré qui émet une fumée pourpre. Coûte des emblèmes spirituels.
+
+Ce composé de poudre est appelé "Brume pourpre".
+
+L'adjonction de cire permet de retarder légèrement l'explosion. Les ennemis aveuglés subissent temporairement un peu plus de dégâts de Vitalité et de Posture.</text>
+<text id="721000">Un tube de flammes doté d'un mécanisme à poudre à canon. Coûte des emblèmes spirituels.
+
+Inflige des dégâts de feu aux ennemis et l'altération d'état Brûlure.
+
+Peut également emporter un surcroît de poudre à canon pour détruire les ennemis avec une explosion de flammes.</text>
+<text id="722000">Un tube contenant de la résine incandescente qui sert de catalyseur pour l'explosion. Consomme des emblèmes spirituels.
+
+Lance des flammes à courte portée. Les dégâts de feu continus infligent l'altération d'état Brûlure. Il est possible de maintenir un jet de flammes continu grâce à la résine dans le mécanisme du tube.</text>
+<text id="723000">Un tube de flammes doté de lapis-Lazuli de la source. Coûte des emblèmes spirituels.
+
+Infligez des dégâts même aux esprits vengeurs avec cette flamme pourpre. La flamme, en revanche, n'inflige pas l'effet Brûlure. Les feux de lapis-lazuli sont des émanations divines. Brûlez dans le feu la haine absorbée.</text>
+<text id="731000">Une hache chargée renforcée par un mécanisme à ressort. Coûte des emblèmes spirituels.
+
+La puissance de la hache réside dans son poids. Il permet de parer les coups ennemis et peut facilement détruire un bouclier de bois. Charger et déchaîner l'énergie dans le mécanisme à ressort permet de larges attaques de balayage, en dépit du poids de l'arme.</text>
+<text id="732000">Une hache chargée avec un marteau à percussion qui crée des flammes. Coûte des emblèmes spirituels.
+
+Permet de lancer des attaques baignant dans les flammes avec la lame de la hache. Frapper le marteau à percussion cause une violente éruption de flammes et augmente la zone d'attaque. C'est non seulement une hache lourde, mais aussi une arme à feu.</text>
+<text id="733000">Cette hache équipée d'un lapis-lazuli est devenue un trésor légendaire digne de l'admiration d'un dieu. Coûte des emblèmes spirituels.
+
+Cette lourde hache inflige des dégâts à un ennemi en garde. Le son du lapis-lazuli frappant un ennemi peut dissiper des illusions.</text>
+<text id="741000">Des plumes de Corbeau de la Brume avec des encoches au bout. Coûte des emblèmes spirituels.
+Disparaissez en un instant comme la brume et éloignez-vous. Peut être utilisé en position ou après avoir subi des dégâts. Les encoches sur les plumes donnent l'apparence d'un vieux Corbeau de la Brume. Elles permettent de se fondre dans la brume encore plus facilement.</text>
+<text id="742000">Des plumes de corbeau de la Brume, mélangées avec des plumes couleur rouge sang. Coûte des emblèmes spirituels. Disparaissez en un instant comme la brume et éloignez-vous. Peut être utilisé en position ou après avoir subi des dégâts. Les plumes pourpres donnent l'apparence du Grand corbeau de la Brume et laissent un sillage de plumes enflammées. Le Grand corbeau est le dieu de cette terre, et les dieux impriment partout leur marque.</text>
+<text id="751000">Sabimaru avec un mécanisme amélioré pour actionner la lame. Coûte des emblèmes spirituels.
+
+Grâce au mécanisme révisé, il est possible de combattre en enchaînant différentes attaques secondaires, de front et à l'arrière.
+Le poison de rouille bleu sur la lame ronge l'ennemi et lui inflige une altération d'état Poison.</text>
+<text id="752000">Sabimaru améliorée avec une lame affûtée. Coûte des emblèmes spirituels.
+Des attaques répétées avec la lame fraîchement aiguisée érodent la Vitalité et la Posture de l'ennemi, même s'il est en garde.
+Le poison de rouille bleu sur la lame de Sabimaru ronge l'ennemi et lui inflige une altération d'état Poison.</text>
+<text id="753000">Sabimaru bénéficiant de la grâce des lapis-lazuli de la source. Coûte des emblèmes spirituels.
+
+La combinaison des lapis-lazuli et de la rouille bleue de la lame produit une brume toxique à chaque coup.
+
+La rouille bleue de l'antique Sabimaru a été mêlée au lapis-lazuli pour créer cette lame.</text>
+<text id="761000">Un parapluie chargé amélioré par l'ajout d'un mécanisme magnétique. Coûte des emblèmes spirituels. Permet de se garder des attaques dans toutes les directions quand le parapluie est ouvert. Tenez-le en vous déplaçant pour vous protéger des attaques légères. Son renforcement magnétique le rend pratiquement incassable. Il suffit de le faire tournoyer pour dévier les attaques ennemies.</text>
+<text id="762000">Un parapluie chargé arborant un oiseau rouge. Coûte des emblèmes spirituels.
+
+Permet de se garder des attaques dans toutes les directions quand le parapluie est ouvert. Tenez-le en vous déplaçant pour vous protéger des attaques légères. Il protège des dégâts de feu et empêche l'accumulation d'effets Brûlure.</text>
+<text id="763000">Un parapluie arborant un phénix violet. Coûte des emblèmes spirituels.
+
+Permet de se garder des attaques dans toutes les directions quand il est ouvert. Tenez-le en vous déplaçant pour vous protéger des attaques légères.
+
+Il peut protéger contre les dégâts causés par les esprits vengeurs.</text>
+<text id="771000">Un grand éventail doré qui crée un grand tourbillon de vent. Coûte des emblèmes spirituels.
+
+Rassemblez beaucoup de vents et déchaînez-les pour forcer les ennemis pris dans le vortex à regarder dans l'autre direction. Peut être utilisé deux fois à la suite. C'est une petite possession divine dont on revient rapidement. Cependant, ceux qui ont déjà subi cet effet ne peuvent plus être affectés.</text>
+<text id="772000">Un grand éventail doré. Coûte des emblèmes spirituels.
+
+Rassemblez d'illustres vents dorés et déchaînez-les pour forcer les ennemis pris dans le vortex à regarder dans l'autre direction. Peut être utilisé deux fois à la suite. Les ennemis perdent dans le mouvement des objets ou de l'argent, qui sont considérés comme des donations.</text>
+<text id="781000">Une lance chargée renforcée par un mécanisme à ressort. Coûte des emblèmes spirituels.
+
+Déchaîne des attaques d'estoc à longue portée. Les ennemis légers touchés par l'attaque sont attirés vers l'utilisateur. Peut même retirer les armures.
+Charger la puissance du mécanisme à ressort permet des estocs successifs.</text>
+<text id="782000">Une lance chargée renforcée par un mécanisme à ressort. Coûte des emblèmes spirituels.
+
+Déchaîne des attaques d'estoc à longue portée. Les ennemis légers touchés par l'attaque sont attirés vers l'utilisateur. Peut même retirer les armures. Charger la puissance du mécanisme à ressort permet de déchaîner une puissante attaque Fendoir.</text>
+<text id="783000">Une lance chargée avec une spirale insérée dans la lame. Consomme des emblèmes spirituels.
+
+Les attaques d'estoc rapides entament la Vitalité et la posture de l'ennemi, même s'il est en garde.
+
+La spirale de la lance crée une onde de choc en tourbillon qui arrache la chair en la pénétrant.</text>
+<text id="784000">Une lance chargée avec un marteau à percussion pour créer des flammes. Coûte des emblèmes spirituels.
+
+La pointe de la lance chargée est entourée de flammes qui en fait une dangereuse arme enflammée. Une seule grande frappe chargée de la lance projette les ennemis en l'air et les consume dans des flammes ardentes.</text>
+<text id="791000">Un sifflet de doigts à échos. Coûte des emblèmes spirituels.
+
+Le son du sifflet attire l'attention de l'ennemi et le fait venir là où le sifflement a été entendu. Si on verrouille une cible, elle seule entend le sifflement.
+
+Prendre une grande goulée d'air avant d'utiliser un sifflement à écho permet de retarder le son.</text>
+<text id="792000">Le sifflet de doigt renforcé par l'anneau du mécontent. Consomme des emblèmes spirituels.
+
+Cet anneau est capable de créer une ouverture en causant la peur des esprits vengeurs, mais il n'a pas d'effet sur les bêtes.
+À l'intérieur de l'anneau, l'inscription est "Roi pêcheur". Les Rois pêcheurs pleuraient le long des rives dans la Vallée engloutie. Ils n'y pleurent plus.</text>
+<text id="1700000">Information verrouillée</text>
+<text id="1710000">Information verrouillée</text>
+<text id="1720000">Information verrouillée</text>
+<text id="1730000">Information verrouillée</text>
+<text id="1740000">Information verrouillée</text>
+<text id="1750000">Information verrouillée</text>
+<text id="1760000">Information verrouillée</text>
+<text id="1770000">Information verrouillée</text>
+<text id="1780000">Information verrouillée</text>
+<text id="1790000">Information verrouillée</text>
+<text id="2700000">Cette information est actuellement verrouillée.</text>
+</entries>
+</fmg>

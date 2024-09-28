@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="200000">Gewährt die Shinobi-Kampfkunst "Greifhaken-Angriff".
+
+Schleudere dich mit dem Greifhaken auf einen Feind und nutze den Schwung für einen rollenden Schwertangriff.
+
+Die Shinobi-Prothese eignet sich perfekt, um Bewegungen mit Angriffen ohne überflüssige Bewegungen zu kombinieren.</text>
+<text id="200100">Gewährt die Shinobi-Kampfkunst "Flug-Parieren".
+
+Ermöglicht Abwehren oder Parieren feindlicher Angriffe in der Luft. Kanonen und andere Projektilwaffen fügen Zielen in der Luft zusätzlichen Schaden zu. Diese Technik kann diesen Schaden verhindern. Shinobi lassen sich nicht so leicht abschießen.</text>
+<text id="200200">Gewährt die Shinobi-Kampfkunst "Flug-Prothesen-Modul".
+
+Ermöglicht die Verwendung von Prothesen-Modulen in der Luft. Die Shinobi-Prothese ist aus Eisen gefertigt und entsprechend schwer. Mit den Techniken ihres Erfinders Dogen und genug Training kann sie trotzdem in der Luft verwendet werden.</text>
+<text id="200300">Gewährt die Shinobi-Kampfkunst "Mikiri-Konter".
+
+Ermöglicht das Kontern feindlicher Stoßangriffe durch Stampfen auf die Waffe eines Feindes. Fügt der Haltung schweren Schaden zu. Es ist fast unmöglich, schnelle Stöße richtig zu erkennen, außer man besitzt die Augen eines Shinobi.</text>
+<text id="200400">Gewährt die Shinobi-Kampfkunst "Rennen und Gleiten".
+
+Ermöglicht, aus dem Sprint heraus in eine geduckte Position zu gleiten.
+
+Laufe durch einen Bereich und rutsche außer Sichtweite.
+
+Täuscht leicht die Augen deines Feindes.</text>
+<text id="200500">Gewährt die Shinobi-Kampfkunst "Flug-Kampfkunst".
+
+Ermöglicht die Ausführung von Kampfkünsten in der Luft.
+
+Ermöglicht die Ausführung von Kampfkünsten während eines Sprungs in Richtung eines Gegners oder direkt nach dem Überspringen eines Rundumangriffs.</text>
+<text id="200600">Gewährt die Shinobi-Kampfkunst "Übersprung".
+
+Eine Shinobi-Kampfkunst, mit der man hinter einen Feind mit durchbrochener Haltung gelangt.
+
+Diese Kampfkunsttechnik ermöglicht den Einsatz von Hinterrücks-Todesschlägen mitten im Kampf, ohne getarnt zu sein.</text>
+<text id="210000">Gewährt die Kampfkunst "Wirbelwind-Hieb".
+
+Ein wirbelnder Angriff, der mehrere Feinde auf einmal treffen kann. Der scharfe Schnitt kann ihnen mit der Kraft des Wirbels Schaden zufügen, auch wenn sie abwehren. Eine gute Shinobi-Technik, um sich einen Weg durch viele Feinde zu bahnen.</text>
+<text id="211000">Gewährt die Kampfkunst "Schattensturm".
+
+Die Geheimtechnik des Shinobi-Stils stammt vom Großen Shinobi persönlich. Entfessle einen starken Stoß mit großer Reichweite und benutze den aufgespießten Gegner als Plattform, um himmelwärts zu springen. Sei wie ein jagender Uhu und steig wieder empor, wenn du deine Beute erlegt hast. Beim Sprung werden Geistembleme verbraucht.</text>
+<text id="301000">Gewährt die Shinobi-Kampfkunst "Treibender Schnitt".
+
+Diese Shinobi-Kampfkunst ermöglicht nach dem Einsatz bestimmter Prothesen-Module einen Sprint nach vorn mit einem Schwertschnitt.
+Geeignete Prothesen-Module:
+&lt;?acquiredWeaponNameId@70000?&gt;, &lt;?acquiredWeaponNameId@71000?&gt;, &lt;?acquiredWeaponNameId@78000?&gt;</text>
+<text id="301100">Gewährt die Shinobi-Kampfkunst "Fangzahn und Klinge".
+
+Lässt nach dem Einsatz bestimmter Prothesen-Module gleichzeitige Angriffe mit Modul und Schwert oder einen Folgeangriff für das Modul zu.
+Geeignete Prothesen-Module:
+&lt;?acquiredWeaponNameId@73000?&gt;, &lt;?acquiredWeaponNameId@78000?&gt;, &lt;?acquiredWeaponNameId@74000?&gt;</text>
+<text id="301200">Gewährt die Shinobi-Kampfkunst "Kraftprojektion".
+
+Lässt nach dem Einsatz bestimmter Prothesen-Module die Übertragung der Kraft des Moduls in das Schwert zu, um sie nach vorn freizusetzen. Der Angriff variiert je nach verwendetem Modul.
+Geeignete Prothesen-Module:
+&lt;?acquiredWeaponNameId@76000?&gt;, &lt;?acquiredWeaponNameId@79000?&gt;</text>
+<text id="301300">Gewährt die Shinobi-Kampfkunst "Lebendige Kraft".
+
+Ermöglicht bei bestimmten Modulen einen Folgeangriff, der dem Schwert den Effekt des Moduls verleiht. Nach der Entwicklung der Technik zog der Bildhauer die Shinobi-Prothese zurück. Er hatte zu viele getötet. Flammen des Hasses loderten ... 
+Geeignete Prothesen-Module:
+&lt;?acquiredWeaponNameId@72000?&gt;, &lt;?acquiredWeaponNameId@77000?&gt;</text>
+<text id="310000">Gewährt die Kampfkunst "Nachtschwalben-Hieb". 
+
+Ein drehender Sprungangriff, der die Distanz zum Feind schnell verringern oder vergrößern kann. Die Technik stammt vom Ashina dienenden Nachtschwalben-Clan. Sie verstärken den Schlag durch das Gewicht ihrer großen Wurfsterne. Die Shinobi-Prothese ist ähnlich anwendbar.
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Nachtschwalben-Hieb</text>
+<text id="310100">Gewährt die Kampftechnik "Nachtschwalben-Hieb-Umkehr".
+
+Ein drehender Sprungangriff, der die Distanz zum Feind schnell verringern oder vergrößern kann. Hiermit kannst du die Drehrichtung beim Nachtschwalben-Hieb bestimmen. Die zwei Richtungen machen die Technik zugleich offensiv und defensiv.</text>
+<text id="410000">Gewährt die Kampfkunst "Ichimonji".
+
+Ichimonji führt einen schweren Überkopf-Schwertschlag aus. Fügt der Haltung schweren Schaden zu. Stellt die eigene Haltung mit einem starken Vorwärtsschritt wieder her. Die unbeirrbare Beherrschung dieser Technik macht die Stärke des Ashina-Stils aus. Einmal gemeistert, kann sie sicherlich verbessert werden.</text>
+<text id="410100">Gewährt die Kampfkunst "Ichimonji: Doppel". 
+
+Ergänzt Ichimonji um einen weiteren Überkopf-Schwertangriff. Fügt der Haltung schweren Schaden zu. Stellt die eigene Haltung mit einem starken Vorwärtsschritt wieder her. Der Folgeangriff ist geeignet, um feindliche Gegenangriffe zu verhindern. Mit diesem Folgeangriff wird Ashinas Ichimonji perfekt.</text>
+<text id="411000">Gewährt die Kampfkunst "Ashina Kreuz".
+
+Blitzschneller Schnellzugangriff und Geheimtechnik des Ashina-Stils. Verbraucht Geistembleme. Stellung zu bewahren gewährt sofortige Konterbereitschaft. Seine Stärke ist laut Isshin Ashina, dass es einem Shura den Arm kosten kann.</text>
+<text id="510000">Gewährt die Kampfkunst "Gebetsschläge".
+
+Ellenbogen- und Handflächenschläge entfesseln eine Flut schneller Angriffe, die Schaden verursachen und Gegenangriffe verhindern. Kampfkunst und Gebetsform zugleich.
+
+"Stärke ist nötig, um Buddhas Feinde zu besiegen."
+</text>
+<text id="510100">Gewährt die Kampfkunst "Gebetsschläge - Exorzismus".
+
+Verlängert Gebetsschläge um einen tödlichen Angriff. Entfessle eine Flut aus schnellen Angriffen, die Schaden verursachen und einen Konter verhindern. Mit einem starken Schubs des ganzen Körpers ist die Kombination vollständig. Die Senpo-Mönche wollten sich mit dieser Technik auch von weltlichen Begehren befreien. Jedoch ...
+</text>
+<text id="511000">Gewährt die Kampfkunst "Senpo-Sprungtritt", bei der wiederholte Angriffe mit einem Sprungtritt beginnen. 
+
+Ein Luftabwehr-Konter, kombiniert mit einem Rundumangriff-Konter gefolgt von Tritten. Senpos Einsiedler verfeinerten diese Technik. Ihnen zufolge beweist die Beherrschung des Sprungtritts, dass man erleuchtet ist.</text>
+<text id="511100">Gewährt die Kampfkunst "Hochmönch".
+
+Geheimtechnik des Senpo-Tempels, die den Senpo-Sprungtritt um Hiebe und weitere Tritte ergänzt.
+
+Die Technik hat keine wahre Form und der Ablauf variiert je nach Person. Der Wolf vertraut bei der Technik natürlich auf Kusabimaru.</text>
+<text id="610100">Gewährt die Kampfkunst "Schatteneinschlag".
+
+Eine Weiterentwicklung des Schattensturms. Geheimtechnik des Ashina Mushin-Geländestils. Lässt nach dem Absprung mit Schattensturm einen wirbelnden Schwertangriff zu. Durchbohren, fliegen und wieder abtauchen. Der Absprung vom Feind verbraucht Geistembleme.</text>
+<text id="611100">Gewährt die Kampfkunst "Wolkenwirbel-Übergang".
+
+Eine Schwerttechnik, die starke Schockwellen freisetzt. Verbraucht Geistembleme. Sie wurde nach einem großen Wirbel aus fernen Wolken in der Nähe des Quellgebiets benannt: dem Urquellwirbel. Tomoe beobachtete ihren jungen Meister, wie er sehnsüchtig auf die Wolkenformation blickte. Dieser Anblick bedeutete ihr alles.</text>
+<text id="612100">Gewährt die Kampfkunst "Machterfüllte Sterbliche Klinge".
+
+Eine Geheimtechnik mit der Sterblichen Klinge. Verbraucht Geistembleme. Konzentration beim Ziehen der Klinge bringt zusätzliche Kraft für einen stärkeren Hiebangriff mit erhöhter Reichweite. Zieh das Schwert, das nicht gezogen werden kann, und entfessle seine Verwüstung.</text>
+<text id="620000">Gewährt die latente Fähigkeit "Präsenz-Unterdrückung".
+
+Eine latente Fähigkeit, die das Vermögen eines Feindes zur Wahrnehmung jener mindert, die verborgen sind.
+
+Die eigene Präsenz zu unterdrücken macht einen Shinobi aus.</text>
+<text id="620100">Gewährt die latente Fähigkeit "Geräusch-Unterdrückung".
+
+Eine latente Fähigkeit, die Bewegungsgeräusche unterdrückt, indem sie das Hörvermögen eines Feindes hemmt.
+
+Lautloses Fortbewegen macht einen Shinobi aus.</text>
+<text id="630000">Gewährt die latente Fähigkeit "Tugendhafte Tat".
+
+Erhöht die Menge an Sen und Objekten, die du von Feinden erhältst. 
+
+Mit den Worten des Hohepriesters des Senpo-Tempels:
+"Man sollte sich nur auf tugendhafte Taten konzentrieren und nicht an Wohlstand denken."</text>
+<text id="630100">Gewährt die latente Fähigkeit "Tugendhafteste Tat".
+
+Erhöht die Menge an Sen und Objekten, die du von Feinden erhältst.
+
+Mit den Worten des Hohepriesters des Senpo-Tempels:
+"Man sollte sich nur auf tugendhafte Taten konzentrieren und nicht an Wohlstand denken."</text>
+<text id="640000">Gewährt die latente Fähigkeit "Emmas Medizin: Intensität".
+
+Erhöht die Heilwirkung von Erholungsobjekten. Diese Technik hat Emma vor langer Zeit den Bildhauer gelehrt. Sich an den Geschmack zu erinnern verstärkt die Wirkung. Leider verbessert das nicht den Geschmack.</text>
+<text id="640100">Gewährt die latente Fähigkeit "Emmas Medizin: Aroma".
+
+Erhöht die Heilwirkung von Erholungsobjekten. Diese Technik hat Emma vor langer Zeit den Bildhauer gelehrt. Koste das Aroma aus und merke es dir, um die Wirkung zu verstärken. Dadurch riecht die Medizin jedoch nicht besser.</text>
+<text id="640200">Gewährt die latente Fähigkeit "Shinobi-Medizin: Rang 1".
+
+Erhöht die Heilwirkung von Erholungsobjekten. Medizinisches Wissen ist für das Überleben eines Shinobi unverzichtbar, da Wunden im Kampf unvermeidlich sind. Solche Techniken können nur durch häufige schwere Wunden im Kampf mit würdigen Gegnern erlernt werden.</text>
+<text id="640300">Gewährt die latente Fähigkeit "Shinobi-Medizin: Rang 2".
+
+Erhöht die Heilwirkung von Erholungsobjekten. Manchmal überlebt ein Shinobi, was einen anderen Krieger getötet hätte. Medizinisches ist Wissen unverzichtbar. Solche Techniken können nur durch häufige schwere Wunden im Kampf mit würdigen Gegnern erlernt werden.</text>
+<text id="640400">Gewährt die latente Fähigkeit "Shinobi-Medizin: Rang 3".
+
+Erhöht die Heilwirkung von Erholungsobjekten. Ein Shinobi kämpft als einsamer Wolf ohne fremde Hilfe. Daher ist medizinisches Wissen unverzichtbar. Solche Techniken können nur durch häufige schwere Wunden im Kampf mit würdigen Gegnern erlernt werden.</text>
+<text id="650000">Gewährt die latente Fähigkeit "Shinobi-Karma: Körper".
+
+Erhöht die maximale Anzahl an Geistemblemen, die du besitzen kannst. Geistembleme sind greifbares Bedauern. Wer seine Taten bedauert, wird von vielen Geistemblemen heimgesucht. Shinobi, die viele getötet haben, müssen den physischen Tribut dieser Sünden ertragen.</text>
+<text id="650100">Gewährt die latente Fähigkeit "Shinobi-Karma: Geist".
+
+Erhöht die maximale Anzahl an Geistemblemen, die du besitzen kannst. Geistembleme sind greifbares Bedauern. Wer seine Taten bedauert, wird von vielen Geistemblemen heimgesucht. Shinobi, die viele getötet haben, müssen die Last ihrer Sünden in ihren Herzen tragen.</text>
+<text id="650200">Gewährt die latente Fähigkeit "Bildhauer-Karma: Blut".
+
+Erhöht die maximale Anzahl an Geistemblemen, die du besitzen kannst.
+Geistembleme sind greifbares Bedauern. Wer seine Taten bedauert, wird von vielen Geistemblemen heimgesucht. Blutspritzer auf der Prothese verwandeln sich in ewigen Rost; ein Beweis für die Last des Trägers.</text>
+<text id="650300">Gewährt die latente Fähigkeit "Bildhauer-Karma: Narben".
+
+Erhöht die maximale Anzahl an Geistemblemen, die du besitzen kannst.
+Geistembleme sind greifbares Bedauern. Wer seine Taten bedauert, wird von vielen Geistemblemen heimgesucht. Die Prothese ist übersät von vielen kleinen Schnitten und Narben; Beweise für die zahllosen Tode, die sie verursacht hat.</text>
+<text id="650400">Gewährt die latente Fähigkeit "Tierkarma".
+
+Erhöht die maximale Anzahl an Geistemblemen, die du besitzen kannst. Geistembleme sind greifbares Bedauern. Wer seine Taten bedauert, wird von Geistemblemen heimgesucht. Vielleicht war dieses unschuldige Tier vom Karma der Menschen belastet. Ein Shinobi erbt das Karma des Opfers.</text>
+<text id="660000">Gewährt die latente Fähigkeit "Hauch des Lebens - Licht".
+
+Stellt nach jedem erfolgreichen Todesschlag Vitalität wieder her. Todesschläge geben Shinobi die Gelegenheit durchzuatmen. Ein Shinobi kann Körper und Geist durch Atmung sogar beim Töten beruhigen. So kann er mehr Feinde töten.</text>
+<text id="660100">Gewährt die latente Fähigkeit "Hauch des Lebens - Schatten".
+
+Stellt nach jedem erfolgreichen Todesschlag Vitalität wieder her. Todesschläge geben Shinobi die Gelegenheit durchzuatmen. Kämpfe gegen starke Gegner vertiefen diesen Moment der Erholung.</text>
+<text id="660200">Gewährt die latente Fähigkeit "Hauch der Natur - Licht".
+
+Stellt nach jedem erfolgreichen Todesschlag Haltung wieder her. Der Ashina-Stil kennt Techniken für den Kampf gegen eine große Überzahl von Gegnern. Nach dem Tod eines Feindes muss man ausatmen, um Bedauern loszulassen und seine Haltung zurückzuerlangen.</text>
+<text id="660300">Gewährt die latente Fähigkeit "Hauch der Natur - Schatten".
+Stellt nach jedem erfolgreichen Todesschlag Haltung wieder her. Ein Shinobi muss damit rechnen, dass seine Feinde zahlenmäßig überlegen sind. Nach dem Tod eines Feindes muss man ausatmen, um Bedauern loszulassen und seine Haltung zurückzuerlangen. Das Ausatmen wird durch Kämpfe gegen starke Feinde verstärkt.</text>
+<text id="660400">Gewährt die latente Fähigkeit "Shinobi-Blick", die den Schaden für die Haltung nach einem erfolgreichen Mikiri-Konter erhöht.
+
+Die Augen eines Shinobi ahnen immer die Bewegungen einer Klinge voraus. Auch dann gefasst zu sein, wenn man Angst vor einer scharfen Klinge hat, ist der Schlüssel zum Sieg.</text>
+<text id="660500">Gewährt die latente Fähigkeit "Hingabe".
+
+Steigert die Wirkungsdauer von buddhistischem Konfekt.
+
+Wer Hingabe zeigt, dem wird der Schutz der Götter für längere Zeit zuteil.</text>
+<text id="660600">Gewährt die latente Fähigkeit "Aufsteigender Karpfen".
+
+Eine latente Fähigkeit, die bei erfolgreichem Parieren den Schaden für die Haltung erhöht. Der Ashina-Stil ist tief mit dem Fluss des Urquellwassers verbunden. Eine Klinge zu parieren gleicht dem Karpfen, der den Wasserfall hinaufsteigt.</text>
+<text id="660700">Gewährt die latente Fähigkeit "Hinabsteigender Karpfen".
+
+Eine latente Fähigkeit, die nach erfolgreichem Parieren für ein paar Sekunden den Schaden für die Haltung aus allen Quellen erhöht. Der Ashina-Stil ist tief mit dem Fluss des Urquellwassers verbunden. Eine Klinge zu parieren gleicht dem Karpfen, der den Wasserfall hinabsteigt.</text>
+<text id="660800">Gewährt die latente Fähigkeit "Fließendes Wasser".
+
+Reduziert den Schaden für die Haltung, wenn ein Feind mit einem Schwert angreift.
+
+So wie die fließenden Wasser, die dem Ashina-Clan vertraut sind, sollte man Stärke nicht mit Kraft kontern, sondern umlenken.</text>
+<text id="670000">Gewährt die Kampfkunst "Sterbliche Klinge".
+
+Schwerttechnik der Sterblichen Klinge. Verbraucht Geistembleme. Das Schwert blitzt auf, schneidet durch Feinde und hinterlässt rötlich-schwarzen, schädlichen Nebel, der die Reichweite erhöht. Nur Eidgebundene des göttlichen Erben beherrschen die Technik mit der Klinge, die nicht gezogen werden kann.</text>
+<text id="671000">Gewährt die Kampfkunst "Drachenblitz".
+
+Kampfkunst für einen schnellen Schlag nach dem blitzschnellen Ziehen der Klinge. Lade den Angriff für Schockwellen auf. Verbraucht Geistembleme. In jungen Jahren suchte Isshin Ashina stets nach tödlichen Kämpfen. Er grübelte oft, wie ein Schlag ausgeführt werden sollte, doch seine Klinge war immer schneller.</text>
+<text id="672000">Gewährt die Kampfkunst "Fließender Übergang".
+Entfesselt wiederholte Angriffe, die Feinde mit fließenden, tänzerischen Bewegungen überwältigen. Diese Ashina-Technik gilt als häretisch, weil sie von einer Außenseiterin gelehrt wurde. Die Meisterin dieser Technik durchquerte den Fließenden Übergang und begab sich hinab nach Ashina. Ihr Name war Tomoe.</text>
+<text id="673000">Gewährt die Kampfkunst "Ein Geist".
+Entfessle einen Angriffssturm mit nicht gezogenem Schwert; so schnell, dass die Klinge fast unsichtbar ist. Verbraucht Geistembleme. Der Fokus auf das Ziehen der Klinge macht die Angriffe so schnell wie die eines Gottes. Nur jemand mit dem Geschick des alternden Ashina Isshin kann diese Technik ausführen.</text>
+<text id="680000">Gewährt die latente Fähigkeit "Mibu-Atemtechnik".
+
+Ermöglicht das Tauchen und unbegrenzte Atmen unter Wasser. Entwickelt vom Mibu-Dorfgründer.
+"Diejenigen, die sich der Prozession anschließen möchten, müssen die Mibu-Atemtechnik beherrschen. Ohne sie können sie den göttlichen Drachen nicht treffen."</text>
+<text id="681000">Gewährt die Shinobi-Kampfkunst "Luftabwehr-Todesschlag".
+
+Eine Technik, die hoch in die Luft springende Feinde stoppen soll. Kann die Verwundbarkeit des Feindes in der Luft für einen Sprung zu ihm hin mit Todesschlag nutzen. Ideal für Shinobi, die das Blatt in der Luft gegen den Feind wenden wollen.</text>
+<text id="690000">Information gesperrt</text>
+<text id="690100">Information gesperrt</text>
+<text id="690200">Information gesperrt</text>
+<text id="690300">Information gesperrt</text>
+<text id="690400">Information gesperrt</text>
+<text id="699000">Information gesperrt</text>
+</entries>
+</fmg>

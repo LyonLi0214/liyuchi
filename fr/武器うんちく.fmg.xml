@@ -1,0 +1,743 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="5000">&lt;?null?&gt;</text>
+<text id="5100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Taillade tourbillon
+Un Art du combat exécuté en faisant tourner son corps avant d'attaquer.</text>
+<text id="5200">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Taillade engoulevent
+Sautez avec une pirouette et tailladez l'ennemi.</text>
+<text id="5201">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Taillade engoulevent
+Sautez avec une pirouette et repoussez l'ennemi avec des taillades.
+
+Verrouillage activé, maintenez &lt;?kgiconKc@2?&gt; dans la direction opposée à l'ennemi, puis &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Inversion
+Taillez votre ennemi et éloignez-vous d'une virevolte.</text>
+<text id="5300">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Ichimonji
+Effectue une frappe lourde venant d'en haut. Permet de récupérer de la Posture.
+
+Maintenir &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Ichimonji aiguisé
+Concentrez votre force pour libérer une frappe lourde venant d'en haut sur le casque. Permet de récupérer de la Posture.</text>
+<text id="5301">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Ichimonji
+Effectue une frappe lourde venant d'en haut. Permet de récupérer de la Posture.
+
+Maintenir &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Ichimonji aiguisé
+Concentrez votre force pour libérer une frappe lourde venant d'en haut sur le casque. Permet de récupérer de la Posture.
+
+Après Ichimonji ou Ichimoji aiguisé &lt;?kgiconKc@16?&gt; : Ichimonji enchaîné
+Une seconde attaque sur le casque destinée à interrompre les contre-attaques. Permet de récupérer de la Posture.</text>
+<text id="5400">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Sortie vive
+Sortez votre épée du fourreau à grande vitesse en attaquant l'ennemi. Coûte des emblèmes spirituels.
+
+Maintenir &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Éclair du dragon
+Sortez votre épée du fourreau à grande vitesse en attaquant l'ennemi. Coûte des emblèmes spirituels. Provoque une onde de choc.</text>
+<text id="5500">Maintenir &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Position du fourreau
+Adoptez la position du fourreau.
+Relâcher &lt;?kgiconKc@18?&gt; : Annuler la position du fourreau
+Vous quittez la position du fourreau.
+Relâcher &lt;?kgiconKc@16?&gt; : Croix d'Ashina
+Dégainez votre katana et faites une taillade ultrarapide en forme de croix. Coûte des emblèmes spirituels.</text>
+<text id="5600">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt; : Passage flottant
+Infligez cinq danses d'attaque successives.</text>
+<text id="5601">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt; : Spirale de nuages
+Consommez des emblèmes spirituels pour infliger neuf danses d'attaque successives qui provoquent de puissantes ondes de choc.</text>
+<text id="5700">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt; : Sortie mortelle
+Sortez la lame de la mort et frayez-vous un passage parmi les ennemis à l'aide d'une attaque à plus grande portée. Coûte des emblèmes spirituels.</text>
+<text id="5701">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt; : Sortie mortelle
+Sortez la lame de la mort et frayez-vous un passage parmi les ennemis à l'aide d'une attaque à plus grande portée. Coûte des emblèmes spirituels.
+
+Maintenir &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, Maintenir &lt;?kgiconKc@16?&gt; : Sortie mortelle surpuissante
+Concentrez-vous et attaquez les ennemis avec un sabre-éclair à longue portée encore plus puissante. Coûte des emblèmes spirituels.</text>
+<text id="5800">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt; : Coup de pied sauté de Senpo
+Donnez des coups de pied répétés après un saut.</text>
+<text id="5801">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt; : Coup de pied sauté de Senpo
+Donnez des coups de pied répétés après un saut.
+
+&lt;?kgiconKc@16?&gt; après Coup de pied sauté de Senpo , &lt;?kgiconKc@16?&gt; : Grand moine
+Donnez plusieurs coups d'épée puis terminez par un coup de pied sauté.</text>
+<text id="5900">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt; : Frappes de prière
+Coups répétés avec les paumes, après des frappes de coude.</text>
+<text id="5901">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;: Frappes de prière
+Coups répétés avec les paumes, après des frappes de coude.
+
+Maintenir &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, ou après Frappes de prière, &lt;?kgiconKc@16?&gt; : Exorcisme
+Projetez votre corps sur un ennemi pour l'envoyer voler.</text>
+<text id="6000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Charge de l'ombre
+Dépensez des emblèmes spirituels pour effectuer une charge d'estoc à grande portée. Après contact, Loup saute dans les airs en s'appuyant sur le dos de l'ennemi.
+
+Maintenir &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Cavalcade de l'ombre
+Dépensez des emblèmes spirituels pour une Charge de l'ombre à portée supérieure.</text>
+<text id="6001">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Charge de l'ombre
+Dépensez des emblèmes spirituels pour effectuer une charge d'estoc à grande portée. Après contact, Loup saute dans les airs en s'appuyant sur le dos de l'ennemi.
+
+Maintenir &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Cavalcade de l'ombre
+Dépensez des emblèmes spirituels pour une Charge de l'ombre à portée supérieure.
+
+
+&lt;?kgiconKc@16?&gt; après Bond : Chute de l'ombre
+Effectuez une taille tournoyante en retombant au sol.</text>
+<text id="6100">Maintenir &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Entrer en position Sortie vive
+Rengainez le sabre et prenez la position Sortie vive.
+
+Lâcher &lt;?kgiconKc@18?&gt; : Annuler la position Sortie vive
+Quittez la position Sortie vive.
+
+Lâcher &lt;?kgiconKc@16?&gt; : Esprit unique
+Dépensez des emblèmes spirituels pour frapper une fois, puis exécutez une série d'attaques si vives qu'elles en sont presque invisibles.
+
+&lt;?kgiconKc@16?&gt; Après Esprit unique : Poursuite Sortie vive
+Avancez avec une attaque Sortie vive pour poursuivre les ennemis.</text>
+<text id="7000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Taillade engoulevent
+Sautez avec une pirouette et repoussez l'ennemi avec des taillades.
+
+Verrouillage activé, maintenez &lt;?kgiconKc@2?&gt; dans la direction opposée à l'ennemi, puis &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Inversion
+Taillez votre ennemi et éloignez-vous d'une virevolte.</text>
+<text id="7100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Ichimonji
+Effectue une frappe lourde venant d'en haut. Permet de récupérer de la Posture.
+
+Maintenir &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Ichimonji aiguisé
+Concentrez votre force pour libérer une frappe lourde venant d'en haut sur le casque. Permet de récupérer de la Posture.
+
+Après Ichimonji ou Ichimoji aiguisé &lt;?kgiconKc@16?&gt; : Ichimonji enchaîné
+Une seconde attaque sur le casque destinée à interrompre les contre-attaques. Permet de récupérer de la Posture.</text>
+<text id="7200">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt; : Spirale de nuages
+Consommez des emblèmes spirituels pour infliger neuf danses d'attaque successives qui provoquent de puissantes ondes de choc.</text>
+<text id="7300">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt; : Sortie mortelle
+Sortez la lame de la mort et frayez-vous un passage parmi les ennemis à l'aide d'une attaque à plus grande portée. Coûte des emblèmes spirituels.
+
+Maintenir &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, Maintenir &lt;?kgiconKc@16?&gt; : Sortie mortelle surpuissante
+Concentrez-vous et attaquez les ennemis avec un sabre-éclair à longue portée encore plus puissante. Coûte des emblèmes spirituels.</text>
+<text id="7400">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt; : Coup de pied sauté de Senpo
+Donnez des coups de pied répétés après un saut.
+
+&lt;?kgiconKc@16?&gt; après Coup de pied sauté de Senpo , &lt;?kgiconKc@16?&gt; : Grand moine
+Donnez plusieurs coups d'épée puis terminez par un coup de pied sauté.</text>
+<text id="7500">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;: Frappes de prière
+Coups répétés avec les paumes, après des frappes de coude.
+
+Maintenir &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, ou après Frappes de prière, &lt;?kgiconKc@16?&gt; : Exorcisme
+Projetez votre corps sur un ennemi pour l'envoyer voler.</text>
+<text id="7600">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Charge de l'ombre
+Dépensez des emblèmes spirituels pour effectuer une charge d'estoc à grande portée. Après contact, Loup saute dans les airs en s'appuyant sur le dos de l'ennemi.
+
+Maintenir &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Cavalcade de l'ombre
+Dépensez des emblèmes spirituels pour une Charge de l'ombre à portée supérieure.
+
+
+&lt;?kgiconKc@16?&gt; après Bond : Chute de l'ombre
+Effectuez une taille tournoyante en retombant au sol.</text>
+<text id="7700">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Danse du cerisier
+
+Vous dansez avec grâce dans l'air et vous donnez trois taillades. Évitez le balayage d'un ennemi et infligez des dégâts avec cette taillade capable de traverser la garde de l'adversaire.
+
+Peut s'enchaîner avec une manœuvre en l'air après l'attaque.</text>
+<text id="70000">&lt;?kgiconKc@17?&gt; : Lancer de shuriken
+Attaquez en lançant un shuriken.</text>
+<text id="70100">&lt;?kgiconKc@17?&gt;: Lancer de shuriken
+Attaquez en lançant un shuriken.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Lancer de shurikens tournoyants
+Charge la puissance de rotation avant de lancer le shuriken. Touche l'ennemi plusieurs fois.</text>
+<text id="70200">&lt;?kgiconKc@17?&gt;: Lancer de shuriken
+Lancez des shurikens tranchants et perforants, qui érodent la Vitalité et la Posture, même si l'ennemi est en garde.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Lancer de shurikens tournoyants
+Charge la puissance de rotation avant de lancer le shuriken. Touche l'ennemi plusieurs fois.</text>
+<text id="70300">&lt;?kgiconKc@17?&gt; : Papillons fantômes
+Des papillons fantômes jaillissent après le lancement d'un kunaï. Les papillons pourchassent les ennemis et peuvent infliger des dégâts même lorsqu'ils sont en garde.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Danse de l'essaim 
+Chargez pour lancer davantage de papillons.</text>
+<text id="70400">&lt;?kgiconKc@17?&gt; : Lancer de sen
+Lancez de l'argent.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Barrage de sen
+Lancez beaucoup d'argent.
+
+Le montant d'argent lancé dépend des sen que vous possédez.
+
+  Les très pauvres ne lancent que de la poussière.
+  Les pauvres lancent un peu d'argent.
+  Les riches lancent beaucoup d'argent.
+  Les très riches lancent des sommes extravagantes.
+</text>
+<text id="70500">&lt;?kgiconKc@17?&gt;: Shuriken de lazulite
+Lancez des shurikens incroyablement tranchants. Ses tranches perforantes érodent considérablement la Vitalité et la Posture, même si l'ennemi est en garde.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Shuriken de lazulite tournoyant
+Chargez sa puissance de rotation avant de lancer le shuriken. Touche l'ennemi plusieurs fois.</text>
+<text id="71000">&lt;?kgiconKc@17?&gt;: Pétard shinobi
+Fait éclater de la poudre à canon devant vous. Apeure souvent les bêtes.</text>
+<text id="71100">&lt;?kgiconKc@17?&gt; : Pétard shinobi
+Dispersez un éclair de poudre à canon devant vous. Effraie facilement les bêtes.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Pétard à ressort
+Chargez le mécanisme et dispersez un éclair de poudre à canon dans toutes les directions en tournant.</text>
+<text id="71200">&lt;?kgiconKc@17?&gt; : Longue étincelle
+Disperse un éclair de poudre à canon persistant devant vous. Effraie facilement les bêtes.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Longue étincelle à ressort
+Chargez le mécanisme et dispersez des éclairs persistants dans toutes les directions en tournant.</text>
+<text id="71300">&lt;?kgiconKc@17?&gt;: Brume pourpre
+Disperse un nuage pourpre qui émet un éclair de poudre devant vous. Ralentit temporairement le déplacement ennemi.
+Les ennemis aveuglés subissent temporairement un peu plus de dégâts de Vitalité et de Posture.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Brume pourpre à ressort
+Chargez le mécanisme pour disperser des éclairs de poudre dans toutes les directions en tournant.</text>
+<text id="72000">&lt;?kgiconKc@17?&gt;: Souffle de feu
+Tirez du feu devant vous.</text>
+<text id="72100">&lt;?kgiconKc@17?&gt; : Souffle de feu
+Tire du feu devant vous.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Explosion de flammes
+Chargez le ressort pour déclencher une explosion de feu devant vous. L'explosion repousse les ennemis vers l'arrière.</text>
+<text id="72200">&lt;?kgiconKc@17?&gt;: Souffle de feu
+Tirez du feu devant vous.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Explosion de feu
+Chargez le mécanisme pour tirer une boule de feu devant vous.
+L'explosion repousse les ennemis.
+
+&lt;?kgiconKc@17?&gt;, Maintenir &lt;?kgiconKc@17?&gt; : Flammes continues
+Un jet continu de flammes devant vous.</text>
+<text id="72300">&lt;?kgiconKc@17?&gt; : Flammes sacrées
+Tirez devant vous des flammes de puissance sainte.
+Effectif contre les esprits vengeurs.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Explosion de flammes sacrées
+Tirez devant vous une explosion de flammes sacrées.
+L'explosion repousse les ennemis.
+
+&lt;?kgiconKc@17?&gt;, Maintenir &lt;?kgiconKc@17?&gt; : Flammes sacrées continues
+Un jet continu de flammes sacrées devant vous.</text>
+<text id="73000">&lt;?kgiconKc@17?&gt; : Frappe
+Balancez la hache vers le bas pour frapper un ennemi.
+Détruit les boucliers faits de bois.</text>
+<text id="73100">&lt;?kgiconKc@17?&gt; : Frappe
+Balancez la hache vers le bas pour frapper un ennemi.
+Détruit les boucliers faits de bois.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Tournoiement
+Faites tournoyer la hache pour frapper les ennemis.
+Appuyer sur &lt;?kgiconKc@17?&gt; pendant le Tournoiement permet de continuer l'attaque en poursuivant le mouvement de la lame.</text>
+<text id="73200">&lt;?kgiconKc@17?&gt; : Étincelle
+Abaissez la hache enflammée pour frapper un ennemi.
+Détruit les boucliers faits de bois et crée à l'impact un rugissement de flammes.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Tournoiement
+Faites tournoyer la hache enflammée pour frapper les ennemis.
+Appuyez sur &lt;?kgiconKc@17?&gt; pendant le Tournoiement pour continuer l'attaque avec un autre tournoiement.</text>
+<text id="73300">&lt;?kgiconKc@17?&gt; : Frappe de lazulite
+Abattez la hache de lazulite lourde pour déchaîner une onde sonore qui détruit les illusions.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Faux de lazulite
+Faites tournoyer la hache de lazulite lourde pour frapper les ennemis.
+Appuyez sur &lt;?kgiconKc@17?&gt; pendant Faux de lazulite pour continuer l'attaque avec un nouveau mouvement.</text>
+<text id="74000">&lt;?kgiconKc@17?&gt; : Position de la Brume
+Quand on vous attaque dans cette position, utilisez &lt;?kgMove?&gt; pour vous déplacer dans la direction voulue.</text>
+<text id="74100">&lt;?kgiconKc@17?&gt; : Position de la Brume
+Quand on vous attaque dans cette position, utilisez &lt;?kgMove?&gt; pour vous déplacer dans la direction voulue.
+
+&lt;?kgiconKc@17?&gt; après avoir subi des dégâts : Corbeau de la Brume
+Déplacez-vous instantanément dans la direction choisie avec &lt;?kgMove?&gt;.</text>
+<text id="74200">&lt;?kgiconKc@17?&gt; : Position de la Brume rouge
+Quand on vous attaque dans cette position, utilisez &lt;?kgMove?&gt; pour vous déplacer dans la direction voulue. Les plumes que vous laissez derrière vous brûlent les ennemis sur votre passage.
+
+&lt;?kgiconKc@17?&gt; après avoir subi des dégâts : Corbeau de la Brume rouge
+Déplacez-vous instantanément dans la direction choisie avec &lt;?kgMove?&gt;.  Les plumes que vous laissez derrière vous brûlent les ennemis sur votre passage.</text>
+<text id="75000">&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt; : Combo
+Effectue des attaques répétées alternant entre Sabimaru et le sabre.
+Les attaques de Sabimaru appliquent du poison à l'impact.</text>
+<text id="75100">&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt; : Combo
+Effectue des attaques répétées alternant entre Sabimaru et le sabre.
+
+Pendant le combo, &lt;?kgiconKc@16?&gt; : Attaque avec changement de combo
+Effectue une attaque de sabre qui change le combo. Fais tournoyer votre corps et peut également servir pour s'évader.</text>
+<text id="75200">&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt; : Combo
+Effectue des attaques répétées alternant entre Sabimaru et le sabre.
+La lame aiguisée de Sabimaru inflige des dégâts de Vitalité et de Posture même lorsque l'ennemi est en garde.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@16?&gt; : Attaque avec changement de combo
+Effectue une attaque de sabre qui change le combo. Fais tournoyer votre corps et peut également servir pour s'évader.</text>
+<text id="75300">&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt; : Combo
+Effectue des attaques répétées alternant entre Sabimaru et le sabre.
+Une brume empoisonnée suit chaque mouvement de Sabimaru.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@16?&gt; : Attaque avec changement de combo
+Effectue une attaque de sabre qui change le combo. Fais tournoyer votre corps et peut également servir pour s'évader.</text>
+<text id="76000">Maintenir &lt;?kgiconKc@17?&gt; : Abri
+Déploie le parapluie chargé pour vous protéger contre les attaques dans toutes les directions. Vous pouvez vous déplacer avec le parapluie et bloquer ainsi les attaques légères.
+
+&lt;?kgiconKc@17?&gt; au moment où l'attaque ennemie touche : Déviation de parapluie
+Ouvre le parapluie pour dévier les attaques ennemies. Plus facile à synchroniser que les déviations du sabre.</text>
+<text id="76100">Maintenir &lt;?kgiconKc@17?&gt; : Abri
+Déploie le parapluie chargé pour vous protéger contre les attaques dans toutes les directions. Vous pouvez vous déplacer avec le parapluie et bloquer ainsi les attaques légères.
+
+&lt;?kgiconKc@17?&gt; au moment où l'attaque ennemie
+touche : Déviation de parapluie
+Ouvre le parapluie pour dévier les attaques ennemies. Plus facile à synchroniser que les déviations du sabre.
+Pendant Abri, &lt;?kgiconKc@18?&gt; au moment où l'attaque ennemie touche : Parapluie tournoyant
+Fait tournoyer le parapluie ouvert pour dévier les attaques.</text>
+<text id="76200">Maintenir &lt;?kgiconKc@17?&gt; : Abri
+Déploie le parapluie chargé pour vous protéger contre les attaques dans toutes les directions. Vous pouvez vous déplacer avec le parapluie et bloquer ainsi les attaques légères.
+
+&lt;?kgiconKc@17?&gt; au moment où l'attaque ennemie 
+touche : Déviation de parapluie
+Ouvre le parapluie pour dévier les attaques ennemies. Plus facile à synchroniser que les déviations du sabre.
+Pendant Abri, &lt;?kgiconKc@18?&gt; au moment où l'attaque ennemie touche : Parapluie tournoyant
+Fait tournoyer le parapluie ouvert pour dévier les attaques.</text>
+<text id="76300">Maintenir &lt;?kgiconKc@17?&gt; : Abri
+Déploie le parapluie chargé pour vous protéger contre les attaques dans toutes les directions. Vous pouvez vous déplacer avec le parapluie et bloquer ainsi les attaques légères.
+
+&lt;?kgiconKc@17?&gt; au moment où l'attaque ennemie
+touche : Déviation de parapluie
+Ouvre le parapluie pour dévier les attaques ennemies. Plus facile à synchroniser que les déviations du sabre.
+Pendant Abri, &lt;?kgiconKc@18?&gt; au moment où l'attaque ennemie touche : Parapluie tournoyant
+Fait tournoyer le parapluie ouvert pour dévier les attaques.</text>
+<text id="77000">&lt;?kgiconKc@17?&gt; : Vortex
+Entourez-vous de vents tourbillonnants en ouvrant l'éventail.
+
+Pendant Vortex, &lt;?kgiconKc@17?&gt; : Possession divine
+Projetez le vent vers l'ennemi pour le contraindre à regarder dans la direction opposée.
+
+Vos ennemis, sauf les plus forts, ne vous voient plus et sont vulnérables à un coup mortel.</text>
+<text id="77100">&lt;?kgiconKc@17?&gt; : Maelstrom
+Entourez-vous d'un maelstrom tourbillonnant en ouvrant l'éventail.
+
+Pendant Maelstrom, &lt;?kgiconKc@17?&gt; : Possession divine
+Déchaînez le vent autour de l'ennemi pour le contraindre à regarder dans la direction opposée. Possible deux fois.
+
+Vos ennemis, sauf les plus forts, ne vous voient plus et sont vulnérables à un coup mortel.</text>
+<text id="77200">&lt;?kgiconKc@17?&gt; : Vortex d'or
+Entourez-vous d'un vortex d'or tourbillonnant en ouvrant l'éventail.
+
+Pendant Vortex d'or, &lt;?kgiconKc@17?&gt; : Vent de donation
+Déchaînez le vent autour de l'ennemi pour le contraindre à regarder dans la direction opposée et pour qu'il abandonne des objets et des sen. Utilisable deux fois.
+
+Vos ennemis, sauf les plus forts, ne vous voient plus et sont vulnérables à un coup mortel.</text>
+<text id="78000">&lt;?kgiconKc@17?&gt; : Estoc
+Une poussée vers l'avant avec la lance.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt; : Tirer
+Attirez vers vous un ennemi frappé par la lance. Peut même arracher des morceaux d'armure.</text>
+<text id="78100">&lt;?kgiconKc@17?&gt; : Estoc
+Une poussée vers l'avant avec la lance.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt; : Tirer
+Attirez vers vous un ennemi frappé par la lance. Peut même arracher des morceaux d'armure.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Charge
+Préparez votre lance et chargez droit devant.</text>
+<text id="78200">&lt;?kgiconKc@17?&gt; : Estoc
+Une poussée vers l'avant avec la lance.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt; : Tirer
+Attirez vers vous un ennemi frappé par la lance. Peut même arracher des morceaux d'armure lourde.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Fendoir
+Chargez l'attaque pour vous frayer un chemin parmi les ennemis.</text>
+<text id="78300">&lt;?kgiconKc@17?&gt; : Estoc en vrille
+Infligez un estoc avec un mouvement de vrille à un ennemi devant vous. Cela érode sa Vitalité ou sa Posture, même s'il se garde.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt; : Tirer
+Attirez vers vous un ennemi frappé par la lance. Peut même arracher des morceaux d'armure lourde.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Charge vrillante
+Préparez votre lance et déchaînez une charge vrillante.</text>
+<text id="78400">&lt;?kgiconKc@17?&gt; : Estoc enflammé
+Infligez un estoc avec la lance embrasée. Inflige une altération Brûlure à l'ennemi.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt; : Tirer
+Attirez vers vous un ennemi frappé par la lance. Peut même arracher des morceaux d'armure lourde.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Flamme bondissante
+Chargez l'attaque pour vous frayer un passage en fendoir parmi vos ennemis et les enflammer.</text>
+<text id="79000">&lt;?kgiconKc@17?&gt; : Sifflet de doigts
+Attirez l'attention de l'ennemi en sifflant. Enrage les bêtes, qui ne distinguent plus les amis des ennemis.
+
+Le son du sifflet n'est audible que de la cible actuellement verrouillée. Si aucune cible n'est verrouillée, tout le monde l'entend.</text>
+<text id="79100">&lt;?kgiconKc@17?&gt; : Sifflet de doigts
+Attirez l'attention de l'ennemi en sifflant. Enrage les bêtes, qui ne distinguent plus les amis des ennemis.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Écho de la montagne
+Le son du sifflet est retardé pendant plusieurs secondes après avoir soufflé.
+
+Le son du sifflet n'est audible que de la cible actuellement verrouillée. Si aucune cible n'est verrouillée, tout le monde l'entend.</text>
+<text id="79200">&lt;?kgiconKc@17?&gt; : Sifflet du mécontent
+Attirez l'attention de l'ennemi en sifflant. Crée une ouverture en jouant sur l'angoisse des esprits vengeurs.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Écho de la montagne
+Le son du sifflet est retardé pendant plusieurs secondes après avoir soufflé.
+
+Le son du sifflet n'est audible que de la cible actuellement verrouillée. Si aucune cible n'est verrouillée, tout le monde l'entend.</text>
+<text id="200000">&lt;?kgiconKc@16?&gt; en utilisant le grappin : Attaque au grappin
+Utilisez l'élan de votre atterrissage pour effectuer une puissante attaque à l'épée.</text>
+<text id="200100">&lt;?kgiconKc@18?&gt; en l'air : Garde aérienne
+Garde contre les attaques ennemies en l'air
+
+&lt;?kgiconKc@18?&gt; en l'air, au moment où l'attaque ennemie touche : Déviation aérienne
+Dévie les attaques de l'ennemi en l'air.</text>
+<text id="200200">&lt;?kgiconKc@17?&gt; en l'air : Outil de prothèse aérien
+Utilisez l'outil de prothèse en l'air.</text>
+<text id="200300">&lt;?kgiconKc@5?&gt; quand un coup d'estoc ennemi touche : Contre Mikiri
+Piétinez le katana ennemi pour annuler son coup d'estoc et infliger une grande quantité de dégâts à sa posture.</text>
+<text id="200400">&lt;?kgiconKc@7?&gt; en sprintant : Glissade
+Terminez un sprint par une glissade vous mettant en position accroupie.</text>
+<text id="200500">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; en l'air : Arts du combat aériens</text>
+<text id="200600">&lt;?kgiconKc@6?&gt; sur un ennemi déstabilisé : Virevolte
+Sautez par-dessus l'ennemi et retombez dans son dos.</text>
+<text id="210000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Taillade tourbillon
+Un Art du combat exécuté en faisant tourner son corps avant d'attaquer.</text>
+<text id="211000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Charge de l'ombre
+Dépensez des emblèmes spirituels pour effectuer une charge d'estoc à grande portée. Après contact, Loup saute dans les airs en s'appuyant sur le dos de l'ennemi.
+
+Maintenir &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Cavalcade de l'ombre
+Dépensez des emblèmes spirituels pour une Charge de l'ombre à portée supérieure.</text>
+<text id="301000">Après avoir utilisé certains outils de prothèse, &lt;?kgiconKc@16?&gt; : Fendoir de chasse
+Un grand pas en avant avec une attaque Fendoir.
+Outils de prothèse concernés :
+&lt;?wepTextCS@70000?&gt;, &lt;?wepTextCS@71000?&gt;, &lt;?wepTextCS@78000?&gt;</text>
+<text id="301100">Après avoir utilisé certains outils de prothèse, &lt;?kgiconKc@16?&gt; : Croc et lame
+Déclenchez une attaque enchaînée à l'épée tout de suite après avoir utilisé certains outils de prothèse.
+
+Outils de prothèse concernés :
+&lt;?wepTextSS@73000?&gt;, &lt;?wepTextSS@78000?&gt;, &lt;?wepTextSS@74000?&gt;</text>
+<text id="301200">Après avoir utilisé certains outils de prothèse, &lt;?kgiconKc@16?&gt; : Force projetée
+Une attaque qui déchaîne devant vous les effets de l'outil de prothèse.
+Outils de prothèse concernés :
+&lt;?wepTextPS@76000?&gt;, &lt;?wepTextPS@79000?&gt;</text>
+<text id="301300">Après avoir utilisé certains outils de prothèse, &lt;?kgiconKc@16?&gt; : Force vivante
+Cette attaque confère au katana l'effet de l'outil de prothèse.
+Outils de prothèse concernés :
+&lt;?wepTextES@72000?&gt;, &lt;?wepTextES@77000?&gt;</text>
+<text id="310000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Taillade engoulevent
+Sautez avec une pirouette et tailladez l'ennemi.</text>
+<text id="310100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Taillade engoulevent
+Sautez avec une pirouette et repoussez l'ennemi avec des taillades.
+
+Verrouillage activé, maintenez &lt;?kgiconKc@2?&gt; dans la direction opposée à l'ennemi, puis &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Inversion
+Taillez votre ennemi et éloignez-vous d'une virevolte.</text>
+<text id="410000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Ichimonji
+Effectue une frappe lourde venant d'en haut. Permet de récupérer de la Posture.
+
+Maintenir &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Ichimonji aiguisé
+Concentrez votre force pour libérer une frappe lourde venant d'en haut sur le casque. Permet de récupérer de la Posture.</text>
+<text id="410100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Ichimonji
+Effectue une frappe lourde venant d'en haut. Permet de récupérer de la Posture.
+
+Maintenir &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Ichimonji aiguisé
+Concentrez votre force pour libérer une frappe lourde venant d'en haut sur le casque. Permet de récupérer de la Posture.
+
+Après Ichimonji ou Ichimoji aiguisé &lt;?kgiconKc@16?&gt; : Ichimonji enchaîné
+Une seconde attaque sur le casque destinée à interrompre les contre-attaques. Permet de récupérer de la Posture.</text>
+<text id="411000">Maintenir &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Position du fourreau
+Adoptez la position du fourreau.
+Relâcher &lt;?kgiconKc@18?&gt; : Annuler la position du fourreau
+Vous quittez la position du fourreau.
+Relâcher &lt;?kgiconKc@16?&gt; : Croix d'Ashina
+Dégainez votre katana et faites une taillade ultrarapide en forme de croix. Coûte des emblèmes spirituels.</text>
+<text id="510000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt; : Frappes de prière
+Coups répétés avec les paumes, après des frappes de coude.</text>
+<text id="510100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;: Frappes de prière
+Coups répétés avec les paumes, après des frappes de coude.
+
+Maintenir &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, ou après Frappes de prière, &lt;?kgiconKc@16?&gt; : Exorcisme
+Projetez votre corps sur un ennemi pour l'envoyer voler.</text>
+<text id="511000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt; : Coup de pied sauté de Senpo
+Donnez des coups de pied répétés après un saut.</text>
+<text id="511100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt; : Coup de pied sauté de Senpo
+Donnez des coups de pied répétés après un saut.
+
+&lt;?kgiconKc@16?&gt; après Coup de pied sauté de Senpo , &lt;?kgiconKc@16?&gt; : Grand moine
+Donnez plusieurs coups d'épée puis terminez par un coup de pied sauté.</text>
+<text id="610100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Charge de l'ombre
+Dépensez des emblèmes spirituels pour effectuer une charge d'estoc à grande portée. Après contact, Loup saute dans les airs en s'appuyant sur le dos de l'ennemi.
+
+Maintenir &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Cavalcade de l'ombre
+Dépensez des emblèmes spirituels pour une Charge de l'ombre à portée supérieure.
+
+
+&lt;?kgiconKc@16?&gt; après Bond : Chute de l'ombre
+Effectuez une taille tournoyante en retombant au sol.</text>
+<text id="611100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt; : Spirale de nuages
+Consommez des emblèmes spirituels pour infliger neuf danses d'attaque successives qui provoquent de puissantes ondes de choc.</text>
+<text id="612100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt; : Sortie mortelle
+Sortez la lame de la mort et frayez-vous un passage parmi les ennemis à l'aide d'une attaque à plus grande portée. Coûte des emblèmes spirituels.
+
+Maintenir &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, Maintenir &lt;?kgiconKc@16?&gt; : Sortie mortelle surpuissante
+Concentrez-vous et attaquez les ennemis avec un sabre-éclair à longue portée encore plus puissante. Coûte des emblèmes spirituels.</text>
+<text id="620000">&lt;?null?&gt;</text>
+<text id="620100">&lt;?null?&gt;</text>
+<text id="630000">&lt;?null?&gt;</text>
+<text id="630100">&lt;?null?&gt;</text>
+<text id="640000">&lt;?null?&gt;</text>
+<text id="640100">&lt;?null?&gt;</text>
+<text id="640200">&lt;?null?&gt;</text>
+<text id="640300">&lt;?null?&gt;</text>
+<text id="640400">&lt;?null?&gt;</text>
+<text id="650000">&lt;?null?&gt;</text>
+<text id="650100">&lt;?null?&gt;</text>
+<text id="650200">&lt;?null?&gt;</text>
+<text id="650300">&lt;?null?&gt;</text>
+<text id="650400">&lt;?null?&gt;</text>
+<text id="660000">&lt;?null?&gt;</text>
+<text id="660100">&lt;?null?&gt;</text>
+<text id="660200">&lt;?null?&gt;</text>
+<text id="660300">&lt;?null?&gt;</text>
+<text id="660400">&lt;?null?&gt;</text>
+<text id="660500">&lt;?null?&gt;</text>
+<text id="660600">&lt;?null?&gt;</text>
+<text id="660700">&lt;?null?&gt;</text>
+<text id="660800">&lt;?null?&gt;</text>
+<text id="670000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt; : Sortie mortelle
+Sortez la lame de la mort et frayez-vous un passage parmi les ennemis à l'aide d'une attaque à plus grande portée. Coûte des emblèmes spirituels.</text>
+<text id="671000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Sortie vive
+Sortez votre épée du fourreau à grande vitesse en attaquant l'ennemi. Coûte des emblèmes spirituels.
+
+Maintenir &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Éclair du dragon
+Sortez votre épée du fourreau à grande vitesse en attaquant l'ennemi. Coûte des emblèmes spirituels. Provoque une onde de choc.</text>
+<text id="672000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt; : Passage flottant
+Infligez cinq danses d'attaque successives.</text>
+<text id="673000">Maintenir &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Entrer en position Sortie vive
+Rengainez le sabre et prenez la position Sortie vive.
+
+Lâcher &lt;?kgiconKc@18?&gt; : Annuler la position Sortie vive
+Quittez la position Sortie vive.
+
+Lâcher &lt;?kgiconKc@16?&gt; : Esprit unique
+Dépensez des emblèmes spirituels pour frapper une fois, puis exécutez une série d'attaques si vives qu'elles en sont presque invisibles.
+
+&lt;?kgiconKc@16?&gt; Après Esprit unique : Poursuite Sortie vive
+Avancez avec une attaque Sortie vive pour poursuivre les ennemis.</text>
+<text id="674000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Danse du cerisier
+
+Vous dansez avec grâce dans l'air et vous donnez trois taillades. Évitez le balayage d'un ennemi et infligez des dégâts avec cette taillade capable de traverser la garde de l'adversaire.
+
+Peut s'enchaîner avec une manœuvre en l'air après l'attaque.</text>
+<text id="680000">&lt;?null?&gt;</text>
+<text id="681000">&lt;?kgiconKc@16?&gt; près d'un ennemi dans les airs : Coup mortel antiaérien
+Effectue un coup mortel contre un ennemi aérien.</text>
+<text id="690000">&lt;?null?&gt;</text>
+<text id="690100">&lt;?null?&gt;</text>
+<text id="690200">&lt;?null?&gt;</text>
+<text id="690300">&lt;?null?&gt;</text>
+<text id="690400">&lt;?null?&gt;</text>
+<text id="699000">&lt;?null?&gt;</text>
+<text id="701000">&lt;?kgiconKc@17?&gt;: Lancer de shuriken
+Attaquez en lançant un shuriken.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Lancer de shurikens tournoyants
+Charge la puissance de rotation avant de lancer le shuriken. Touche l'ennemi plusieurs fois.</text>
+<text id="702000">&lt;?kgiconKc@17?&gt;: Lancer de shuriken
+Lancez des shurikens tranchants et perforants, qui érodent la Vitalité et la Posture, même si l'ennemi est en garde.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Lancer de shurikens tournoyants
+Charge la puissance de rotation avant de lancer le shuriken. Touche l'ennemi plusieurs fois.</text>
+<text id="703000">&lt;?kgiconKc@17?&gt; : Papillons fantômes
+Des papillons fantômes jaillissent après le lancement d'un kunaï. Les papillons pourchassent les ennemis et peuvent infliger des dégâts même lorsqu'ils sont en garde.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Danse de l'essaim 
+Chargez pour lancer davantage de papillons.</text>
+<text id="704000">&lt;?kgiconKc@17?&gt; : Lancer de sen
+Lancez de l'argent.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Barrage de sen
+Lancez beaucoup d'argent.
+
+Le montant d'argent lancé dépend des sen que vous possédez.
+
+  Les très pauvres ne lancent que de la poussière.
+  Les pauvres lancent un peu d'argent.
+  Les riches lancent beaucoup d'argent.
+  Les très riches lancent des sommes extravagantes.
+</text>
+<text id="705000">&lt;?kgiconKc@17?&gt;: Shuriken de lazulite
+Lancez des shurikens incroyablement tranchants. Ses tranches perforantes érodent considérablement la Vitalité et la Posture, même si l'ennemi est en garde.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Shuriken de lazulite tournoyant
+Chargez sa puissance de rotation avant de lancer le shuriken. Touche l'ennemi plusieurs fois.</text>
+<text id="711000">&lt;?kgiconKc@17?&gt; : Pétard shinobi
+Dispersez un éclair de poudre à canon devant vous. Effraie facilement les bêtes.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Pétard à ressort
+Chargez le mécanisme et dispersez un éclair de poudre à canon dans toutes les directions en tournant.</text>
+<text id="712000">&lt;?kgiconKc@17?&gt; : Longue étincelle
+Disperse un éclair de poudre à canon persistant devant vous. Effraie facilement les bêtes.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Longue étincelle à ressort
+Chargez le mécanisme et dispersez des éclairs persistants dans toutes les directions en tournant.</text>
+<text id="713000">&lt;?kgiconKc@17?&gt;: Brume pourpre
+Disperse un nuage pourpre qui émet un éclair de poudre devant vous. Ralentit temporairement le déplacement ennemi.
+Les ennemis aveuglés subissent temporairement un peu plus de dégâts de Vitalité et de Posture.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Brume pourpre à ressort
+Chargez le mécanisme pour disperser des éclairs de poudre dans toutes les directions en tournant.</text>
+<text id="721000">&lt;?kgiconKc@17?&gt; : Souffle de feu
+Tire du feu devant vous.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Explosion de flammes
+Chargez le ressort pour déclencher une explosion de feu devant vous. L'explosion repousse les ennemis vers l'arrière.</text>
+<text id="722000">&lt;?kgiconKc@17?&gt;: Souffle de feu
+Tirez du feu devant vous.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Explosion de feu
+Chargez le mécanisme pour tirer une boule de feu devant vous.
+L'explosion repousse les ennemis.
+
+&lt;?kgiconKc@17?&gt;, Maintenir &lt;?kgiconKc@17?&gt; : Flammes continues
+Un jet continu de flammes devant vous.</text>
+<text id="723000">&lt;?kgiconKc@17?&gt; : Flammes sacrées
+Tirez devant vous des flammes de puissance sainte.
+Effectif contre les esprits vengeurs.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Explosion de flammes sacrées
+Tirez devant vous une explosion de flammes sacrées.
+L'explosion repousse les ennemis.
+
+&lt;?kgiconKc@17?&gt;, Maintenir &lt;?kgiconKc@17?&gt; : Flammes sacrées continues
+Un jet continu de flammes sacrées devant vous.</text>
+<text id="731000">&lt;?kgiconKc@17?&gt; : Frappe
+Balancez la hache vers le bas pour frapper un ennemi.
+Détruit les boucliers faits de bois.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Tournoiement
+Faites tournoyer la hache pour frapper les ennemis.
+Appuyer sur &lt;?kgiconKc@17?&gt; pendant le Tournoiement permet de continuer l'attaque en poursuivant le mouvement de la lame.</text>
+<text id="732000">&lt;?kgiconKc@17?&gt; : Étincelle
+Abaissez la hache enflammée pour frapper un ennemi.
+Détruit les boucliers faits de bois et crée à l'impact un rugissement de flammes.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Tournoiement
+Faites tournoyer la hache enflammée pour frapper les ennemis.
+Appuyez sur &lt;?kgiconKc@17?&gt; pendant le Tournoiement pour continuer l'attaque avec un autre tournoiement.</text>
+<text id="733000">&lt;?kgiconKc@17?&gt; : Frappe de lazulite
+Abattez la hache de lazulite lourde pour déchaîner une onde sonore qui détruit les illusions.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Faux de lazulite
+Faites tournoyer la hache de lazulite lourde pour frapper les ennemis.
+Appuyez sur &lt;?kgiconKc@17?&gt; pendant Faux de lazulite pour continuer l'attaque avec un nouveau mouvement.</text>
+<text id="741000">&lt;?kgiconKc@17?&gt; : Position de la Brume
+Quand on vous attaque dans cette position, utilisez &lt;?kgMove?&gt; pour vous déplacer dans la direction voulue.
+
+&lt;?kgiconKc@17?&gt; après avoir subi des dégâts : Corbeau de la Brume
+Déplacez-vous instantanément dans la direction choisie avec &lt;?kgMove?&gt;.</text>
+<text id="742000">&lt;?kgiconKc@17?&gt; : Position de la Brume rouge
+Quand on vous attaque dans cette position, utilisez &lt;?kgMove?&gt; pour vous déplacer dans la direction voulue. Les plumes que vous laissez derrière vous brûlent les ennemis sur votre passage.
+
+&lt;?kgiconKc@17?&gt; après avoir subi des dégâts : Corbeau de la Brume rouge
+Déplacez-vous instantanément dans la direction choisie avec &lt;?kgMove?&gt;.  Les plumes que vous laissez derrière vous brûlent les ennemis sur votre passage.</text>
+<text id="751000">&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt; : Combo
+Effectue des attaques répétées alternant entre Sabimaru et le sabre.
+
+Pendant le combo, &lt;?kgiconKc@16?&gt; : Attaque avec changement de combo
+Effectue une attaque de sabre qui change le combo. Fais tournoyer votre corps et peut également servir pour s'évader.</text>
+<text id="752000">&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt; : Combo
+Effectue des attaques répétées alternant entre Sabimaru et le sabre.
+La lame aiguisée de Sabimaru inflige des dégâts de Vitalité et de Posture même lorsque l'ennemi est en garde.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@16?&gt; : Attaque avec changement de combo
+Effectue une attaque de sabre qui change le combo. Fais tournoyer votre corps et peut également servir pour s'évader.</text>
+<text id="753000">&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt; : Combo
+Effectue des attaques répétées alternant entre Sabimaru et le sabre.
+Une brume empoisonnée suit chaque mouvement de Sabimaru.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@16?&gt; : Attaque avec changement de combo
+Effectue une attaque de sabre qui change le combo. Fais tournoyer votre corps et peut également servir pour s'évader.</text>
+<text id="761000">Maintenir &lt;?kgiconKc@17?&gt; : Abri
+Déploie le parapluie chargé pour vous protéger contre les attaques dans toutes les directions. Vous pouvez vous déplacer avec le parapluie et bloquer ainsi les attaques légères.
+
+&lt;?kgiconKc@17?&gt; au moment où l'attaque ennemie
+touche : Déviation de parapluie
+Ouvre le parapluie pour dévier les attaques ennemies. Plus facile à synchroniser que les déviations du sabre.
+Pendant Abri, &lt;?kgiconKc@18?&gt; au moment où l'attaque ennemie touche : Parapluie tournoyant
+Fait tournoyer le parapluie ouvert pour dévier les attaques.</text>
+<text id="762000">Maintenir &lt;?kgiconKc@17?&gt; : Abri
+Déploie le parapluie chargé pour vous protéger contre les attaques dans toutes les directions. Vous pouvez vous déplacer avec le parapluie et bloquer ainsi les attaques légères.
+
+&lt;?kgiconKc@17?&gt; au moment où l'attaque ennemie 
+touche : Déviation de parapluie
+Ouvre le parapluie pour dévier les attaques ennemies. Plus facile à synchroniser que les déviations du sabre.
+Pendant Abri, &lt;?kgiconKc@18?&gt; au moment où l'attaque ennemie touche : Parapluie tournoyant
+Fait tournoyer le parapluie ouvert pour dévier les attaques.</text>
+<text id="763000">Maintenir &lt;?kgiconKc@17?&gt; : Abri
+Déploie le parapluie chargé pour vous protéger contre les attaques dans toutes les directions. Vous pouvez vous déplacer avec le parapluie et bloquer ainsi les attaques légères.
+
+&lt;?kgiconKc@17?&gt; au moment où l'attaque ennemie
+touche : Déviation de parapluie
+Ouvre le parapluie pour dévier les attaques ennemies. Plus facile à synchroniser que les déviations du sabre.
+Pendant Abri, &lt;?kgiconKc@18?&gt; au moment où l'attaque ennemie touche : Parapluie tournoyant
+Fait tournoyer le parapluie ouvert pour dévier les attaques.</text>
+<text id="771000">&lt;?kgiconKc@17?&gt; : Maelstrom
+Entourez-vous d'un maelstrom tourbillonnant en ouvrant l'éventail.
+
+Pendant Maelstrom, &lt;?kgiconKc@17?&gt; : Possession divine
+Déchaînez le vent autour de l'ennemi pour le contraindre à regarder dans la direction opposée. Possible deux fois.
+
+Vos ennemis, sauf les plus forts, ne vous voient plus et sont vulnérables à un coup mortel.</text>
+<text id="772000">&lt;?kgiconKc@17?&gt; : Vortex d'or
+Entourez-vous d'un vortex d'or tourbillonnant en ouvrant l'éventail.
+
+Pendant Vortex d'or, &lt;?kgiconKc@17?&gt; : Vent de donation
+Déchaînez le vent autour de l'ennemi pour le contraindre à regarder dans la direction opposée et pour qu'il abandonne des objets et des sen. Utilisable deux fois.
+
+Vos ennemis, sauf les plus forts, ne vous voient plus et sont vulnérables à un coup mortel.</text>
+<text id="781000">&lt;?kgiconKc@17?&gt; : Estoc
+Une poussée vers l'avant avec la lance.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt; : Tirer
+Attirez vers vous un ennemi frappé par la lance. Peut même arracher des morceaux d'armure.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Charge
+Préparez votre lance et chargez droit devant.</text>
+<text id="782000">&lt;?kgiconKc@17?&gt; : Estoc
+Une poussée vers l'avant avec la lance.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt; : Tirer
+Attirez vers vous un ennemi frappé par la lance. Peut même arracher des morceaux d'armure lourde.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Fendoir
+Chargez l'attaque pour vous frayer un chemin parmi les ennemis.</text>
+<text id="783000">&lt;?kgiconKc@17?&gt; : Estoc en vrille
+Infligez un estoc avec un mouvement de vrille à un ennemi devant vous. Cela érode sa Vitalité ou sa Posture, même s'il se garde.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt; : Tirer
+Attirez vers vous un ennemi frappé par la lance. Peut même arracher des morceaux d'armure lourde.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Charge vrillante
+Préparez votre lance et déchaînez une charge vrillante.</text>
+<text id="784000">&lt;?kgiconKc@17?&gt; : Estoc enflammé
+Infligez un estoc avec la lance embrasée. Inflige une altération Brûlure à l'ennemi.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt; : Tirer
+Attirez vers vous un ennemi frappé par la lance. Peut même arracher des morceaux d'armure lourde.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Flamme bondissante
+Chargez l'attaque pour vous frayer un passage en fendoir parmi vos ennemis et les enflammer.</text>
+<text id="791000">&lt;?kgiconKc@17?&gt; : Sifflet de doigts
+Attirez l'attention de l'ennemi en sifflant. Enrage les bêtes, qui ne distinguent plus les amis des ennemis.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Écho de la montagne
+Le son du sifflet est retardé pendant plusieurs secondes après avoir soufflé.
+
+Le son du sifflet n'est audible que de la cible actuellement verrouillée. Si aucune cible n'est verrouillée, tout le monde l'entend.</text>
+<text id="792000">&lt;?kgiconKc@17?&gt; : Sifflet du mécontent
+Attirez l'attention de l'ennemi en sifflant. Crée une ouverture en jouant sur l'angoisse des esprits vengeurs.
+
+Maintenir &lt;?kgiconKc@17?&gt; : Écho de la montagne
+Le son du sifflet est retardé pendant plusieurs secondes après avoir soufflé.
+
+Le son du sifflet n'est audible que de la cible actuellement verrouillée. Si aucune cible n'est verrouillée, tout le monde l'entend.</text>
+<text id="1700000">? ? ?</text>
+<text id="1710000">? ? ?</text>
+<text id="1720000">? ? ?</text>
+<text id="1730000">? ? ?</text>
+<text id="1740000">? ? ?</text>
+<text id="1750000">? ? ?</text>
+<text id="1760000">? ? ?</text>
+<text id="1770000">? ? ?</text>
+<text id="1780000">? ? ?</text>
+<text id="1790000">? ? ?</text>
+<text id="2700000">? ? ?</text>
+</entries>
+</fmg>

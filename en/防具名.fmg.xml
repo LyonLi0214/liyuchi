@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="0">%null%</text>
+<text id="103000">Original Memory: Wolf</text>
+<text id="303000">Another's Memory: Shura</text>
+<text id="403000">Another's Memory: Ashina</text>
+<text id="503000">Another's Memory: Tengu</text>
+</entries>
+</fmg>

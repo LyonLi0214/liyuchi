@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="50">&lt;?kgiconKc@12?&gt; : Verrouiller/Déverrouiller la cible
+&lt;?kgControlCamera?&gt; en ciblant : Changer de cible
+
+Commencez par faire face à votre ennemi. Verrouiller les cibles est essentiel pour emporter un combat.
+
+Gardez votre ennemi devant vous, il sera plus facile d'attaquer et de parer ou dévier.</text>
+<text id="51">Maintenir &lt;?kgiconKc@16?&gt; : Coup d'estoc
+
+Les coups d'estoc ne peuvent pas être parés. Cela les rend efficaces contre les adversaires qui ont une solide défense. 
+
+Attention, ils peuvent parfois être déviés par l'ennemi.</text>
+<text id="52">&lt;?kgiconKc@5?&gt; : Pas d'esquive
+
+Vous pouvez éviter les attaques d'un Pas d'esquive au bon moment, ce qui est particulièrement utile quand vous ne pouvez pas les parer.
+
+Ainsi, lorsqu'un ennemi tente de vous saisir, il vaut mieux esquiver l'attaque plutôt que de tenter de la dévier ou de la bloquer.</text>
+<text id="53">&lt;?kgiconKc@1?&gt;+&lt;?kgiconKc@5?&gt; au moment où une attaque porte : Contre Mikiri
+
+Un shinobi peut pressentir les attaques d'estoc et les contrer en marchant sur la lame de l'ennemi grâce au Contre Mikiri.
+
+Ce Contre Mikiri est une technique puissante, qui inflige plus de dégâts de Posture qu'une déviation classique.</text>
+<text id="54">&lt;?kgToggleItems?&gt; : Passer en revue les objets rapides
+&lt;?kgiconKc@21?&gt; : Utiliser l'objet rapide
+
+Choisissez les objets rapides à équiper dans le menu d'équipement. Passez en revue les objets rapides équipés avec &lt;?kgToggleItems?&gt; et utilisez celui qui est actuellement sélectionné avec &lt;?kgiconKc@21?&gt;.
+
+Vous pouvez vous équiper de jusqu'à 5 objets rapides simultanément.</text>
+<text id="55">&lt;?kgMove?&gt;+&lt;?kgiconKc@5?&gt;+&lt;?kgiconKc@6?&gt; : Saut en sprintant
+
+Vous pouvez sauter plus loin en sautant au milieu d'un sprint.</text>
+<text id="56">Après avoir sauté au-dessus d'un balayage, &lt;?kgiconKc@6?&gt; : Contre coup de pied sauté
+
+Après avoir sauté au-dessus d'un balayage, vous pouvez déclencher un Contre coup de pied sauté avant d'atterrir, ce qui inflige de gros dégâts de Posture.</text>
+<text id="57">&lt;?kgiconKc@6?&gt; quand un ennemi est déstabilisé : Virevolte
+
+Cette technique shinobi permet de sauter par-dessus un ennemi déstabilisé pour vous retrouver derrière lui.
+
+Elle permet d'utiliser les coups mortels dans le dos en cours de combat, sans devoir être camouflé.
+
+On ne s'étonnera pas que des shinobi aient quelques tours dans leur manche pour les combats en mêlée.</text>
+<text id="58">&lt;?kgiconKc@22?&gt; : Espionner
+
+En se concentrant, un shinobi peut entendre les voix des autres même quand ils sont loin.
+
+Espionner est l'un des outils dont disposent les shinobi pour acquérir des informations.</text>
+<text id="59">&lt;?kgMove?&gt;+&lt;?kgiconKc@5?&gt;+&lt;?kgiconKc@16?&gt; : Attaque en sprintant
+
+Vous pouvez réaliser une fente en attaquant alors que vous sprintez. Cette technique permet de se rapprocher rapidement d'un ennemi qui se trouve loin de vous, puis de lui infliger des dégâts en l'atteignant.</text>
+<text id="60">Quand renversé ou déstabilisé, &lt;?kgiconKc@5?&gt; : Roulade d'esquive
+
+Lorsque vous êtes renversé ou déstabilisé, vous êtes très vulnérable aux attaques ennemies.
+
+Réaliser une roulade d'esquive vous permet de vous remettre rapidement sur vos pieds en limitant votre vulnérabilité.</text>
+<text id="61">Les éclairs traversent le corps de ceux qui ont les pieds au sol, ce qui les immobilise un instant.
+
+Il existe une technique secrète pour absorber l'éclair dans les airs et le renvoyer sur l'ennemi.
+Il s'agit de l'Inversion d'éclair.
+
+Lorsque vous êtes touché par une attaque électrique dans les airs, &lt;?kgiconKc@16?&gt; avant de toucher le sol : Inversion d'éclair</text>
+<text id="62">%null%</text>
+<text id="63">%null%</text>
+<text id="64">%null%</text>
+<text id="65">%null%</text>
+<text id="66">%null%</text>
+<text id="67">%null%</text>
+<text id="68">%null%</text>
+<text id="69">%null%</text>
+<text id="70">Maintenir &lt;?kgiconKc@20?&gt; : Récupérer le butin
+
+Les ennemis battus lâchent du butin, par exemple de l'argent ou des objets. 
+
+Vous pouvez récupérer le butin à une certaine distance et le butin de plusieurs ennemis peut être récupéré en une seule fois.</text>
+<text id="100">Donner les graines de gourde à Emma augmente le nombre maximum d'utilisations de votre gourde médicinale.</text>
+<text id="101">Collecter 4 perles de chapelet vous permettra d'améliorer vos caractéristiques physiques à l'idole du Sculpteur.
+
+Vous augmentez ainsi votre maximum de Vitalité et de Posture. </text>
+<text id="102">Offrir vos souvenirs gagnés en triomphant d'ennemis à l'idole du Sculpteur vous permet d'améliorer votre puissance d'attaque.
+
+Cela signifie que vous infligez davantage de dégâts à la Vitalité et à la Posture de l'ennemi.</text>
+<text id="103">Les ennemis ont plus de mal à vous détecter quand vous êtes accroupi, suspendu à une corniche ou à un mur.
+
+S'accroupir dans les hautes herbes vous camoufle encore mieux.</text>
+<text id="104">Plus vous perdez de Vitalité, plus votre posture récupère lentement.
+
+Si la posture d'un ennemi récupère presque instantanément, cherchez d'abord à réduire sa Vitalité.</text>
+<text id="105">Des attaques de feu répétées infligent l'altération d'état Brûlure. Bloquer des attaques de feu n'empêche pas la jauge de Brûlure d'augmenter.
+
+Quand vous brûlez, des flammes sont visibles, vous subissez des dégâts de Vitalité sur la durée et vous ne récupérez pas votre Posture.</text>
+<text id="106">Vous pouvez dire si un ennemi a repéré votre présence en regardant l'indicateur d'alerte au-dessus de sa tête.
+
+Jaune : l'ennemi est soupçonneux ou vous recherche.
+Rouge : l'ennemi est alerté de votre présence.
+
+Si l'indicateur est jaune, cela signifie que l'ennemi ne sait pas où vous êtes pour le moment. Vous pouvez donc toujours les prendre par surprise avec un coup mortel furtif.</text>
+<text id="107">De nombreuses fonctions sont disponibles aux idoles du Sculpteur, dont la possibilité de vous reposer.
+
+Vous reposer vous rend toute votre Vitalité, recharge votre gourde médicinale et transfère automatiquement les objets consommables de votre stock vers votre inventaire.
+
+Attention, car vous reposer fait aussi réapparaître certains des ennemis vaincus.</text>
+<text id="108">Loup dispose de la capacité de bien voir dans le noir. Cette capacité s'active automatiquement lorsqu'il se trouve dans un endroit sombre.</text>
+<text id="109">Il n'est pas possible de revenir à la vie sans suffisamment de pouvoir de résurrection. Tuer des ennemis permet de regagner peu à peu du pouvoir de résurrection.
+
+Mais n'oubliez pas que la première charge de pouvoir de résurrection de Loup ne peut être restaurée qu'en vous reposant à l'idole du Sculpteur.</text>
+<text id="110">Si vous êtes touché par des attaques à base de poison, vous souffrirez de l'altération d'état "Poison".
+
+Même bloquer de telles attaques n'empêche pas les effets de s'accumuler.
+
+Le poison affecte l'esprit et le corps, et réduit votre Vitalité au fil du temps.</text>
+<text id="111">Subir des dégâts infligés par des ennemis fantomatiques vous remplira de Terreur.
+
+Bloquer ces attaques n'empêche pas la Terreur de s'accumuler. Et si la Terreur s'empare de vous, la fin est proche.</text>
+<text id="112">Si vous avez les pieds au sol quand vous êtes touché par une attaque électrique, vous subissez l'altération d'état Choc, même si vous aviez bloqué l'attaque.
+
+Lorsque Choc se déclenche, vous subissez de très importants dégâts de Vitalité et vous êtes brièvement étourdi.</text>
+<text id="113">Triomphez d'ennemis pour gagner de l'expérience de compétence. Lorsque vous accumulez suffisamment d'expérience, vous gagnez un point de compétence.
+
+Les textes ésotériques donnent accès à différentes compétences que vous pouvez acquérir en dépensant des points de compétence dans le menu d'acquisition des compétences d'une idole du Sculpteur.</text>
+<text id="114">Les compétences de l'Art du combat des shinobi sont utilisées par les shinobi au combat.
+
+Ces techniques ne seraient pas utilisées par des samouraïs. Certaines permettent d'attaquer depuis les airs et d'autres de se camoufler pour ne pas être détecté. 
+
+Ce sont les secrets les mieux protégés des arts shinobi.
+ 
+</text>
+<text id="115">Les compétences de l'Art du combat prosthétique rassemblent diverses techniques utilisant la prothèse de shinobi.
+
+C'est moins un style de combat à proprement parler qu'une collection de techniques secrètes que ne peuvent utiliser que ceux qui portent une prothèse de shinobi.
+</text>
+<text id="116">Les techniques du style de combat Ashina ont été créées par Isshin Ashina au fil de ses combats.  
+
+Dans sa jeunesse, Isshin a combattu sans relâche, peaufinant sa technique dans le sang de ses ennemis.</text>
+<text id="117">Le style de combat du temple Senpo s'inspire grandement des arts martiaux.
+
+Les disciples du temple Senpo apprenaient les arts martiaux dans le but d'atteindre la vertu. Ils pensaient que discipline et force étaient indispensables pour vaincre les ennemis du Bouddha.</text>
+<text id="118">Vous pouvez donner au Sculpteur des matériaux améliorés tels que des morceaux de fer ou de la poudre à canon pour qu'il crée des versions améliorées de vos outils de prothèse.
+
+Vous pouvez obtenir ces matériaux en triomphant de vos ennemis mais aussi dans le monde.</text>
+<text id="119">Si vous trouvez plus d'objets que vous ne pouvez en porter, l'excédent est automatiquement envoyé dans votre stock.
+
+Lorsque vous vous reposez à une idole du Sculpteur, tous les objets consommables sont automatiquement rechargés au maximum dans votre inventaire.
+
+L'espace de stockage dont dispose Bouddha est infini, et vous devriez le remercier de vous permettre de vous en servir.</text>
+<text id="120">Le crépuscule est un moment dangereux.
+
+Lorsque tombe la nuit et quand le soleil disparaît, de puissants esprits rôdent pour se venger.</text>
+<text id="121">Utiliser des capacités, comme vos outils de prothèse, coûte des emblèmes spirituels.
+
+Vous pouvez obtenir des emblèmes spirituels en triomphant d'ennemis, en les trouvant dans le monde ou en les achetant aux idoles du Sculpteur.</text>
+<text id="122">Les ennemis rampants, comme les lézards, peuvent être l'objet d'un coup mortel quand vous sautez vers eux, même s'ils vous ont repéré.</text>
+<text id="123">Certains ennemis très puissants nécessitent que vous portiez un coup mortel final pour les vaincre.
+
+Vous ne pouvez porter ce coup mortel final qu'après avoir fait perdre à l'ennemi tous ses marqueurs de coup mortel.</text>
+<text id="124">Vous ne pouvez pas être ramené à la vie trop fréquemment sur une courte période de temps, mais gagner du pouvoir de résurrection vous permet d'en profiter à nouveau.
+
+Vous gagnez du pouvoir de résurrection en tuant des ennemis ou en réalisant un coup mortel.</text>
+<text id="125">L'expérience de compétence et les sen sont perdus quand vous mourez, mais il y a un moyen de l'éviter dans certains cas. Grâce à l'aide divine, vous pouvez ne rien perdre.
+
+La fréquence à laquelle l'aide divine peut se déclencher est indiquée dans le menu de pause.
+
+&lt;?kgiconKc@27?&gt; : Menu de pause</text>
+<text id="126">L'essence de peste est un objet qui vous permet de savoir qui est malade de la Peste du dragon.
+
+Plus vous avez d'essence de peste, moins vous avez de chances de profiter de l'aide divine, qui vous évite de perdre sen et expérience en cas de mort.</text>
+<text id="127">Une goutte de sang du dragon que vous pouvez offrir à une idole du Sculpteur pour guérir ceux qui sont affligés par la Peste du dragon.
+
+Tous les malades seront guéris simultanément et toute votre essence de peste disparaîtra, ce qui vous permettra de profiter pleinement de l'aide divine.</text>
+<text id="128">Plus celui qui possède l'héritage du dragon perd la vie, plus la Peste du dragon se répand dans le monde.
+
+La toux et les respirations sifflantes qui peuvent être entendues un peu partout témoignent du fait que quelqu'un que Loup a rencontré est affligé de la Peste du dragon.</text>
+<text id="129">L'utilisation de certains Arts de combat coûte des emblèmes spirituels.
+Si vous n'avez pas suffisamment d'emblèmes spirituels pour utiliser un Art de combat, une version moins puissante de cette technique sera tout de même réalisée.</text>
+<text id="130">Les estocs ne peuvent pas être bloqués, mais ils peuvent être déviés.
+
+Le Contre Mikiri peut également contrer les estocs, et en le réalisant avec succès, vous infligerez plus de dégâts de Posture que lors d'une déviation normale.</text>
+<text id="131">Les balayages ne peuvent être ni bloqués ni déviés. Vous pouvez toutefois sauter pour les éviter.
+
+Donnez un coup de pied sauté à l'ennemi lorsqu'il tente un balayage pour infliger de lourds dégâts de Posture, et vous pourrez souvent enchaîner par un coup mortel.</text>
+<text id="132">Les saisies ne peuvent être ni bloquées ni déviées. Une fois saisi, vous ne pouvez éviter de subir d'importants dégâts.
+
+Sauter ou sprinter à distance sûre avant que l'attaque ne porte vous met à l'abri de la saisie.
+
+Vous pouvez esquiver certaines saisies ennemies avec un Pas d'esquive.</text>
+<text id="133">Dévier une attaque ennemie ne signifie pas que l'adversaire cessera d'attaquer.
+
+Des attaques consécutives peuvent être contrées en déviant plusieurs fois de suite. Déviez la dernière attaque et vous pourrez infliger de lourds dégâts de Posture.</text>
+<text id="134">Vous pouvez trouver juste à côté du Temple en ruines un guerrier nommé Hanbei l'immortel, qui acceptera de vous aider à vous entraîner.
+
+Loup peut débloquer des nouvelles options d'entraînement en terminant ses sessions d'entraînement avec Hanbei et en obtenant de nouvelles compétences. Si un ennemi semble imbattable, prenez le temps de vous entraîner.</text>
+<text id="135">Les séances de combat libre à côté du Temple en ruines avec Hanbei l'immortel sont un excellent moyen de tester vos nouvelles compétences et vos nouveaux outils de prothèse.
+
+Vous pourrez les tester sans dépenser un seul emblème spirituel. Le combat libre peut être débloqué en terminant toutes les sessions d'entraînement avec Hanbei.</text>
+<text id="136">Les outils de prothèse peuvent être améliorés de différentes manières, par exemple en leur ajoutant un effet élémentaire ou en les utilisant pour exécuter de nouvelles techniques.
+
+Les versions améliorées peuvent être embrasées, ou empoisonnées, par exemple. Leur utilisation est variée et elles sont efficaces contre des ennemis différents. Les outils de prothèse qui viennent d'être améliorés doivent être équipés dans le menu Équipement.</text>
+<text id="150">Un shinobi vise à briser la Posture d'un adversaire. Attaquer l'ennemi est une manière d'y parvenir.
+
+Un ennemi dont la Posture est brisée est déstabilisé et peut être tué d'un coup mortel.
+
+&lt;?kgiconKc@16?&gt; : Attaquer
+&lt;?kgiconKc@16?&gt; sur un ennemi déstabilisé : Coup mortel</text>
+<text id="151">Certains ennemis ne peuvent pas être déstabilisés uniquement par des attaques.
+
+Dévier une attaque permet aussi de briser leur Posture. Les meilleurs shinobi utilisent un mélange d'attaques et de déviations.
+
+&lt;?kgiconKc@18?&gt; quand une attaque ennemie porte : Dévier</text>
+<text id="152">
+&lt;?kgiconKc@18?&gt; quand une attaque ennemie porte : Dévier
+&lt;?kgiconKc@16?&gt; après une déviation : Contre-taillade
+Une contre-taillade est effectuée en attaquant juste après avoir dévié une attaque ennemie.
+
+En combinant déviations et attaques pour infliger des dégâts de Posture, vous pouvez rapidement briser la Posture d'un ennemi.</text>
+<text id="153">Si vous subissez des dégâts et si votre Vitalité est faible, il est préférable de mettre de la distance entre vous et l'ennemi, puis d'utiliser la gourde médicinale pour restaurer votre Vitalité.
+
+&lt;?kgiconKc@21?&gt; : Utiliser l'objet rapide</text>
+<text id="154">Un coup mortel porté alors que vous êtes accroché à un rebord est un type de coup mortel furtif utilisable sur des ennemis qui ne vous ont pas repéré.
+
+En étant accroché à un rebord, progressez jusqu'à un ennemi qui ne vous a pas repéré pour pouvoir lui asséner un coup mortel.</text>
+<text id="155">Un coup mortel porté alors que vous êtes collé à un mur est un type de coup mortel furtif utilisable sur des ennemis qui ne vous ont pas repéré.
+
+En étant collé à un mur, attendez que l'ennemi avance près de vous sans repérer pour pouvoir lui asséner un coup mortel.</text>
+<text id="156">Il y a différents outils de prothèse, et la même stratégie ne fonctionne pas sur tous les adversaires.
+
+Comme le dit le Sculpteur :
+
+"Des boucliers épais ? Fais-en de petits morceaux... Des ennemis rapides ? Élimine-les à distance... Plus tu auras d'outils, plus tu auras de moyens de vaincre tes ennemis."</text>
+<text id="157">Les ennemis aux Yeux rouges sont dangereux et pleins de haine. Tenter de les vaincre en mêlée n'est pas conseillé.
+
+Le feu, en revanche, est très efficace contre eux, car ils craignent le feu plus que tout.</text>
+<text id="158">Les rebords très éloignés ou très hauts, qui semblent trop loin pour votre grappin, peuvent parfois être atteignables si vous sautez d'abord dans leur direction.</text>
+<text id="159">Les bêtes sont effrayées par le bruit.
+
+Cela rend l'outil de prothèse Pétard shinobi très efficace contre elles.</text>
+<text id="160">Les boucliers en bois et les casques ne peuvent être brisés par des attaques à l'épée classiques.
+
+L'outil de prothèse Hache chargée peut en revanche s'avérer très utile, car il coupe à travers le bois comme si c'était du papier.</text>
+<text id="161">Certains grands ennemis portent des armures grossières, attachées par des courroies. L'outil de prothèse Lance chargée peut être utilisé pour arracher ces protections.
+
+Cette technique s'appelle le Démembrement d'armure.</text>
+<text id="162">Vous récupérez plus rapidement votre Posture quand vous êtes en garde.
+
+Si la Posture de Loup est sur le point d'être brisée, la récupérer peut faire la différence entre la survie et la mort.
+
+Maintenir &lt;?kgiconKc@18?&gt; : Garde</text>
+<text id="163">La légende veut que la rouille bleue venimeuse de la lame soit capable de repousser même les inhumaines guerrières Okami.
+
+Il est probable qu'elle soit efficace également contre leurs descendantes.</text>
+<text id="164">Les shurikens sont efficaces contre les ennemis très rapides ou qui bondissent beaucoup.
+
+Ils sont aussi utiles pour interrompre les actions des ennemis en les faisant tressaillir.</text>
+<text id="165">Les sucres bouddhistes sont des objets qui améliorent temporairement différentes caractéristiques.
+
+En avalant un sucre et en adoptant la position adéquate, vous profitez des avantages apportés par le sucre.
+
+Ces avantages peuvent être très utiles lorsque vous entrez dans des lieux très dangereux ou quand vous affrontez des adversaires redoutables.</text>
+<text id="166">Vous pouvez apprendre les Arts de combat dans le menu Acquérir des compétences d'une idole du Sculpteur ou les apprendre immédiatement gratuitement dans des textes secrets. Les Arts du combat peuvent être choisis et équipés dans le menu d'équipement.
+
+&lt;?kgiconKc@18?&gt; + &lt;?kgiconKc@16?&gt; : Utiliser l'Art du combat équipé</text>
+<text id="167">Vous pouvez apprendre trois types de compétences : les compétences des Arts du combat, les compétences de shinobi et enfin les compétences passives. 
+Les compétences des Arts du combat sont des compétences d'attaque dont vous vous équipez dans le menu d'équipement. 
+Les compétences de shinobi sont réalisées en utilisant des contrôles spécifiques ou dans certaines situations et vous n'avez pas à vous en équiper. 
+Les compétences passives sont effectives dès que vous les apprenez et les effets de compétences passives différentes se cumulent.</text>
+<text id="168">&lt;?kgiconKc@18?&gt; quand une attaque ennemie porte : Dévier
+
+Vous devez appuyer sur la touche au bon moment, et si vous appuyez à répétition sur &lt;?kgiconKc@18?&gt;, vous aurez plus de mal à dévier les attaques.
+
+Le bon moment pour réaliser une déviation, c'est quand la lame de l'ennemi est à un doigt de vous toucher.</text>
+<text id="169">Ceux qui vivent dans les régions toxiques ont une résistance très élevée à l'altération d'état "Poison".
+
+Certains y sont même totalement insensibles.</text>
+<text id="170">Loup peut utiliser son épée pour dévier les balles et les autres projectiles.</text>
+<text id="171">Si vous cessez d'attaquer un ennemi, il regagne peu à peu sa Posture.
+
+Si vous continuez de croiser le fer avec lui, il ne pourra pas récupérer sa Posture. Tout l'art du combat des shinobi consiste à submerger l'ennemi par vos attaques, vos déviations et vos contres, pour ne lui laisser aucun répit.</text>
+<text id="172">Certaines attaques d'épée peuvent être initiées après l'utilisation d'un outil de prothèse.
+
+Ces combos d'outil de prothèse permettent de mieux tirer avantage des outils de prothèse.
+
+Vous pouvez apprendre ces combos dans les Arts de prothèse.</text>
+<text id="173">Un Art martial du shinobi qui permet d'initier une charge à l'épée après l'utilisation de certains outils de prothèse.
+
+Une attaque à longue portée avec un outil de prothèse suivie d'un Fendoir de chasse permet de venir immédiatement au contact de l'ennemi.
+
+Vous pouvez l'apprendre dans les Arts de prothèse.</text>
+<text id="300">Les pilleurs sont des marchands qui vendent des objets à donner en offrandes aux morts.
+
+Où vous trouverez des morts, vous trouverez des pilleurs. Que ce soit à proximité d'un champ de bataille, d'un donjon abandonné, des Pilleurs seront sur place... Si vous allez à leur rencontre, ils vous proposeront leurs marchandises.</text>
+<text id="301">Vous pouvez trouver juste à côté du Temple en ruines un guerrier nommé Hanbei l'immortel, ou encore Hanbei l'infesté.
+
+"Un corps vivant qui ne peut pas mourir pourrait t'être utile. Je te propose le mien."
+
+Si vous cherchez quelqu'un avec qui vous entraîner, il pourrait être l'adversaire idéal.</text>
+<text id="302">Les écailles de la carpe au trésor brillent de mille feux. Pour qui ne s'y connaît pas, ce sont juste des écailles de poisson, mais pour certains amateurs, ce sont les plus grands trésors au monde.
+
+Les collecter pourrait ainsi vous rapporter gros, mais des poissons carnivores accompagnent souvent les carpes au trésor, il faudra donc vous montrer prudent.</text>
+<text id="303">Le Sculpteur du Temple en ruines est un spécialiste des outils de prothèse shinobi.
+
+Il pourra vous être d'une grande aide quand vous trouverez de nouveaux outils pour la prothèse de shinobi ou quand vous voudrez les améliorer.
+
+Si vous trouvez des outils de shinobi ou des matériaux qui pourraient être utiles, rendez-lui une visite. </text>
+<text id="304">Les textes ésotériques permettent de débloquer de nouveaux arbres de compétences.
+
+Une fois un arbre de compétences déverrouillé, vous pouvez y acquérir des Arts du combat en dépensant des points de compétence.</text>
+<text id="305">%null%</text>
+<text id="306">Les attaques perforantes infligent des dégâts de Vitalité et de Posture, même si l'ennemi est en garde.
+
+C'est pour cette raison que les techniques en dégainant votre arme sont si efficaces.</text>
+<text id="307">Lorsque vous utilisez les objets rapides, maintenez &lt;?kgToggleItems?&gt;
+pour sélectionner immédiatement l'objet rapide du premier emplacement.
+
+Vous avez intérêt à placer dans cet emplacement les objets que vous utilisez souvent, comme la gourde médicinale.</text>
+<text id="308">%null%</text>
+<text id="309">%null%</text>
+<text id="310">%null%</text>
+<text id="311">Les shinobi peuvent laisser des traces de leurs actions passées, sous la forme de « fragments ».
+Les fragments servent à transmettre l'expérience à des pairs.
+Certains vous éclairent sur l'avenir, d'autres vous mettent au défi de faire mieux.
+&lt;?kgiconKc@44?&gt; : Ouvrir le menu des fragments</text>
+<text id="312">Vous pouvez affronter à nouveau les adversaires extraordinaires vaincus au combat dans vos souvenirs.
+
+Accédez au Reflet de force depuis une idole du Sculpteur.</text>
+<text id="313">Vous pouvez affronter à nouveau les adversaires extraordinaires vaincus au combat dans vos souvenirs.
+
+Affronter les souvenirs du passé est un moyen de découvrir de nouvelles possibilités.
+
+L'issue même du conflit peut dépendre d'un nouvel état d'esprit.</text>
+<text id="314">%null%</text>
+<text id="315">Des souvenirs laissés par un autre.
+Il s'agit souvent de regrets, mais parfois d'un témoignage d'attachement à certaines idées.
+
+Explorer ces souvenirs intimes à une idole du Sculpteur permet à Loup de changer de forme, sans perdre aucune de ses compétences.
+
+Affronter les regrets d'un autre n'est qu'un état temporaire après tout.</text>
+<text id="316">Maintenir &lt;?kgiconKc@20?&gt; pendant une chute ou un saut permet de s'agripper plus facilement à un rebord.</text>
+</entries>
+</fmg>

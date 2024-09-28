@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">&lt;?sysmsg@1?&gt;</text>
+<text id="2">&lt;?sysmsg@2?&gt;</text>
+<text id="3">&lt;?sysmsg@3?&gt;</text>
+<text id="4">&lt;?sysmsg@4?&gt;</text>
+<text id="5">Accepter</text>
+<text id="6">Refuser</text>
+<text id="11000">Jeter l'objet.
+Choisir le nombre d'objets
+à jeter.</text>
+<text id="11001">%null%</text>
+<text id="11002">Réinitialiser l'ordre des objets ?</text>
+<text id="11003">Jeter l'objet.</text>
+<text id="12010">Vous ne pouvez pas équiper 2 fois
+le même anneau.</text>
+<text id="12021">&lt;?removeMagic?&gt; va être désactivé
+pour préserver la capacité de stockage.</text>
+<text id="12022">%null%</text>
+<text id="12023">%null%</text>
+<text id="12024">%null%</text>
+<text id="12025">%null%</text>
+<text id="12026">%null%</text>
+<text id="12027">%null%</text>
+<text id="12028">%null%</text>
+<text id="12029">%null%</text>
+<text id="12030">Vous n'avez pas assez de force pour utiliser cette arme à une
+main. Vous pouvez vous en équiper à deux mains.</text>
+<text id="12031">Vos compétences présentes ne vous
+permettent pas de bien manier cette arme.</text>
+<text id="12032">%null%</text>
+<text id="12033">%null%</text>
+<text id="12034">%null%</text>
+<text id="12035">%null%</text>
+<text id="12036">%null%</text>
+<text id="12037">%null%</text>
+<text id="12038">%null%</text>
+<text id="12039">%null%</text>
+<text id="12040">Cet anneau se brise lorsqu'il est enlevé. 
+S'équiper de cet anneau ?</text>
+<text id="12041">Cet anneau se brise lorsqu'il est enlevé. 
+Enlever cet anneau ?</text>
+<text id="16000">Réinitialiser les options.</text>
+<text id="16001">Annuler les modifications et quitter.</text>
+<text id="16100">Effacer le message.</text>
+<text id="16500">Quitter la partie et revenir à l'écran titre ?</text>
+<text id="16600">Réinitialiser l'ordre.</text>
+<text id="17800">Des joueurs n'ont pas été évalués.</text>
+<text id="17801">%null%</text>
+<text id="17802">%null%</text>
+<text id="17803">%null%</text>
+<text id="17804">Vous avez obtenu &lt;?getSoulNum?&gt; Âmes.</text>
+<text id="18000">Aller à l'endroit de votre choix ?</text>
+<text id="18001">Pas de Feu de destination.</text>
+<text id="18050">Vous avez déjà prêté serment de : &lt;?pcOath?&gt;.</text>
+<text id="18051">Changer pour le serment de &lt;?pcOath?&gt;.</text>
+<text id="18052">%null%</text>
+<text id="18053">%null%</text>
+<text id="18054">%null%</text>
+<text id="18055">%null%</text>
+<text id="18056">%null%</text>
+<text id="18057">%null%</text>
+<text id="18058">%null%</text>
+<text id="18059">%null%</text>
+<text id="18060">Préserver votre Humanité ?</text>
+<text id="18061">Offrir votre Humanité ?</text>
+<text id="18100">Renvoyer le Spectre sélectionné ?</text>
+<text id="18101">Aucun Spectre à renvoyer.</text>
+<text id="18200">Quittance inutilisable.</text>
+<text id="18201">Quittance inutilisable.</text>
+<text id="18400">Voulez-vous donner une note à ce message ?</text>
+<text id="20020">Confirmer l'amélioration ?</text>
+<text id="20021">Le Renfort sera annulé.
+Souhaitez-vous continuer ?</text>
+<text id="20022">Les modifications seront réinitialisées.
+Souhaitez-vous continuer ?</text>
+<text id="20120">Acheter de l'Humanité.</text>
+<text id="20121">La transaction sera annulée.
+Souhaitez-vous continuer ?</text>
+<text id="20122">Les paramètres seront réinitialisés.
+Souhaitez-vous continuer ?</text>
+<text id="22001">Sort déjà sélectionné.</text>
+<text id="22002">Votre capacité de stockage n'est pas suffisante.</text>
+<text id="22003">Vous n'avez aucun sort.</text>
+<text id="22004">Compétence insuffisante.
+Vous ne pouvez pas utiliser ce sort.</text>
+<text id="22005">Serment incompatible.
+Vous ne pouvez pas utiliser ce sort.</text>
+<text id="23006">Vous ne pouvez pas ajouter plus d'objets.</text>
+<text id="23007">Vous ne pouvez pas porter plus d'objets.</text>
+<text id="30000">Acheter à ces conditions ?
+Âmes nécessaires : &lt;?demandSoul?&gt;</text>
+<text id="30001">Acheter à ces conditions ?
+Âmes nécessaires : &lt;?demandSoul?&gt;</text>
+<text id="30002">Vous n'avez pas assez d'âmes.</text>
+<text id="30003">Vous ne pouvez plus porter d'objets de ce genre.</text>
+<text id="30004">%null%</text>
+<text id="30005">%null%</text>
+<text id="30006">Il n'y a rien à acheter.</text>
+<text id="30007">Vous ne pouvez pas porter plus d'objets.</text>
+<text id="30100">Choisissez la quantité à vendre.
+Âmes obtenues : &lt;?sellSouls?&gt;</text>
+<text id="30101">Vous ne pouvez pas
+donner cet objet.</text>
+<text id="30102">Vous n'avez pas 
+d'objets à donner.</text>
+<text id="30103">Voulez-vous donner cet objet ?</text>
+<text id="31000">Réparer à ces conditions ?
+Âmes nécessaires : &lt;?demandSoul?&gt;</text>
+<text id="31001">Vous n'avez pas assez d'Âmes.</text>
+<text id="31002">Votre équipement n'a pas besoin d'être réparé.</text>
+<text id="31003">Impossible de réparer l'Arme de cristal.</text>
+<text id="32000">Renforcer à ces conditions ?
+Âmes nécessaires : &lt;?demandSoul?&gt;</text>
+<text id="32001">Vous n'avez pas assez d'Âmes.</text>
+<text id="32002">Vous n'avez pas les matériaux
+requis pour un Renfort.</text>
+<text id="32003">Aucune de vos armes ne peut être renforcée.</text>
+<text id="32004">%null%</text>
+<text id="32005">%null%</text>
+<text id="32006">Annuler les améliorations précédentes ?
+Les matériaux utilisés seront perdus.</text>
+<text id="32007">Impossible de renforcer cette arme. 
+La limite d'inventaire ne le permet pas.</text>
+<text id="32008">%null%</text>
+<text id="32009">Impossible de régénérer les Armes de cristal.</text>
+<text id="32010">Aucune armure à renforcer.</text>
+<text id="32011">Aucune arme à élever.</text>
+<text id="32012">Renforcer &lt;?itemNameBeforeForge?&gt; pour obtenir &lt;?itemNameAfterForge?&gt; ?</text>
+<text id="32013">Modifier &lt;?itemNameBeforeForge?&gt; pour
+obtenir &lt;?itemNameAfterForge?&gt; ?</text>
+<text id="32014">Impossible de renforcer cette armure.
+La limite d'inventaire ne le permet pas.</text>
+<text id="32015">Impossible de modifier cette armure.
+La limite d'inventaire ne le permet pas.</text>
+<text id="32016">%null%</text>
+<text id="32017">%null%</text>
+<text id="32018">%null%</text>
+<text id="32019">%null%</text>
+<text id="32020">Renfort de : &lt;?itemNameBeforeForge?&gt;
+en : &lt;?itemNameAfterForge?&gt;.</text>
+<text id="32021">Retour de : &lt;?itemNameBeforeForge?&gt;
+à l'état de : &lt;?itemNameAfterForge?&gt;.</text>
+<text id="32022">Modification de : &lt;?itemNameBeforeForge?&gt;
+en : &lt;?itemNameAfterForge?&gt;.</text>
+<text id="32023">Renfort de : &lt;?itemNameBeforeForge?&gt;
+en : &lt;?itemNameAfterForge?&gt;.</text>
+<text id="41000">&lt;?sysmsg@41000?&gt;</text>
+<text id="42000">Annuler la création du personnage et 
+retourner à l'écran titre ?</text>
+<text id="42001">Vous n'avez pas saisi le nom du personnage.</text>
+<text id="42002">Saisir le nom du personnage.</text>
+<text id="42003">Commencer à jouer avec ce personnage ?</text>
+<text id="42500">Annuler la création de personnage
+et revenir à l'écran titre ?</text>
+<text id="43001">En changeant de sexe, vous perdrez les 
+modifications apportées au visage
+de votre personnage.</text>
+<text id="44000">Laisser ce message ?</text>
+<text id="44001">%null%</text>
+<text id="44002">%null%</text>
+<text id="44003">%null%</text>
+<text id="44004">%null%</text>
+<text id="44005">%null%</text>
+<text id="44006">%null%</text>
+<text id="44007">%null%</text>
+<text id="44008">%null%</text>
+<text id="44009">%null%</text>
+<text id="44010">Voulez-vous laisser un message ?</text>
+<text id="44500">Annuler ce message ?</text>
+<text id="45000">&lt;?sysmsg@45000?&gt;</text>
+<text id="45001">&lt;?sysmsg@45001?&gt;</text>
+<text id="45100">&lt;?sysmsg@45100?&gt;</text>
+<text id="45101">%null%</text>
+<text id="45102">%null%</text>
+<text id="45103">&lt;?sysmsg@45103?&gt;</text>
+<text id="45104">%null%</text>
+<text id="45105">%null%</text>
+<text id="45106">%null%</text>
+<text id="45107">%null%</text>
+<text id="45108">%null%</text>
+<text id="45109">%null%</text>
+<text id="45110">&lt;?sysmsg@45110?&gt;</text>
+<text id="45111">&lt;?sysmsg@45111?&gt;</text>
+<text id="45112">%null%</text>
+<text id="45113">%null%</text>
+<text id="45114">%null%</text>
+<text id="45115">%null%</text>
+<text id="45116">%null%</text>
+<text id="45117">%null%</text>
+<text id="45118">%null%</text>
+<text id="45119">%null%</text>
+<text id="45120">&lt;?sysmsg@45120?&gt;</text>
+<text id="45121">&lt;?sysmsg@45121?&gt;</text>
+<text id="45122">&lt;?sysmsg@45122?&gt;</text>
+<text id="45200">&lt;?sysmsg@45200?&gt;</text>
+<text id="45201">&lt;?sysmsg@45201?&gt;</text>
+<text id="45250">&lt;?sysmsg@45250?&gt;</text>
+<text id="45400">&lt;?sysmsg@45400?&gt;</text>
+<text id="45500">&lt;?sysmsg@45500?&gt;</text>
+<text id="47000">&lt;?sysmsg@47000?&gt;</text>
+<text id="47100">&lt;?sysmsg@47100?&gt;</text>
+<text id="47101">&lt;?sysmsg@47101?&gt;</text>
+<text id="47102">&lt;?sysmsg@47102?&gt;</text>
+<text id="47103">%null%</text>
+<text id="47104">%null%</text>
+<text id="47105">%null%</text>
+<text id="47106">%null%</text>
+<text id="47107">%null%</text>
+<text id="47108">%null%</text>
+<text id="47109">%null%</text>
+<text id="47110">&lt;?sysmsg@47110?&gt;</text>
+<text id="47111">&lt;?sysmsg@47111?&gt;</text>
+<text id="47112">&lt;?sysmsg@47112?&gt;</text>
+<text id="47113">&lt;?sysmsg@47113?&gt;</text>
+<text id="47114">%null%</text>
+<text id="47115">%null%</text>
+<text id="47116">%null%</text>
+<text id="47117">%null%</text>
+<text id="47118">%null%</text>
+<text id="47119">%null%</text>
+<text id="47120">&lt;?sysmsg@47120?&gt;</text>
+<text id="47121">&lt;?sysmsg@47121?&gt;</text>
+<text id="48000">&lt;?sysmsg@48000?&gt;</text>
+<text id="50000">&lt;?sysmsg@50000?&gt;</text>
+<text id="50001">&lt;?sysmsg@50001?&gt;</text>
+<text id="50002">&lt;?sysmsg@50002?&gt;</text>
+<text id="50501">&lt;?sysmsg@50501?&gt;</text>
+<text id="50502">&lt;?sysmsg@50502?&gt;</text>
+<text id="50503">&lt;?sysmsg@50503?&gt;</text>
+<text id="50504">&lt;?sysmsg@50504?&gt;</text>
+<text id="50505">&lt;?sysmsg@50505?&gt;</text>
+<text id="50506">&lt;?sysmsg@50506?&gt;</text>
+<text id="50507">&lt;?sysmsg@50507?&gt;</text>
+<text id="51100">&lt;?sysmsg@51100?&gt;</text>
+<text id="65000">&lt;?sysmsg@65000?&gt;</text>
+<text id="65001">&lt;?sysmsg@65001?&gt;</text>
+<text id="65002">&lt;?sysmsg@65002?&gt;</text>
+<text id="65003">&lt;?sysmsg@65003?&gt;</text>
+<text id="65004">&lt;?sysmsg@65004?&gt;</text>
+<text id="65005">&lt;?sysmsg@65005?&gt;</text>
+<text id="65100">&lt;?sysmsg@65100?&gt;</text>
+<text id="65101">&lt;?sysmsg@65101?&gt;</text>
+<text id="65200">&lt;?sysmsg@65200?&gt;</text>
+<text id="65201">&lt;?sysmsg@65201?&gt;</text>
+<text id="65202">&lt;?sysmsg@65202?&gt;</text>
+<text id="65203">&lt;?sysmsg@65203?&gt;</text>
+<text id="65204">&lt;?sysmsg@65204?&gt;</text>
+<text id="65205">&lt;?sysmsg@65205?&gt;</text>
+<text id="65206">&lt;?sysmsg@65206?&gt;</text>
+<text id="65207">&lt;?sysmsg@65207?&gt;</text>
+<text id="65208">&lt;?sysmsg@65208?&gt;</text>
+<text id="65209">&lt;?sysmsg@65209?&gt;</text>
+<text id="65210">&lt;?sysmsg@65210?&gt;</text>
+<text id="65211">&lt;?sysmsg@65211?&gt;</text>
+<text id="65212">&lt;?sysmsg@65212?&gt;</text>
+<text id="65213">&lt;?sysmsg@65213?&gt;</text>
+<text id="65214">&lt;?sysmsg@65214?&gt;</text>
+<text id="65215">&lt;?sysmsg@65215?&gt;</text>
+<text id="65216">&lt;?sysmsg@65216?&gt;</text>
+<text id="65217">&lt;?sysmsg@65217?&gt;</text>
+<text id="65218">&lt;?sysmsg@65218?&gt;</text>
+<text id="65219">&lt;?sysmsg@65219?&gt;</text>
+<text id="65220">&lt;?sysmsg@65220?&gt;</text>
+<text id="65300">&lt;?sysmsg@65300?&gt;</text>
+<text id="65301">&lt;?sysmsg@65301?&gt;</text>
+<text id="65400">&lt;?sysmsg@65400?&gt;</text>
+<text id="65401">&lt;?sysmsg@65401?&gt;</text>
+<text id="65402">%null%</text>
+<text id="65403">%null%</text>
+<text id="65404">%null%</text>
+<text id="65405">%null%</text>
+<text id="65406">%null%</text>
+<text id="65407">%null%</text>
+<text id="65408">%null%</text>
+<text id="65409">%null%</text>
+<text id="65410">&lt;?sysmsg@65410?&gt;</text>
+<text id="65411">&lt;?sysmsg@65411?&gt;</text>
+<text id="65412">&lt;?sysmsg@65412?&gt;</text>
+<text id="65413">&lt;?sysmsg@65413?&gt;</text>
+<text id="70000">&lt;?sysmsg@70000?&gt;</text>
+</entries>
+</fmg>

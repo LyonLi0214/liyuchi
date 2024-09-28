@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">OK</text>
+<text id="2">ABBRECHEN</text>
+<text id="3">JA</text>
+<text id="4">NEIN</text>
+<text id="15">Neuer Versuch</text>
+<text id="16">Fortfahren</text>
+<text id="17">Zum Hauptmenü</text>
+<text id="11020">Menge auswählen</text>
+<text id="12300">Zu erwerbende Menge festlegen</text>
+<text id="12320">Zu tauschende Menge festlegen</text>
+<text id="12400">Zu verkaufende Menge festlegen</text>
+<text id="40200">Nicht genug Sen</text>
+<text id="40201">Nicht genug nötige Objekte.</text>
+<text id="40202">Nicht genug Guthaben und erforderliche Objekte in deinem Besitz.</text>
+<text id="40300">Standardeinstellungen werden wiederhergestellt.
+Bist du sicher?</text>
+<text id="40500">Alle Standardeinstellungen werden wiederhergestellt.
+Bist du sicher?</text>
+<text id="102000">&lt;?itemName?&gt; benutzen?</text>
+<text id="102001">Obergrenze für Sen im Besitz wird überschritten.
+Über das Maximum hinausgehende Sen gehen verloren. 
+Trotzdem verwenden?</text>
+<text id="110500">Das Spiel wird gespeichert und kehrt zum Hauptmenü zurück.
+
+Bist du sicher?</text>
+<text id="110501">Spiel verlassen und zum Hauptmenü zurückkehren?</text>
+<text id="111100">Einstellungen geändert.
+Änderungen werden in &lt;?remainingSec?&gt; Sek. verworfen.
+Aktuelle Einstellungen übernehmen?</text>
+<text id="111101">Aktuelle Einstellungen übernehmen?</text>
+<text id="111102">Einige Einstellungen werden erst nach der Rückkehr zum Hauptmenü übernommen</text>
+<text id="111103">Diese Einstellung wird erst nach dem Neustart des Spiels übernommen.</text>
+<text id="111104">Einstellungen geändert.
+Änderungen werden in &lt;?remainingSec?&gt; Sek. verworfen
+Aktuelle Einstellungen übernehmen?</text>
+<text id="111105">Einige Einstellungen werden erst nach der Rückkehr zum Hauptmenü übernommen</text>
+<text id="111106">HDR wurde DEAKTIVIERT.</text>
+<text id="111107">HDR wurde AKTIVIERT.</text>
+<text id="210000">Du kannst nicht zu einer Figur des
+Bildhauers reisen, die du gerade
+besuchst.</text>
+<text id="210001">Diese Figur des Bildhauers ist erst wieder
+verfügbar, wenn du sie erneut besucht hast.</text>
+<text id="220000">Kampf mit &lt;?retryBossName?&gt; beginnen?</text>
+<text id="230000">&lt;?itemName?&gt; für
+&lt;?demandSoul?&gt; Sen kaufen?</text>
+<text id="230001">%null%</text>
+<text id="230002">%null%</text>
+<text id="230003">%null%</text>
+<text id="230004">%null%</text>
+<text id="230005">%null%</text>
+<text id="230006">%null%</text>
+<text id="230007">%null%</text>
+<text id="230008">%null%</text>
+<text id="230009">%null%</text>
+<text id="230010">Objekte, die die Besitzobergrenze übersteigen, wurden gelagert</text>
+<text id="230011">%null%</text>
+<text id="230012">%null%</text>
+<text id="230013">%null%</text>
+<text id="230014">%null%</text>
+<text id="230015">%null%</text>
+<text id="230016">%null%</text>
+<text id="230017">%null%</text>
+<text id="230018">%null%</text>
+<text id="230019">%null%</text>
+<text id="230020">Kein Kauf, da die Obergrenzen von Lager und
+Inventar erreicht sind</text>
+<text id="230100">Erwerb nicht möglich; das Objekt ist ausverkauft</text>
+<text id="232000">&lt;?demandScale?&gt; gegen &lt;?gdsparam@10000?&gt;(n) 
+für &lt;?itemName?&gt; tauschen?</text>
+<text id="232001">%null%</text>
+<text id="232002">%null%</text>
+<text id="232003">%null%</text>
+<text id="232004">%null%</text>
+<text id="232005">%null%</text>
+<text id="232006">%null%</text>
+<text id="232007">%null%</text>
+<text id="232008">%null%</text>
+<text id="232009">%null%</text>
+<text id="232010">Objekte, die die Besitzobergrenze übersteigen, wurden gelagert</text>
+<text id="232011">%null%</text>
+<text id="232012">%null%</text>
+<text id="232013">%null%</text>
+<text id="232014">%null%</text>
+<text id="232015">%null%</text>
+<text id="232016">%null%</text>
+<text id="232017">%null%</text>
+<text id="232018">%null%</text>
+<text id="232019">%null%</text>
+<text id="232020">Tausch nicht möglich, da die Besitz- und
+Lagerobergrenzen überschritten werden</text>
+<text id="232100">Tausch nicht möglich; das Objekt ist ausverkauft</text>
+<text id="240000">&lt;?itemName?&gt; für &lt;?sellSouls?&gt; Sen verkaufen?</text>
+<text id="240001">Ausgerüstete Objekte können nicht verkauft werden.</text>
+<text id="250000">&lt;?itemName?&gt; herstellen?</text>
+<text id="260000">&lt;?itemName?&gt; verbessern?</text>
+<text id="260001">%null%</text>
+<text id="260002">%null%</text>
+<text id="260003">%null%</text>
+<text id="260004">%null%</text>
+<text id="260005">%null%</text>
+<text id="260006">%null%</text>
+<text id="260007">%null%</text>
+<text id="260008">%null%</text>
+<text id="260009">%null%</text>
+<text id="260010">Informationen der Stufe 3 freigeschaltet.</text>
+<text id="260011">Informationen der Stufe 4 freigeschaltet.</text>
+<text id="260012">Informationen der Stufe 5 freigeschaltet.</text>
+<text id="260013">Informationen zur finalen Stufe freigeschaltet.</text>
+<text id="260110">Für diese Verbesserung sind noch nicht alle Voraussetzungen erfüllt.</text>
+<text id="260111">Du hast noch nicht die nötige Verbesserungsstufe
+erreicht, um diese Informationen einzusehen.</text>
+<text id="260112">Kein kompatibles Prothesen-Modul in deinem Besitz.</text>
+<text id="270000">&lt;?itemName?&gt; erwerben?</text>
+<text id="270100">Nicht genug Fähigkeitspunkte.</text>
+<text id="270101">Die erforderliche Fähigkeit wurde noch nicht erlernt.</text>
+<text id="270102">Voraussetzungen zum Lesen der Fähigkeitsinformationen nicht erfüllt.</text>
+<text id="270103">Diese Informationen sind erst verfügbar, wenn
+die nötige(n) Fähigkeit(en) erlernt wurden</text>
+<text id="280000">Die Zuordnung kann nicht aufgehoben werden.</text>
+<text id="280001">Die Standardeinstellungen werden so wiederhergestellt.
+Bist du sicher?</text>
+<text id="280002">Es gibt widersprüchliche Einstellungen.
+Bitte bestätige die Einstellungen.</text>
+<text id="280003">Es gibt widersprüchliche Einstellungen.
+Einrichtung abschließen, ohne Einstellungen zu speichern?</text>
+<text id="280004">Einstellungen verworfen, da das Primärgerät gewechselt wurde.</text>
+<text id="311000">Willst du dieses Relikt wirklich löschen?</text>
+<text id="311001">Dieses Relikt preisen?</text>
+<text id="311002">Dieses Relikt ächten?</text>
+<text id="321000">Relikt mit dieser Nachricht erstellen?</text>
+<text id="321001">Aktuelle Nachricht verwerfen?</text>
+<text id="321002">%null%</text>
+<text id="321003">%null%</text>
+<text id="321004">%null%</text>
+<text id="321005">%null%</text>
+<text id="321006">%null%</text>
+<text id="321007">%null%</text>
+<text id="321008">%null%</text>
+<text id="321009">%null%</text>
+<text id="321010">Relikt-Menü nicht verfügbar</text>
+<text id="321011">Relikt-Menü nicht verfügbar</text>
+<text id="322000">Willst du dieses Relikt wirklich löschen?</text>
+<text id="322001">Relikt aufzeichnen?</text>
+<text id="322002">Aktuelles Relikt löschen und neue Aufzeichnung starten?</text>
+<text id="322003">Aktuelles Relikt löschen und neue Relikt-Nachricht verfassen?</text>
+<text id="322004">Nachricht vom vorherigen Relikt verwenden?</text>
+<text id="323000">Relikt-Aufzeichnung abschließen?</text>
+<text id="323001">Aufgezeichnetes Relikt verwerfen?</text>
+<text id="401701">&lt;?sysmsg@401701?&gt;</text>
+<text id="404020">Wenn HDR AKTIVIERT ist, kann die Helligkeit nur über das
+Pausemenü im Spiel angepasst werden.</text>
+<text id="406011">Mit gewähltem Profil starten?</text>
+<text id="406012">Gewähltes Profil löschen
+und ein neues Spiel starten?</text>
+<text id="406013">Das gewählte Profil wird gelöscht.
+Bist du sicher?</text>
+<text id="450000">Durchgang Nr. &lt;?nextLoopCount?&gt; jetzt starten?
+Wenn du Durchgang Nr. &lt;?nextLoopCount?&gt; nicht startest, kannst du ihn jederzeit über 
+die große Figur des Bildhauers im maroden Tempel starten.</text>
+<text id="450001">Wenn du Durchgang Nr. &lt;?nextLoopCount?&gt; startest, kannst du nicht mehr zum aktuellen Durchgang Nr. &lt;?loopCount?&gt; zurückkehren.
+Willst du Durchgang Nr. &lt;?nextLoopCount?&gt; wirklich starten?</text>
+</entries>
+</fmg>

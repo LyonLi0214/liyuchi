@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="0">%null%</text>
+<text id="2100">적을 배후 인살한 후 &lt;?kgiconKc@16?&gt;: 피의 안개 술법
+주위에 피의 연막을 생성하는 술법
+카타시로를 소비해 사용한다</text>
+<text id="2101">%null%</text>
+<text id="2102">%null%</text>
+<text id="2103">%null%</text>
+<text id="2104">%null%</text>
+<text id="2105">%null%</text>
+<text id="2106">%null%</text>
+<text id="2107">%null%</text>
+<text id="2108">%null%</text>
+<text id="2109">%null%</text>
+<text id="2110">적을 배후 인살한 후 &lt;?kgiconKc@16?&gt;: 꼭두각시 술법
+인살한 적을 꼭두각시로 다루는 술법
+카타시로를 소비해 사용한다</text>
+<text id="2111">%null%</text>
+<text id="2112">%null%</text>
+<text id="2113">%null%</text>
+<text id="2114">%null%</text>
+<text id="2115">%null%</text>
+<text id="2116">%null%</text>
+<text id="2117">%null%</text>
+<text id="2118">%null%</text>
+<text id="2119">%null%</text>
+<text id="2120">적을 배후 인살한 후 &lt;?kgiconKc@16?&gt;: 혈도 술법
+인살한 자의 피를 도에 휘감는 술법
+카타시로를 소비해 사용한다</text>
+<text id="2490">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:비전 - 앵무
+회전의 힘으로 춤추듯 뛰어 세 번 벤다
+적의 하단 공격을 회피하며 날카로운 참격으로
+가드 중이어도 대미지를 입힌다
+
+공격 후에는 공중 공방으로 연결할 수도 있다
+카타시로를 소비해 사용한다</text>
+</entries>
+</fmg>

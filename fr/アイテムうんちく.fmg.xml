@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="0">%null%</text>
+<text id="2100">&lt;?kgiconKc@16?&gt; après un coup mortel dans le dos :
+Fumée de sang
+
+Extirpe de la victime un énorme nuage de sang. Coûte des emblèmes spirituels.</text>
+<text id="2101">%null%</text>
+<text id="2102">%null%</text>
+<text id="2103">%null%</text>
+<text id="2104">%null%</text>
+<text id="2105">%null%</text>
+<text id="2106">%null%</text>
+<text id="2107">%null%</text>
+<text id="2108">%null%</text>
+<text id="2109">%null%</text>
+<text id="2110">&lt;?kgiconKc@16?&gt; après un coup mortel dans le dos :
+Marionnettiste
+
+Manipule la victime pour qu'elle se batte contre ses alliés. Coûte des emblèmes spirituels.</text>
+<text id="2111">%null%</text>
+<text id="2112">%null%</text>
+<text id="2113">%null%</text>
+<text id="2114">%null%</text>
+<text id="2115">%null%</text>
+<text id="2116">%null%</text>
+<text id="2117">%null%</text>
+<text id="2118">%null%</text>
+<text id="2119">%null%</text>
+<text id="2120">&lt;?kgiconKc@16?&gt; après un coup mortel dans le dos :
+Effusion
+
+Recouvre votre sabre avec le sang de votre cible. Coûte des emblèmes spirituels.</text>
+<text id="2490">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; : Danse du cerisier
+
+Vous dansez avec grâce dans l'air et vous donnez trois taillades. Évitez le balayage d'un ennemi et infligez des dégâts avec cette taillade capable de traverser la garde de l'adversaire.
+
+Peut s'enchaîner avec une manœuvre en l'air après l'attaque.</text>
+</entries>
+</fmg>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="0">%null%</text>
+<text id="2100">背后忍杀敌人后按&lt;?kgiconKc@16?&gt;：血烟术
+能向四周生出血之烟幕
+消耗纸人便可以使用</text>
+<text id="2101">%null%</text>
+<text id="2102">%null%</text>
+<text id="2103">%null%</text>
+<text id="2104">%null%</text>
+<text id="2105">%null%</text>
+<text id="2106">%null%</text>
+<text id="2107">%null%</text>
+<text id="2108">%null%</text>
+<text id="2109">%null%</text>
+<text id="2110">背后忍杀敌人后按&lt;?kgiconKc@16?&gt;：傀儡术
+能将忍杀掉的人作为傀儡操控
+消耗纸人便可以使用</text>
+<text id="2111">%null%</text>
+<text id="2112">%null%</text>
+<text id="2113">%null%</text>
+<text id="2114">%null%</text>
+<text id="2115">%null%</text>
+<text id="2116">%null%</text>
+<text id="2117">%null%</text>
+<text id="2118">%null%</text>
+<text id="2119">%null%</text>
+<text id="2120">背后忍杀敌人后按&lt;?kgiconKc@16?&gt;：血刀术
+能将被忍杀者的血缠于刀上
+消耗纸人便可以使用</text>
+<text id="2490">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:秘传·樱舞
+以旋转之势舞动般跳跃、挥斩三次
+在闪避敌方下段攻击的同时，发动凌厉的斩击
+即使敌人有所防御也能对其造成伤害
+
+攻击后亦能在空中进行攻防
+消耗纸人便可以使用</text>
+</entries>
+</fmg>

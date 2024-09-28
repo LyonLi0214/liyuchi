@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">OK</text>
+<text id="2">取消</text>
+<text id="3">是</text>
+<text id="4">否</text>
+<text id="15">重新挑战</text>
+<text id="16">继续</text>
+<text id="17">返回标题画面</text>
+<text id="11020">请选择使用数量</text>
+<text id="12300">请选择购买数量</text>
+<text id="12320">请选择交换数量</text>
+<text id="12400">请选择变卖数量</text>
+<text id="40200">持有金钱不足</text>
+<text id="40201">所需道具不足</text>
+<text id="40202">持有金钱与所需道具不足</text>
+<text id="40300">将设定恢复至初始状态
+确定要继续吗？</text>
+<text id="40500">将所有设定恢复至初始状态
+确定要继续吗？</text>
+<text id="102000">要使用&lt;?itemName?&gt;吗？</text>
+<text id="102001">超过持有金钱上限
+将失去超过上限的钱，确定还是要使用吗？</text>
+<text id="110500">将保存游戏进度并返回标题画面
+确定要继续吗？</text>
+<text id="110501">将结束游戏并返回标题画面
+确定要继续吗？</text>
+<text id="111100">已变更设定
+&lt;?remainingSec?&gt;秒后将还原原本设定
+要反映现在的设定吗？</text>
+<text id="111101">要反映现在的设定吗？</text>
+<text id="111102">部分设定在返回标题画面前不会被反映</text>
+<text id="111103">该项目将于游戏重启后反映</text>
+<text id="111104">已变更设定
+&lt;?remainingSec?&gt;秒后将还原原本设定
+要反映现在的设定吗？</text>
+<text id="111105">部分设定在返回标题画面前不会被反映</text>
+<text id="111106">已将HDR变更为OFF</text>
+<text id="111107">已将HDR变更为ON</text>
+<text id="210000">无法佛渡至交谈中的鬼佛</text>
+<text id="210001">已选鬼佛目前已丧失功能
+通过再次与鬼佛对坐可恢复功能</text>
+<text id="220000">要开始与&lt;?retryBossName?&gt;战斗吗？</text>
+<text id="230000">用持有金钱&lt;?demandSoul?&gt;
+购买&lt;?itemName?&gt;</text>
+<text id="230001">%null%</text>
+<text id="230002">%null%</text>
+<text id="230003">%null%</text>
+<text id="230004">%null%</text>
+<text id="230005">%null%</text>
+<text id="230006">%null%</text>
+<text id="230007">%null%</text>
+<text id="230008">%null%</text>
+<text id="230009">%null%</text>
+<text id="230010">已存放超出持有上限的道具</text>
+<text id="230011">%null%</text>
+<text id="230012">%null%</text>
+<text id="230013">%null%</text>
+<text id="230014">%null%</text>
+<text id="230015">%null%</text>
+<text id="230016">%null%</text>
+<text id="230017">%null%</text>
+<text id="230018">%null%</text>
+<text id="230019">%null%</text>
+<text id="230020">已超出持有及存放上限，因此无法购买</text>
+<text id="230100">已售罄，因此无法购买</text>
+<text id="232000">确定要用&lt;?gdsparam@10000?&gt;&lt;?demandScale?&gt;枚
+交换&lt;?itemName?&gt;吗？</text>
+<text id="232001">%null%</text>
+<text id="232002">%null%</text>
+<text id="232003">%null%</text>
+<text id="232004">%null%</text>
+<text id="232005">%null%</text>
+<text id="232006">%null%</text>
+<text id="232007">%null%</text>
+<text id="232008">%null%</text>
+<text id="232009">%null%</text>
+<text id="232010">已存放超出持有上限的道具</text>
+<text id="232011">%null%</text>
+<text id="232012">%null%</text>
+<text id="232013">%null%</text>
+<text id="232014">%null%</text>
+<text id="232015">%null%</text>
+<text id="232016">%null%</text>
+<text id="232017">%null%</text>
+<text id="232018">%null%</text>
+<text id="232019">%null%</text>
+<text id="232020">已超出持有及存放上限，因此无法购买</text>
+<text id="232100">已售罄，因此无法购买</text>
+<text id="240000">将&lt;?itemName?&gt;以&lt;?sellSouls?&gt;钱变卖</text>
+<text id="240001">装备着的道具不能变卖</text>
+<text id="250000">确定要制作&lt;?itemName?&gt;吗？</text>
+<text id="260000">确定要改造为&lt;?itemName?&gt;吗？</text>
+<text id="260001">%null%</text>
+<text id="260002">%null%</text>
+<text id="260003">%null%</text>
+<text id="260004">%null%</text>
+<text id="260005">%null%</text>
+<text id="260006">%null%</text>
+<text id="260007">%null%</text>
+<text id="260008">%null%</text>
+<text id="260009">%null%</text>
+<text id="260010">已解锁第3等级的信息</text>
+<text id="260011">已解锁第4等级的信息</text>
+<text id="260012">已解锁第5等级的信息</text>
+<text id="260013">已解锁最高等级的信息</text>
+<text id="260110">尚未完成所需的义手忍具强化</text>
+<text id="260111">尚未达到解锁信息的强化等级</text>
+<text id="260112">尚未持有相对应的义手忍具</text>
+<text id="270000">确定要解锁&lt;?itemName?&gt;吗？</text>
+<text id="270100">所需技能点数不足</text>
+<text id="270101">尚未习得所需技能</text>
+<text id="270102">尚未达到可以确认技能的等级</text>
+<text id="270103">由于尚未习得所需技能
+所以无法确认技能</text>
+<text id="280000">该项目的配置无法解除</text>
+<text id="280001">将所有设定恢复至初始状态
+确定要继续吗？</text>
+<text id="280002">有重复的设定
+请确认设定</text>
+<text id="280003">有重复的设定
+确定不保存设定就结束吗</text>
+<text id="280004">主设备已变更，已取消设定</text>
+<text id="311000">将删除该残影
+确定要继续吗？</text>
+<text id="311001">要评价该残影吗？</text>
+<text id="311002">要给该残影差评吗？</text>
+<text id="321000">要对此内容赋予笔记，开始记录残影吗？</text>
+<text id="321001">将放弃正在设定的笔记
+确定要继续吗？</text>
+<text id="321002">%null%</text>
+<text id="321003">%null%</text>
+<text id="321004">%null%</text>
+<text id="321005">%null%</text>
+<text id="321006">%null%</text>
+<text id="321007">%null%</text>
+<text id="321008">%null%</text>
+<text id="321009">%null%</text>
+<text id="321010">无法使用残影菜单</text>
+<text id="321011">无法使用残影菜单</text>
+<text id="322000">将删除该残影
+确定要继续吗？</text>
+<text id="322001">要开始记录残影吗？</text>
+<text id="322002">要删除目前的残影，开始记录新的残影吗？</text>
+<text id="322003">要删除目前的残影，为新的残影设定笔记吗？</text>
+<text id="322004">要使用目前的笔记吗？</text>
+<text id="323000">要结束记录残影吗？</text>
+<text id="323001">要放弃记录残影吗？</text>
+<text id="401701">&lt;?sysmsg@401701?&gt;</text>
+<text id="404020">HDR设为ON时
+仅可于系统菜单的设定画面
+调整亮度</text>
+<text id="406011">以所选的游玩记录开始游玩</text>
+<text id="406012">确定要删除所选游玩记录
+重新开始游玩吗？</text>
+<text id="406013">将删除所选游玩记录
+确定要继续吗？</text>
+<text id="450000">就这样开始第&lt;?nextLoopCount?&gt;回的世界吗？
+若现在不开始，之后可以从破旧寺院的大鬼佛
+开始第&lt;?nextLoopCount?&gt;回的世界</text>
+<text id="450001">若开始第&lt;?nextLoopCount?&gt;回的世界
+将无法返回当前第&lt;?nextLoopCount?&gt;回的世界
+确定要开始第&lt;?nextLoopCount?&gt;回的世界吗？</text>
+</entries>
+</fmg>

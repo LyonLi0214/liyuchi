@@ -1,0 +1,1623 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1000">Treibende weiße Papierpuppe.
+
+Reue beschränkt sich nicht nur auf die Herzen der Menschen. Eine solche Empfindung kann sich selbst in flüchtiger, trügerischer Form manifestieren.
+Das Benutzen bestimmter Aktionen wie Prothesen-Module verbraucht Geistembleme.</text>
+<text id="1001">%null%</text>
+<text id="1100">%null%</text>
+<text id="1101">%null%</text>
+<text id="1102">%null%</text>
+<text id="1103">%null%</text>
+<text id="1104">%null%</text>
+<text id="1105">%null%</text>
+<text id="1106">%null%</text>
+<text id="1107">%null%</text>
+<text id="1108">%null%</text>
+<text id="1109">%null%</text>
+<text id="1110">%null%</text>
+<text id="1200">%null%</text>
+<text id="2000">Die Macht, von den Toten zurückzukehren, gewährt durch den Erben des Drachenblutes. Verwendung auf Kosten der Auferstehungsmacht. Wiederholte Tode können dazu führen, dass die Macht des Drachenblutes stagniert. Ein solcher Stillstand könnte Folgen haben.</text>
+<text id="2100">Eine Ninjutsu-Technik, die das spritzende Blut des Opfers in Rauch verwandelt. Verbraucht Geistembleme. Wird nach einem Hinterrücks-Todesschlag ausgeführt.
+
+Der Rauchvorhang bietet eine Möglichkeit, das Überraschungsmoment zurückzuerlangen. Der Kampf auf Leben und Tod macht einen Shinobi aus, da der Tod eine Kraftquelle darstellt.</text>
+<text id="2101">%null%</text>
+<text id="2102">%null%</text>
+<text id="2103">%null%</text>
+<text id="2104">%null%</text>
+<text id="2105">%null%</text>
+<text id="2106">%null%</text>
+<text id="2107">%null%</text>
+<text id="2108">%null%</text>
+<text id="2109">%null%</text>
+<text id="2110">Eine Ninjutsu-Technik, die das Opfer wie eine Marionette manipuliert. Verbraucht Geistembleme. Wird nach einem Hinterrücks-Todesschlag ausgeführt.
+
+Diese Technik zwingt vorübergehend jemanden, der aus diesem Reich hätte fliehen sollen, zu bleiben. Eine Marionette wird sich nach dem Willen ihres Meisters bewegen, doch letztendlich werden ihre Fäden reißen.</text>
+<text id="2111">%null%</text>
+<text id="2112">%null%</text>
+<text id="2113">%null%</text>
+<text id="2114">%null%</text>
+<text id="2115">%null%</text>
+<text id="2116">%null%</text>
+<text id="2117">%null%</text>
+<text id="2118">%null%</text>
+<text id="2119">%null%</text>
+<text id="2120">Diese Ninjutsu-Technik umhüllt eine Klinge mit dem Blut des Opfers und erhöht ihre Reichweite. Verbraucht Geistembleme. Wird nach einem Hinterrücks-Todesschlag ausgeführt. Der Wolf entdeckte diese Technik, als er mit der Sterblichen Klinge einen Gegner enthauptete und sich aus dem vergossenen Blut ein verfluchtes Schwert bildete. Dieses sieht der Sterblichen Klinge zwar ähnlich, kann aber keine Untoten töten.</text>
+<text id="2300">Ein Katana erhalten von Kuro, dem göttlichen Erben. Es ist ein Familienerbstück der Hirata-Familie, einem jüngeren Zweig Ashinas. Es galt einst als vergessen, ist dann jedoch in den Besitz des Wolfs zurückgekehrt. Der Name Kusabimaru vermittelt: "Die Aufgabe eines Shinobi ist zu töten, doch selbst ein Shinobi darf nicht das Mitgefühl verlieren." Ein Mantra, das die Klinge selbst manifestieren kann.</text>
+<text id="2301">%null%</text>
+<text id="2302">%null%</text>
+<text id="2303">%null%</text>
+<text id="2304">%null%</text>
+<text id="2305">%null%</text>
+<text id="2306">%null%</text>
+<text id="2307">%null%</text>
+<text id="2308">%null%</text>
+<text id="2309">%null%</text>
+<text id="2310">Der künstliche Arm eines Shinobi, der vom Bildhauer weitergegeben wurde.
+
+Eine Nachbildung eines menschlichen Arms mit einer Fülle von Mechanismen. Sie wurde speziell für Modifikationen und Anpassungen entworfen.
+
+Trotz einiger Kratzer sowie Blut- und Ölflecken ist sie in tadellosem Zustand.</text>
+<text id="2390">%null%</text>
+<text id="2391">%null%</text>
+<text id="2392">%null%</text>
+<text id="2393">%null%</text>
+<text id="2394">%null%</text>
+<text id="2395">%null%</text>
+<text id="2396">%null%</text>
+<text id="2397">%null%</text>
+<text id="2398">%null%</text>
+<text id="2399">%null%</text>
+<text id="2400">Ein Odachi, das Unsterbliche töten kann. Seine blutrote Klinge nimmt jedem das Leben, der sie zieht.
+
+Es wurde lange im Senpo-Tempel versteckt und nur jemand mit der Macht der Auferstehung kann eine so furchterregende Waffe führen.
+
+Ihr wahrer Name ist eingraviert: "Gütiges Geschenk der Tränen"</text>
+<text id="2420">Eine "Mibu-Atemtechnik"-Schriftrolle. Ermöglicht tiefes Tauchen und das Atmen unter Wasser für unbestimmte Zeit.
+
+Das Geheimnis der Unterwasser-Atmung wurde von den Mibu-Gründern nur an jene weitergegeben, die als der Urquell-Prozession würdig erachtet wurden.
+"Nur wer die Mibu-Atemtechnik beherrscht, kann sich der Prozession anschließen und den göttlichen Drachen treffen."</text>
+<text id="2450">Kompendium für den "Luftabwehr-Todesschlag", eine Shinobi-Kampfkunst. Die Fähigkeit wird bei Erwerb dieses Objekts freigeschaltet.
+
+"Manchmal berührt im Kampf keiner der Kämpfer je den Boden. Der Sprung in Richtung eines Gegners, der in der Luft seine Deckung vernachlässigt, ermöglicht einen mächtigen Todesschlag."</text>
+<text id="2451">%null%</text>
+<text id="2452">%null%</text>
+<text id="2453">%null%</text>
+<text id="2454">%null%</text>
+<text id="2455">%null%</text>
+<text id="2456">%null%</text>
+<text id="2457">%null%</text>
+<text id="2458">%null%</text>
+<text id="2459">%null%</text>
+<text id="2460">Kampfkunst mit schnellem Schwertzug und darauffolgendem Hieb. Aufladen für Schockwellen. Verbraucht Geistembleme.
+
+In jungen Jahren suchte Isshin Ashina stets nach tödlichen Kämpfen. Er war ein Teufel mit dem Schwert. Er sinnierte oft darüber, wie ein Hieb ausgeführt werden sollte. Doch noch während seine Gedanken kreisten, flog auch schon seine Klinge.</text>
+<text id="2461">Kompendium für die Kampfkunst des "fließenden Übergangs". Sie wird mit Erwerb dieses Textes freigeschaltet.
+
+"Der fließende Übergang verbindet Angriffe in einer tänzerischen Bewegung und überwältigt Feinde mit eleganter Aggression. Obwohl es eine Ashina-Technik ist, befand man sie wegen ihrer fremden Herkunft für häretisch."</text>
+<text id="2462">Kampfkunst, die einen Angriffssturm mit nicht gezogenem Schwert entfesselt; so schnell, dass die Klinge fast unsichtbar ist. Verbraucht Geistembleme.
+
+Der Fokus auf das Ziehen der Klinge macht die Angriffe so schnell wie die eines Gottes. Kein Geringerer als der alte Meister Isshin Ashina hat diese Technik erdacht.</text>
+<text id="2463">%null%</text>
+<text id="2464">%null%</text>
+<text id="2465">%null%</text>
+<text id="2466">%null%</text>
+<text id="2467">%null%</text>
+<text id="2468">%null%</text>
+<text id="2469">%null%</text>
+<text id="2470">Eine latente Fähigkeit, die die Heilwirkung von Erholungsobjekten erhöht.
+
+Medizinisches Wissen ist für das Überleben eines Shinobi unverzichtbar, da Wunden im Kampf unvermeidlich sind.
+
+Der einzige Weg, solche Techniken zu lernen, ist wieder und wieder von würdigen Gegnern verletzt zu werden.</text>
+<text id="2471">Eine latente Fähigkeit, die die Heilwirkung von Erholungsobjekten erhöht.
+
+Manchmal überlebt ein Shinobi, was einen anderen Krieger getötet hätte. Medizinisches ist Wissen unverzichtbar.
+
+Der einzige Weg, solche Techniken zu lernen, ist wieder und wieder von würdigen Gegnern verletzt zu werden.</text>
+<text id="2472">Eine latente Fähigkeit, die die Heilwirkung von Erholungsobjekten erhöht.
+
+Ein Shinobi kämpft als einsamer Wolf ohne fremde Hilfe. Daher ist medizinisches Wissen unverzichtbar.
+
+Der einzige Weg, solche Techniken zu lernen, ist wieder und wieder von würdigen Gegnern verletzt zu werden.</text>
+<text id="2473">%null%</text>
+<text id="2474">%null%</text>
+<text id="2475">Eine latente Fähigkeit zur Erhöhung der maximalen Anzahl deiner Geistembleme.
+
+Geistembleme sind greifbares Bedauern. Wer seine abscheulichen Taten bedauert, wird von vielen Geistemblemen heimgesucht.
+Vielleicht war dieses unschuldige Tier vom Karma der Menschen belastet. Ein Shinobi erbt auch das Karma derer, die er getötet hat.</text>
+<text id="2476">%null%</text>
+<text id="2477">%null%</text>
+<text id="2478">%null%</text>
+<text id="2479">%null%</text>
+<text id="2480">Eine latente Fähigkeit, die nach einem Todesschlag Vitalität wiederherstellt.
+
+Todesschläge geben einem Shinobi die Gelegenheit durchzuatmen.
+
+Die Atempause wird durch Kämpfe gegen starke Feinde verstärkt.</text>
+<text id="2481">Eine latente Fähigkeit, die nach einem Todesschlag Haltung wiederherstellt.
+
+Ein Shinobi muss damit rechnen, dass seine Feinde zahlenmäßig überlegen sind. Nach dem Tod eines Feindes muss er ausatmen, um Bedauern loszulassen und seine Haltung zurückzuerlangen.
+
+Das Ausatmen wird durch Kämpfe gegen starke Feinde verstärkt.</text>
+<text id="2482">%null%</text>
+<text id="2483">%null%</text>
+<text id="2484">%null%</text>
+<text id="2485">%null%</text>
+<text id="2486">%null%</text>
+<text id="2487">%null%</text>
+<text id="2488">%null%</text>
+<text id="2489">%null%</text>
+<text id="2490">Eine Kampfkunst, die durch eine Reihe von Sprunghieben Schwung sammelt. Kann in Flug-Techniken übergehen. Verbraucht Geistembleme.
+Eine geheime Technik des Wegs von Tomoe, die sie manchmal zu Ehren ihres Meisters aufführte. Die Sakura-Blüten werden bald fallen. Wenn du nicht nach Hause kannst, soll dir wenigstens dieser Tanz Trost spenden.</text>
+<text id="2491">%null%</text>
+<text id="2492">%null%</text>
+<text id="2493">%null%</text>
+<text id="2494">%null%</text>
+<text id="2495">%null%</text>
+<text id="2496">%null%</text>
+<text id="2497">%null%</text>
+<text id="2498">%null%</text>
+<text id="2499">%null%</text>
+<text id="2500">Eine weiße Lotusblume, die tief im versunkenen Tal blüht, wo die Urquellwasser Becken bilden. Da ihr Duft Weibchen anlockt, zog der Wächteraffe sie sorgsam auf, um sie seiner Braut darzubieten.
+
+Bestandteil des Räucherwerks, das vom göttlichen Erben zur Aufhebung der Unsterblichkeit benötigt wird.</text>
+<text id="2501">Ein Stein, der auf dem Altar im Dorf der Wasserbewohner gefunden werden kann. Solche Steine bilden sich in den Körpern jener, die das Urquellwasser über längere Zeit trinken.
+"Trete in den Ehe-Schrein und biete den duftenden, glückverheißenden Stein an."
+Bestandteil des Räucherwerks, das vom göttlichen Erben zur Aufhebung der Unsterblichkeit benötigt wird.</text>
+<text id="2502">Ein duftender, getrockneter Zweig des immerblühenden Baums. Gepflückt vom Vater des Wolfs. Der immerblühende Baum ist ein Sakura-Baum und dementsprechend mit Nostalgie behaftet. In voller Blüte erinnerte dieser Zweig Takeru an seine Heimat.
+
+Eine der Zutaten für das Räucherwerk, das der göttliche Erbe zur Aufhebung der Unsterblichkeit benötigt.</text>
+<text id="2503">Blumen des immerblühenden Baums, die in einer alten Erinnerung blühten. Takeru brachte den Zweig als Erinnerung an das Reich der Götter her und pflanzte ihn ein. Wer nach Reinigung strebt, muss dem göttlichen Erben des Drachenblutes die Drachentränen und diese Blumen bringen und so die Fesseln durchtrennen, die den göttlichen Erben des Drachenbluts binden.</text>
+<text id="2910">Ein mechanischer Metalllauf, mit dem der Bildhauer Prothesen-Modul-Verbesserungen fertigen kann.
+
+Sitzt scheinbar perfekt im Handgelenk der Shinobi-Prothese.
+
+Ein verstärkter Kern macht Shinobi-Fangzähne noch schärfer.
+</text>
+<text id="2911">%null%</text>
+<text id="2912">%null%</text>
+<text id="2913">%null%</text>
+<text id="2914">%null%</text>
+<text id="2915">%null%</text>
+<text id="2916">%null%</text>
+<text id="2917">%null%</text>
+<text id="2918">%null%</text>
+<text id="2919">%null%</text>
+<text id="2920">Ein Buch voller Geheimnisse über Shinobi-Techniken zum Erlernen von Fähigkeiten des "Shinobi-Stils".
+
+Dieser Text beschreibt die innersten Geheimnisse der Shinobi-Künste, wie Angriffe in der Luft oder das Verbergen des Körpers, um nicht gesehen zu werden. Solche Bewegungen sind den Samurai nicht möglich.</text>
+<text id="2921">Ein Buch voller Geheimnisse über Techniken für die Shinobi-Prothese zum Erlernen von Fähigkeiten des "Prothesenstils".
+
+Aus der Feder eines Mannes, der den Pfad der Shinobi verlassen hat, seine akribischen Forschungen jedoch nicht aufgeben konnte. Er hatte nie vor, sie weiterzugeben.</text>
+<text id="2922">Kompendium des Ashina-Schwertstils. Ermöglicht das Erlernen von Fähigkeiten des "Ashina-Stils".
+
+Es liest sich wie die Geschichte der zahlreichen Kämpfe des jungen Isshin, mit denen er seine Technik mit dem Blut seiner Feinde perfektionierte. Er benannte seine gesammelten Techniken nach seinem Clan, den "Ashina-Stil".</text>
+<text id="2923">Ein Buch, das das Erlernen von Fähigkeiten
+des "Senpo-Stils" ermöglicht.
+
+Die Jünger des Senpo-Tempels meisterten im Streben nach Tugend die Kampfkünste. Unabdingbar sind die eigenen Fäuste und strenge Disziplin, um die Feinde Buddhas zu besiegen. Sie wurden jedoch von einer Besessenheit für die Unsterblichkeit ergriffen, die seine Lehren als auch seinen Stil unkenntlich machten.</text>
+<text id="2924">Ein einzigartiger Text über den legendären Ashina-Mushin-Geländestil.
+
+Die Machtgier des jungen Isshin kannte keine Grenzen und seine zielstrebige Suche nach Stärke ließ ihn Ashina erobern. Er kombinierte Techniken der Stile, auf die er stieß. Dieser Antrieb zeichnete Isshins Errungenschaften aus. Und deshalb wird dieser Text auch nie fertiggestellt werden.</text>
+<text id="2925">%null%</text>
+<text id="2926">%null%</text>
+<text id="2927">%null%</text>
+<text id="2928">%null%</text>
+<text id="2929">%null%</text>
+<text id="2930">Ein von Emma hergestelltes Drachenfäule-Erholungsamulett.
+
+Mit diesem Amulett kann man an einer Figur des Bildhauers einen Tropfen Drachenblut opfern, um alle Befallenen zu heilen. Enthält Blut eines Drachenfäule-Opfers, das von Emma gereinigt und zu einem Blutstein gehärtet wurde.</text>
+<text id="3000">Eine Kürbisflasche mit Medizin, die Vitalität wiederherstellt. Rasten füllt die Kürbisflasche wieder auf.
+
+Hergestellt von einer Schülerin
+des herausragenden Doktors Dogen.
+
+Auch wenn es befremdlich wirkt, dass die Flasche sich von allein auffüllt, liegt das Geheimnis vielleicht an den Samen im Inneren.</text>
+<text id="3001">Eine Kürbisflasche mit Medizin, die Vitalität wiederherstellt. Rasten füllt die Kürbisflasche wieder auf.
+
+Hergestellt von einer Schülerin
+des herausragenden Doktors Dogen.
+
+Auch wenn es befremdlich wirkt, dass die Flasche sich von allein auffüllt, liegt das Geheimnis vielleicht an den Samen im Inneren.</text>
+<text id="3020">Medizinische Kügelchen, die langsam Vitalität wiederherstellen.
+
+Ein geheimes Verfahren, das seit Generationen in diesen Ländern weitergegeben wird. Aufzeichnungen zufolge wird es seit langem in Kämpfen eingesetzt und führte zu der berühmten Widerstandsfähigkeit der Ashina-Krieger. Ein Kästchen voller Kügelchen kann auch als Kampf-Amulett dienen.</text>
+<text id="3040">Geheime Medizin, die die Vitalität vollständig wiederherstellt und alle Status-Anomalien heilt.
+Ein kleiner Teil von Ashina ist uralt. Die alte Erde, der Fels und das Wasser, das das Land tränkte, sollen die Aufmerksamkeit der Götter geweckt haben. Der Doktor Dogen studierte die Pflanzen an diesem uralten Ort und entwickelte mit ihrer Hilfe das Rezept für die Medizin.</text>
+<text id="3041">%null%</text>
+<text id="3042">%null%</text>
+<text id="3043">%null%</text>
+<text id="3044">%null%</text>
+<text id="3045">%null%</text>
+<text id="3046">%null%</text>
+<text id="3047">%null%</text>
+<text id="3048">%null%</text>
+<text id="3049">%null%</text>
+<text id="3050">Ein runder, roter Klumpen aus dem Körper des rotäugigen Jinzaemons.
+
+Verleiht beim Verzehr rote Augen und reduziert das Zurückweichen bei feindlichen Angriffen, aber Auferstehung kann nicht benutzt werden. Die rote Masse vergeht nicht. Auch wenn sie keinen Schaden anrichtet, bleibt sie wohl für immer im Magen, auch wenn die Wirkung endet.</text>
+<text id="3051">Ein runder, roter Klumpen.
+
+Verleiht beim Verzehr rote Augen und reduziert das Zurückweichen bei feindlichen Angriffen, aber Auferstehung kann nicht benutzt werden. Eine rote Masse ist der Überrest einer Person, die sich ihre Wünsche nicht erfüllen konnte. Fühlt sich warm an. Sie pulsiert sanft.</text>
+<text id="3052">Ein runder, roter Klumpen aus dem Körper des rotäugigen Kotaros.
+
+Verleiht beim Verzehr rote Augen und reduziert das Zurückweichen bei feindlichen Angriffen, aber Auferstehung kann nicht benutzt werden. Die rote Masse vergeht nicht. Auch wenn sie keinen Schaden anrichtet, bleibt sie wohl für immer im Magen, auch wenn die Wirkung endet.</text>
+<text id="3053">Ein runder, roter Klumpen aus dem Körper des rotäugigen Dojuns.
+
+Verleiht beim Verzehr rote Augen und reduziert das Zurückweichen bei feindlichen Angriffen, aber Auferstehung kann nicht benutzt werden. Dosaku und Dojun waren ein typisches Meister-und-Schüler-Gespann. Auf der Suche nach dem Idealbild muss man oft nur ins Innere blicken.</text>
+<text id="3054">%null%</text>
+<text id="3055">%null%</text>
+<text id="3056">%null%</text>
+<text id="3057">%null%</text>
+<text id="3058">%null%</text>
+<text id="3059">%null%</text>
+<text id="3060">Ein süßes Reisbällchen, das Kuro mit dem Reis des göttlichen Kindes gemacht hat.
+
+Gewährt eine langsame mittlere Vitalität- und anhaltende Haltungserholung. Einmal, als der Wolf hungerte, reichte ihm sein Vater wortlos ein Reisbällchen. Es war erstaunlich lecker. Dieses ist wahrscheinlich genauso gut.</text>
+<text id="3061">Ein süßes Reisbällchen von Kuro.
+
+Gewährt eine langsame mittlere Vitalitäts- und anhaltende Haltungserholung.
+
+Es wurde voller Entschlossenheit und dem Unwillen, getrennte Wege zu gehen, gemacht.
+
+So starke Gefühle behält man meist für sich, statt sie zu teilen.</text>
+<text id="3062">%null%</text>
+<text id="3063">%null%</text>
+<text id="3064">%null%</text>
+<text id="3065">%null%</text>
+<text id="3066">%null%</text>
+<text id="3067">%null%</text>
+<text id="3068">%null%</text>
+<text id="3069">%null%</text>
+<text id="3070">Eine rote, reife Kaki.
+
+Ermöglicht für begrenzte Zeit die Haltung-Erholung auch bei Angriffen oder wenn man Schaden nimmt. Ashina-Kaki sind besonders nahrhaft - vielleicht, weil die Bäume in so reinem Wasser wachsen. Kaki werden zu Blut. Aus Blut wird Reis. Dies kann Menschen helfen, denen es an Blut mangelt.</text>
+<text id="3071">Eine auffällig rote Kaki auf dem Höhepunkt ihrer Reife, die "Taro-Kaki".
+
+Erhöht für begrenzte Zeit die Erholungsrate der Haltung enorm, auch wenn man angreift oder Schaden nimmt.
+
+Die Ashina-Taro-Truppen wachsen mit diesen Früchten auf und kennen alle den besten Zeitpunkt, um sie zu pflücken.</text>
+<text id="3072">%null%</text>
+<text id="3073">%null%</text>
+<text id="3074">%null%</text>
+<text id="3075">%null%</text>
+<text id="3076">%null%</text>
+<text id="3077">%null%</text>
+<text id="3078">%null%</text>
+<text id="3079">%null%</text>
+<text id="3080">Reis aus der Hand des göttlichen Kindes des Ewigen Wassers. Er stellt schrittweise für kurze Zeit Vitalität wieder her. Selbst bei nicht göttlichen Wesen sorgt die Macht des Drachenblutes für eine reiche Ernte. Reis ist wertvoll. Er stellt nicht nur die Vitalität wieder her, sondern wird süßer, je mehr man davon isst.</text>
+<text id="3081">Gekühlter, silbriger Reis vom göttlichen Kind des Ewigen Wassers. Er stellt schrittweise für kurze Zeit Vitalität wieder her, etwas mehr als gewöhnlicher Reis.
+
+Kälte macht Reis noch süßer. Reis ist wirklich kostbar. Je länger man ihn isst, desto süßer wird er und desto mehr Energie liefert er.</text>
+<text id="3200">Ein starkes Gegenmittel, das vom Clan des versunkenen Tals erschaffen wurde.
+
+Heilt die Status-Anomalie "Gift" und erhöht vorübergehend den Giftwiderstand. Magnetitvorkommen wurden im versunkenen Tal gefunden, der Ort ist extrem giftig. Ein Gegenmittel ist unerlässlich für jeden, der versucht, das Erz abzubauen.</text>
+<text id="3201">%null%</text>
+<text id="3202">%null%</text>
+<text id="3203">%null%</text>
+<text id="3204">%null%</text>
+<text id="3205">%null%</text>
+<text id="3206">%null%</text>
+<text id="3207">%null%</text>
+<text id="3208">%null%</text>
+<text id="3209">%null%</text>
+<text id="3210">Medizin zur Behandlung von Verbrennungen.
+
+Heilt die Brennen-Status-Anomalie, und verringert kurzzeitig angesammelte Verbrennung, verstärkt Widerstand gegen Verbrennungen und reduziert den Schaden durch erlittene Verbrennungsangriffe.
+
+Wenn es auf dem Schlachtfeld brennt, ist Löschpuder überlebenswichtig.</text>
+<text id="3211">Medizinischer Puder zum Behandeln von Verbrennungen, etwas effektiver als normaler Löschpuder. Heilt den Brennen-Status, reduziert die Ansammlung an Verbrennung und verringert den Schaden durch erlittene Verbrennungsangriffe. Das Ministerium fürchtete Ashina und seine blutunterlaufenen Augen, getränkt mit dem Ewigen Wasser. Dieser Puder diente als Schutz, als es Ashina mit Flammen angriff.</text>
+<text id="3212">%null%</text>
+<text id="3213">%null%</text>
+<text id="3214">%null%</text>
+<text id="3215">%null%</text>
+<text id="3216">%null%</text>
+<text id="3217">%null%</text>
+<text id="3218">%null%</text>
+<text id="3219">%null%</text>
+<text id="3220">Medizinischer Puder zum Beruhigen der Nerven. Verwendet von jenen, die unaussprechliche Taten vollbringen. Verringert angesammeltes "Grauen" und erhöht kurzzeitig den Widerstand gegen Grauen. Friedhofswärter, Henker, Nachlassverwalter - wer mit dem Tod zu tun hat, hat ihn immer griffbereit und hält sich an eine einfache Regel: Packt dich der Schrecken, musst du dich verstecken.</text>
+<text id="3221">%null%</text>
+<text id="3222">%null%</text>
+<text id="3223">%null%</text>
+<text id="3224">%null%</text>
+<text id="3225">%null%</text>
+<text id="3226">%null%</text>
+<text id="3227">%null%</text>
+<text id="3228">%null%</text>
+<text id="3229">%null%</text>
+<text id="3230">Wundersames Mittel vom Altar des Ashina-Clans, das Blitze verbannt.
+
+Reduziert deutlich den Schaden durch Blitzangriffe und die Status-Anomalie "Schock". Der Blitz ist eine Macht der Götter. Aale sind zwar klein, doch mit Drachen verwandt. Auch die Macht eines Gottes kann unterdrückt werden, wenn auch vermutlich nicht lange.</text>
+<text id="3250">Pulverartige Medizin mit Giftwirkung. Die Shinobi von Ashina nutzen es seit Ewigkeiten. 
+
+Löst beim Verzehr eine schwache Gift-Status-Anomalie aus. Durch eine Selbstvergiftung werden alle anderen Gifte neutralisiert. Manche Shinobi nutzen diese Medizin für eine besondere Technik. Angeblich kann Gift das Bewusstsein erweitern.</text>
+<text id="3290">Ein geheimes blaues Shinobi-Mittel. Im Krieg ist es manchmal notwendig, sein Leben zu opfern. Während die Samurai sich voller Stolz in ihre eigenen Schwerter stürzen, bedürfen die Shinobi einer schnelleren Methode. Für die Verwendung beißt man schnell und fest die Backenzähne aufeinander. Die Auferstehung ist nach dem Einsatz nicht begrenzt.</text>
+<text id="3291">Ein falscher Zahn, gefüllt mit einem geheimen blauen Shinobi-Mittel. Kann mehrmals verwendet werden. Für die Verwendung beißt man schnell und fest die Backenzähne aufeinander, was sofort zum Tod führt. Kann in bestimmten Situationen nützlich sein. Es muss wohl nicht extra gesagt werden, dass der erste Tod in der Regel der letzte ist.</text>
+<text id="3292">Ein geheimes blaues Shinobi-Mittel, das von den Nachtschwalben verwendet wird. Im Krieg ist es manchmal notwendig, sein Leben zu opfern. Manche sind sich dessen nicht bewusst, während andere es nicht tun wollen und so Ashina verraten und ihr Leben weiterführen ... Für die Verwendung beißt man schnell und fest die Backenzähne aufeinander. Die Auferstehung ist nach dem Einsatz nicht begrenzt.</text>
+<text id="3293">%null%</text>
+<text id="3294">%null%</text>
+<text id="3295">%null%</text>
+<text id="3296">%null%</text>
+<text id="3297">%null%</text>
+<text id="3298">%null%</text>
+<text id="3299">%null%</text>
+<text id="3300">Ein runder, moosbedeckter Kürbis voller Heilwasser. Füllt sich beim Rasten wieder auf. Heilt zwar keinen "Gift"-Status, reduziert jedoch die Ansammlung an Gift und erhöht den Giftwiderstand. Der Kürbis wurde aus der Notwendigkeit heraus von denen geschaffen, die vergiftete Landstriche besiedelt haben. Man sagt, wenn man lange genug dort lebt, wird man komplett immun gegen Gift.</text>
+<text id="3301">Ein runder, moosbedeckter Kürbis voller Heilwasser. Füllt sich beim Rasten wieder auf. Heilt zwar keinen "Gift"-Status, reduziert jedoch die Ansammlung an Gift und erhöht den Giftwiderstand. Der Kürbis wurde aus der Notwendigkeit heraus von denen geschaffen, die vergiftete Landstriche besiedelt haben. Man sagt, wenn man lange genug dort lebt, wird man komplett immun gegen Gift.</text>
+<text id="3302">%null%</text>
+<text id="3303">%null%</text>
+<text id="3304">%null%</text>
+<text id="3305">%null%</text>
+<text id="3306">%null%</text>
+<text id="3307">%null%</text>
+<text id="3308">%null%</text>
+<text id="3309">%null%</text>
+<text id="3310">Ein runder, vertrockneter, roter Kürbis, der mit Heilwasser gefüllt ist. Das Heilwasser füllt sich beim Rasten wieder auf. Reduziert die Ansammlung an Verbrennung und erhöht leicht den Verbrennungswiderstand, heilt aber nicht die Brennen-Status-Anomalie.</text>
+<text id="3311">Ein runder, vertrockneter, roter Kürbis, der mit Heilwasser gefüllt ist. Das Heilwasser füllt sich beim Rasten wieder auf. Reduziert die Ansammlung an Verbrennung und erhöht leicht den Verbrennungswiderstand, heilt aber nicht die Brennen-Status-Anomalie.</text>
+<text id="3312">%null%</text>
+<text id="3313">%null%</text>
+<text id="3314">%null%</text>
+<text id="3315">%null%</text>
+<text id="3316">%null%</text>
+<text id="3317">%null%</text>
+<text id="3318">%null%</text>
+<text id="3319">%null%</text>
+<text id="3320">Ein kurviger, melierter, lila Kürbis, der mit Heilwasser gefüllt ist. Füllt sich beim Rasten wieder auf. Reduziert die Ansammlung von "Grauen"-Status und erhöht den Widerstand gegen Grauen. Die verdrehte Form des Kürbisses entstand bei der Verwendung in Gräbern, auf von Leichen gesäumten Schlachtfeldern und an anderen Orten des Todes. Als Folge verhindert das Trinken des enthaltenen Wassers die Entstehung von Grauen.</text>
+<text id="3321">Ein kurviger, melierter, lila Kürbis, der mit Heilwasser gefüllt ist. Füllt sich beim Rasten wieder auf. Reduziert die Ansammlung von "Grauen"-Status und erhöht den Widerstand gegen Grauen. Die verdrehte Form des Kürbisses entstand bei der Verwendung in Gräbern, auf von Leichen gesäumten Schlachtfeldern und an anderen Orten des Todes. Als Folge verhindert das Trinken des enthaltenen Wassers die Entstehung von Grauen.</text>
+<text id="3350">Gefallener, kopfloser Geist von Ako, der den Schaden an Vitalität und Haltung kurzzeitig steigert. Verbraucht Geistembleme für den erneuten Einsatz. Kopflose sind korrumpierte Helden, die einst für ihr Land kämpften. Bette kopflose Geister zur Ruhe, um ihre Macht zu erhalten. Du riskierst jedoch, dem Wahnsinn zu verfallen, wenn du keine Gegenleistung anbietest.</text>
+<text id="3351">%null%</text>
+<text id="3352">%null%</text>
+<text id="3353">%null%</text>
+<text id="3354">%null%</text>
+<text id="3355">%null%</text>
+<text id="3356">%null%</text>
+<text id="3357">%null%</text>
+<text id="3358">%null%</text>
+<text id="3359">%null%</text>
+<text id="3360">Gefallener, kopfloser Geist von Yashariku. Opfere kurz deine maximale Vitalität und Haltung, um deine Angriffskraft immens ansteigen zu lassen. Kann durch Geistembleme wiederholt genutzt werden. Die Kopflosen sind die ruinierte Form korrumpierter Helden, die einst für ihr Land kämpften. Der Zwillingsbruder dieser tapferen Seele starb bei der Geburt. Mit ihm an seiner Seite wäre er vielleicht niemals gefallen.</text>
+<text id="3361">%null%</text>
+<text id="3362">%null%</text>
+<text id="3363">%null%</text>
+<text id="3364">%null%</text>
+<text id="3365">%null%</text>
+<text id="3366">%null%</text>
+<text id="3367">%null%</text>
+<text id="3368">%null%</text>
+<text id="3369">%null%</text>
+<text id="3370">Gefallener, kopfloser Geist von Ungo, der die Schwächung der Vitalität durch physische Angriffe reduziert. Verbraucht Geistembleme für den erneuten Einsatz. Kopflose sind korrumpierte Helden, die einst für ihr Land kämpften. Dieser Krieger verlor den Verstand. Er wurde wegen versuchter Meuterei enthauptet und seine Leiche sank auf den Boden des Grabens.</text>
+<text id="3371">%null%</text>
+<text id="3372">%null%</text>
+<text id="3373">%null%</text>
+<text id="3374">%null%</text>
+<text id="3375">%null%</text>
+<text id="3376">%null%</text>
+<text id="3377">%null%</text>
+<text id="3378">%null%</text>
+<text id="3379">%null%</text>
+<text id="3380">Gefallener, kopfloser Geist von Gokan. Reduziert für eine Zeit Schaden für die Haltung. Kann durch Geistembleme wiederholt genutzt werden. Die Kopflosen sind die ruinierte Form korrumpierter Helden, die einst für ihr Land kämpften. In besonderen Grabstätten finden die abgetrennten Köpfe zwar Ruhe, doch niemals für sehr lange.</text>
+<text id="3381">%null%</text>
+<text id="3382">%null%</text>
+<text id="3383">%null%</text>
+<text id="3384">%null%</text>
+<text id="3385">%null%</text>
+<text id="3386">%null%</text>
+<text id="3387">%null%</text>
+<text id="3388">%null%</text>
+<text id="3389">%null%</text>
+<text id="3390">Gefallener, kopfloser Geist von Gachiin. Unterdrückt Geräusche und sorgt dafür, dass man nicht so schnell von Feinden entdeckt wird. Kann durch Geistembleme wiederholt genutzt werden. Die Kopflosen sind die ruinierte Form korrumpierter Helden, die einst für ihr Land kämpften. "Ich verliere den Verstand", sagte der Mann zu sich selbst und verschwand im Wald.</text>
+<text id="3391">%null%</text>
+<text id="3392">%null%</text>
+<text id="3393">%null%</text>
+<text id="3394">%null%</text>
+<text id="3395">%null%</text>
+<text id="3396">%null%</text>
+<text id="3397">%null%</text>
+<text id="3398">%null%</text>
+<text id="3399">%null%</text>
+<text id="3400">Ein im Senpo-Tempel gefertigtes Konfekt, gesegnet mit Akos Schutz. Erhöht kurz Schaden an der Haltung und Vitalität.
+
+Iss davon und nimm die Ako-Haltung ein, um seinen unmenschlichen Segen zu erhalten.
+
+Die Geister verkörpern überschüssiges Karma. Man muss hart auf das Konfekt beißen und ertragen, was geschehen ist.</text>
+<text id="3401">%null%</text>
+<text id="3402">%null%</text>
+<text id="3403">%null%</text>
+<text id="3404">%null%</text>
+<text id="3405">%null%</text>
+<text id="3406">%null%</text>
+<text id="3407">%null%</text>
+<text id="3408">%null%</text>
+<text id="3409">%null%</text>
+<text id="3410">Ein im Senpo-Tempel gefertigtes Konfekt mit Yasharikus Segen. Halbiert die maximale Vitalität und Haltung und erhöht die Angriffskraft enorm. Man muss darauf beißen und die Yashariku-Haltung einnehmen, um seinen unmenschlichen Segen zu erhalten. Das Konfekt ist im Tempel verboten, aber die Suche nach Unsterblichkeit ist teuer. Es wurde außerhalb des Tempels für "Spenden" verkauft.</text>
+<text id="3411">%null%</text>
+<text id="3412">%null%</text>
+<text id="3413">%null%</text>
+<text id="3414">%null%</text>
+<text id="3415">%null%</text>
+<text id="3416">%null%</text>
+<text id="3417">%null%</text>
+<text id="3418">%null%</text>
+<text id="3419">%null%</text>
+<text id="3420">Ein Konfekt aus dem Senpo-Tempel, von Ungo gesegnet. Reduziert kurzzeitig den Vitalität-Schaden. Man erhält den Segen, indem man das Konfekt verzehrt und die Ungo-Haltung einnimmt. Der Geiststurz entstammt dem Übermaß an Karma des Menschen. Man muss hart auf das Konfekt beißen und es ertragen. Die Senpo-Mönche verteilten dieses Konfekt in Ashina als Tribut an ihre Militär-Helden.</text>
+<text id="3421">%null%</text>
+<text id="3422">%null%</text>
+<text id="3423">%null%</text>
+<text id="3424">%null%</text>
+<text id="3425">%null%</text>
+<text id="3426">%null%</text>
+<text id="3427">%null%</text>
+<text id="3428">%null%</text>
+<text id="3429">%null%</text>
+<text id="3430">Konfekt der Shinobi-Jäger des Misen-Tempels, von Gokan gesegnet. Reduziert für kurze Zeit den Schaden der Haltung. Man muss darauf beißen und die Gokan-Haltung einnehmen, um seinen unmenschlichen Segen zu erhalten. Misen-Mönche sind mit Techniken zum Töten von Shinobi vertraut; einem Unterfangen, das einen Körper mit einem unerschütterlichen Kern erfordert.</text>
+<text id="3431">%null%</text>
+<text id="3432">%null%</text>
+<text id="3433">%null%</text>
+<text id="3434">%null%</text>
+<text id="3435">%null%</text>
+<text id="3436">%null%</text>
+<text id="3437">%null%</text>
+<text id="3438">%null%</text>
+<text id="3439">%null%</text>
+<text id="3440">Der Senpo-Hohepriester gab dieses Konfekt einem Attentäter-Clan. Es macht lautlos und unsichtbar, sodass sie kaum wahrzunehmen waren. Man muss darauf beißen und die Gachiin-Haltung einnehmen, um seinen unmenschlichen Segen zu erhalten. Diese Attentäter erledigen Senpos Drecksarbeit. Einst waren sie Wächter des Tempels, doch jetzt dienen sie dem Willen der Mönche auf ihrer Suche nach Unsterblichkeit.</text>
+<text id="3441">%null%</text>
+<text id="3442">%null%</text>
+<text id="3443">%null%</text>
+<text id="3444">%null%</text>
+<text id="3445">%null%</text>
+<text id="3446">%null%</text>
+<text id="3447">%null%</text>
+<text id="3448">%null%</text>
+<text id="3449">%null%</text>
+<text id="3450">Konfetti mit göttlichem Segen zur Verbannung von Erscheinungen.
+
+Das Papier wird in einer Zeremonie mit Urquellwasser hergestellt. Wie die Götter die Wasser segnen, so segnet auch das Konfetti all jene, die es berührt. Somit ist es möglich, Gegner vom Typ Erscheinung anzugreifen.
+</text>
+<text id="3500">Ein Stück Keramik, das bei einem Wurf mit einem kräftigen Knacken zerbricht.
+
+Wirf es auf Feinde, um sie abzulenken. Das Werfen und Zertrümmern dieser Stücke war unter den Kindern von Ashina sehr beliebt. Selbst als Erwachsene erinnern sie sich noch gern an die alten Spiele.</text>
+<text id="3501">%null%</text>
+<text id="3502">%null%</text>
+<text id="3503">%null%</text>
+<text id="3504">%null%</text>
+<text id="3505">%null%</text>
+<text id="3506">%null%</text>
+<text id="3507">%null%</text>
+<text id="3508">%null%</text>
+<text id="3509">%null%</text>
+<text id="3510">Zu einem harten Klumpen zusammengepresste Asche. Wirf es auf Feinde, um sie kurzzeitig abzulenken.
+
+In Ashina fällt viel Schnee, sodass die Öfen sich mit Asche füllen.</text>
+<text id="3511">%null%</text>
+<text id="3512">%null%</text>
+<text id="3513">%null%</text>
+<text id="3514">%null%</text>
+<text id="3515">%null%</text>
+<text id="3516">%null%</text>
+<text id="3517">%null%</text>
+<text id="3518">%null%</text>
+<text id="3519">%null%</text>
+<text id="3520">Reines Öl. Wenn das Gefäß zerbricht, wird alles in der Nähe mit Öl bedeckt.
+
+In Öl gebadete Feinde können leicht in Brand gesteckt werden, sodass ihre Vitalität durch Feuerangriffe stärker geschwächt wird und sie anfälliger für die Status-Anomalie "Brennend" sind.</text>
+<text id="3521">%null%</text>
+<text id="3522">%null%</text>
+<text id="3523">%null%</text>
+<text id="3524">%null%</text>
+<text id="3525">%null%</text>
+<text id="3526">%null%</text>
+<text id="3527">%null%</text>
+<text id="3528">%null%</text>
+<text id="3529">%null%</text>
+<text id="3530">Lerchensporn-Samen machen ein lautes Geräusch, wenn man sie knackt. Nützlich, um Illusionstechniken zu brechen.
+
+Illusionen werden immer von jemandem erschaffen. Um die Phantome zu zerstören und zur Realität zurückzukehren, muss man den Schöpfer der Illusion besiegen. Knallsamen können dabei eine große Hilfe sein.</text>
+<text id="3580">Ein Kürbis mit fünffarbigem Reis, mit dem Shinobi auf dem Boden Markierungen auslegen.
+
+Der weiße Kürbis ist mit Fruchtbarkeit gesegnet; Rasten bei einer Figur des Bildhauers füllt ihn wieder auf.
+
+Dieser Reis ist jedoch nicht essbar.</text>
+<text id="3581">Ein Kürbis mit fünffarbigem Reis, mit dem Shinobi auf dem Boden Markierungen auslegen.
+
+Der weiße Kürbis ist mit Fruchtbarkeit gesegnet; Rasten bei einer Figur des Bildhauers füllt ihn wieder auf.
+
+Dieser Reis ist jedoch nicht essbar.</text>
+<text id="3600">Ein Mibu-Ballon mit Urquellwasser, getränkt mit dem Segen des Reichtums. 
+
+Wenn man den goldenen Mibu-Ballon zum Platzen bringt und betet, erhalten alle, auf die sein Wasser spritzt, für eine Zeit mehr Münzen. "Mibu" bedeutet "Wasserleben", oder "Im Wasser geborenes Leben". Die Ashina halten das Quellwasser selbst für anbetungswürdig.</text>
+<text id="3601">%null%</text>
+<text id="3602">%null%</text>
+<text id="3603">%null%</text>
+<text id="3604">%null%</text>
+<text id="3605">%null%</text>
+<text id="3606">%null%</text>
+<text id="3607">%null%</text>
+<text id="3608">%null%</text>
+<text id="3609">%null%</text>
+<text id="3610">Ein Mibu-Ballon voll Urquellwasser, getränkt mit dem Segen für verstorbene Seelen.
+
+Lässt man ihn platzen und betet, erhalten alle, auf die sein Wasser spritzt, zeitweise mehr Auferstehungsmacht. Der älteste der Mibu-Ballons, den die Mibu-Priester als Friedensangebot für die Verstorbenen platzen lassen.</text>
+<text id="3611">%null%</text>
+<text id="3612">%null%</text>
+<text id="3613">%null%</text>
+<text id="3614">%null%</text>
+<text id="3615">%null%</text>
+<text id="3616">%null%</text>
+<text id="3617">%null%</text>
+<text id="3618">%null%</text>
+<text id="3619">%null%</text>
+<text id="3620">Ein Mibu-Ballon voll Urquellwasser, getränkt mit dem Segen des Glücks.
+
+Wenn man den grünen Mibu-Ballon zum Platzen bringt und betet, erhalten alle, auf die sein Wasser spritzt, eine größere Chance, Objekte zu erhalten. "Mibu" bedeutet "Wasserleben", oder "Im Wasser geborenes Leben". Die Ashina halten das Quellwasser selbst für anbetungswürdig.</text>
+<text id="3621">%null%</text>
+<text id="3622">%null%</text>
+<text id="3623">%null%</text>
+<text id="3624">%null%</text>
+<text id="3625">%null%</text>
+<text id="3626">%null%</text>
+<text id="3627">%null%</text>
+<text id="3628">%null%</text>
+<text id="3629">%null%</text>
+<text id="3630">Ein Mibu-Ballon mit Urquellwasser, getränkt mit dem Segen des Mitgefühls.
+
+Wenn man den schwarzweißen Ballon zum Platzen bringt und betet, erhalten alle, auf die sein Wasser spritzt, zeitweise eine größere Chance, Geistembleme zu erhalten. Dieser Ballon drückt die Trauer um die geliebten Verstorbenen aus. Rotweiße Windräder werden in liebevoller Erinnerung dargeboten.</text>
+<text id="3631">%null%</text>
+<text id="3632">%null%</text>
+<text id="3633">%null%</text>
+<text id="3634">%null%</text>
+<text id="3635">%null%</text>
+<text id="3636">%null%</text>
+<text id="3637">%null%</text>
+<text id="3638">%null%</text>
+<text id="3639">%null%</text>
+<text id="3640">Ein Mibu-Ballon aus dem Jahr der Drachenquell-Pilgerreise, versiegelt mit einem Gebet für eine gesunde Entwicklung.
+
+Bring den weißen Mibu-Ballon zum Platzen und falte die Hände zum Gebet. Wer vom Wasser getroffen wird, erfährt kurzzeitig gesteigertes Wachstum in allen Bereichen. Auf dem Ballon steht: "Für Tenkichi, von Dachs".</text>
+<text id="3700">Ein Geldbeutel mit einer Handvoll Sen.
+Kann verwendet werden, um die Sen im Inneren zu erlangen.
+
+Hat ein recht befriedigendes Gewicht.
+
+Die Sen in diesem Geldbeutel gehen beim Tod nicht verloren.</text>
+<text id="3701">%null%</text>
+<text id="3702">%null%</text>
+<text id="3703">%null%</text>
+<text id="3704">Ein Geldbeutel mit einer Menge Sen.
+Kann verwendet werden, um die Sen im Inneren zu erlangen.
+
+Sein Gewicht ist vielversprechend.
+
+Die Sen in diesem Geldbeutel gehen beim Tod nicht verloren.</text>
+<text id="3705">%null%</text>
+<text id="3706">%null%</text>
+<text id="3707">%null%</text>
+<text id="3708">Ein Geldbeutel, der vor lauter Sen überquillt. Kann verwendet werden, um die Sen im Inneren zu erlangen.
+
+So schwer, dass er selbst dem Wolf ein Lächeln abringt.
+
+Die Sen in diesem Geldbeutel gehen beim Tod nicht verloren.</text>
+<text id="3720">Kleines Buddha-Abbild in rotem Stoff.
+Im Gebet zwischen den Händen gehalten stellt es eine Einheit Auferstehungsmacht wieder her. Das Einhüllen einer Jizo-Statue steht für elterliche Liebe. Der schützende Stoff soll sicherstellen, dass das kleine Wesen ein friedliches Leben hat.</text>
+<text id="3721">Eine Buddha-Figur in rosa Stoff.
+Im Gebet zwischen den Händen gehalten stellt sie eine Einheit Auferstehungsmacht wieder her. Das Einhüllen einer Jizo-Statue steht für elterliche Liebe.
+
+"Sakuza-sama, nehmt den Stoff und
+verhüllt damit diesen Kleinen, auf
+dass sein Leben friedlich sei."</text>
+<text id="3722">%null%</text>
+<text id="3723">%null%</text>
+<text id="3724">%null%</text>
+<text id="3725">%null%</text>
+<text id="3726">%null%</text>
+<text id="3727">%null%</text>
+<text id="3728">%null%</text>
+<text id="3729">%null%</text>
+<text id="3730">Ein dämonischer Geist gefangen in der Eisenglocke des Senpo-Tempels. Ergreift Besitz vom Läutenden. Stärkt Feinde im Umkreis.
+
+Der Glockendämon bringt Not, doch vielleicht auch etwas bessere Beute.
+
+Der Gebrauch hat keine besondere Wirkung, außer den Dämon zu vertreiben.</text>
+<text id="3800">Dolch mit blendend weißer Klinge und Griff. Kann Vitalität in Geistembleme umwandeln. Rasten füllt die Ladungen wieder auf. Ursprünglich wurde dieses Tanto bei einem rituellen Opfer an den Drachen benutzt, bei dem ein Emblem aus der eigenen Lebenskraft geschnitten und auf dem Urquellwasser treiben gelassen wurde.
+In die Klinge ist sein wahrer Name eingraviert: "Ergebene Seele".</text>
+<text id="3801">Dolch mit blendend weißer Klinge und Griff. Kann Vitalität in Geistembleme umwandeln. Rasten füllt die Ladungen wieder auf. Ursprünglich wurde dieses Tanto bei einem rituellen Opfer an den Drachen benutzt, bei dem ein Emblem aus der eigenen Lebenskraft geschnitten und auf dem Urquellwasser treiben gelassen wurde.
+In die Klinge ist sein wahrer Name eingraviert: "Ergebene Seele".</text>
+<text id="3900">Ein Bambus-Fernrohr.
+
+Shinobi haben gute Augen, aber mit diesem Rohr können sie noch weiter sehen. Die Nachtschwalben-Ninja dienen Isshin Ashina. Sie bewachen die Dächer der Ashina-Burg und suchen mit scharfen Augen nach Eindringlingen. Nachtschwalbenaugen entgeht nicht viel.</text>
+<text id="3980">Ein handflächengroßer Holz-Buddha.
+Mehrfach anwendbar.
+
+Im Besitz des Wolfs, seit er von seinem Vater gerettet wurde. Seine Kanten sind vom Gebrauch abgerundet.
+
+Dieser Buddha ermöglicht die Heimkehr.
+Er bringt seinen Nutzer zur zuletzt besuchten Figur des Bildhauers oder zum maroden Tempel.</text>
+<text id="3981">%null%</text>
+<text id="3982">%null%</text>
+<text id="3983">%null%</text>
+<text id="3984">%null%</text>
+<text id="3985">%null%</text>
+<text id="3986">%null%</text>
+<text id="3987">%null%</text>
+<text id="3988">%null%</text>
+<text id="3989">%null%</text>
+<text id="3990">Eine fünfstrahlige Glocke aus veralterter Bronze. Mehrfach anwendbar.
+
+Wenn sie erklingt, kehren Affen und Wölfe in ihren ursprünglichen Zustand zurück.
+
+Ein im Wandschirm gefangener Affe kann durch den Klang der Glocke nicht entkommen.</text>
+<text id="3991">%null%</text>
+<text id="3992">%null%</text>
+<text id="3993">%null%</text>
+<text id="3994">%null%</text>
+<text id="3995">%null%</text>
+<text id="3996">%null%</text>
+<text id="3997">%null%</text>
+<text id="3998">%null%</text>
+<text id="3999">%null%</text>
+<text id="4000">Eine lose Gebetsperle.
+
+An einer Figur des Bildhauers 4 davon darzubringen erhöht die maximale Vitalität und Haltung.
+
+Aktuell besitzt der Wolf &lt;?goodsItemNum@4000?&gt; Perle(n).</text>
+<text id="4100">Eine Kette voller Gebetsperlen, die einer Figur des Bildhauers geopfert wurden. Erhöht die maximale Vitalität und Haltung. Ein Rosenkranz aus Gebetsperlen stärkt die Starken. Die Grausamkeit von Ashinas Armee ist berüchtigt und ihre Generäle gelten als besonders begnadete Anwender des Ashina-Schwertstils.</text>
+<text id="4101">Eine Kette voller Gebetsperlen, die einer Figur des Bildhauers geopfert wurden. Erhöht die maximale Vitalität und Haltung. Ein Rosenkranz aus Gebetsperlen stärkt die Starken. In Ashina gibt es einen rotäugigen Mann, groß wie ein Oger. Er soll Amok gelaufen sein und viele Jahre in einem Verlies verbracht haben.</text>
+<text id="4102">Eine Kette voller Gebetsperlen, die einer Figur des Bildhauers geopfert wurden. Erhöht die maximale Vitalität und Haltung. Ein Rosenkranz aus Gebetsperlen stärkt die Starken. Der Bulle war eine wütende Bestie und nicht mehr als das. Im letzten großen Krieg stapelten sich die Leichen der Ashina-Samurai und etwas musste getan werden.</text>
+<text id="4103">Eine Kette voller Gebetsperlen, die einer Figur des Bildhauers geopfert wurden. Erhöht die maximale Vitalität und Haltung. Ein Rosenkranz aus Gebetsperlen stärkt die Starken. Nur ein Meister des Ashina-Stils darf das Dojo der Burg betreten. Isshin kommt manchmal her, um seine Schüler auf Trab zu halten.</text>
+<text id="4104">Eine Kette voller Gebetsperlen, die einer Figur des Bildhauers geopfert wurden. Erhöht die maximale Vitalität und Haltung. Ein Rosenkranz aus Gebetsperlen stärkt die Starken. Die Kanonenfestung im versunkenen Tal wird von den "Schlangenaugen", einer weiblichen Elite-Einheit mit mächtigen Handfeuerwaffen kontrolliert. Sie haben besonders scharfe Augen und treffen ihre Ziele aus großen Entfernungen.</text>
+<text id="4105">Eine Kette voller Gebetsperlen, die einer Figur des Bildhauers geopfert wurden. Erhöht die maximale Vitalität und Haltung. Ein Rosenkranz aus Gebetsperlen stärkt die Starken. Die Tausendfüßer suchen immer einen würdigen Anführer. Sobald sie einen haben, dienen sie ihm treu und ändern dabei manchmal ihre Namen. Tausendfüßer-Anführer sind so genannte "Langarme" und schwingen gewaltige Krallen.</text>
+<text id="4106">Eine Kette voller Gebetsperlen, die einer Figur des Bildhauers geopfert wurden. Erhöht die maximale Vitalität und Haltung. Ein Rosenkranz aus Gebetsperlen stärkt die Starken. Ein erfolgreicher Sumoringer diente einst einem großen Feudalherrn. Er verfiel jedoch dem Wein, wurde vertrieben und lebte fortan als Bandit. So bekam er den Namen Juzo, der Trinker.</text>
+<text id="4107">Eine Kette voller Gebetsperlen, die einer Figur des Bildhauers geopfert wurden. Erhöht die maximale Vitalität und Haltung. Ein Rosenkranz aus Gebetsperlen stärkt die Starken. Das Innenministerium traut dem Einsamer-Schatten-Clan von allen Shinobi am meisten. Ihr Anführer Masatsuna Oribe hat siebzehn Kinder, die alle Spezialtechniken nutzen, wie Giftklingen oder trainierte Shinobi-Hunde.</text>
+<text id="4108">Eine Kette voller Gebetsperlen, die einer Figur des Bildhauers geopfert wurden. Erhöht die maximale Vitalität und Haltung. Ein Rosenkranz aus Gebetsperlen stärkt die Starken. Roberts Vater kam von weither über die See nach Japan. Er strebte nach der Macht der Unsterblichkeit. Eintausend Klingen abzuwehren war ein geringer Preis für den Segen der Verjüngung.</text>
+<text id="4109">Eine Kette voller Gebetsperlen, die einer Figur des Bildhauers geopfert wurden. Erhöht die maximale Vitalität und Haltung. Ein Rosenkranz aus Gebetsperlen stärkt die Starken. Die Sieben Speere von Ashina waren der Angelpunkt seiner Rebellion. Isshin gab Speere nur an die Samurai aus, denen er am meisten vertraute. Von den sieben Speerkämpfern leben heute nur noch wenige.</text>
+<text id="4400">Ein Samen, dem kontinuierlich Heilwasser entspringt. Emma kann hiermit die maximalen Verwendungen der heilenden Kürbisflasche erhöhen.
+
+Dogen und seine Schülerin Emma entdeckten die Kräfte des Samens bei der Erforschung der schon lange in Ashina genutzten heilenden Kürbisflasche.</text>
+<text id="5200">Eine Erinnerung an den Kampf gegen einen starken Gegner, der für immer im Geist des Wolfs weiterlebt. Die Angriffskraft kann dauerhaft erhöht werden, indem man sich der Erinnerung beim Besuch einer Figur des Bildhauers stellt.
+
+Gyobu Masataka Oniwa war der Wächter des Ashina-Burgtors.</text>
+<text id="5201">Eine Erinnerung an den Kampf gegen einen starken Gegner, der für immer im Geist des Wolfs weiterlebt. Die Angriffskraft kann dauerhaft erhöht werden, indem man sich der Erinnerung beim Besuch einer Figur des Bildhauers stellt.
+
+Der Phantom-Schmetterling war eine erfahrene Illusionistin.</text>
+<text id="5202">Eine Erinnerung an den Kampf gegen einen starken Gegner, der für immer im Geist des Wolfs weiterlebt. Die Angriffskraft kann dauerhaft erhöht werden, indem man sich der Erinnerung beim Besuch einer Figur des Bildhauers stellt.
+
+Der Wolf schwor Rache an Genichiro Ashina, wie es die Eisernen Regeln verlangen.</text>
+<text id="5203">Eine Erinnerung an den Kampf gegen einen starken Gegner, der für immer im Geist des Wolfs weiterlebt. Die Angriffskraft kann dauerhaft erhöht werden, indem man sich der Erinnerung beim Besuch einer Figur des Bildhauers stellt.
+
+Die Wandschirm-Affen beschützten die Hallen der Illusion und waren Freunde des göttlichen Kindes des Ewigen Wassers.</text>
+<text id="5204">Eine Erinnerung an den Kampf gegen einen starken Gegner, der für immer im Geist des Wolfs weiterlebt. Die Angriffskraft kann dauerhaft erhöht werden, indem man sich der Erinnerung beim Besuch einer Figur des Bildhauers stellt.
+
+Auch wenn der Wächteraffe besiegt wurde, hallt sein Gebrüll weiter. Man sagt, ein befallener Körper sei ein Zeichen der Unsterblichkeit ...</text>
+<text id="5205">Eine Erinnerung an den Kampf gegen einen starken Gegner, der für immer im Geist des Wolfs weiterlebt. Die Angriffskraft kann dauerhaft erhöht werden, indem man sich der Erinnerung beim Besuch einer Figur des Bildhauers stellt.
+
+Die verdorbene Nonne war die Bewacherin des Höhleneingangs im Dorf Mibu.</text>
+<text id="5206">Eine Erinnerung an den Kampf gegen einen starken Gegner, der für immer im Geist des Wolfs weiterlebt. Die Angriffskraft kann dauerhaft erhöht werden, indem man sich der Erinnerung beim Besuch einer Figur des Bildhauers stellt.
+
+Der große Shinobi Uhu war der Pflegevater des Wolfs.</text>
+<text id="5207">Eine Erinnerung an den Kampf gegen einen starken Gegner, der für immer im Geist des Wolfs weiterlebt. Die Angriffskraft kann dauerhaft erhöht werden, indem man sich der Erinnerung beim Besuch einer Figur des Bildhauers stellt.
+
+Der in alten Erinnerungen konfrontierte Pflegevater war ein Mann in den besten Jahren.</text>
+<text id="5208">Eine Erinnerung an den Kampf gegen einen starken Gegner, der für immer im Geist des Wolfs weiterlebt. Die Angriffskraft kann dauerhaft erhöht werden, indem man sich der Erinnerung beim Besuch einer Figur des Bildhauers stellt.
+
+Die verdorbene Nonne war die Bewacherin der Palastbrücke.</text>
+<text id="5209">Eine Erinnerung an den Kampf gegen einen starken Gegner, der für immer im Geist des Wolfs weiterlebt. Die Angriffskraft kann dauerhaft erhöht werden, indem man sich der Erinnerung beim Besuch einer Figur des Bildhauers stellt.
+
+Der göttliche Drache, alte Gottheit des immerblühenden Baums.</text>
+<text id="5210">Eine Erinnerung an den Kampf gegen einen starken Gegner, der für immer im Geist des Wolfs weiterlebt. Die Angriffskraft kann dauerhaft erhöht werden, indem man sich der Erinnerung beim Besuch einer Figur des Bildhauers stellt.
+
+Der einarmige Dämon streifte über das Schlachtfeld, verzehrt von den Flammen des Hasses.</text>
+<text id="5211">Eine Erinnerung an den Kampf gegen einen starken Gegner, der für immer im Geist des Wolfs weiterlebt. Die Angriffskraft kann dauerhaft erhöht werden, indem man sich der Erinnerung beim Besuch einer Figur des Bildhauers stellt.
+
+In seiner Blütezeit kämpfte Isshin Ashina auf der Suche nach Stärke jeden Tag - eine zielstrebige Tötungsmaschine.</text>
+<text id="5212">Eine Erinnerung an den Kampf gegen einen starken Gegner, der für immer im Geist des Wolfs weiterlebt. Die Angriffskraft kann dauerhaft erhöht werden, indem man sich der Erinnerung beim Besuch einer Figur des Bildhauers stellt.
+
+Isshin Ashina war ein wahrer Meister des Schwertes, selbst im Alter noch.</text>
+<text id="5213">Eine Erinnerung an den Kampf gegen einen starken Gegner, der für immer im Geist des Wolfs weiterlebt. Die Angriffskraft kann dauerhaft erhöht werden, indem man sich der Erinnerung beim Besuch einer Figur des Bildhauers stellt.
+
+Der kopflose Wächteraffe war ein gewaltiger Affe, geplagt von der Macht der Unsterblichkeit.</text>
+<text id="5214">%null%</text>
+<text id="5215">%null%</text>
+<text id="5216">%null%</text>
+<text id="5217">%null%</text>
+<text id="5218">%null%</text>
+<text id="5219">%null%</text>
+<text id="5220">Eine Erinnerung an den Kampf gegen einen starken Gegner, der für immer im Geist des Wolfs weiterlebt.
+
+Die Angriffskraft kann dauerhaft erhöht werden, indem man sich der Erinnerung beim Besuch einer Figur des Bildhauers stellt.
+
+Genichiro hat selbst in der Erinnerung nichts von seiner Sturheit verloren.</text>
+<text id="5221">Eine Erinnerung an den Kampf gegen einen starken Gegner, der für immer im Geist des Wolfs weiterlebt.
+
+Die Angriffskraft kann dauerhaft erhöht werden, indem man sich der Erinnerung beim Besuch einer Figur des Bildhauers stellt. 
+
+Der Uhu war in der Erinnerung des Wolfs stärker, als er es in Wahrheit je war.</text>
+<text id="5222">Eine Erinnerung an den Kampf gegen einen starken Gegner, der für immer im Geist des Wolfs weiterlebt. 
+
+Die Angriffskraft kann dauerhaft erhöht werden, indem man sich der Erinnerung beim Besuch einer Figur des Bildhauers stellt. 
+
+Selbst in der Erinnerung strebte Isshin unerbittlich nach Macht.</text>
+<text id="5300">Eine Erinnerung an den Kampf gegen einen starken Gegner. Obgleich die Erinnerung weit zurückliegt, stärkt es den Wolf, sie sich wieder zu vergegenwärtigen. Gyobu Oniwa war einst ein berüchtigter Banditenanführer in Ashina, wurde jedoch von Isshin bezwungen. Dieser war derart von dessen Stärke beeindruckt, dass er ihn als Krieger von Ashina aufnahm. Später wurde Oniwa Genichiro Ashinas treuester Gefolgsmann.</text>
+<text id="5301">Eine Erinnerung an den Kampf gegen einen starken Gegner. Obgleich die Erinnerung weit zurückliegt, stärkt es den Wolf, sie sich wieder zu vergegenwärtigen. Der Phantom-Schmetterling wurde vom Pflegevater des Wolfs als einer seiner Lehrer in Shinobi-Techniken ernannt. Ihre "Lehren" waren nicht von der sanften Art: Der einzige Weg, Shinobi-Techniken wahrhaft zu verstehen, ist ihr Einsatz im Kampf.</text>
+<text id="5302">Eine Erinnerung an den Kampf gegen einen starken Gegner. Obgleich die Erinnerung weit zurückliegt, stärkt es den Wolf, sie sich wieder zu vergegenwärtigen. Genichiro Ashina wurde als Bürgerlicher geboren. Nach dem Tod seiner Mutter nahmen die Ashina ihn auf. Da sein Land kurz vor der Zerstörung stand, wandte er sich häretischen Techniken zu und meisterte den "Blitz von Tomoe". Vielleicht ist Häresie der Schlüssel zur Rettung.</text>
+<text id="5303">Eine Erinnerung an den Kampf gegen einen starken Gegner. Obgleich die Erinnerung weit zurückliegt, stärkt es den Wolf, sie sich wieder zu vergegenwärtigen. Die Hallen der Illusion erheben sich in der Kluft zwischen Leben und Tod. Die Seelen der göttlichen Kinder verweilen dort und leben in den Affen des Tempels weiter. Darum nannte das göttliche Kind des Ewigen Wassers sie Freunde.</text>
+<text id="5304">Eine Erinnerung an den Kampf gegen einen starken Gegner. Obgleich die Erinnerung weit zurückliegt, stärkt es den Wolf, sie sich wieder zu vergegenwärtigen. Man sagt, ein befallener Körper sei Zeichen der Unsterblichkeit, doch ein derart langes Leben wäre einsam für einen Affen. Vielleicht war das widerhallende Brüllen des Wächteraffen auch ein Flehen um etwas ...</text>
+<text id="5305">Eine Erinnerung an den Kampf gegen einen starken Gegner. Obgleich die Erinnerung weit zurückliegt, stärkt es den Wolf, sie sich wieder zu vergegenwärtigen. Die verdorbene Nonne trug die Maske einer mächtigen Wächter-Gottheit. Sie war so verschwommen, dass sie fast wie eine Illusion schien. Wieso hat sie die Höhle beim Dorf Mibu bewacht ...?</text>
+<text id="5306">Eine Erinnerung an den Kampf gegen einen starken Gegner. Obgleich die Erinnerung weit zurückliegt, stärkt es den Wolf, sie sich wieder zu vergegenwärtigen. Der große Shinobi Uhu wollte um jeden Preis die Macht des Drachenerbes erlangen. Na los, lass deinen wahren Namen in ganz Japan erklingen. Alles nur, um seinen Ehrgeiz zu befriedigen.</text>
+<text id="5307">Eine Erinnerung an den Kampf gegen einen starken Gegner. Obgleich die Erinnerung weit zurückliegt, stärkt es den Wolf, sie sich wieder zu vergegenwärtigen. Der Uhu nahm das hungrige Junge auf und bildete es als Shinobi aus. Dies vereinnahmte ihn so sehr, dass er hoffte, ihm eines Tages in einem wahren Kampf zu begegnen ... Der Uhu bekam, was er wollte, wenn auch nur in einer alten Erinnerung.</text>
+<text id="5308">Eine Erinnerung an den Kampf gegen einen starken Gegner. Obgleich die Erinnerung weit zurückliegt, stärkt es den Wolf, sie sich wieder zu vergegenwärtigen. Die verdorbene Nonne gehörte zu den Befallenen, die über den Palast der Urquelle wachten. Unsterblichkeit ist gut für eine ewige Palastwache. Ihr wahrer Name ist Priesterin Yao.</text>
+<text id="5309">Eine Erinnerung an den Kampf gegen einen starken Gegner. Obgleich die Erinnerung weit zurückliegt, stärkt es den Wolf, sie sich wieder zu vergegenwärtigen. Der göttliche Drache ist ein Gott in Drachengestalt. Er kam einst aus dem Westen und lies sich in diesem Land nieder. Ein Teil von Ashina ist sehr alt. Der Boden und das Wasser in diesem Land überzeugten den Drachen, hier zu leben.</text>
+<text id="5310">Eine Erinnerung an den Kampf gegen einen starken Gegner. Obgleich die Erinnerung weit zurückliegt, stärkt es den Wolf, sie sich wieder zu vergegenwärtigen. Ein Mann, der statt zum Shura zu einem Gefäß für die Flammen des Hasses wurde. Es schien lange so, als sei er an die sterbliche Welt gebunden. Erst, als er zum Dämon wurde, konnte er diese Welt endlich verlassen.</text>
+<text id="5311">Eine Erinnerung an den Kampf gegen einen starken Gegner. Obgleich die Erinnerung weit zurückliegt, stärkt es den Wolf, sie sich wieder zu vergegenwärtigen. Jemand, der aus dem Jenseits zurückgeholt wurde, kehrt in seiner Bestform zurück. Isshin strebte wie zuvor nach maximaler Stärke durch Kampf. Er wünschte sich bis zu seiner letzten Stunde den Krieg - und genau den bekam er auch.</text>
+<text id="5312">Eine Erinnerung an den Kampf gegen einen starken Gegner. Obgleich die Erinnerung weit zurückliegt, stärkt es den Wolf, sie sich wieder zu vergegenwärtigen. Der ältere Isshin war wie eine Klinge. Er hat seine Techniken stetig geschärft, bis hin zum Ashina-Stil, der auf jede unnötige Bewegung verzichtet. Ein Mann, der das Herz seiner Zunft erobert hat - ein wahrer Schwertheiliger.</text>
+<text id="5313">Eine Erinnerung an den Kampf gegen einen starken Gegner. Obgleich die Erinnerung weit zurückliegt, stärkt es den Wolf, sie sich wieder zu vergegenwärtigen. Einst teilte der Wächteraffe seinen Bau mit seiner Gefährtin. Doch nur er wurde infiziert und seine Gefährtin starb. Jetzt sind selbst die Blumen auf ihrem Grab zu Staub zerfallen.</text>
+<text id="5314">%null%</text>
+<text id="5315">%null%</text>
+<text id="5316">%null%</text>
+<text id="5317">%null%</text>
+<text id="5318">%null%</text>
+<text id="5319">%null%</text>
+<text id="5320">Eine Erinnerung an den Kampf gegen einen starken Gegner. Der Gedanke an diese ferne Erinnerung schenkte dem Wolf Kraft. 
+
+Ein junger Genichiro sah Tomoe tanzen. Ihre Bewegungen bargen Geheimnisse und eine Technik, die keine Lebzeit lehren konnte. Doch in der Erinnerung, nach zahllosen Kämpfen gegen seinen Todfeind, erlangte Genichiro endlich dieses Können.</text>
+<text id="5321">Eine Erinnerung an den Kampf gegen einen starken Gegner. Der Gedanke an diese ferne Erinnerung schenkte dem Wolf Kraft. 
+
+Der Uhu ließ den jungen Wolf einst im Wald von Usui zurück, damit er sich der Illusionen erwehrte oder ihnen erlag. Nur im Falle eines Siegs würde er den Jungen als seinen Sohn anerkennen. So und nicht anders erzog er den Wolf als den Seinen.</text>
+<text id="5322">Eine Erinnerung an den Kampf gegen einen starken Gegner. Der Gedanke an diese ferne Erinnerung schenkte dem Wolf Kraft.
+
+Sein Leben lang suchte Isshin nach Gegnern für den Kampf bis zum Tod. Warum sollte dies in der Erinnerung anders sein? Sich demjenigen zu stellen, der ihn besiegte ... Das Blut gerät bei dem Gedanken in Wallung.</text>
+<text id="5500">Ein Fragment der alten Maske eines Tänzers.
+
+Die Maske muss in mehrere Teile zersprungen sein, und dieses Fragment scheint die rechte Seite zu sein.</text>
+<text id="5501">Ein Fragment der alten Maske eines Tänzers.
+
+Die Maske muss in mehrere Teile zersprungen sein, und dieses Fragment scheint die linke Seite zu sein.</text>
+<text id="5502">Ein Fragment der alten Maske eines Tänzers.
+
+Die Maske muss in mehrere Teile zersprungen sein, und dieses Fragment scheint eine Dekoration des oberen Teils der Maske zu sein.</text>
+<text id="5503">%null%</text>
+<text id="5504">%null%</text>
+<text id="5505">%null%</text>
+<text id="5506">%null%</text>
+<text id="5507">%null%</text>
+<text id="5508">%null%</text>
+<text id="5509">%null%</text>
+<text id="5510">Tanzmaske eines Drachenkopfes, aus den Fragmenten zusammengesetzt. Ermöglicht, Fähigkeitspunkte im Figur des Bildhauers-Menü gegen Angriffskraft einzutauschen. Die Okami-Kriegerfrauen trugen sie einst zum Palast der Urquelle. Dort tanzten sie als Gabe an den Drachen. Das Ritual erfüllte sie auf mysteriöse Weise mit Lebenskraft.</text>
+<text id="5600">Dieses Objekt wird nur selten von einem göttlichen Erben des Drachenblutes zurückgelassen. Erhöht die Auferstehungsmacht leicht. Stelle Leben wieder her bei jenen, denen es genommen wurde. Biete diesen Tropfen mit einem Erholungsamulett in der Hand bei der Figur des Bildhauers dar. So werden Opfer der Drachenfäule geheilt. Das fortwährende Husten muss enden.</text>
+<text id="6000">Eisen, das in Ashina abgebaut wurde.
+
+Es wird häufig zur Verstärkung eingesetzt und kann als Grundmaterial für Verbesserungen von Prothesen-Modulen dienen.
+
+Tiefer Schnee und karges Land belasten Ashina, doch das Eisen, das dort gewonnen wird, ist alles andere als roh.</text>
+<text id="6001">%null%</text>
+<text id="6002">%null%</text>
+<text id="6003">%null%</text>
+<text id="6004">%null%</text>
+<text id="6005">%null%</text>
+<text id="6006">%null%</text>
+<text id="6007">%null%</text>
+<text id="6008">%null%</text>
+<text id="6009">%null%</text>
+<text id="6010">Magnetisches Erz, das in Ashina abgebaut wurde.
+
+Wird meist als Grundlage für mittlere bis hochwertige Verbesserungen an Prothesen-Modulen verwendet.
+
+Daraus kann harter Stahl geschmiedet werden; eine wertvolle Ware in Ashina. Die Bewohner des versunkenen Tals nutzen es als Währung beim Handel mit Ashina.</text>
+<text id="6011">%null%</text>
+<text id="6012">%null%</text>
+<text id="6013">%null%</text>
+<text id="6014">%null%</text>
+<text id="6015">%null%</text>
+<text id="6016">%null%</text>
+<text id="6017">%null%</text>
+<text id="6018">%null%</text>
+<text id="6019">%null%</text>
+<text id="6020">Eisenerz mit stumpfem, silbernem Glanz. 
+
+Grundmaterial verwendet für fortgeschrittene Verbesserungen von Prothesen-Modulen. Eisenerz kann nur in den ältesten Teilen Ashinas abgebaut werden. Alte Steine und Erde sollen Götter anlocken. Vielleicht kommt die Stärke des Metalls daher.</text>
+<text id="6100">Diese schwarzen Körnchen sind eine Rohform von Schießpulver.
+
+Kann für alchemistische Prothesen-Modul-Verbesserungen, einschließlich solchen mit Schießpulver und okkulten Mächten, genutzt werden.
+
+Für diese einfachste Form des Schießpulvers gibt es viele Anwendungen.</text>
+<text id="6200">Gelbliche Körner, eine kostbare Ware aus dem versunkenen Tal, bilden die Basis für ein starkes Schießpulver.
+
+Nutzbar für mittlere bis hochwertige explosive Prothesen-Modul-Verbesserungen.
+
+Gelbes Pulver ist stärker als schwarzes und macht die Verteidigung der Festung des Tals so mächtig.</text>
+<text id="6201">%null%</text>
+<text id="6202">%null%</text>
+<text id="6203">%null%</text>
+<text id="6204">%null%</text>
+<text id="6205">%null%</text>
+<text id="6206">%null%</text>
+<text id="6207">%null%</text>
+<text id="6208">%null%</text>
+<text id="6209">%null%</text>
+<text id="6210">Eine sehr wertvolle, überaus seltene Form von Schießpulver, die für fortgeschrittene explosive Prothesen-Modul-Verbesserungen genutzt werden kann. Seine Herstellung beruht auf dem Wissen von über südlichen Meeren und zählt zu den am strengsten gehüteten Geheimnissen des Innenministeriums. Dieses kleine chemische Wunder macht die Armee des Innenministeriums nahezu unaufhaltsam.</text>
+<text id="6300">Diese Fettwachsklumpen bilden sich unter seltenen Umständen im Körper.
+
+Kann für mittlere bis hochwertige okkulte Verbesserungen für Prothesen-Module genutzt werden. Sie sind meist Vorboten einer Krankheit und werden größer, je mehr sie sich ausbreitet.</text>
+<text id="6301">%null%</text>
+<text id="6302">%null%</text>
+<text id="6303">%null%</text>
+<text id="6304">%null%</text>
+<text id="6305">%null%</text>
+<text id="6306">%null%</text>
+<text id="6307">%null%</text>
+<text id="6308">%null%</text>
+<text id="6309">%null%</text>
+<text id="6310">Ein Klumpen fettiges Wachs aus dem Innern des Körpers, das pechschwarz geworden ist.
+
+Wird für fortgeschrittene okkulte Prothesen-Modul-Verbesserungen verwendet. Eine langwierige Erkrankung lässt den Klumpen wachsen und schwärzer werden. Es ist üblich, Wasser über die Stelle eines extrahierten Wuchses laufen zu lassen.</text>
+<text id="6400">Kostbarer himmelblauer Lazulith für die hochwertigsten Prothesen-Modul-Verbesserungen.
+
+Urquell-Lazulith symbolisiert Ewigkeit. Was damit geschmiedet wird, wird Dank des Segens des göttlichen Drachen nicht brechen oder rosten. Module mit Lazulith übersteigen den menschlichen Intellekt und sind Schätze des göttlichen Drachen.</text>
+<text id="9000">Tränen des göttlichen Drachen.
+Nur die Sterbliche Klinge kann das gütige Geschenk der Tränen gewähren.
+
+Der Körper des göttlichen Drachen ist ewig und seine Tränen wahren nach dem Vergießen für alle Ewigkeit ihre Form und Feuchtigkeit. Wenn ein Träger des Drachenerbes sie verzehrt, wird die Aufhebung der Unsterblichkeit vollzogen.</text>
+<text id="9001">%null%</text>
+<text id="9002">%null%</text>
+<text id="9003">Amulett von Kuro.
+
+Nachdem der Wolf im Hirata-Anwesen sein Leben ließ und die Macht der Auferstehung erhielt, wurde es ihm heimlich zugesteckt.
+Das Amulett hat den Wolf gut beschützt und sein Leiden gemildert. Es herzugeben würde sein Leiden weit über das bislang erduldete verstärken.</text>
+<text id="9004">%null%</text>
+<text id="9005">%null%</text>
+<text id="9006">%null%</text>
+<text id="9007">%null%</text>
+<text id="9008">%null%</text>
+<text id="9009">Ein hellrosa Kristall, der entsteht, wenn ein unsterblicher Eid nicht geknüpft werden kann.
+
+Erhöht die Auferstehungsmacht für eine zusätzliche Auferstehung.
+
+Die Versprechen der Unsterblichkeit zum Erlangen der Auferstehungsmacht können nur mit Hilfe eines göttlichen Erben des Drachenerbes erneut abgelegt werden.</text>
+<text id="9010">Ein Glocken-Amulett, das du von einer alten Frau bekommen hast, die dich bat, es Buddha darzubieten.
+
+Glocken-Amulette schützen ihren Besitzer durch den göttlichen Segen Buddhas. Besitzt man das Glocken-Amulett eines anderen, so ist es üblich, es Buddha im Namen dieser Person darzubieten. Der Bildhauer im maroden Tempel weiß, wie man es darbietet.</text>
+<text id="9011">Ein Glocken-Amulett, das dem Uhu gehörte.
+
+Der Uhu besaß diese Glocke sehr lange.
+Sie im maroden Tempel zu opfern könnte dir eine andere Erinnerung zeigen als zuvor.
+Niemand weiß, wieso diese schützende Glocke existiert. Vielleicht verwahrte sie der Uhu für sich selbst oder wollte sie jemandem geben ...</text>
+<text id="9012">%null%</text>
+<text id="9013">%null%</text>
+<text id="9014">%null%</text>
+<text id="9015">%null%</text>
+<text id="9016">%null%</text>
+<text id="9017">%null%</text>
+<text id="9018">%null%</text>
+<text id="9019">%null%</text>
+<text id="9020">Ein Brief, der in den Brunnen geworfen wurde.
+
+"Kuros Wolf,
+Euer Schicksal erwartet Euch im 
+Mondblick-Turm. Entkommt aus dem Brunnen und findet den in Mondlicht getauchten Turm.
+
+Auch ohne Klinge könnt Ihr ihn erreichen.
+Seid lautlos. Seid aufmerksam."</text>
+<text id="9052">Ein Karpfen, der im Teich im Dorf Mibu lebte. Er hat zwei rote Augen.
+Karpfen mit ausschließlich roten Augen können keine "Meister" werden.
+Auch wenn sie als unvollständige Wesen mit zu wenig Schuppen gelten, sollen ihre Augen unvergänglich sein.
+Der Forscher Dojun im verlassenen Verlies benötigt diese Augen, um sein "Verfahren" zu verbessern.</text>
+<text id="9053">%null%</text>
+<text id="9054">%null%</text>
+<text id="9055">%null%</text>
+<text id="9056">%null%</text>
+<text id="9057">%null%</text>
+<text id="9058">%null%</text>
+<text id="9059">%null%</text>
+<text id="9060">Eine Übersichtstafel aus einem großen Stück Jade.
+Ihr Besitz erhöht die Anzahl der Waren, die bei Händlern im Laden gekauft werden können. Eine solche Übersichtstafel wird von den Händlern hochgeschätzt. Ein alter Brauch schreibt vor, dass man durch den Drachenrang im Palast als höhergestellter Händler anerkannt und bevorzugt behandelt wird.</text>
+<text id="9061">Eine Handelsschuldschein-Notiz aus Ashina.
+
+Die letzte Ware von Matabei Anayama.
+
+Senkt die Kosten für Objekte, wenn du sie bei Händlern kaufst.
+
+Ein gesparter Sen ist ein verdienter Sen.
+Und solange wir atmen, gehen die Geschäfte weiter.</text>
+<text id="9062">%null%</text>
+<text id="9063">%null%</text>
+<text id="9064">%null%</text>
+<text id="9065">%null%</text>
+<text id="9066">%null%</text>
+<text id="9067">%null%</text>
+<text id="9068">%null%</text>
+<text id="9069">%null%</text>
+<text id="9070">Ein Becher gefüllt mit göttlichem Wasser, das bei den Adligen des Palasts beliebt ist.
+
+Hochzeitsprozessionen, die den Palast der Urquelle erreichen, werden mit diesem Getränk begrüßt.
+
+"Der Nektar der Adligen im Palast.
+Nur zu, trink nach Herzenslust."</text>
+<text id="9071">Eine wertvolle weiße Bartel vom großen bunten Karpfen. Der große Karpfen ist von Natur aus unsterblich, aber wenn man ihn tötet, können seine Barteln gezupft werden. Der Klang beim Zupfen der Barteln ist Musik in den Ohren bestimmter Leute. Manche wären erleichtert zu hören, dass ihre Mission ein Ende findet, andere erfreut, dass ihr Herzenswunsch in Erfüllung geht.</text>
+<text id="9072">%null%</text>
+<text id="9073">%null%</text>
+<text id="9074">%null%</text>
+<text id="9075">%null%</text>
+<text id="9076">%null%</text>
+<text id="9077">%null%</text>
+<text id="9078">%null%</text>
+<text id="9079">%null%</text>
+<text id="9080">Ein kleines Windrad aus rotem und weißem Papier. Auf halber Höhe auf dem Berg Kongo gefunden.
+
+Die rotweißen Windräder drehen sich einfach im Wind.
+
+Alle sind hier.</text>
+<text id="9081">Ein kleines Windrad aus weißem Papier. Unter einer Klippe auf dem Berg Kongo gefunden. Vielleicht hat der Wind es dorthin getragen.
+
+Es ist einfach nur ein einzelnes schneeweißes Windrad.
+
+Nur das Kind ist hier.</text>
+<text id="9082">%null%</text>
+<text id="9083">%null%</text>
+<text id="9084">%null%</text>
+<text id="9085">%null%</text>
+<text id="9086">%null%</text>
+<text id="9087">%null%</text>
+<text id="9088">%null%</text>
+<text id="9089">%null%</text>
+<text id="9090">Reis aus der Hand des göttlichen Kindes des Ewigen Wassers. Er sollte ein Geschenk für Kuro sein.
+
+"Der Reis ist wertvoll.
+Ich wünsche mir nichts mehr, als dass es dem göttlichen Erben besser geht."
+
+Kuro würde sich sicher darüber freuen.</text>
+<text id="9091">Tränen des göttlichen Kindes des Ewigen Wassers, die sie vergoss, als sie zur Wiege wurde. Es sind gefrorene Tropfen.
+
+Wenn Kuro die Drachentränen und die gefrorenen Tränen trinkt, kann
+das Wiegenritual vollzogen werden.
+
+Kalte Drachentränen, nichts weiter.</text>
+<text id="9092">%null%</text>
+<text id="9093">%null%</text>
+<text id="9094">%null%</text>
+<text id="9095">%null%</text>
+<text id="9096">%null%</text>
+<text id="9097">%null%</text>
+<text id="9098">%null%</text>
+<text id="9099">%null%</text>
+<text id="9100">Eine Flasche voll mit Sake, der in Ashina hergestellt wurde. Sake ist ein Getränk, das man teilen muss.
+
+Er enthält zwar kein Wasser aus der Urquelle, ist jedoch aus reinstem Wasser und beliebt bei den Einwohnern von Ashina.</text>
+<text id="9101">Eine Flasche voll trübem, unkultiviertem Sake. Sake ist zum Teilen da.
+
+Dieser trübe Sake ist einer von Isshin Ashinas Favoriten. Er hat einen reichen, vollen Geschmack.
+
+Andererseits genießt er den Ruf, einen zu schnell zu betrunken zu machen.</text>
+<text id="9102">Alkohol, der durch Tau, der sich in einem hohlen Baum sammelt, entsteht.
+
+Früchte, die von Affen in Baumhöhlen versteckt werden, können fermentieren und mit etwas Glück zu Sake werden.
+
+Er ist für seinen rauen Geschmack bekannt, doch manche finden diesen besonderen Geschmack unwiderstehlich.</text>
+<text id="9103">Eine Flache voll kristallklarem Sake. Sake ist zum Teilen da.
+
+Einer der besten Sake, gebraut vom Ashina-Braumeister mit Wasser aus dem Drachenquell. Das reine Wasser extrahiert jeglichen Geschmack aus Ashinas bestem Reis. Worte werden dem Geschmack nicht gerecht. Um ihn zu verstehen, muss man ihn probieren.</text>
+<text id="9104">Eine Flasche Ashina-Sake von Emma.
+Sake ist ein Getränk, das man teilen muss.
+
+Er enthält zwar kein Wasser aus der Urquelle, ist jedoch aus reinstem Wasser und beliebt bei den Einwohnern von Ashina.</text>
+<text id="9105">Eine Flasche voll trübem, unkultiviertem Sake, überreicht von Isshin.
+Sake ist zum Teilen da.
+
+Dieser trübe Sake ist einer von Isshin Ashinas Favoriten. Er hat einen reichen, vollen Geschmack.
+
+Andererseits genießt er den Ruf, einen zu schnell zu betrunken zu machen.</text>
+<text id="9180">Ein wertvoller Köder.
+
+Er hat eine schleimige Textur und Auswüchse, die Hörnern gleichen. Genau die Art Köder, die der "Meister" liebt.
+
+"Läute die Glocke und leg den Köder aus."</text>
+<text id="9181">Dies ist ein sehr kostbarer Köder.
+
+Wenn Haare aus einem Köder wachsen, ist er etwas Besonderes. Der Hirata-Adlige im Gefäß ist davon besessen, ein "Meister" zu werden.
+
+"Durch die Schuppen des Karpfens kommt man dem eigenen Dasein als Karpfen näher ... Ich gewähre dir meinen Schatz."</text>
+<text id="9182">Dies ist ein sehr kostbarer Köder.
+
+Wenn Haare aus einem Köder wachsen, ist er etwas Besonderes. Der Adlige im Gefäß im Palast der Urquelle ist davon besessen, mit dem "Meister" eins zu werden.
+
+"Gib diesen Köder dem Herrn, dem Großen Karpfen. Biete ihn aufrecht, aber leise an. Es darf niemand wissen ..."</text>
+<text id="9183">%null%</text>
+<text id="9184">%null%</text>
+<text id="9185">%null%</text>
+<text id="9186">%null%</text>
+<text id="9187">%null%</text>
+<text id="9188">%null%</text>
+<text id="9189">%null%</text>
+<text id="9190">%null%</text>
+<text id="9191">%null%</text>
+<text id="9192">Das kakiförmige Herz einer großen Schlange.
+
+Die große Schlange gilt als Gott des Landes und das Herz soll das Organ sein, in dem der Geist wohnt. Die Form ähnelt einer Kakifrucht, doch es sind die Eingeweide eines Gottes. Man kann getrost annehmen, dass der Verzehr göttlicher Eingeweide gesundheitsschädigend ist.</text>
+<text id="9193">Das getrocknete kakiförmige Herz einer großen Schlange.
+
+Die große Schlange ist ein Gott des Landes und das Herz soll das Organ sein, in dem der Geist wohnt. Es ähnelt zwar einer Kakifrucht, doch es sind die Eingeweide eines Gottes. Die Bewohner des versunkenen Tals beten die Organe offenbar an und sehen sie als Vertreter des Gottes.</text>
+<text id="9194">%null%</text>
+<text id="9195">%null%</text>
+<text id="9196">%null%</text>
+<text id="9197">%null%</text>
+<text id="9198">%null%</text>
+<text id="9199">%null%</text>
+<text id="9200">Eine herausgerissene Seite aus dem Ashina-Kräuterverzeichnis, einem Kompendium von Pflanzen und Kräutern.
+"Der "Knallsamen" wächst von Natur aus in Schluchten und tiefen Tälern. Den Bewohnern des versunkenen Tals zufolge eignen sich solche Orte für ein Heiratsangebot an die große Schlange. Wer ihre Braut werden möchte, muss den Bauch der Schlange im Tal betreten."</text>
+<text id="9201">%null%</text>
+<text id="9202">%null%</text>
+<text id="9203">%null%</text>
+<text id="9204">%null%</text>
+<text id="9205">Eine Notiz des Chirurgen Dosaku:
+Meine Schüler haben mich wegen Dogen verlassen. Unwillig, sich die Hände schmutzig zu machen, haben mich alle für diesen scheinheiligen Quacksalber verlassen ...
+Dojun! Mein letzter Schüler!
+Selbst wenn ich sterbe, muss die Forschung weitergehen. Vollende das Verfahren, zum Wohle Ashinas.
+-Dosaku</text>
+<text id="9206">Eine Beschreibung von "Ratten", die sich in Ashina eingeschlichen haben. Sprich nochmal mit dem Tengu, wenn du dich um die Ratten gekümmert hast.
+
+Die Ratten:
+- Attentäter aus dem Senpo-Tempel
+- Klein, tragen Bambushüte
+- Viele Ratten lungern herum
+- Zuletzt nahe dem Ashina-Burgtor gesichtet</text>
+<text id="9207">Ein abgenutzter, blutbefleckter Brief von Dosaku, dem Chirurgen im verlassenen Verlies.
+
+   Benötigt: 1 kräftiger Mann
+   Vorzugsweise ein starker Samurai
+   oder ein junger, großer Soldat, etwa
+   ein Mitglied der Taro-Truppe.
+   Muss unversehrt geliefert werden.
+                                                               -Dosaku</text>
+<text id="9208">Eine zerrissene, blutverschmierte Notiz von Dosaku, dem Chirurgen im verlassenen Verlies.
+
+   Am Grunde des Teiches im Dorf Mibu
+   findest du einen Sakura-Karpfen.
+   Du erkennst ihn an seinen roten Augen,
+   die angeblich nie verrotten.
+   Ich brauche diese roten Augen.
+                                                                -Dosaku</text>
+<text id="9209">Passage über einen Weg zur Erleuchtung.
+"In der Unsterblichkeit bete ich für die Rückkehr des Drachen. In der Unsterblichkeit warten wir eine Ewigkeit darauf, dass der göttliche Erbe die kalten Drachentränen aufnimmt; dass die Wiege die Früchte der Schlange verschlingt. Lasst die Wiege bestehen, ihn schützen und zurück in den Westen geleiten."</text>
+<text id="9210">Ein Buch von Kuro über die Kunst der Aufhebung des Drachenerbes. Es sieht alt aus - der Einband ist gerissen und es fehlen Seiten.
+
+"Hierin ist das Ritual zur Aufhebung der
+Unsterblichkeit beschrieben.
+Finde das Heiligtum jenseits des Palasts
+der Urquelle und trinke die Tränen
+des heiligen Drachen vom Reich der Götter."</text>
+<text id="9211">Ein Teil von Takerus Buch über die Aufhebung der Unsterblichkeit.
+"Mit Sterblicher Klinge in der Hand,
+kann mein Blut vergossen werden.
+
+Meinem Blut wird den Duft vollenden.
+Das Reich der Götter rückt näher.
+Die Unsterblichkeit wird aufgehoben.
+Ich muss Tomoe bitten, bei meiner Enthauptung zu helfen ..."</text>
+<text id="9212">Eine Notiz von Kuro, die von Takeru geschrieben wurde, dem ehemaligen göttlichen Erben des Drachenerbes.
+
+"Einst sollen Verwandte von Tomoe
+den Urquellduft gesammelt und den
+Palast aufgesucht haben. 
+
+Ein Schlüssel könnte dort sein, wo sich das 
+Ewige Wasser in den Tiefen sammelt. Eine 
+weiße und intensiv duftende Blume ..."</text>
+<text id="9213">Eine alte Notiz vom Okami-Clan, der das Reich der Götter zu erreichen suchte.
+
+"Ein duftender Stein, aufbewahrt in einem Dorf in den Tiefen Ashinas. Man muss sich hineinstürzen, um ihn zu finden. Damit ist der Urquellduft vollendet. Lasst uns nun aufbrechen ins Reich der Götter."</text>
+<text id="9214">Ein Tagebucheintrag von Takerus Diener.
+
+"Takeru-sama hielt seinen Arm über das Räuchergefäß und versuchte, ihn mit dem Schwert zu schneiden, doch seine Wunde heilte, ohne dass ein Tropfen Blut floss.
+Tomoe-sama sagte: 'Ohne sie kann dein Blut nicht vergossen werden.'
+Was kann sie nur gemeint haben?"</text>
+<text id="9215">Passage über die Reise zur Erleuchtung.
+"Eine Ära lang wurde ich durch den Wurm gesegnet. Unsterblich zu sein bedeutet, den Pfad der Erleuchtung zu beschreiten, und so muss ich erleuchtet werden, um meine Unsterblichkeit zu verstehen. Der heilige Drache soll aus dem Westen stammen. Also frage ich mich, wieso mir der Wurm gewährt wurde."</text>
+<text id="9216">Notiz in Tomoes weicher Handschrift.
+"Takeru-samas Husten wird schlimmer. Die Rückkehr ins göttliche Reich ist unmöglich. Ich möchte nur das Drachenerbe aufheben und seine Menschlichkeit wiederherstellen. Dafür brauche ich den immerblühenden Baum und die Sterbliche Klinge, die sich mir entzieht. Der Hohepriester des Senpo-Tempels hat sie versteckt. Er will die unsterblichen Fesseln nicht 
+durchtrennen ..."</text>
+<text id="9217">Eine zerfetzte Notiz von Anayama. Sie scheint einige Jahre alt zu sein.
+
+"Lukrative Information Nr. 36.
+Als wir in das Hirata-Anwesen einbrachen, fanden wir einen Lauf, der Flammen spuckte. Die Jungs haben damit ein Lagerfeuer entfacht und einen über den Durst getrunken. Es war sicher eine Art Shinobi-Modul."</text>
+<text id="9218">Eine Notiz zu den Rauchsignalen der Ashina-Shinobi, den Grauen Nachtschwalben.
+
+"Blasse, rosa Rauchsignale werden auf den Dächern der Ashina-Burg platziert. Das sind die Signale der Nachtschwalben. Vermutlich kann nur der Schwarm mit den aschenen Federn dieser Spur folgen ..."</text>
+<text id="9219">Eine von Isshin im Wachturm zurückgelassene Notiz. Vielleicht kennt Emma seinen derzeitigen Aufenthaltsort.
+
+    Liebe Emma,
+
+    vor dem Tor der Ashina-Burg wird
+    das Huschen immer lauter.
+    Der Tengu kümmert sich um die Ratten.
+    Sorge dich nicht.
+                                                   Isshin</text>
+<text id="9220">Die zurückgelassene Notiz eines toten Mannes im verlassenen Verlies.
+"Der duftende Stein wird angeblich im Schrein eines Dorfes in den Tiefen Ashinas verwahrt. Aber was bedeutet "sich hineinwerfen"? Das waren alle Hinweise aus dem alten Okami-Buch. Aber haben sie den Palast der Urquelle wirklich erreicht? Das wüsste ich gern, aber ich werde es wohl nie erfahren. Kotaro, vergib mir ..."</text>
+<text id="9221">Eine Notiz, die den Aufenthaltsort des Kodachi-Kurzschwerts Sabimaru beschreibt.
+
+Muss gekauft werden, um den Inhalt zu lesen.</text>
+<text id="9222">Eine Notiz, die den Aufenthaltsort des Kodachi-Kurzschwerts Sabimaru beschreibt.
+Das alte Kodachi Sabimaru liegt in der Ashina-Burg, aufbewahrt auf der untersten Ebene der Festung.
+Sabimaru wurde in alten Kriegen geführt und ist ein Nationalschatz von Ashina.
+Angeblich konnte der giftige blaue Rost der Klinge selbst die unmenschlichen Okami-Kriegerfrauen forttreiben.</text>
+<text id="9223">Eine Notiz zu Erscheinungen im versunkenen Tal.
+
+Muss gekauft werden, um den Inhalt zu lesen.</text>
+<text id="9224">Eine Notiz zu Erscheinungen im versunkenen Tal.
+"Im Unterschlupf des Wächteraffen des versunkenen Tals wurden Erscheinungen gesichtet, böse Geister mit vielen Gesichtern. Der alte Unterschlupf des Wächteraffen befindet sich am Grund des versunkenen Tals, unweit des Nebelwalds. Berichten zufolge kann man eine Frau in der Ferne weinen hören ..."</text>
+<text id="9225">Eine Beschreibung der dreistöckigen Pagode.
+
+Muss gekauft werden, um den Inhalt zu lesen.</text>
+<text id="9226">Beschreibung der dreistöckigen Pagode.
+"Im Innern der Pagode des Hirata-Anwesens soll es einst einen wertvollen Schatz gegeben haben; ein dreistöckiger Turm stand auf einer Klippe entlang eines von Bambus gesäumten Hangs. Anscheinend hängt der Schatz mit Shinobi-Techniken zusammen. Der tiefere Sinn entzieht sich mir, aber sie nannten ihn 'geweihter Nebel' ..."</text>
+<text id="9227">Ein alter Text, der eine schwarze sterbliche Klinge beschreibt.
+
+"Neben der roten Sterblichen Klinge gibt es auch eine schwarze. Der Name der Klinge lautet 'Offenes Tor', und ihre Macht soll das Tor zur Unterwelt öffnen können. Diese Macht erschafft Leben. Ich flehe dich an, bring dem Drachenblut Opfer dar ..."</text>
+<text id="9228">Ein heiliges Buch über Erleuchtung mit der Inschrift: "Für das göttliche Kind des Ewigen Wassers."
+"Eine Ära lang wurde ich durch den Wurm gesegnet. Unsterblich zu sein bedeutet, den Pfad der Erleuchtung zu beschreiten, und so muss ich erleuchtet werden, um meine Unsterblichkeit zu verstehen. Der heilige Drache soll aus dem Westen stammen. Also frage ich mich, wieso mir der Wurm gewährt wurde."</text>
+<text id="9402">Der Schlüssel zu einem Samurai-Torhaus an der Ashina-Talsperre, nicht weit vom Brunnen, in dem der Wolf war. Hier wird das kaputte Horn von Gyobu, dem Dämon, von Ashina-Samurai bewacht. Das Horn ist die Klinge des Speers, den Gyobu führt.
+Es heißt, kein anvisiertes Ziel entkommt Gyobus Horn. Es zieht Feinde heran und kann sogar feindliche Rüstung entfernen.</text>
+<text id="9403">Der Schlüssel zum verborgenen Hirata-Tempel, ein Geschenk vom Uhu.
+
+Der geheime Tempel befindet sich ganz hinten im Hirata-Anwesen.
+
+   "Der Herr ist absolut.
+   Verteidige ihn mit deinem Leben.
+   Wenn er entführt wird,
+   bring ihn um jeden Preis zurück."</text>
+<text id="9404">Der Schlüssel zum geheimen Durchgang aus der Ashina-Burg.
+
+Der geheime Durchgang ist am Ende des Grabens in der Ashina-Talsperre, unweit des Mondblick-Turms.
+
+Kuro ist durch den Gang aus der Burg entkommen, und der Wolf will dort zu ihm stoßen.</text>
+<text id="9405">Der Schlüssel zu einem Schrein in der Kanonenfestung. Das Tor hinter dem Götzenbild des Schreins kann geöffnet werden. Der Clan des versunkenen Tals schießt auf Fremde, die sich nähern. Die Kanonen der Schlangenaugen sind besonders schrecklich. Ihre besonderen Augen lassen sie leicht aus großer Entfernung treffen.</text>
+<text id="9500">Von irgendwoher ertönt ein gequältes Husten.
+
+Der hustende Mann fertigt wie besessen Buddha-Statuen an, um nicht von den Flammen verzehrt zu werden.
+
+Der Besitz dieses Objekts reduziert die Chance, göttliche Hilfe zu erhalten.</text>
+<text id="9501">Von irgendwoher ertönt ein gequältes Husten.
+
+Das Husten und Keuchen eines Mannes, der viel reist, um sein Geschäft zu expandieren.
+
+Der Besitz dieses Objekts reduziert die Chance, göttliche Hilfe zu erhalten.</text>
+<text id="9502">Von irgendwoher ertönt ein gequältes Husten.
+
+Das Husten und Keuchen eines Mannes, der nur an einen verlassenen Ort zurückkehren will.
+
+Der Besitz dieses Objekts reduziert die Chance, göttliche Hilfe zu erhalten.</text>
+<text id="9503">Von irgendwoher ertönt ein gequältes Husten.
+
+Das Husten und Keuchen einer Person, die ein verlorenes Kind zu sein scheint, jedoch von großer Statur.
+
+Der Besitz dieses Objekts reduziert die Chance, göttliche Hilfe zu erhalten.</text>
+<text id="9504">Von irgendwoher ertönt ein gequältes Husten.
+
+Das Husten und Keuchen eines Mannes, der von einer wunderschönen Melodie verzückt ist.
+
+Der Besitz dieses Objekts reduziert die Chance, göttliche Hilfe zu erhalten.</text>
+<text id="9505">Von irgendwoher ertönt ein gequältes Husten.
+
+Das Husten und Keuchen eines äußerst aufgewühlten Forscherpaars, das seine Arbeit jedoch unermüdlich fortsetzt.
+Sie husten beide gleichzeitig.
+
+Der Besitz dieses Objekts reduziert die Chance auf göttliche Hilfe.</text>
+<text id="9506">%null%</text>
+<text id="9507">%null%</text>
+<text id="9508">%null%</text>
+<text id="9509">%null%</text>
+<text id="9510">Von irgendwoher ertönt ein gequältes Husten.
+
+Das Husten und Keuchen eines Mannes, der nur an seine kranke Mutter denkt.
+
+Der Besitz dieses Objekts reduziert die Chance, göttliche Hilfe zu erhalten.</text>
+<text id="9511">Von irgendwoher ertönt ein gequältes Husten.
+
+Das Husten und Keuchen eines Mannes, der ebenso viel Angst wie Durst hat.
+
+Der Besitz dieses Objekts reduziert die Chance, göttliche Hilfe zu erhalten.</text>
+<text id="9512">%null%</text>
+<text id="9513">%null%</text>
+<text id="9514">%null%</text>
+<text id="9515">Von irgendwoher ertönt ein gequältes Husten.
+
+Das Husten und Keuchen einer alten Frau, die sich um ihren geliebten Herrn sorgt.
+
+Der Besitz dieses Objekts reduziert die Chance, göttliche Hilfe zu erhalten.</text>
+<text id="9516">Von irgendwoher ertönt ein gequältes Husten. Das Husten und Keuchen einer alten Frau, deren Glaube stark ist. Wenn der Glaube trotz Wahnsinn nicht ins Wanken gerät, sieht man gewisse Dinge. Dem Himmel sei Dank ...
+
+Der Besitz dieses Objekts reduziert die Chance, göttliche Hilfe zu erhalten.
+</text>
+<text id="9517">%null%</text>
+<text id="9518">%null%</text>
+<text id="9519">%null%</text>
+<text id="9520">Von irgendwoher ertönt ein gequältes Husten.
+
+Das Husten und Keuchen eines Mannes, der stolz auf seine Aufgabe ist, den Toten zu gedenken. Er hält irgendwo im Ashina-Umland Gedenkfeiern ab.
+
+Der Besitz dieses Objekts reduziert die Chance, göttliche Hilfe zu erhalten.</text>
+<text id="9521">Von irgendwoher ertönt ein gequältes Husten. Das Husten und Keuchen einer Person, die dem Tode nah ist. Die hustende Person hat unzählige Schlachten erlebt und bringt den Toten auf dem Schlachtfeld vor dem Ashina-Burgtor Opfer dar.
+
+Der Besitz dieses Objekts reduziert die Chance, göttliche Hilfe zu erhalten.</text>
+<text id="9522">Von irgendwoher ertönt ein gequältes Husten. Das Husten und Keuchen einer Person, die dem Tode nah ist. Die hustende Person scheint ein Mann zu sein, der oft Menschen sieht, die auf grausame Weise verlassen wurden. Dennoch bringt er den Toten Opfergaben dar.
+
+Der Besitz dieses Objekts reduziert die Chance, göttliche Hilfe zu erhalten.</text>
+<text id="9523">Von irgendwoher ertönt ein gequältes Husten. Das Husten und Keuchen einer Person, die dem Tode nah ist.
+Die hustende Person befindet sich in der Nähe giftiger Becken und bringt denjenigen Opfergaben dar, die Buddha nicht retten kann.
+
+Der Besitz dieses Objekts reduziert die Chance, göttliche Hilfe zu erhalten.</text>
+<text id="9524">Von irgendwoher ertönt ein gequältes Husten. Das Husten und Keuchen eines Mannes, der an einem Ort Gedenkfeiern für die Toten abhält, wo Buddha in Vergessenheit geraten ist.
+
+Der Besitz dieses Objekts reduziert die Chance auf göttliche Hilfe.</text>
+<text id="9525">Von irgendwoher ertönt ein gequältes Husten. Das Husten und Keuchen eines Betrunkenen, der die Ernsthaftigkeit von Opfergaben vergessen hat und sie dennoch erbringt.
+
+Der Besitz dieses Objekts reduziert die Chance, göttliche Hilfe zu erhalten.</text>
+<text id="9526">Von irgendwoher ertönt ein gequältes Husten. Das Husten und Keuchen eines Mannes, dessen Geschäft es ist, mit Informationen zu handeln. Dennoch ist ihm Mitgefühl nicht fremd.
+
+Der Besitz dieses Objekts reduziert die Chance auf göttliche Hilfe.</text>
+<text id="9560">Blutprobe eines Drachenfäule-Opfers.
+Enthält stillstehendes Blut.
+
+Emma kann dies nutzen, um ein Heilmittel gegen Drachenfäule zu finden.</text>
+<text id="9700">Ein vom mechanischen Genie Dogen gebautes Gerät. Wird durch Einbau in die Shinobi-Prothese zu einem funktionsfähigen Prothesen-Modul.
+Es passen überraschend viele Wurfsterne ins handtellergroße Wurfsternrad, da die Ränder zum Stapeln gedacht sind.
+Ein gutes Beispiel dafür, was durch Kombinieren von Feinmechanik mit dem Talent eines Shinobi entsteht.</text>
+<text id="9701">Ein Kunai des Schmetterlings zum Verbessern des geladenen Wurfsterns.
+Beim Werfen ertönt ein Klingeln und Phantom-Schmetterlinge erscheinen hinter ihm. Der Schmetterling sammelte schon als Kind Erfahrungen fern jeder Zivilisation auf dem Tozan-Pfad im Usui-Wald. Dieser ist vernebelt und voller Täuschungen und eignet sich somit perfekt zum Trainieren von Illusionstechniken.</text>
+<text id="9702">%null%</text>
+<text id="9703">%null%</text>
+<text id="9704">%null%</text>
+<text id="9705">%null%</text>
+<text id="9706">%null%</text>
+<text id="9707">%null%</text>
+<text id="9708">%null%</text>
+<text id="9709">%null%</text>
+<text id="9710">Feuerwerk von über südlichen Meeren. Kann in der Shinobi-Prothese als Prothesen-Modul genutzt werden. Erzeugt ein ohrenbetäubendes Geräusch, das Tieren Angst macht. Der kleine Robert und sein Vater verkauften sie, um ihre Reisen zu finanzieren. Um Roberts Leben zu verlängern reisten sie nach Japan und begannen, nach der "Unsterblichkeit" zu fragen.</text>
+<text id="9711">%null%</text>
+<text id="9712">%null%</text>
+<text id="9713">%null%</text>
+<text id="9714">%null%</text>
+<text id="9715">%null%</text>
+<text id="9716">%null%</text>
+<text id="9717">%null%</text>
+<text id="9718">%null%</text>
+<text id="9719">%null%</text>
+<text id="9720">Ein Eisenlauf, der Feuer spuckt.
+Kann in der Shinobi-Prothese als Prothesen-Modul genutzt werden.
+
+Es ist schwierig, die Wut der roten Augen mit der Kraft von Menschen zu kontrollieren.
+
+Feuer ist jedoch überaus wirksam gegen sie. Sie sollen Feuer mehr als alles andere fürchten.</text>
+<text id="9721">Stück Harz mit ewig lodernder Flamme zum Verbessern des Flammenrohrs.
+Der Harz stammt aus einer schwarzen Kiefer im Wald von Dorf Mibu. Die immer präsenten Flammen waren Wegweiser, um den Weg ins Dorf zu finden. Mit der Zeit verachteten die Dorfbewohner die Flammen, und die schwarzen Kiefern waren verloren. Wer die Flammen verteidigte, wurde ebenso verachtet.</text>
+<text id="9722">%null%</text>
+<text id="9723">%null%</text>
+<text id="9724">%null%</text>
+<text id="9725">%null%</text>
+<text id="9726">%null%</text>
+<text id="9727">%null%</text>
+<text id="9728">%null%</text>
+<text id="9729">%null%</text>
+<text id="9730">Eine schwere, schwarze Eisenaxt, die von Shinobi verwendet wird.
+Wird in der Shinobi-Prothese zum funktionsfähigen Prothesen-Modul.
+Die gewaltige Axt schneidet wenig, sondern zerstört mit ihrem Gewicht. Sie war einst die Lieblingswaffe eines Shinobi, der als Springender Affe des versunkenen Tals bekannt war. Er verlor sie zusammen mit seinem linken Arm.</text>
+<text id="9731">%null%</text>
+<text id="9732">%null%</text>
+<text id="9733">%null%</text>
+<text id="9734">%null%</text>
+<text id="9735">%null%</text>
+<text id="9736">%null%</text>
+<text id="9737">%null%</text>
+<text id="9738">%null%</text>
+<text id="9739">%null%</text>
+<text id="9740">Ein Bündel Nebelrabenfedern.
+Kann in der Shinobi-Prothese als Prothesen-Modul genutzt werden. Im Usui-Wald weit oben im Norden von Ashina lebten viele Raubvögel, darunter der Nebelrabe. Und doch wurde nie einer gefangen. Solltest du einen erwischen, ist er schon wieder verschwunden und du wirst nur Federn zurückbehalten.</text>
+<text id="9741">%null%</text>
+<text id="9742">%null%</text>
+<text id="9743">%null%</text>
+<text id="9744">%null%</text>
+<text id="9745">%null%</text>
+<text id="9746">%null%</text>
+<text id="9747">%null%</text>
+<text id="9748">%null%</text>
+<text id="9749">%null%</text>
+<text id="9750">Ein altes Kodachi-Kurzschwert mit ungleichmäßigem, blauem Rost auf der Klinge. Kann in der Shinobi-Prothese als Prothesen-Modul genutzt werden.
+
+Geschmiedet vom Ashina-Clan zur Abwehr des unmenschlichen Bösen, das vor langer Zeit Ashina überfiel. Das blaue Gift war dafür verantwortlich, dass die Geister endlich ausgetrieben wurden.</text>
+<text id="9751">%null%</text>
+<text id="9752">%null%</text>
+<text id="9753">%null%</text>
+<text id="9754">%null%</text>
+<text id="9755">%null%</text>
+<text id="9756">%null%</text>
+<text id="9757">%null%</text>
+<text id="9758">%null%</text>
+<text id="9759">%null%</text>
+<text id="9760">Ein Eisenfächer aus dem Westen.
+Wird durch Einbau in die Shinobi-Prothese zum Prothesen-Modul. Erfahrene Benutzer können Pfeile und Kugeln damit parieren. Er wurde über viele Generationen von Attentätern des Senpo-Tempels hinweg weitergegeben. Es wäre nicht verwunderlich, wenn der nächste Besitzer beschließt, dass er einfach zu schwer ist.</text>
+<text id="9761">%null%</text>
+<text id="9762">%null%</text>
+<text id="9763">%null%</text>
+<text id="9764">%null%</text>
+<text id="9765">%null%</text>
+<text id="9766">%null%</text>
+<text id="9767">%null%</text>
+<text id="9768">%null%</text>
+<text id="9769">%null%</text>
+<text id="9770">Ein Fächer aus roten Aralia-Blättern. Wird durch Einbau in die Shinobi-Prothese zum Prothesen-Modul. Erzeugt einen Windwirbel, der jeden wegzaubert, den er erfasst. "Göttliche Entführung durch einen Fächer. Beim zweiten Mal bist du verloren. Wirst du entführt, geh zum Berg Kongo. Im Senpo-Tempel werden wir tugendhafte Taten vollbringen."</text>
+<text id="9771">%null%</text>
+<text id="9772">%null%</text>
+<text id="9773">%null%</text>
+<text id="9774">%null%</text>
+<text id="9775">%null%</text>
+<text id="9776">%null%</text>
+<text id="9777">%null%</text>
+<text id="9778">%null%</text>
+<text id="9779">%null%</text>
+<text id="9780">Der berühmte Horn-Speer von Gyobu Masataka Oniwa. Kann in der Shinobi-Prothese als Prothesen-Modul genutzt werden. Das Horn zieht sich zusammen, um Feinde heranzuholen. Es kann sogar einfache Rüstung von Feinden entfernen. Als das Horn während der Rebellion zerbrach, lobte es Isshin für seine "wunderbare Form" und schenkte Oniwa den gekreuzten Speer von Shuzen Tamura.</text>
+<text id="9781">%null%</text>
+<text id="9782">%null%</text>
+<text id="9783">%null%</text>
+<text id="9784">%null%</text>
+<text id="9785">%null%</text>
+<text id="9786">%null%</text>
+<text id="9787">%null%</text>
+<text id="9788">%null%</text>
+<text id="9789">%null%</text>
+<text id="9790">Der zarte Finger einer jungen Frau.
+Kann in der Shinobi-Prothese als Prothesen-Modul genutzt werden.
+
+Er wurde, halb verdaut, im Bauch des Wächteraffen gefunden. Es gibt die Flötensignal-Shinobi-Technik, die Tiere wild macht. Das offene Loch im Finger zeigt, dass diese Technik genau dafür genutzt wurde.</text>
+<text id="9791">Ein alter Ring für zarte Finger.
+"Eisvogel" wurde eingraviert.
+
+Damit wird das Flötensignal-Prothesen-Modul verbessert. Diesen Ring beim Blasen des Flötensignals zu tragen erzeugt eine traurige Melodie. Einsamkeit und Schönheit der weinenden Stimme sind vielleicht trübsinnig genug, eine zornige Stimme verstummen zu lassen.</text>
+<text id="9792">%null%</text>
+<text id="9793">%null%</text>
+<text id="9794">%null%</text>
+<text id="9795">%null%</text>
+<text id="9796">%null%</text>
+<text id="9797">%null%</text>
+<text id="9798">%null%</text>
+<text id="9799">%null%</text>
+<text id="9800">Fremde Erinnerungen. Konzentriere dich an einer Figur des Bildhauers auf dieses Bedauern, um die Gestalt des Wolfs zu verändern. Das hat keine Auswirkung auf seine Fähigkeiten.
+Erinnerung an Shura aus einem Ashina-Volkslied: "Felder aus Toten, Leichenberge entlang der Drachenquelle, unser Land blutete. Ein feuriger Gott, dämonischer roter Wolf."</text>
+<text id="9801">%null%</text>
+<text id="9802">%null%</text>
+<text id="9803">%null%</text>
+<text id="9804">%null%</text>
+<text id="9805">%null%</text>
+<text id="9806">%null%</text>
+<text id="9807">%null%</text>
+<text id="9808">%null%</text>
+<text id="9809">%null%</text>
+<text id="9810">Fremde Erinnerungen. Konzentriere dich an einer Figur des Bildhauers auf dieses Bedauern, um die Gestalt des Wolfs zu verändern. Das hat keine Auswirkung auf seine Fähigkeiten. Die Erinnerung eines Shinobi, der einst Ashina diente. Erfüllt von tiefer Dankbarkeit gegenüber dem, der ihm seinen Arm nahm und ihm den Namen "Sekijo" gab.</text>
+<text id="9811">%null%</text>
+<text id="9812">%null%</text>
+<text id="9813">%null%</text>
+<text id="9814">%null%</text>
+<text id="9815">%null%</text>
+<text id="9816">%null%</text>
+<text id="9817">%null%</text>
+<text id="9818">%null%</text>
+<text id="9819">%null%</text>
+<text id="9820">Fremde Erinnerungen. Konzentriere dich an einer Figur des Bildhauers auf dieses Bedauern, um die Gestalt des Wolfs zu verändern. Das hat keine Auswirkung auf seine Fähigkeiten. Diese Erinnerung gehört dem Tengu von Ashina. Sie ist von einem starken Verlangen geprägt. Sobald du eine Ratte erblickst, muss sie getötet werden.</text>
+<text id="9821">%null%</text>
+<text id="9822">%null%</text>
+<text id="9823">%null%</text>
+<text id="9824">%null%</text>
+<text id="9825">%null%</text>
+<text id="9826">%null%</text>
+<text id="9827">%null%</text>
+<text id="9828">%null%</text>
+<text id="9829">%null%</text>
+<text id="9830">Eine Erinnerung an die Originalform des Wolfs. Konzentriere dich an einer Figur des Bildhauers auf diese Erinnerung, um dem Wolf seine ursprüngliche Gestalt zurückzugeben. Natürlich passt sie am besten zu ihm.</text>
+<text id="10000">Eine glitzernde Schatzkarpfen-Schuppe.
+
+Für den normalen Menschen ist es nur eine schöne Schuppe.
+
+Aber es gibt jene, die einen bestimmten "Meister" preisen, und für die diese Schuppen zu den wertvollsten Dingen der Welt zählen. Aus diesem Grund kann es sich lohnen, sie zu sammeln.</text>
+<text id="11000">Ort:
+Ashina-Umland</text>
+<text id="11001">%null%</text>
+<text id="11002">%null%</text>
+<text id="11003">%null%</text>
+<text id="11004">%null%</text>
+<text id="11005">%null%</text>
+<text id="11006">%null%</text>
+<text id="11007">%null%</text>
+<text id="11008">%null%</text>
+<text id="11009">%null%</text>
+<text id="11010">Ort:
+Hirata-Anwesen</text>
+<text id="11011">%null%</text>
+<text id="11012">%null%</text>
+<text id="11013">%null%</text>
+<text id="11014">%null%</text>
+<text id="11015">%null%</text>
+<text id="11016">%null%</text>
+<text id="11017">%null%</text>
+<text id="11018">%null%</text>
+<text id="11019">%null%</text>
+<text id="11020">Ort:
+Ashina-Burg</text>
+<text id="11021">%null%</text>
+<text id="11022">%null%</text>
+<text id="11023">%null%</text>
+<text id="11024">%null%</text>
+<text id="11025">%null%</text>
+<text id="11026">%null%</text>
+<text id="11027">%null%</text>
+<text id="11028">%null%</text>
+<text id="11029">%null%</text>
+<text id="11030">Ort:
+Senpo-Tempel, Berg Kongo</text>
+<text id="11031">%null%</text>
+<text id="11032">%null%</text>
+<text id="11033">%null%</text>
+<text id="11034">%null%</text>
+<text id="11035">%null%</text>
+<text id="11036">%null%</text>
+<text id="11037">%null%</text>
+<text id="11038">%null%</text>
+<text id="11039">%null%</text>
+<text id="11040">Ort:
+Durchgang zum versunkenen Tal</text>
+<text id="11041">%null%</text>
+<text id="11042">%null%</text>
+<text id="11043">%null%</text>
+<text id="11044">%null%</text>
+<text id="11045">%null%</text>
+<text id="11046">%null%</text>
+<text id="11047">%null%</text>
+<text id="11048">%null%</text>
+<text id="11049">%null%</text>
+<text id="11050">Ort:
+Tiefen von Ashina</text>
+<text id="11051">%null%</text>
+<text id="11052">%null%</text>
+<text id="11053">%null%</text>
+<text id="11054">%null%</text>
+<text id="11055">%null%</text>
+<text id="11056">%null%</text>
+<text id="11057">%null%</text>
+<text id="11058">%null%</text>
+<text id="11059">%null%</text>
+<text id="11060">Ort:
+Dorf Mibu</text>
+<text id="11061">%null%</text>
+<text id="11062">%null%</text>
+<text id="11063">%null%</text>
+<text id="11064">%null%</text>
+<text id="11065">%null%</text>
+<text id="11066">%null%</text>
+<text id="11067">%null%</text>
+<text id="11068">%null%</text>
+<text id="11069">%null%</text>
+<text id="11070">Ort:
+Palast der Urquelle</text>
+<text id="11071">%null%</text>
+<text id="11072">%null%</text>
+<text id="11073">%null%</text>
+<text id="11074">%null%</text>
+<text id="11075">%null%</text>
+<text id="11076">%null%</text>
+<text id="11077">%null%</text>
+<text id="11078">%null%</text>
+<text id="11079">%null%</text>
+<text id="11080">Ort:
+Ashina-Burg</text>
+<text id="11081">%null%</text>
+<text id="11082">%null%</text>
+<text id="11083">%null%</text>
+<text id="11084">%null%</text>
+<text id="11085">%null%</text>
+<text id="11086">%null%</text>
+<text id="11087">%null%</text>
+<text id="11088">%null%</text>
+<text id="11089">%null%</text>
+<text id="11090">Ort:
+Hirata-Anwesen</text>
+<text id="11091">%null%</text>
+<text id="11092">%null%</text>
+<text id="11093">%null%</text>
+<text id="11094">%null%</text>
+<text id="11095">%null%</text>
+<text id="11096">%null%</text>
+<text id="11097">%null%</text>
+<text id="11098">%null%</text>
+<text id="11099">%null%</text>
+<text id="11100">Ort:
+Palast der Urquelle</text>
+<text id="11101">%null%</text>
+<text id="11102">%null%</text>
+<text id="11103">%null%</text>
+<text id="11104">%null%</text>
+<text id="11105">%null%</text>
+<text id="11106">%null%</text>
+<text id="11107">%null%</text>
+<text id="11108">%null%</text>
+<text id="11109">%null%</text>
+<text id="11110">Ort:
+Ashina-Burg</text>
+<text id="11111">%null%</text>
+<text id="11112">%null%</text>
+<text id="11113">%null%</text>
+<text id="11114">%null%</text>
+<text id="11115">%null%</text>
+<text id="11116">%null%</text>
+<text id="11117">%null%</text>
+<text id="11118">%null%</text>
+<text id="11119">%null%</text>
+<text id="11120">Ort:
+Ashina-Burg</text>
+<text id="11121">%null%</text>
+<text id="11122">%null%</text>
+<text id="11123">%null%</text>
+<text id="11124">%null%</text>
+<text id="11125">%null%</text>
+<text id="11126">%null%</text>
+<text id="11127">%null%</text>
+<text id="11128">%null%</text>
+<text id="11129">%null%</text>
+<text id="11130">Ort:
+Ashina-Talsperre</text>
+<text id="11131">%null%</text>
+<text id="11132">%null%</text>
+<text id="11133">%null%</text>
+<text id="11134">%null%</text>
+<text id="11135">%null%</text>
+<text id="11136">%null%</text>
+<text id="11137">%null%</text>
+<text id="11138">%null%</text>
+<text id="11139">%null%</text>
+<text id="11140">Ort:
+Ashina-Umland</text>
+<text id="11141">%null%</text>
+<text id="11142">%null%</text>
+<text id="11143">%null%</text>
+<text id="11144">%null%</text>
+<text id="11145">%null%</text>
+<text id="11146">%null%</text>
+<text id="11147">%null%</text>
+<text id="11148">%null%</text>
+<text id="11149">%null%</text>
+<text id="11150">Ort:
+Ashina-Burg</text>
+<text id="11151">%null%</text>
+<text id="11152">%null%</text>
+<text id="11153">%null%</text>
+<text id="11154">%null%</text>
+<text id="11155">%null%</text>
+<text id="11156">%null%</text>
+<text id="11157">%null%</text>
+<text id="11158">%null%</text>
+<text id="11159">%null%</text>
+<text id="11160">Ort:
+Hirata-Anwesen</text>
+<text id="11161">%null%</text>
+<text id="11162">%null%</text>
+<text id="11163">%null%</text>
+<text id="11164">%null%</text>
+<text id="11165">%null%</text>
+<text id="11166">%null%</text>
+<text id="11167">%null%</text>
+<text id="11168">%null%</text>
+<text id="11169">%null%</text>
+<text id="11170">Ort:
+Ashina-Talsperre</text>
+<text id="11171">%null%</text>
+<text id="11172">%null%</text>
+<text id="11173">%null%</text>
+<text id="11174">%null%</text>
+<text id="11175">%null%</text>
+<text id="11176">%null%</text>
+<text id="11177">%null%</text>
+<text id="11178">%null%</text>
+<text id="11179">%null%</text>
+<text id="11180">Ort:
+Ashina-Talsperre</text>
+<text id="11500">???</text>
+<text id="110000">Ort:</text>
+</entries>
+</fmg>

@@ -1,0 +1,718 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="5000">&lt;?null?&gt;</text>
+<text id="5100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Wirbelwind-Hieb
+Eine Kampfkunst mit Körperdrehung.</text>
+<text id="5200">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Nachtschwalben-Hieb
+Spring mit einer Drehung und überschütte den Feind mit Hieben.</text>
+<text id="5201">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Nachtschwalben-Hieb
+Spring mit einer Drehung und überschütte den Feind mit Hieben.
+
+&lt;?kgiconKc@2?&gt; bei Zielerfassung in die dem Feind entgegengesetzte Richtung halten und dann &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Umkehr
+Hieb auf dein Ziel und per Salto entfernen.</text>
+<text id="5300">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Ichimonji
+Ein schwerer Überkopfschlag. Stellt Haltung wieder her.
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; halten: Wucht-Ichimonji
+Sammle deine Kraft für einen mächtigen Überkopfschlag. Stellt Haltung wieder her.</text>
+<text id="5301">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Ichimonji
+Ein schwerer Überkopfschlag. Stellt Haltung wieder her.
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; halten: Wucht-Ichimonji
+Sammle deine Kraft für einen mächtigen Überkopfschlag. Stellt Haltung wieder her.
+
+&lt;?kgiconKc@16?&gt; nach Ichimonji oder Wucht-Ichimonji: Folge-Ichimonji
+Ein Folgeangriff, der feindliche Konter verhindern kann. Stellt Haltung wieder her.</text>
+<text id="5400">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Schnellziehen
+Zieh dein Schwert schnell wie der Wind aus der Scheide. Verbraucht Geistembleme.
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; halten: Drachenblitz
+Zieh dein Schwert schnell wie der Wind aus der Scheide. Verbraucht Geistembleme, um eine Schockwelle mit dem Hieb zu erzeugen.</text>
+<text id="5500">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; halten: Schnellziehen-Haltung
+Steck das Schwert weg und nimm die Schnellziehen-Haltung ein.
+
+&lt;?kgiconKc@18?&gt; loslassen: Schnellziehen-Haltung aufgeben
+Beende die Schnellziehen-Haltung.
+
+&lt;?kgiconKc@16?&gt; loslassen: Ashina Kreuz
+Zieh dein Schwert und mache blitzschnell einen Kreuzschnitt. Verbraucht Geistembleme.</text>
+<text id="5600">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;: Fließender Übergang
+Führe in einem Tanz fünf aufeinanderfolgende Angriffe aus.</text>
+<text id="5601">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;: Wolkenwirbel-Übergang
+Führe einem Tanz gleich neun aufeinanderfolgende Angriffe aus. Diese Angriffe senden starke Schockwellen aus. Verbraucht Geistembleme.</text>
+<text id="5700">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;: Sterbliche Klinge
+Zieh die Sterbliche Klinge und schneide dich mit einem Schwertangriff mit erhöhter Reichweite durch die Feinde. Verbraucht Geistembleme.</text>
+<text id="5701">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;: Sterbliche Klinge
+Zieh die Klinge und schneide Feinde mit einem Schwertangriff mit erhöhter Reichweite. Verbraucht Geistembleme.
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt; halten: Machterfüllte Sterbliche Klinge
+Konzentriere dich und schneide mit einem stärkeren Schwertangriff mit erhöhter Reichweite. Verbraucht Geistembleme.</text>
+<text id="5800">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;: Senpo-Sprungschritte
+Tritt nach einem Sprung wiederholt zu.</text>
+<text id="5801">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;: Senpo-Sprungtritte
+Tritt nach einem Sprung wiederholt zu.
+
+&lt;?kgiconKc@16?&gt; nach Senpo-Sprungtritten, &lt;?kgiconKc@16?&gt;: Hochmönch
+Tritt nach mehreren Schwertangriffen im Sprung nach vorn.</text>
+<text id="5900">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;: Gebetsschläge
+Wiederholte Schläge mit der Handfläche nach Schlägen mit dem Ellbogen.</text>
+<text id="5901">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;: Gebetsschläge
+Wiederholte Schläge mit der Handfläche nach Schlägen mit dem Ellbogen.
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; halten oder &lt;?kgiconKc@16?&gt; nach Gebetsschläge: Exorzismus
+Wirf dein Körpergewicht gegen einen Feind, um ihn wegzustoßen.</text>
+<text id="6000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Schattensturm
+Führe einen stürmenden Stoßangriff mit großer Reichweite aus. Der Wolf springt bei Feindkontakt von ihm ab in die Luft. Verbraucht Geistembleme.
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; halten: Führe einen Schattensturm-Angriff mit erhöhter Reichweite aus. Verbraucht Geistembleme.
+</text>
+<text id="6001">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Schattensturm
+Führe einen stürmenden Stoßangriff mit großer Reichweite aus. Der Wolf springt bei Feindkontakt von ihm ab in die Luft. Verbraucht Geistembleme.
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; halten: Geladener Schattensturm
+Verwende Geistembleme für einen Schattensturm-Angriff mit erhöhter Reichweite.
+
+&lt;?kgiconKc@16?&gt; nach Schattensturm-Sprung: Schatteneinschlag
+Ein wirbelnder Schnitt auf dem Weg nach unten.</text>
+<text id="6100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; halten: Schnellziehen-Haltung
+Steck das Schwert weg und nimm die Schnellziehen-Haltung ein.
+
+&lt;?kgiconKc@18?&gt; loslassen: Schnellziehen-Haltung aufgeben
+Beende die Schnellziehen-Haltung.
+
+&lt;?kgiconKc@16?&gt; loslassen: Ein Geist
+Verwende Geistembleme, um Feinde mit einem blitzartigen Angriff aufzuschlitzen.
+
+&lt;?kgiconKc@16?&gt; nach Ein Geist: Schnellziehen-Folgeangriff
+Tritt mit einem Schnellziehen-Angriff vor.</text>
+<text id="7000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Nachtschwalben-Hieb
+Spring mit einer Drehung und überschütte den Feind mit Hieben.
+
+&lt;?kgiconKc@2?&gt; bei Zielerfassung in die dem Feind entgegengesetzte Richtung halten und dann &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Umkehr
+Hieb auf dein Ziel und per Salto entfernen.</text>
+<text id="7100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Ichimonji
+Ein schwerer Überkopfschlag. Stellt Haltung wieder her.
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; halten: Wucht-Ichimonji
+Sammle deine Kraft für einen mächtigen Überkopfschlag. Stellt Haltung wieder her.
+
+&lt;?kgiconKc@16?&gt; nach Ichimonji oder Wucht-Ichimonji: Folge-Ichimonji
+Ein Folgeangriff, der feindliche Konter verhindern kann. Stellt Haltung wieder her.</text>
+<text id="7200">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;: Wolkenwirbel-Übergang
+Führe einem Tanz gleich neun aufeinanderfolgende Angriffe aus. Diese Angriffe senden starke Schockwellen aus. Verbraucht Geistembleme.</text>
+<text id="7300">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;: Sterbliche Klinge
+Zieh die Klinge und schneide Feinde mit einem Schwertangriff mit erhöhter Reichweite. Verbraucht Geistembleme.
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt; halten: Machterfüllte Sterbliche Klinge
+Konzentriere dich und schneide mit einem stärkeren Schwertangriff mit erhöhter Reichweite. Verbraucht Geistembleme.</text>
+<text id="7400">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;: Senpo-Sprungtritte
+Tritt nach einem Sprung wiederholt zu.
+
+&lt;?kgiconKc@16?&gt; nach Senpo-Sprungtritten, &lt;?kgiconKc@16?&gt;: Hochmönch
+Tritt nach mehreren Schwertangriffen im Sprung nach vorn.</text>
+<text id="7500">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;: Gebetsschläge
+Wiederholte Schläge mit der Handfläche nach Schlägen mit dem Ellbogen.
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; halten oder &lt;?kgiconKc@16?&gt; nach Gebetsschläge: Exorzismus
+Wirf dein Körpergewicht gegen einen Feind, um ihn wegzustoßen.</text>
+<text id="7600">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Schattensturm
+Führe einen stürmenden Stoßangriff mit großer Reichweite aus. Der Wolf springt bei Feindkontakt von ihm ab in die Luft. Verbraucht Geistembleme.
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; halten: Geladener Schattensturm
+Verwende Geistembleme für einen Schattensturm-Angriff mit erhöhter Reichweite.
+
+&lt;?kgiconKc@16?&gt; nach Schattensturm-Sprung: Schatteneinschlag
+Ein wirbelnder Schnitt auf dem Weg nach unten.</text>
+<text id="7700">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Sakura-Tanz
+
+Drehe dich, um Schwung für eine Reihe von drei Sprunghieben in Tanzform zu sammeln. Weiche Rundumangriffen aus und füge deinem Gegner mit scharfen Schnitten sogar durch seine Abwehr Schaden zu.
+Kann nach dem Angriff in eine Flugtechnik übergehen. Verbraucht Geistembleme.</text>
+<text id="70000">&lt;?kgiconKc@17?&gt;: Wurfsternwurf
+Angriff durch einen geworfenen Wurfstern.</text>
+<text id="70100">&lt;?kgiconKc@17?&gt;: Wurfsternwurf
+Angriff durch einen geworfenen Wurfstern.
+
+&lt;?kgiconKc@17?&gt; halten: Wurfstern-Wirbelwurf
+Lade die Drehkraft der Wurfsterne auf, bevor du sie wirfst. Trifft Feinde mehrere Male.</text>
+<text id="70200">&lt;?kgiconKc@17?&gt;: Wurfsternwurf
+Angriff durch einen geworfenen scharfkantigen Wurfstern. Die durchdringende Wirkung schädigt selbst die Vitalität und Haltung abwehrender Feinde.
+
+&lt;?kgiconKc@17?&gt; halten: Wirbelnder Wurfsternwurf
+Lade die Drehkraft der Wurfsterne auf, bevor du sie wirfst. Trifft Feinde mehrere Male.</text>
+<text id="70300">&lt;?kgiconKc@17?&gt;: Phantom-Schmetterlinge
+Phantom-Schmetterlinge schwärmen aus, nachdem du ein Kunai geworfen hast. Sie verfolgen Feinde und können trotz Abwehr Schaden verursachen.
+
+&lt;?kgiconKc@17?&gt; halten: Schwarmtanz
+Aufladen, um mehr Schmetterlinge zu entfesseln.</text>
+<text id="70400">&lt;?kgiconKc@17?&gt;: Sen-Wurf
+Wirf Münzen.
+
+&lt;?kgiconKc@17?&gt; halten: Geldregen
+Verstreut jede Menge Sen.
+Die Summe an geworfenen Sen hängt davon ab, wie viel Sen du besitzt.
+  "Wer bettelarm ist, wirft nur Staub.
+   Wer arm ist, wirft wenig Geld.
+   Wer reich ist, wirft viel Geld.
+   Wer steinreich ist, wirft so
+   viel Geld, dass die anderen weinen."</text>
+<text id="70500">&lt;?kgiconKc@17?&gt;: Lazulith-Wurfstern
+Schleudere sehr scharfe Wurfsterne. Schädigt die Vitalität enorm und fügt trotz Abwehr der Vitalität und Haltung Schaden zu.
+
+&lt;?kgiconKc@17?&gt; halten: Wirbelnder Lazulith-Wurfstern
+Lass die Wurfsterne rotieren, bevor du sie wirfst. Trifft Feinde mehrere Male.</text>
+<text id="71000">&lt;?kgiconKc@17?&gt;: Shinobi-Feuerwerk
+Entfessle einen Blitz aus Schießpulver vor dir. Erschreckt Tiere.</text>
+<text id="71100">&lt;?kgiconKc@17?&gt;: Shinobi-Feuerwerk
+Entfessle einen Schießpulverblitz vor dir. Erschreckt Tiere.
+
+&lt;?kgiconKc@17?&gt; halten: Gefedertes Feuerwerk
+Lade den Federmechanismus auf, um einen Schießpulverblitz in alle Richtungen zu entfesseln, während du dich drehst.</text>
+<text id="71200">&lt;?kgiconKc@17?&gt;: Langfunke
+Entfessle einen langanhaltenden Blitz aus Schießpulver vor dir. Erschreckt Tiere.
+
+&lt;?kgiconKc@17?&gt; halten: Gefederter Langfunke
+Lade den Federmechanismus auf, um einen anhaltenden Schießpulverblitz in alle Richtungen zu entfesseln.</text>
+<text id="71300">&lt;?kgiconKc@17?&gt;: Lila Rauchfunke
+Streu lila Rauch vor dir, der Schießpulverblitze erzeugt. Zündet langsamer als Feuerwerk. Geblendete Feinde erleiden kurzzeitig etwas mehr Schaden an Vitalität und Haltung.
+
+&lt;?kgiconKc@17?&gt; halten: Gefederter lila Rauchfunke
+Lade den Federmechanismus auf für einen Schießpulverblitz im Drehen in alle Richtungen.</text>
+<text id="72000">&lt;?kgiconKc@17?&gt;: Feueratem
+Verschießt einen Feuerstoß vor dir.</text>
+<text id="72100">&lt;?kgiconKc@17?&gt;: Feueratem
+Verschießt einen Feuerstoß vor dir.
+
+&lt;?kgiconKc@17?&gt; halten: Flammenstoß
+Lade den Federmechanismus auf, um eine Feuerexplosion vor dir zu entfesseln.</text>
+<text id="72200">&lt;?kgiconKc@17?&gt;: Feueratem
+Verschießt einen Feuerstoß vor dir.
+
+&lt;?kgiconKc@17?&gt; halten: Flammenstoß
+Lade den Federmechanismus auf und entfessle eine Feuerexplosion. Diese starke Explosion stößt Feinde zurück.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt; halten: Flammenfluss
+Erzeugt einen Feuerhagel vor dir.</text>
+<text id="72300">&lt;?kgiconKc@17?&gt;: Heilige Flamme
+Verschieße Flammen heiliger Macht vor dir. Wirkt gegen Erscheinungen.
+
+&lt;?kgiconKc@17?&gt; halten: Heilige Flammenexplosion
+Entfessle einen heiligen Flammenstoß vor dir.
+Diese starke Explosion stößt Feinde zurück.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt; halten: Heiliger Flammenfluss
+Anhaltende heilige Flammen vor dir.</text>
+<text id="73000">&lt;?kgiconKc@17?&gt;: Schlag
+Schwing die Axt nach unten, um einen Feind niederzustrecken. Zerstört Holzschilde.</text>
+<text id="73100">&lt;?kgiconKc@17?&gt;: Schlag
+Schwing die Axt nach unten, um einen Feind niederzustrecken. Zerstört Holzschilde.
+
+&lt;?kgiconKc@17?&gt; halten: Wirbelschlag
+Wirbel mit der Axt im Kreis umher, um Feinde niederzustrecken.
+Drück während des Wirbelschlags &lt;?kgiconKc@17?&gt;, um dich erneut zu drehen und den Angriff fortzusetzen.</text>
+<text id="73200">&lt;?kgiconKc@17?&gt;: Funke
+Lass eine Flammenaxt hinuntersausen, um einen Feind niederzustrecken. Zerstört Schilde aus Holz und erzeugt beim Aufprall brüllende Flammen.
+
+&lt;?kgiconKc@17?&gt; halten: Wirbelschlag
+Wirbel mit der Flammenaxt im Kreis umher, um Feinde niederzustrecken.
+Drück während des Wirbelschlags &lt;?kgiconKc@17?&gt;, um dich erneut zu drehen und den Angriff fortzusetzen.</text>
+<text id="73300">&lt;?kgiconKc@17?&gt;: Lazulith-Schlag
+Lass die Lazulith-Axt auf den Boden krachen, um eine Schockwelle zu erzeugen, die Illusionen aufhebt.
+
+&lt;?kgiconKc@17?&gt; halten: Lazulith-Sense
+Wirbel mit der Lazulith-Axt im Kreis umher, um Feinde niederzustrecken.
+Drück während der Lazulith-Sense &lt;?kgiconKc@17?&gt;, um dich erneut zu drehen und den Angriff fortzusetzen.</text>
+<text id="74000">&lt;?kgiconKc@17?&gt;: Nebel-Haltung
+Wenn du in dieser Haltung angegriffen wirst, bewege dich sofort in die mit &lt;?kgMove?&gt; gewählte Richtung.</text>
+<text id="74100">&lt;?kgiconKc@17?&gt;: Nebel-Haltung
+Wenn du in dieser Haltung angegriffen wirst, bewege dich sofort in die mit &lt;?kgMove?&gt; gewählte Richtung.
+
+&lt;?kgiconKc@17?&gt; nachdem du angegriffen wurdest: Nebelrabe
+Bewege dich sofort in die mit &lt;?kgMove?&gt; gewählte Richtung.</text>
+<text id="74200">&lt;?kgiconKc@17?&gt;: Rote Nebel-Haltung
+Wenn du in dieser Haltung angegriffen wirst, bewege dich sofort in die mit &lt;?kgMove?&gt; gewählte Richtung. Die zurückgelassenen Federn entzünden sich und verbrennen Feinde.
+
+&lt;?kgiconKc@17?&gt; nachdem Schaden erlitten wurde: Roter Nebelrabe
+Bewege dich sofort in die mit &lt;?kgMove?&gt; gewählte Richtung. Die zurückgelassenen Federn entzünden sich und verbrennen Feinde.</text>
+<text id="75000">&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;: Kombo
+Greife wiederholt mit dem Schwert und Sabimaru an. Sabimaru-Angriffe verursachen die Status-Anomalie "Gift".</text>
+<text id="75100">&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;: Kombo
+Greife wiederholt mit dem Schwert und Sabimaru an.
+
+&lt;?kgiconKc@16?&gt; während der Kombo: Kombowechsel-Angriff
+Ein Schwertangriff, der deine Angriffskombo ändert. Dadurch drehst du deinen Körper und kannst ausweichen.</text>
+<text id="75200">&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;: Kombo 
+Greife wiederholt mit dem Schwert und Sabimaru an. Sabimarus Klinge fügt der Vitalität und Haltung des Feindes trotz Abwehr Schaden zu.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@16?&gt;: Kombowechsel-Angriff
+Ein Schwertangriff, der deine Angriffskombo ändert. Dadurch drehst du deinen Körper und kannst ausweichen.</text>
+<text id="75300">&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;: Kombo 
+Greife wiederholt mit dem Schwert und Sabimaru an. Jeder Sabimaru-Hieb hinterlässt eine giftige Wolke.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@16?&gt;: Kombowechsel-Angriff
+Ein Schwertangriff, der deine Angriffskombo ändert. Dadurch drehst du deinen Körper und kannst ausweichen.</text>
+<text id="76000">&lt;?kgiconKc@17?&gt; halten: Zuflucht
+Spann den geladenen Schirm auf, um feindliche Angriffe abzuwehren. Du kannst dich dabei bewegen, leichte Angriffe werden dabei geblockt.
+
+&lt;?kgiconKc@17?&gt; bei feindlichem Treffer: Schirm-Parieren
+Spann den Schirm auf, um feindliche Angriffe zu parieren. Schirm-Parieren ist leichter abzustimmen als Schwert-Parieren.</text>
+<text id="76100">&lt;?kgiconKc@17?&gt; halten: Zuflucht
+Spann den geladenen Schirm auf, um Angriffe abzuwehren. Leichte Angriffe werden auch beim Bewegen abgewehrt.
+
+&lt;?kgiconKc@17?&gt; bei Treffer: Schirm-Parieren
+Spann den Schirm auf, um Angriffe zu parieren. Schirm-Parieren ist leichter abzustimmen als Schwert-Parieren.
+
+Während Zuflucht &lt;?kgiconKc@18?&gt; bei Treffer: Schirmwirbel
+Lass den Schirm wirbeln, um Angriffe zu parieren.</text>
+<text id="76200">&lt;?kgiconKc@17?&gt; halten: Zuflucht
+Spann den geladenen Schirm auf, um Angriffe abzuwehren. Leichte Angriffe werden auch beim Bewegen abgewehrt.
+
+&lt;?kgiconKc@17?&gt; bei Treffer: Schirm-Parieren
+Spann den Schirm auf, um Angriffe zu parieren. Schirm-Parieren ist leichter abzustimmen als Schwert-Parieren.
+
+Während Zuflucht &lt;?kgiconKc@18?&gt; bei Treffer: Schirmwirbel
+Lass den Schirm wirbeln, um Angriffe zu parieren.</text>
+<text id="76300">&lt;?kgiconKc@17?&gt; halten: Zuflucht
+Spann den geladenen Schirm auf, um Angriffe abzuwehren. Leichte Angriffe werden auch beim Bewegen abgewehrt.
+
+&lt;?kgiconKc@17?&gt; bei Treffer: Schirm-Parieren
+Spann den Schirm auf, um Angriffe zu parieren. Schirm-Parieren ist leichter abzustimmen als Schwert-Parieren.
+
+Während Zuflucht &lt;?kgiconKc@18?&gt; bei Treffer: Schirmwirbel
+Lass den Schirm wirbeln, um Angriffe zu parieren.</text>
+<text id="77000">&lt;?kgiconKc@17?&gt;: Aufziehender Strudel
+Hülle dich mit dem Blätterfächer in Wirbelwinde.
+
+&lt;?kgiconKc@17?&gt; während Aufziehender Strudel: Göttliche Entführung
+Entfessle die Winde um Feinde, um sie plötzlich von dir wegzudrehen. Alle bis auf einige starke Feinde verlieren dich aus den Augen und sind für einen Todesschlag anfällig.</text>
+<text id="77100">&lt;?kgiconKc@17?&gt;: Aufziehender Mahlstrom
+Hülle dich mit dem Blätterfächer in einen Mahlstrom.
+
+&lt;?kgiconKc@17?&gt; während Aufziehender Mahlstrom: Göttliche Entführung
+Entfessle die Winde um den Feind, um ihn umzudrehen. Kann zweimal entfesselt werden. Alle bis auf einige starke Feinde verlieren dich aus den Augen und sind für einen Todesschlag anfällig.</text>
+<text id="77200">&lt;?kgiconKc@17?&gt;: Aufziehender goldener Strudel
+Hülle dich mit dem Blätterfächer in einen goldenen Strudel.
+
+&lt;?kgiconKc@17?&gt; während Aufziehender goldener Strudel: Gabenwirbel
+Entfessle die Winde um den Feind, um ihn umzudrehen. Außerdem lassen sie Objekte und Sen fallen. Kann zweimal entfesselt werden. Alle bis auf einige starke Feinde verlieren dich aus den Augen und sind für einen Todesschlag anfällig.</text>
+<text id="78000">&lt;?kgiconKc@17?&gt;: Stoß
+Ein Vorwärtsstoß mit dem Speer.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;: Ziehen
+Zieh einen vom Speer getroffenen Feind zu dir. Kann sogar Stücke einfacher Rüstung entfernen.</text>
+<text id="78100">&lt;?kgiconKc@17?&gt;: Stoß
+Ein Vorwärtsstoß mit dem Speer.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;: Ziehen
+Zieh einen vom Speer getroffenen Feind zu dir. Kann Feinden einfache Rüstung entfernen.
+
+&lt;?kgiconKc@17?&gt; halten: Sturm
+Mach deinen Speer bereit und stürme voran.</text>
+<text id="78200">&lt;?kgiconKc@17?&gt;: Stoß
+Ein Vorwärtsstoß mit dem Speer.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;: Ziehen
+Zieh einen vom Speer getroffenen Feind zu dir. Kann Feinden einfache Rüstung entfernen.
+
+&lt;?kgiconKc@17?&gt; halten: Spalten
+Sammle deine Kraft, um dir einen Weg durch Feinde hindurch zu bahnen.</text>
+<text id="78300">&lt;?kgiconKc@17?&gt;: Korkenzieher-Stoß
+Ein drehender Korkenzieher-Stoß gegen einen Feind vor dir. Fügt trotz Abwehr der Vitalität und Haltung Schaden zu.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;: Ziehen
+Zieh einen vom Speer getroffenen Feind zu dir. Kann einfache Rüstung entfernen.
+
+&lt;?kgiconKc@17?&gt; halten: Korkenzieher-Sturm
+Mach dich bereit und entfessle einen Korkenzieher-Sturm.</text>
+<text id="78400">&lt;?kgiconKc@17?&gt;: Flammenstoß
+Ein Stoß vorwärts mit einem brennenden Speer. Versetzt Feinde in den "Brennend"-Status.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;: Ziehen
+Zieh einen vom Speer getroffenen Feind zu dir. Kann einfache Rüstung entfernen.
+
+&lt;?kgiconKc@17?&gt; halten: Flammensturm
+Sammle Kraft, um dir einen Weg durch Feinde zu schlagen und sie in Brand zu setzen.</text>
+<text id="79000">&lt;?kgiconKc@17?&gt;: Flötensignal
+Errege die Aufmerksamkeit von Feinden mit einem Flötensignal. Macht Tiere wütend, wodurch sie auch Verbündete angreifen.
+
+Der Klang der Flöte ist nur für das anvisierte Ziel hörbar. Ist kein Ziel anvisiert, hören alle Feinde das Signal.</text>
+<text id="79100">&lt;?kgiconKc@17?&gt;: Flötensignal
+Errege damit die Aufmerksamkeit von Feinden. Macht Tiere wütend, wodurch sie auch Verbündete angreifen.
+
+&lt;?kgiconKc@17?&gt; halten: Berg-Echo
+Verzögert den Klang der Flöte, wenn sie geblasen wurde. Der Klang der Flöte ist nur für das anvisierte Ziel hörbar. Ist kein Ziel anvisiert, hören alle Feinde das Signal.</text>
+<text id="79200">&lt;?kgiconKc@17?&gt;: Unzufriedenes Flötensignal
+Mach mit einer Flöte auf dich aufmerksam. Erschafft eine Angriffsgelegenheit, indem bei Erscheinungen Qualen verursacht werden.
+
+&lt;?kgiconKc@17?&gt; halten: Berg-Echo
+Verzögert den Klang der Flöte, sodass sie erst einige Sekunden später ertönt.
+
+Der Klang der Flöte ist nur für das anvisierte Ziel hörbar. Ist kein Ziel anvisiert, hören alle Feinde das Signal.</text>
+<text id="200000">&lt;?kgiconKc@16?&gt; während der Greifhaken-Bewegung: Greifhaken-Angriff
+Nutze den Schwung deiner Landung, um einen mächtigen Schwertangriff auszuführen.</text>
+<text id="200100">&lt;?kgiconKc@18?&gt; in der Luft: Flug-Abwehr
+Wehre feindliche Angriffe in der Luft ab.
+
+&lt;?kgiconKc@18?&gt; wenn ein feindlicher Angriff in der Luft trifft: Flug-Parieren
+Pariere feindliche Angriffe in der Luft.</text>
+<text id="200200">&lt;?kgiconKc@17?&gt; in der Luft: Flug-Prothesen-Modul
+Setze in der Luft Prothesen-Module ein.</text>
+<text id="200300">&lt;?kgiconKc@5?&gt; wenn ein feindlicher Stoßangriff trifft: Mikiri-Konter
+Tritt auf das Schwert des Gegners, um einen Stoß wirkungslos zu machen und eine große Menge Schaden gegen die Haltung zu bewirken.</text>
+<text id="200400"> &lt;?kgiconKc@7?&gt; beim Sprinten: Gleiten
+Gleite am Ende eines Sprints und geh in die Hocke.</text>
+<text id="200500">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; in der Luft: Flug-Kampfkunst</text>
+<text id="200600">&lt;?kgiconKc@6?&gt; bei durchbrochener Haltung: Übersprung
+Spring über und hinter den Feind.</text>
+<text id="210000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Wirbelwind-Hieb
+Eine Kampfkunst mit Körperdrehung.</text>
+<text id="211000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Schattensturm
+Führe einen stürmenden Stoßangriff mit großer Reichweite aus. Der Wolf springt bei Feindkontakt von ihm ab in die Luft. Verbraucht Geistembleme.
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; halten: Führe einen Schattensturm-Angriff mit erhöhter Reichweite aus. Verbraucht Geistembleme.
+</text>
+<text id="301000">&lt;?kgiconKc@16?&gt; nach dem Einsatz bestimmter Prothesen-Module: Treibender Schnitt
+Spring nach vorn und greife mit einem Schnitt an.
+
+Geeignete Prothesen-Module:
+&lt;?wepTextCS@70000?&gt;
+&lt;?wepTextCS@71000?&gt;
+&lt;?wepTextCS@78000?&gt;</text>
+<text id="301100">&lt;?kgiconKc@16?&gt; nach dem Einsatz mancher Prothesen-Module: Fangzahn und Klinge
+Greife gleichzeitig oder nacheinander mit dem Modul und dem Schwert an.
+
+Geeignete Prothesen-Module:
+&lt;?wepTextSS@73000?&gt;
+&lt;?wepTextSS@78000?&gt;
+&lt;?wepTextSS@74000?&gt;</text>
+<text id="301200">&lt;?kgiconKc@16?&gt; nach dem Einsatz mancher Prothesen-Module: Kraftprojektion
+Ein Angriff, der die Wirkung des Prothesen-Moduls vor dir freisetzt.
+
+Geeignete Prothesen-Module:
+&lt;?wepTextPS@76000?&gt;
+
+&lt;?wepTextPS@79000?&gt;</text>
+<text id="301300">&lt;?kgiconKc@16?&gt; nach dem Einsatz bestimmter Prothesen-Module: Lebendige Kraft
+Verleiht dem Schwert den Effekt des Moduls.
+
+Geeignete Prothesen-Module:
+&lt;?wepTextES@72000?&gt;
+&lt;?wepTextES@77000?&gt;</text>
+<text id="310000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Nachtschwalben-Hieb
+Spring mit einer Drehung und überschütte den Feind mit Hieben.</text>
+<text id="310100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Nachtschwalben-Hieb
+Spring mit einer Drehung und überschütte den Feind mit Hieben.
+
+&lt;?kgiconKc@2?&gt; bei Zielerfassung in die dem Feind entgegengesetzte Richtung halten und dann &lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Umkehr
+Hieb auf dein Ziel und per Salto entfernen.</text>
+<text id="410000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Ichimonji
+Ein schwerer Überkopfschlag. Stellt Haltung wieder her.
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; halten: Wucht-Ichimonji
+Sammle deine Kraft für einen mächtigen Überkopfschlag. Stellt Haltung wieder her.</text>
+<text id="410100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Ichimonji
+Ein schwerer Überkopfschlag. Stellt Haltung wieder her.
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; halten: Wucht-Ichimonji
+Sammle deine Kraft für einen mächtigen Überkopfschlag. Stellt Haltung wieder her.
+
+&lt;?kgiconKc@16?&gt; nach Ichimonji oder Wucht-Ichimonji: Folge-Ichimonji
+Ein Folgeangriff, der feindliche Konter verhindern kann. Stellt Haltung wieder her.</text>
+<text id="411000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; halten: Schnellziehen-Haltung
+Steck das Schwert weg und nimm die Schnellziehen-Haltung ein.
+
+&lt;?kgiconKc@18?&gt; loslassen: Schnellziehen-Haltung aufgeben
+Beende die Schnellziehen-Haltung.
+
+&lt;?kgiconKc@16?&gt; loslassen: Ashina Kreuz
+Zieh dein Schwert und mache blitzschnell einen Kreuzschnitt. Verbraucht Geistembleme.</text>
+<text id="510000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;: Gebetsschläge
+Wiederholte Schläge mit der Handfläche nach Schlägen mit dem Ellbogen.</text>
+<text id="510100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;: Gebetsschläge
+Wiederholte Schläge mit der Handfläche nach Schlägen mit dem Ellbogen.
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; halten oder &lt;?kgiconKc@16?&gt; nach Gebetsschläge: Exorzismus
+Wirf dein Körpergewicht gegen einen Feind, um ihn wegzustoßen.</text>
+<text id="511000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;: Senpo-Sprungschritte
+Tritt nach einem Sprung wiederholt zu.</text>
+<text id="511100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;: Senpo-Sprungtritte
+Tritt nach einem Sprung wiederholt zu.
+
+&lt;?kgiconKc@16?&gt; nach Senpo-Sprungtritten, &lt;?kgiconKc@16?&gt;: Hochmönch
+Tritt nach mehreren Schwertangriffen im Sprung nach vorn.</text>
+<text id="610100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Schattensturm
+Führe einen stürmenden Stoßangriff mit großer Reichweite aus. Der Wolf springt bei Feindkontakt von ihm ab in die Luft. Verbraucht Geistembleme.
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; halten: Geladener Schattensturm
+Verwende Geistembleme für einen Schattensturm-Angriff mit erhöhter Reichweite.
+
+&lt;?kgiconKc@16?&gt; nach Schattensturm-Sprung: Schatteneinschlag
+Ein wirbelnder Schnitt auf dem Weg nach unten.</text>
+<text id="611100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;: Wolkenwirbel-Übergang
+Führe einem Tanz gleich neun aufeinanderfolgende Angriffe aus. Diese Angriffe senden starke Schockwellen aus. Verbraucht Geistembleme.</text>
+<text id="612100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;: Sterbliche Klinge
+Zieh die Klinge und schneide Feinde mit einem Schwertangriff mit erhöhter Reichweite. Verbraucht Geistembleme.
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt; halten: Machterfüllte Sterbliche Klinge
+Konzentriere dich und schneide mit einem stärkeren Schwertangriff mit erhöhter Reichweite. Verbraucht Geistembleme.</text>
+<text id="620000">&lt;?null?&gt;</text>
+<text id="620100">&lt;?null?&gt;</text>
+<text id="630000">&lt;?null?&gt;</text>
+<text id="630100">&lt;?null?&gt;</text>
+<text id="640000">&lt;?null?&gt;</text>
+<text id="640100">&lt;?null?&gt;</text>
+<text id="640200">&lt;?null?&gt;</text>
+<text id="640300">&lt;?null?&gt;</text>
+<text id="640400">&lt;?null?&gt;</text>
+<text id="650000">&lt;?null?&gt;</text>
+<text id="650100">&lt;?null?&gt;</text>
+<text id="650200">&lt;?null?&gt;</text>
+<text id="650300">&lt;?null?&gt;</text>
+<text id="650400">&lt;?null?&gt;</text>
+<text id="660000">&lt;?null?&gt;</text>
+<text id="660100">&lt;?null?&gt;</text>
+<text id="660200">&lt;?null?&gt;</text>
+<text id="660300">&lt;?null?&gt;</text>
+<text id="660400">&lt;?null?&gt;</text>
+<text id="660500">&lt;?null?&gt;</text>
+<text id="660600">&lt;?null?&gt;</text>
+<text id="660700">&lt;?null?&gt;</text>
+<text id="660800">&lt;?null?&gt;</text>
+<text id="670000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;: Sterbliche Klinge
+Zieh die Sterbliche Klinge und schneide dich mit einem Schwertangriff mit erhöhter Reichweite durch die Feinde. Verbraucht Geistembleme.</text>
+<text id="671000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Schnellziehen
+Zieh dein Schwert schnell wie der Wind aus der Scheide. Verbraucht Geistembleme.
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; halten: Drachenblitz
+Zieh dein Schwert schnell wie der Wind aus der Scheide. Verbraucht Geistembleme, um eine Schockwelle mit dem Hieb zu erzeugen.</text>
+<text id="672000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;, &lt;?kgiconKc@16?&gt;: Fließender Übergang
+Führe in einem Tanz fünf aufeinanderfolgende Angriffe aus.</text>
+<text id="673000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; halten: Schnellziehen-Haltung
+Steck das Schwert weg und nimm die Schnellziehen-Haltung ein.
+
+&lt;?kgiconKc@18?&gt; loslassen: Schnellziehen-Haltung aufgeben
+Beende die Schnellziehen-Haltung.
+
+&lt;?kgiconKc@16?&gt; loslassen: Ein Geist
+Verwende Geistembleme, um Feinde mit einem blitzartigen Angriff aufzuschlitzen.
+
+&lt;?kgiconKc@16?&gt; nach Ein Geist: Schnellziehen-Folgeangriff
+Tritt mit einem Schnellziehen-Angriff vor.</text>
+<text id="674000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Sakura-Tanz
+
+Drehe dich, um Schwung für eine Reihe von drei Sprunghieben in Tanzform zu sammeln. Weiche Rundumangriffen aus und füge deinem Gegner mit scharfen Schnitten sogar durch seine Abwehr Schaden zu.
+Kann nach dem Angriff in eine Flugtechnik übergehen. Verbraucht Geistembleme.</text>
+<text id="680000">&lt;?null?&gt;</text>
+<text id="681000">&lt;?kgiconKc@16?&gt; bei einem Feind hoch in der Luft: Luftabwehr-Todesschlag
+Führe einen Todesschlag gegen einen Feind in der Luft aus.</text>
+<text id="690000">&lt;?null?&gt;</text>
+<text id="690100">&lt;?null?&gt;</text>
+<text id="690200">&lt;?null?&gt;</text>
+<text id="690300">&lt;?null?&gt;</text>
+<text id="690400">&lt;?null?&gt;</text>
+<text id="699000">&lt;?null?&gt;</text>
+<text id="701000">&lt;?kgiconKc@17?&gt;: Wurfsternwurf
+Angriff durch einen geworfenen Wurfstern.
+
+&lt;?kgiconKc@17?&gt; halten: Wurfstern-Wirbelwurf
+Lade die Drehkraft der Wurfsterne auf, bevor du sie wirfst. Trifft Feinde mehrere Male.</text>
+<text id="702000">&lt;?kgiconKc@17?&gt;: Wurfsternwurf
+Angriff durch einen geworfenen scharfkantigen Wurfstern. Die durchdringende Wirkung schädigt selbst die Vitalität und Haltung abwehrender Feinde.
+
+&lt;?kgiconKc@17?&gt; halten: Wirbelnder Wurfsternwurf
+Lade die Drehkraft der Wurfsterne auf, bevor du sie wirfst. Trifft Feinde mehrere Male.</text>
+<text id="703000">&lt;?kgiconKc@17?&gt;: Phantom-Schmetterlinge
+Phantom-Schmetterlinge schwärmen aus, nachdem du ein Kunai geworfen hast. Sie verfolgen Feinde und können trotz Abwehr Schaden verursachen.
+
+&lt;?kgiconKc@17?&gt; halten: Schwarmtanz
+Aufladen, um mehr Schmetterlinge zu entfesseln.</text>
+<text id="704000">&lt;?kgiconKc@17?&gt;: Sen-Wurf
+Wirf Münzen.
+
+&lt;?kgiconKc@17?&gt; halten: Geldregen
+Verstreut jede Menge Sen.
+Die Summe an geworfenen Sen hängt davon ab, wie viel Sen du besitzt.
+  "Wer bettelarm ist, wirft nur Staub.
+   Wer arm ist, wirft wenig Geld.
+   Wer reich ist, wirft viel Geld.
+   Wer steinreich ist, wirft so
+   viel Geld, dass die anderen weinen."</text>
+<text id="705000">&lt;?kgiconKc@17?&gt;: Lazulith-Wurfstern
+Schleudere sehr scharfe Wurfsterne. Schädigt die Vitalität enorm und fügt trotz Abwehr der Vitalität und Haltung Schaden zu.
+
+&lt;?kgiconKc@17?&gt; halten: Wirbelnder Lazulith-Wurfstern
+Lass die Wurfsterne rotieren, bevor du sie wirfst. Trifft Feinde mehrere Male.</text>
+<text id="711000">&lt;?kgiconKc@17?&gt;: Shinobi-Feuerwerk
+Entfessle einen Schießpulverblitz vor dir. Erschreckt Tiere.
+
+&lt;?kgiconKc@17?&gt; halten: Gefedertes Feuerwerk
+Lade den Federmechanismus auf, um einen Schießpulverblitz in alle Richtungen zu entfesseln, während du dich drehst.</text>
+<text id="712000">&lt;?kgiconKc@17?&gt;: Langfunke
+Entfessle einen langanhaltenden Blitz aus Schießpulver vor dir. Erschreckt Tiere.
+
+&lt;?kgiconKc@17?&gt; halten: Gefederter Langfunke
+Lade den Federmechanismus auf, um einen anhaltenden Schießpulverblitz in alle Richtungen zu entfesseln.</text>
+<text id="713000">&lt;?kgiconKc@17?&gt;: Lila Rauchfunke
+Streu lila Rauch vor dir, der Schießpulverblitze erzeugt. Zündet langsamer als Feuerwerk. Geblendete Feinde erleiden kurzzeitig etwas mehr Schaden an Vitalität und Haltung.
+
+&lt;?kgiconKc@17?&gt; halten: Gefederter lila Rauchfunke
+Lade den Federmechanismus auf für einen Schießpulverblitz im Drehen in alle Richtungen.</text>
+<text id="721000">&lt;?kgiconKc@17?&gt;: Feueratem
+Verschießt einen Feuerstoß vor dir.
+
+&lt;?kgiconKc@17?&gt; halten: Flammenstoß
+Lade den Federmechanismus auf, um eine Feuerexplosion vor dir zu entfesseln.</text>
+<text id="722000">&lt;?kgiconKc@17?&gt;: Feueratem
+Verschießt einen Feuerstoß vor dir.
+
+&lt;?kgiconKc@17?&gt; halten: Flammenstoß
+Lade den Federmechanismus auf und entfessle eine Feuerexplosion. Diese starke Explosion stößt Feinde zurück.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt; halten: Flammenfluss
+Erzeugt einen Feuerhagel vor dir.</text>
+<text id="723000">&lt;?kgiconKc@17?&gt;: Heilige Flamme
+Verschieße Flammen heiliger Macht vor dir. Wirkt gegen Erscheinungen.
+
+&lt;?kgiconKc@17?&gt; halten: Heilige Flammenexplosion
+Entfessle einen heiligen Flammenstoß vor dir.
+Diese starke Explosion stößt Feinde zurück.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt; halten: Heiliger Flammenfluss
+Anhaltende heilige Flammen vor dir.</text>
+<text id="731000">&lt;?kgiconKc@17?&gt;: Schlag
+Schwing die Axt nach unten, um einen Feind niederzustrecken. Zerstört Holzschilde.
+
+&lt;?kgiconKc@17?&gt; halten: Wirbelschlag
+Wirbel mit der Axt im Kreis umher, um Feinde niederzustrecken.
+Drück während des Wirbelschlags &lt;?kgiconKc@17?&gt;, um dich erneut zu drehen und den Angriff fortzusetzen.</text>
+<text id="732000">&lt;?kgiconKc@17?&gt;: Funke
+Lass eine Flammenaxt hinuntersausen, um einen Feind niederzustrecken. Zerstört Schilde aus Holz und erzeugt beim Aufprall brüllende Flammen.
+
+&lt;?kgiconKc@17?&gt; halten: Wirbelschlag
+Wirbel mit der Flammenaxt im Kreis umher, um Feinde niederzustrecken.
+Drück während des Wirbelschlags &lt;?kgiconKc@17?&gt;, um dich erneut zu drehen und den Angriff fortzusetzen.</text>
+<text id="733000">&lt;?kgiconKc@17?&gt;: Lazulith-Schlag
+Lass die Lazulith-Axt auf den Boden krachen, um eine Schockwelle zu erzeugen, die Illusionen aufhebt.
+
+&lt;?kgiconKc@17?&gt; halten: Lazulith-Sense
+Wirbel mit der Lazulith-Axt im Kreis umher, um Feinde niederzustrecken.
+Drück während der Lazulith-Sense &lt;?kgiconKc@17?&gt;, um dich erneut zu drehen und den Angriff fortzusetzen.</text>
+<text id="741000">&lt;?kgiconKc@17?&gt;: Nebel-Haltung
+Wenn du in dieser Haltung angegriffen wirst, bewege dich sofort in die mit &lt;?kgMove?&gt; gewählte Richtung.
+
+&lt;?kgiconKc@17?&gt; nachdem du angegriffen wurdest: Nebelrabe
+Bewege dich sofort in die mit &lt;?kgMove?&gt; gewählte Richtung.</text>
+<text id="742000">&lt;?kgiconKc@17?&gt;: Rote Nebel-Haltung
+Wenn du in dieser Haltung angegriffen wirst, bewege dich sofort in die mit &lt;?kgMove?&gt; gewählte Richtung. Die zurückgelassenen Federn entzünden sich und verbrennen Feinde.
+
+&lt;?kgiconKc@17?&gt; nachdem Schaden erlitten wurde: Roter Nebelrabe
+Bewege dich sofort in die mit &lt;?kgMove?&gt; gewählte Richtung. Die zurückgelassenen Federn entzünden sich und verbrennen Feinde.</text>
+<text id="751000">&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;: Kombo
+Greife wiederholt mit dem Schwert und Sabimaru an.
+
+&lt;?kgiconKc@16?&gt; während der Kombo: Kombowechsel-Angriff
+Ein Schwertangriff, der deine Angriffskombo ändert. Dadurch drehst du deinen Körper und kannst ausweichen.</text>
+<text id="752000">&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;: Kombo 
+Greife wiederholt mit dem Schwert und Sabimaru an. Sabimarus Klinge fügt der Vitalität und Haltung des Feindes trotz Abwehr Schaden zu.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@16?&gt;: Kombowechsel-Angriff
+Ein Schwertangriff, der deine Angriffskombo ändert. Dadurch drehst du deinen Körper und kannst ausweichen.</text>
+<text id="753000">&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;: Kombo 
+Greife wiederholt mit dem Schwert und Sabimaru an. Jeder Sabimaru-Hieb hinterlässt eine giftige Wolke.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@16?&gt;: Kombowechsel-Angriff
+Ein Schwertangriff, der deine Angriffskombo ändert. Dadurch drehst du deinen Körper und kannst ausweichen.</text>
+<text id="761000">&lt;?kgiconKc@17?&gt; halten: Zuflucht
+Spann den geladenen Schirm auf, um Angriffe abzuwehren. Leichte Angriffe werden auch beim Bewegen abgewehrt.
+
+&lt;?kgiconKc@17?&gt; bei Treffer: Schirm-Parieren
+Spann den Schirm auf, um Angriffe zu parieren. Schirm-Parieren ist leichter abzustimmen als Schwert-Parieren.
+
+Während Zuflucht &lt;?kgiconKc@18?&gt; bei Treffer: Schirmwirbel
+Lass den Schirm wirbeln, um Angriffe zu parieren.</text>
+<text id="762000">&lt;?kgiconKc@17?&gt; halten: Zuflucht
+Spann den geladenen Schirm auf, um Angriffe abzuwehren. Leichte Angriffe werden auch beim Bewegen abgewehrt.
+
+&lt;?kgiconKc@17?&gt; bei Treffer: Schirm-Parieren
+Spann den Schirm auf, um Angriffe zu parieren. Schirm-Parieren ist leichter abzustimmen als Schwert-Parieren.
+
+Während Zuflucht &lt;?kgiconKc@18?&gt; bei Treffer: Schirmwirbel
+Lass den Schirm wirbeln, um Angriffe zu parieren.</text>
+<text id="763000">&lt;?kgiconKc@17?&gt; halten: Zuflucht
+Spann den geladenen Schirm auf, um Angriffe abzuwehren. Leichte Angriffe werden auch beim Bewegen abgewehrt.
+
+&lt;?kgiconKc@17?&gt; bei Treffer: Schirm-Parieren
+Spann den Schirm auf, um Angriffe zu parieren. Schirm-Parieren ist leichter abzustimmen als Schwert-Parieren.
+
+Während Zuflucht &lt;?kgiconKc@18?&gt; bei Treffer: Schirmwirbel
+Lass den Schirm wirbeln, um Angriffe zu parieren.</text>
+<text id="771000">&lt;?kgiconKc@17?&gt;: Aufziehender Mahlstrom
+Hülle dich mit dem Blätterfächer in einen Mahlstrom.
+
+&lt;?kgiconKc@17?&gt; während Aufziehender Mahlstrom: Göttliche Entführung
+Entfessle die Winde um den Feind, um ihn umzudrehen. Kann zweimal entfesselt werden. Alle bis auf einige starke Feinde verlieren dich aus den Augen und sind für einen Todesschlag anfällig.</text>
+<text id="772000">&lt;?kgiconKc@17?&gt;: Aufziehender goldener Strudel
+Hülle dich mit dem Blätterfächer in einen goldenen Strudel.
+
+&lt;?kgiconKc@17?&gt; während Aufziehender goldener Strudel: Gabenwirbel
+Entfessle die Winde um den Feind, um ihn umzudrehen. Außerdem lassen sie Objekte und Sen fallen. Kann zweimal entfesselt werden. Alle bis auf einige starke Feinde verlieren dich aus den Augen und sind für einen Todesschlag anfällig.</text>
+<text id="781000">&lt;?kgiconKc@17?&gt;: Stoß
+Ein Vorwärtsstoß mit dem Speer.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;: Ziehen
+Zieh einen vom Speer getroffenen Feind zu dir. Kann Feinden einfache Rüstung entfernen.
+
+&lt;?kgiconKc@17?&gt; halten: Sturm
+Mach deinen Speer bereit und stürme voran.</text>
+<text id="782000">&lt;?kgiconKc@17?&gt;: Stoß
+Ein Vorwärtsstoß mit dem Speer.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;: Ziehen
+Zieh einen vom Speer getroffenen Feind zu dir. Kann Feinden einfache Rüstung entfernen.
+
+&lt;?kgiconKc@17?&gt; halten: Spalten
+Sammle deine Kraft, um dir einen Weg durch Feinde hindurch zu bahnen.</text>
+<text id="783000">&lt;?kgiconKc@17?&gt;: Korkenzieher-Stoß
+Ein drehender Korkenzieher-Stoß gegen einen Feind vor dir. Fügt trotz Abwehr der Vitalität und Haltung Schaden zu.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;: Ziehen
+Zieh einen vom Speer getroffenen Feind zu dir. Kann einfache Rüstung entfernen.
+
+&lt;?kgiconKc@17?&gt; halten: Korkenzieher-Sturm
+Mach dich bereit und entfessle einen Korkenzieher-Sturm.</text>
+<text id="784000">&lt;?kgiconKc@17?&gt;: Flammenstoß
+Ein Stoß vorwärts mit einem brennenden Speer. Versetzt Feinde in den "Brennend"-Status.
+
+&lt;?kgiconKc@17?&gt;, &lt;?kgiconKc@17?&gt;: Ziehen
+Zieh einen vom Speer getroffenen Feind zu dir. Kann einfache Rüstung entfernen.
+
+&lt;?kgiconKc@17?&gt; halten: Flammensturm
+Sammle Kraft, um dir einen Weg durch Feinde zu schlagen und sie in Brand zu setzen.</text>
+<text id="791000">&lt;?kgiconKc@17?&gt;: Flötensignal
+Errege damit die Aufmerksamkeit von Feinden. Macht Tiere wütend, wodurch sie auch Verbündete angreifen.
+
+&lt;?kgiconKc@17?&gt; halten: Berg-Echo
+Verzögert den Klang der Flöte, wenn sie geblasen wurde. Der Klang der Flöte ist nur für das anvisierte Ziel hörbar. Ist kein Ziel anvisiert, hören alle Feinde das Signal.</text>
+<text id="792000">&lt;?kgiconKc@17?&gt;: Unzufriedenes Flötensignal
+Mach mit einer Flöte auf dich aufmerksam. Erschafft eine Angriffsgelegenheit, indem bei Erscheinungen Qualen verursacht werden.
+
+&lt;?kgiconKc@17?&gt; halten: Berg-Echo
+Verzögert den Klang der Flöte, sodass sie erst einige Sekunden später ertönt.
+
+Der Klang der Flöte ist nur für das anvisierte Ziel hörbar. Ist kein Ziel anvisiert, hören alle Feinde das Signal.</text>
+<text id="1700000">? ? ?</text>
+<text id="1710000">? ? ?</text>
+<text id="1720000">? ? ?</text>
+<text id="1730000">? ? ?</text>
+<text id="1740000">? ? ?</text>
+<text id="1750000">? ? ?</text>
+<text id="1760000">? ? ?</text>
+<text id="1770000">? ? ?</text>
+<text id="1780000">? ? ?</text>
+<text id="1790000">? ? ?</text>
+<text id="2700000">? ? ?</text>
+</entries>
+</fmg>

@@ -1,0 +1,947 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="5000">&lt;?null?&gt;</text>
+<text id="5100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:旋風斬り
+回転しながら、周囲を斬りつける</text>
+<text id="5200">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:寄鷹斬り
+回転して飛び込みつつ、斬りつける</text>
+<text id="5201">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:寄鷹斬り
+回転して飛び込みつつ、斬りつける
+
+ターゲット固定中、
+&lt;?kgiconKc@2?&gt;を背後方向に入力し&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:逆さ回し
+斬りつけて、宙返りして下がる</text>
+<text id="5300">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:一文字
+上段からの重い面打ち
+踏み込み時に、体幹を回復する
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;長押し:専心一文字
+専心し繰り出す、上段からの渾身の面打ち
+踏み込み時に、体幹を回復する</text>
+<text id="5301">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:一文字
+上段からの重い面打ち
+踏み込み時に、体幹を回復する
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;長押し:専心一文字
+専心し繰り出す、上段からの渾身の面打ち
+踏み込み時に、体幹を回復する
+
+一文字 or 専心一文字後に&lt;?kgiconKc@16?&gt;:追い一文字
+反撃を打ち落とす、二撃目の面打ち
+踏み込み時に、体幹を回復する</text>
+<text id="5400">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:抜刀斬り下ろし
+刃を抜き放ち、高速で斬り下ろす
+斬り下ろしには、真空波が伴う
+形代を消費して、使用する
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;長押し:竜閃
+刃を抜き放ち、高速で斬り下ろす
+斬り下ろしには、真空波が伴い、
+その後、地を這う衝撃波が飛ぶ
+形代を消費して、使用する</text>
+<text id="5500">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;長押し:居合い構え開始
+刃を鞘に納め、居合いの構えを取る
+
+&lt;?kgiconKc@18?&gt;解除:居合い構え中断
+居合いの構えをやめる
+
+&lt;?kgiconKc@16?&gt;解除:抜刀十文字
+抜刀し、高速で十文字に切り裂く
+形代を消費して、使用する</text>
+<text id="5600">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;:浮き舟渡り
+舞うように五連撃を繰り出す</text>
+<text id="5601">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;:渦雲渡り
+舞うように九連撃を繰り出し、
+周囲に真空波を巻き起こす
+形代を消費して、使用する</text>
+<text id="5700">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;:不死斬り
+不死斬りを抜き、長射程の刃で敵をなぎ払う
+形代を消費して、使用する</text>
+<text id="5701">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;:不死斬り
+不死斬りを抜き、長射程の刃で敵をなぎ払う
+形代を消費して、使用する
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;長押し→&lt;?kgiconKc@16?&gt;長押し:溜め不死斬り
+念を込め、
+さらに威力が高く、射程の長い斬撃を繰り出す
+形代を消費して、使用する</text>
+<text id="5800">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;:仙峯脚
+飛び込みからの、連続蹴り</text>
+<text id="5801">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;:仙峯脚
+飛び込みからの、連続蹴り
+
+仙峯脚後に&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;:菩薩脚
+連続の斬撃からの、前方への蹴り</text>
+<text id="5900">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;:拝み連拳
+肘打ちから、掌底の連撃</text>
+<text id="5901">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;:拝み連拳
+肘打ちから、掌底の連撃
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;長押し or 拝み連拳後に&lt;?kgiconKc@16?&gt;:破魔の背撃
+背中からの重い体当たり</text>
+<text id="6000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:大忍び刺し
+遠距離から届く突き攻撃
+突き刺したあと、敵を踏み台に飛びあがる
+飛びあがるときに、形代を消費する
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;長押し:溜め大忍び刺し
+突きの射程が伸びた、大忍び刺し
+飛びあがるときに、形代を消費する</text>
+<text id="6001">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:大忍び刺し
+遠距離から届く突き攻撃
+突き刺したあと、敵を踏み台に飛びあがる
+飛びあがるときに、形代を消費する
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;長押し:溜め大忍び刺し
+突きの射程が伸びた、大忍び刺し
+飛びあがるときに、形代を消費する
+
+飛びあがり後に&lt;?kgiconKc@16?&gt;:大忍び落とし
+降下しながらの回転斬り</text>
+<text id="6100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;長押し:居合い構え開始
+刃を鞘に納め、居合いの構えを取る
+
+&lt;?kgiconKc@18?&gt;解除:居合い構え中断
+居合いの構えをやめる
+
+&lt;?kgiconKc@16?&gt;解除:一心
+抜刀し、見えぬほどの速さで敵を斬り刻む
+形代を消費して、使用する
+
+一心の後に&lt;?kgiconKc@16?&gt;:居合追撃
+前方に踏み込む居合いの追撃</text>
+<text id="7000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:寄鷹斬り
+回転して飛び込みつつ、斬りつける
+
+ターゲット固定中、
+&lt;?kgiconKc@2?&gt;を背後方向に入力し&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:逆さ回し
+斬りつけて、宙返りして下がる</text>
+<text id="7100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:一文字
+上段からの重い面打ち
+踏み込み時に、体幹を回復する
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;長押し:専心一文字
+専心し繰り出す、上段からの渾身の面打ち
+踏み込み時に、体幹を回復する
+
+一文字 or 専心一文字後に&lt;?kgiconKc@16?&gt;:追い一文字
+反撃を打ち落とす、二撃目の面打ち
+踏み込み時に、体幹を回復する</text>
+<text id="7200">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;:渦雲渡り
+舞うように九連撃を繰り出し、
+周囲に真空波を巻き起こす
+形代を消費して、使用する</text>
+<text id="7300">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;:不死斬り
+不死斬りを抜き、長射程の刃で敵をなぎ払う
+形代を消費して、使用する
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;長押し→&lt;?kgiconKc@16?&gt;長押し:溜め不死斬り
+念を込め、
+さらに威力が高く、射程の長い斬撃を繰り出す
+形代を消費して、使用する</text>
+<text id="7400">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;:仙峯脚
+飛び込みからの、連続蹴り
+
+仙峯脚後に&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;:菩薩脚
+連続の斬撃からの、前方への蹴り</text>
+<text id="7500">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;:拝み連拳
+肘打ちから、掌底の連撃
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;長押し or 拝み連拳後に&lt;?kgiconKc@16?&gt;:破魔の背撃
+背中からの重い体当たり</text>
+<text id="7600">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:大忍び刺し
+遠距離から届く突き攻撃
+突き刺したあと、敵を踏み台に飛びあがる
+飛びあがるときに、形代を消費する
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;長押し:溜め大忍び刺し
+突きの射程が伸びた、大忍び刺し
+飛びあがるときに、形代を消費する
+
+飛びあがり後に&lt;?kgiconKc@16?&gt;:大忍び落とし
+降下しながらの回転斬り</text>
+<text id="7700">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:秘伝・桜舞い
+回転の勢いで舞うように跳び、三度斬りつける
+敵の下段攻撃を回避しつつ、鋭い斬撃で、
+ガードの上からでもダメージを与える
+
+攻撃後は、空中での攻防に繋げることもできる
+形代を消費して、使用する</text>
+<text id="70000">&lt;?kgiconKc@17?&gt;:手裏剣打ち
+手裏剣を投げ打つ</text>
+<text id="70100">&lt;?kgiconKc@17?&gt;:手裏剣打ち
+手裏剣を投げ打つ
+
+&lt;?kgiconKc@17?&gt;長押し:回転打ち
+手裏剣に回転の力を溜め、投げ打つ
+敵に連続で攻撃が当たる</text>
+<text id="70200">&lt;?kgiconKc@17?&gt;:手裏剣打ち
+鋭利な刃の手裏剣を、投げ打つ
+貫通効果も持ち
+敵のＨＰと体幹をガード上からでも削る
+
+&lt;?kgiconKc@17?&gt;長押し:回転打ち
+手裏剣に回転の力を溜め、投げ打つ
+敵に連続で攻撃が当たる</text>
+<text id="70300">&lt;?kgiconKc@17?&gt;:まぼろし蝶々
+クナイを投げ、その後をまぼろしの蝶が飛ぶ
+まぼろしの蝶は、敵を追尾して飛び、
+ガードの上からでも、ダメージを与える
+
+&lt;?kgiconKc@17?&gt;長押し:まぼろし蝶々・群舞
+溜めることで、まぼろし蝶を多く飛ばす</text>
+<text id="70400">&lt;?kgiconKc@17?&gt;:銭つぶて
+複数の銭を、まとめて放つ
+
+&lt;?kgiconKc@17?&gt;長押し:大盤振る舞い
+多くの銭を放射状にばら撒く
+
+所持金に応じて、銭つぶての数は変わる
+
+　素寒貧は、ほこりしか出ない
+　貧乏人は、少し銭を投げる
+　金持ちは、多く銭を投げる
+　大金持ちは、たくさん銭を投げる</text>
+<text id="70500">&lt;?kgiconKc@17?&gt;:瑠璃の手裏剣
+瑠璃の鋭利な手裏剣を、投げ打つ
+貫通効果を持ち、
+敵のＨＰと体幹をガード上からでも削る
+
+&lt;?kgiconKc@17?&gt;長押し:瑠璃の独楽手裏剣
+回転の力を溜め、瑠璃の手裏剣を投げ打つ
+敵に連続で攻撃が当たる</text>
+<text id="71000">&lt;?kgiconKc@17?&gt;:爆竹
+爆竹を前方にばらまく
+獣は大きく怯む</text>
+<text id="71100">&lt;?kgiconKc@17?&gt;:爆竹
+爆竹を前方にばらまく
+獣は大きく怯む
+
+&lt;?kgiconKc@17?&gt;長押し:爆竹・バネ式
+バネ絡繰りで力を溜め
+回転しながら、爆竹を全方位にばらまく</text>
+<text id="71200">&lt;?kgiconKc@17?&gt;:長火花
+長時間残る爆竹を、前方にばらまく
+獣は大きく怯む
+
+&lt;?kgiconKc@17?&gt;長押し:長火花・バネ式
+バネ絡繰りで力を溜め、
+長時間残る爆竹を全方位にばらまく</text>
+<text id="71300">&lt;?kgiconKc@17?&gt;:紫煙火花
+紫煙が立ちのぼる爆竹を、前方にばらまく
+通常の爆竹よりも、遅れて炸裂する
+爆竹で怯んだ直後の敵に対しては、
+与えるＨＰ・体幹ダメージが微増する
+
+&lt;?kgiconKc@17?&gt;長押し:紫煙火花・バネ式
+バネ絡繰りで力を溜め、
+回転しながら、爆竹を全方位にばらまく</text>
+<text id="72000">&lt;?kgiconKc@17?&gt;:火吹き
+前方に火を吹き出す</text>
+<text id="72100">&lt;?kgiconKc@17?&gt;:火吹き
+前方に火を吹き出す
+
+&lt;?kgiconKc@17?&gt;長押し:爆炎
+バネ絡繰りで力を溜め、前方に爆炎を放つ
+爆炎は、敵を吹き飛ばす</text>
+<text id="72200">&lt;?kgiconKc@17?&gt;:火吹き
+前方に火を吹き出す
+
+&lt;?kgiconKc@17?&gt;長押し:爆炎
+火薬を充填し、前方に爆炎を放つ
+爆炎は、敵を吹き飛ばす
+
+&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;長押し:火炎流し
+前方に火を吹き出し続ける</text>
+<text id="72300">&lt;?kgiconKc@17?&gt;:浄火
+前方に神宿りの火を吹き出す
+怨霊への攻撃が有効
+
+&lt;?kgiconKc@17?&gt;長押し:浄爆炎
+前方に神宿りの爆炎を放つ
+爆炎は、敵を吹き飛ばす
+
+&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;長押し:浄火流し
+前方に神宿りの火を吹き出し続ける</text>
+<text id="73000">&lt;?kgiconKc@17?&gt;:叩きつけ
+斧を振り下ろして、叩きつける
+木盾程度のものは破壊する</text>
+<text id="73100">&lt;?kgiconKc@17?&gt;:叩きつけ
+斧を振り下ろして、叩きつける
+木盾程度のものは破壊する
+
+&lt;?kgiconKc@17?&gt;長押し:ぶん回し叩きつけ
+斧を横なぎに振り回し、叩きつける
+振り回し中に&lt;?kgiconKc@17?&gt;で、繰り返し振り回せる</text>
+<text id="73200">&lt;?kgiconKc@17?&gt;:火打ち
+火を纏った斧を振り下ろして、叩きつける
+木盾程度のものは破壊し、
+叩きつけたときに爆炎を起こす
+
+&lt;?kgiconKc@17?&gt;長押し:ぶん回し叩きつけ
+火を纏った斧を
+横なぎに振り回し、叩きつける
+振り回し中に&lt;?kgiconKc@17?&gt;で、繰り返し振り回せる</text>
+<text id="73300">&lt;?kgiconKc@17?&gt;:瑠璃打ち
+瑠璃の重い斧を叩きつけ、
+まぼろしを消す音の衝撃波を放つ
+
+&lt;?kgiconKc@17?&gt;長押し:瑠璃薙ぎ叩きつけ
+瑠璃の重い斧を
+横なぎに振り回し、叩きつける
+振り回し中に&lt;?kgiconKc@17?&gt;で、繰り返し振り回せる</text>
+<text id="74000">&lt;?kgiconKc@17?&gt;:霧構え
+構えを取り、攻撃を受けると
+&lt;?kgMove?&gt;の方向に瞬時に移動する</text>
+<text id="74100">&lt;?kgiconKc@17?&gt;:霧構え
+構えを取り、攻撃を受けると
+&lt;?kgMove?&gt;の方向に瞬時に移動する
+
+攻撃を受けた後に&lt;?kgiconKc@17?&gt;:霧がらす
+&lt;?kgMove?&gt;の方向に瞬時に移動する</text>
+<text id="74200">&lt;?kgiconKc@17?&gt;:緋の霧構え
+構えを取り、攻撃を受けると
+&lt;?kgMove?&gt;の方向に瞬時に移動する
+残した羽が、燃え盛る炎となる
+
+攻撃を受けた後に&lt;?kgiconKc@17?&gt;:緋の霧がらす
+&lt;?kgMove?&gt;の方向に瞬時に移動する
+残した羽が、燃え盛る炎となる</text>
+<text id="75000">&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;:連撃
+錆び丸と刀を使った、素早い連撃
+錆び丸の攻撃は、敵を「中毒」状態にする</text>
+<text id="75100">&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;:連撃（表/裏）
+錆び丸と刀を使った、表裏で異なる連撃
+
+連撃（表/裏）中に&lt;?kgiconKc@16?&gt;:表裏切替攻撃
+表裏の連撃を切り替える刀攻撃
+身を翻すこの攻撃は、回避としても使える</text>
+<text id="75200">&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;:連撃（表/裏）
+錆び丸と刀を使った、表裏で異なる連撃
+鋭利な刃の錆び丸は、
+敵のＨＰと体幹をガードの上からでも削る
+
+連撃（表/裏）中に&lt;?kgiconKc@16?&gt;:表裏切替攻撃
+表裏の連撃を切り替える刀攻撃
+身を翻すこの攻撃は、回避としても使える</text>
+<text id="75300">&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;:連撃（表/裏）
+錆び丸と刀を使った、表裏で異なる連撃
+錆び丸を振るうたび、毒霧が生じる
+
+連撃（表/裏）中に&lt;?kgiconKc@16?&gt;:表裏切替攻撃
+表裏の連撃を切り替える刀攻撃
+身を翻すこの攻撃は、回避としても使える</text>
+<text id="76000">&lt;?kgiconKc@17?&gt;長押し:雨宿り
+鉄扇を傘のように開き、全方位ガード
+軽い攻撃は、受けながら移動できる
+
+敵の攻撃に合わせて&lt;?kgiconKc@17?&gt;:露弾き
+鉄扇を広げ、敵の攻撃を弾く
+刀の弾きよりも、攻撃に合わせやすい</text>
+<text id="76100">&lt;?kgiconKc@17?&gt;長押し:雨宿り
+鉄扇を傘のように開き、全方位ガード
+軽い攻撃は、受けながら移動できる
+
+敵の攻撃に合わせて&lt;?kgiconKc@17?&gt;:露弾き
+鉄扇を広げ、敵の攻撃を弾く
+刀の弾きよりも、攻撃に合わせやすい
+
+雨宿り中に敵の攻撃に合わせて&lt;?kgiconKc@18?&gt;:傘回し
+開いた傘を回して、敵の攻撃を弾く</text>
+<text id="76200">&lt;?kgiconKc@17?&gt;長押し:雨宿り
+鉄扇を傘のように開き、全方位ガード
+軽い攻撃は、受けながら移動できる
+
+敵の攻撃に合わせて&lt;?kgiconKc@17?&gt;:露弾き
+鉄扇を広げ、敵の攻撃を弾く
+刀の弾きよりも、攻撃に合わせやすい
+
+雨宿り中に敵の攻撃に合わせて&lt;?kgiconKc@18?&gt;:傘回し
+開いた傘を回して、敵の攻撃を弾く</text>
+<text id="76300">&lt;?kgiconKc@17?&gt;長押し:雨宿り
+鉄扇を傘のように開き、全方位ガード
+軽い攻撃は、受けながら移動できる
+
+敵の攻撃に合わせて&lt;?kgiconKc@17?&gt;:露弾き
+鉄扇を広げ、敵の攻撃を弾く
+刀の弾きよりも、攻撃に合わせやすい
+
+雨宿り中に敵の攻撃に合わせて&lt;?kgiconKc@18?&gt;:傘回し
+開いた傘を回して、敵の攻撃を弾く</text>
+<text id="77000">&lt;?kgiconKc@17?&gt;:渦風集め
+うちわを扇ぎ、渦風を集めて身に纏う
+
+渦風集め中に&lt;?kgiconKc@17?&gt;:神隠し
+渦風を解き放ち、正面の敵に背後を向かせる
+
+一部の強敵を除き、
+自身の姿を見失わせることもできる</text>
+<text id="77100">&lt;?kgiconKc@17?&gt;:大渦集め
+うちわを扇ぎ、大きな渦風を集めて身に纏う
+
+大渦集め中に&lt;?kgiconKc@17?&gt;:神隠し
+渦風を解き放ち、正面の敵に背後を向かせる
+二度続けて放つことができる
+
+一部の強敵を除き、
+自身の姿を見失わせることもできる</text>
+<text id="77200">&lt;?kgiconKc@17?&gt;:黄金の渦集め
+うちわを扇ぎ、黄金の渦風を集めて身に纏う
+
+大渦集め中に&lt;?kgiconKc@17?&gt;:御寄進回し
+渦風を解き放ち、正面の敵に背後を向かせ、
+アイテムや銭を落とさせる
+二度続けて放つことができる
+
+一部の強敵を除き、
+自身の姿を見失わせることもできる</text>
+<text id="78000">&lt;?kgiconKc@17?&gt;:突き
+正面を槍で突く
+
+&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;:引き込み
+槍を当てた敵を、引き寄せる
+大柄な者の身に合わぬ鎧ならば、
+引き剥がすことができる</text>
+<text id="78100">&lt;?kgiconKc@17?&gt;:突き
+正面を槍で突く
+
+&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;:引き込み
+槍を当てた敵を、引き寄せる
+大柄な者の身に合わぬ鎧ならば、
+引き剥がすことができる
+
+&lt;?kgiconKc@17?&gt;長押し:突撃
+槍を構え、正面に突撃する</text>
+<text id="78200">&lt;?kgiconKc@17?&gt;:突き
+正面を槍で突く
+
+&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;:引き込み
+槍を当てた敵を、引き寄せる
+大柄な者の身に合わぬ鎧ならば、
+引き剥がすことができる
+
+&lt;?kgiconKc@17?&gt;長押し:薙ぎ払い
+力を溜め、その勢いで薙ぎ払う</text>
+<text id="78300">&lt;?kgiconKc@17?&gt;:螺旋突き
+正面に螺旋回転の鋭利な突きを放つ
+敵のＨＰと体幹をガード上からでも削る
+
+&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;:引き込み
+槍を当てた敵を、引き寄せる
+大柄な者の身に合わぬ鎧ならば、
+引き剥がすことができる
+
+&lt;?kgiconKc@17?&gt;長押し:螺旋突撃
+槍を構え、螺旋回転の鋭利な突撃を繰り出す</text>
+<text id="78400">&lt;?kgiconKc@17?&gt;:火炎突き
+正面に火炎を纏った突きを放つ
+敵を状態異常「炎上」にする
+
+&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;:引き込み
+槍を当てた敵を、引き寄せる
+大柄な者の身に合わぬ鎧ならば、
+引き剥がすことができる
+
+&lt;?kgiconKc@17?&gt;長押し:火走り
+力を溜め、その勢いで火炎とともに薙ぎ払う</text>
+<text id="79000">&lt;?kgiconKc@17?&gt;:指笛
+指笛を吹き、敵の注意を引く
+獣を狂わせ、敵味方の区別なく攻撃させる
+
+指笛の音は、ターゲット固定中は
+狙った敵のみに聴こえ、
+そうでないときは周囲の敵すべてに聴こえる</text>
+<text id="79100">&lt;?kgiconKc@17?&gt;:指笛
+指笛を吹き、敵の注意を引く
+獣を狂わせ、敵味方の区別なく攻撃させる
+
+&lt;?kgiconKc@17?&gt;長押し:山びこ吹き
+指笛を吹いたあと、遅れて音を発生させる
+
+指笛の音は、ターゲット固定中は
+狙った敵のみに聴こえ、
+そうでないときは周囲の敵すべてに聴こえる</text>
+<text id="79200">&lt;?kgiconKc@17?&gt;:泣き虫の指笛
+指笛を吹き、敵の注意を引く
+怨霊を苦悶させ、隙を作る
+
+&lt;?kgiconKc@17?&gt;長押し:山びこ吹き
+指笛を吹いたあと、遅れて音を発生させる
+
+指笛の音は、ターゲット固定中は
+狙った敵のみに聴こえ、
+そうでないときは周囲の敵すべてに聴こえる</text>
+<text id="200000">鉤縄移動中、&lt;?kgiconKc@16?&gt;:鉤縄攻撃
+鉤縄移動の勢いで、斬りかかる</text>
+<text id="200100">空中で&lt;?kgiconKc@18?&gt;:空中ガード
+空中で敵の攻撃を、ガードする
+
+空中で敵の攻撃に合わせて&lt;?kgiconKc@18?&gt;:空中弾き
+空中で敵の攻撃を、弾く
+</text>
+<text id="200200">空中で、&lt;?kgiconKc@17?&gt;:空中義手忍具
+空中で義手忍具を使う</text>
+<text id="200300">敵の突き攻撃に合わせて&lt;?kgiconKc@5?&gt;:見切り
+刃を踏みつけ、突き攻撃を無効化し、
+体幹に大ダメージ</text>
+<text id="200400">ダッシュ中、&lt;?kgiconKc@7?&gt;:駆け伏せ
+ダッシュから、スライディングでしゃがみ込む</text>
+<text id="200500">空中で、&lt;?kgiconKc@18?&gt; + &lt;?kgiconKc@16?&gt;:空中流派技</text>
+<text id="200600">敵が体勢を崩した際、&lt;?kgiconKc@6?&gt;:崩し裏回り
+敵の背後に回り込む</text>
+<text id="210000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:旋風斬り
+回転しながら、周囲を斬りつける</text>
+<text id="211000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:大忍び刺し
+遠距離から届く突き攻撃
+突き刺したあと、敵を踏み台に飛びあがる
+飛びあがるときに、形代を消費する
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;長押し:溜め大忍び刺し
+突きの射程が伸びた、大忍び刺し
+飛びあがるときに、形代を消費する</text>
+<text id="301000">一部の義手忍具使用後、&lt;?kgiconKc@16?&gt;:追い斬り
+前方に大きく踏み込む薙ぎ払い
+
+■対象義手忍具
+&lt;?wepTextCS@70000?&gt;
+
+&lt;?wepTextCS@71000?&gt;
+
+&lt;?wepTextCS@78000?&gt;</text>
+<text id="301100">一部の義手忍具使用後、&lt;?kgiconKc@16?&gt;:連ね斬り
+義手忍具と刀を、同時あるいは連続で振るう
+
+■対象義手忍具
+&lt;?wepTextSS@73000?&gt;
+
+&lt;?wepTextSS@78000?&gt;
+
+&lt;?wepTextSS@74000?&gt;</text>
+<text id="301200">一部の義手忍具使用後、&lt;?kgiconKc@16?&gt;:放ち斬り
+義手忍具の効果を、前方に放つ攻撃
+
+■対象義手忍具
+&lt;?wepTextPS@76000?&gt;
+
+&lt;?wepTextPS@79000?&gt;</text>
+<text id="301300">一部の義手忍具使用後、&lt;?kgiconKc@16?&gt;:纏い斬り
+刀に義手忍具の効果を、纏わせる攻撃
+
+■対象義手忍具
+&lt;?wepTextES@72000?&gt;
+
+&lt;?wepTextES@77000?&gt;</text>
+<text id="310000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:寄鷹斬り
+回転して飛び込みつつ、斬りつける</text>
+<text id="310100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:寄鷹斬り
+回転して飛び込みつつ、斬りつける
+
+ターゲット固定中、
+&lt;?kgiconKc@2?&gt;を背後方向に入力し&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:逆さ回し
+斬りつけて、宙返りして下がる</text>
+<text id="410000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:一文字
+上段からの重い面打ち
+踏み込み時に、体幹を回復する
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;長押し:専心一文字
+専心し繰り出す、上段からの渾身の面打ち
+踏み込み時に、体幹を回復する</text>
+<text id="410100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:一文字
+上段からの重い面打ち
+踏み込み時に、体幹を回復する
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;長押し:専心一文字
+専心し繰り出す、上段からの渾身の面打ち
+踏み込み時に、体幹を回復する
+
+一文字 or 専心一文字後に&lt;?kgiconKc@16?&gt;:追い一文字
+反撃を打ち落とす、二撃目の面打ち
+踏み込み時に、体幹を回復する</text>
+<text id="411000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;長押し:居合い構え開始
+刃を鞘に納め、居合いの構えを取る
+
+&lt;?kgiconKc@18?&gt;解除:居合い構え中断
+居合いの構えをやめる
+
+&lt;?kgiconKc@16?&gt;解除:抜刀十文字
+抜刀し、高速で十文字に切り裂く
+形代を消費して、使用する</text>
+<text id="510000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;:拝み連拳
+肘打ちから、掌底の連撃</text>
+<text id="510100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;:拝み連拳
+肘打ちから、掌底の連撃
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;長押し or 拝み連拳後に&lt;?kgiconKc@16?&gt;:破魔の背撃
+背中からの重い体当たり</text>
+<text id="511000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;:仙峯脚
+飛び込みからの、連続蹴り</text>
+<text id="511100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;:仙峯脚
+飛び込みからの、連続蹴り
+
+仙峯脚後に&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;:菩薩脚
+連続の斬撃からの、前方への蹴り</text>
+<text id="610100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:大忍び刺し
+遠距離から届く突き攻撃
+突き刺したあと、敵を踏み台に飛びあがる
+飛びあがるときに、形代を消費する
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;長押し:溜め大忍び刺し
+突きの射程が伸びた、大忍び刺し
+飛びあがるときに、形代を消費する
+
+飛びあがり後に&lt;?kgiconKc@16?&gt;:大忍び落とし
+降下しながらの回転斬り</text>
+<text id="611100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;:渦雲渡り
+舞うように九連撃を繰り出し、
+周囲に真空波を巻き起こす
+形代を消費して、使用する</text>
+<text id="612100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;:不死斬り
+不死斬りを抜き、長射程の刃で敵をなぎ払う
+形代を消費して、使用する
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;長押し→&lt;?kgiconKc@16?&gt;長押し:溜め不死斬り
+念を込め、
+さらに威力が高く、射程の長い斬撃を繰り出す
+形代を消費して、使用する</text>
+<text id="620000">&lt;?null?&gt;</text>
+<text id="620100">&lt;?null?&gt;</text>
+<text id="630000">&lt;?null?&gt;</text>
+<text id="630100">&lt;?null?&gt;</text>
+<text id="640000">&lt;?null?&gt;</text>
+<text id="640100">&lt;?null?&gt;</text>
+<text id="640200">&lt;?null?&gt;</text>
+<text id="640300">&lt;?null?&gt;</text>
+<text id="640400">&lt;?null?&gt;</text>
+<text id="650000">&lt;?null?&gt;</text>
+<text id="650100">&lt;?null?&gt;</text>
+<text id="650200">&lt;?null?&gt;</text>
+<text id="650300">&lt;?null?&gt;</text>
+<text id="650400">&lt;?null?&gt;</text>
+<text id="660000">&lt;?null?&gt;</text>
+<text id="660100">&lt;?null?&gt;</text>
+<text id="660200">&lt;?null?&gt;</text>
+<text id="660300">&lt;?null?&gt;</text>
+<text id="660400">&lt;?null?&gt;</text>
+<text id="660500">&lt;?null?&gt;</text>
+<text id="660600">&lt;?null?&gt;</text>
+<text id="660700">&lt;?null?&gt;</text>
+<text id="660800">&lt;?null?&gt;</text>
+<text id="670000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;:不死斬り
+不死斬りを抜き、長射程の刃で敵をなぎ払う
+形代を消費して、使用する</text>
+<text id="671000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:抜刀斬り下ろし
+刃を抜き放ち、高速で斬り下ろす
+斬り下ろしには、真空波が伴う
+形代を消費して、使用する
+
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;長押し:竜閃
+刃を抜き放ち、高速で斬り下ろす
+斬り下ろしには、真空波が伴い、
+その後、地を這う衝撃波が飛ぶ
+形代を消費して、使用する</text>
+<text id="672000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;→&lt;?kgiconKc@16?&gt;:浮き舟渡り
+舞うように五連撃を繰り出す</text>
+<text id="673000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;長押し:居合い構え開始
+刃を鞘に納め、居合いの構えを取る
+
+&lt;?kgiconKc@18?&gt;解除:居合い構え中断
+居合いの構えをやめる
+
+&lt;?kgiconKc@16?&gt;解除:一心
+抜刀し、見えぬほどの速さで敵を斬り刻む
+形代を消費して、使用する
+
+一心の後に&lt;?kgiconKc@16?&gt;:居合追撃
+前方に踏み込む居合いの追撃</text>
+<text id="674000">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:秘伝・桜舞い
+回転の勢いで舞うように跳び、三度斬りつける
+敵の下段攻撃を回避しつつ、鋭い斬撃で、
+ガードの上からでもダメージを与える
+
+攻撃後は、空中での攻防に繋げることもできる
+形代を消費して、使用する</text>
+<text id="680000">&lt;?null?&gt;</text>
+<text id="681000">高く跳び上がった敵の近くで&lt;?kgiconKc@16?&gt;:対空忍殺
+空中で敵を忍殺する</text>
+<text id="690000">&lt;?null?&gt;</text>
+<text id="690100">&lt;?null?&gt;</text>
+<text id="690200">&lt;?null?&gt;</text>
+<text id="690300">&lt;?null?&gt;</text>
+<text id="690400">&lt;?null?&gt;</text>
+<text id="699000">&lt;?null?&gt;</text>
+<text id="701000">&lt;?kgiconKc@17?&gt;:手裏剣打ち
+手裏剣を投げ打つ
+
+&lt;?kgiconKc@17?&gt;長押し:回転打ち
+手裏剣に回転の力を溜め、投げ打つ
+敵に連続で攻撃が当たる</text>
+<text id="702000">&lt;?kgiconKc@17?&gt;:手裏剣打ち
+鋭利な刃の手裏剣を、投げ打つ
+貫通効果も持ち
+敵のＨＰと体幹をガード上からでも削る
+
+&lt;?kgiconKc@17?&gt;長押し:回転打ち
+手裏剣に回転の力を溜め、投げ打つ
+敵に連続で攻撃が当たる</text>
+<text id="703000">&lt;?kgiconKc@17?&gt;:まぼろし蝶々
+クナイを投げ、その後をまぼろしの蝶が飛ぶ
+まぼろしの蝶は、敵を追尾して飛び、
+ガードの上からでも、ダメージを与える
+
+&lt;?kgiconKc@17?&gt;長押し:まぼろし蝶々・群舞
+溜めることで、まぼろし蝶を多く飛ばす</text>
+<text id="704000">&lt;?kgiconKc@17?&gt;:銭つぶて
+複数の銭を、まとめて放つ
+
+&lt;?kgiconKc@17?&gt;長押し:大盤振る舞い
+多くの銭を放射状にばら撒く
+
+所持金に応じて、銭つぶての数は変わる
+
+　素寒貧は、ほこりしか出ない
+　貧乏人は、少し銭を投げる
+　金持ちは、多く銭を投げる
+　大金持ちは、たくさん銭を投げる</text>
+<text id="705000">&lt;?kgiconKc@17?&gt;:瑠璃の手裏剣
+瑠璃の鋭利な手裏剣を、投げ打つ
+貫通効果を持ち、
+敵のＨＰと体幹をガード上からでも削る
+
+&lt;?kgiconKc@17?&gt;長押し:瑠璃の独楽手裏剣
+回転の力を溜め、瑠璃の手裏剣を投げ打つ
+敵に連続で攻撃が当たる</text>
+<text id="711000">&lt;?kgiconKc@17?&gt;:爆竹
+爆竹を前方にばらまく
+獣は大きく怯む
+
+&lt;?kgiconKc@17?&gt;長押し:爆竹・バネ式
+バネ絡繰りで力を溜め
+回転しながら、爆竹を全方位にばらまく</text>
+<text id="712000">&lt;?kgiconKc@17?&gt;:長火花
+長時間残る爆竹を、前方にばらまく
+獣は大きく怯む
+
+&lt;?kgiconKc@17?&gt;長押し:長火花・バネ式
+バネ絡繰りで力を溜め、
+長時間残る爆竹を全方位にばらまく</text>
+<text id="713000">&lt;?kgiconKc@17?&gt;:紫煙火花
+紫煙が立ちのぼる爆竹を、前方にばらまく
+通常の爆竹よりも、遅れて炸裂する
+爆竹で怯んだ直後の敵に対しては、
+与えるＨＰ・体幹ダメージが微増する
+
+&lt;?kgiconKc@17?&gt;長押し:紫煙火花・バネ式
+バネ絡繰りで力を溜め、
+回転しながら、爆竹を全方位にばらまく</text>
+<text id="721000">&lt;?kgiconKc@17?&gt;:火吹き
+前方に火を吹き出す
+
+&lt;?kgiconKc@17?&gt;長押し:爆炎
+バネ絡繰りで力を溜め、前方に爆炎を放つ
+爆炎は、敵を吹き飛ばす</text>
+<text id="722000">&lt;?kgiconKc@17?&gt;:火吹き
+前方に火を吹き出す
+
+&lt;?kgiconKc@17?&gt;長押し:爆炎
+火薬を充填し、前方に爆炎を放つ
+爆炎は、敵を吹き飛ばす
+
+&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;長押し:火炎流し
+前方に火を吹き出し続ける</text>
+<text id="723000">&lt;?kgiconKc@17?&gt;:浄火
+前方に神宿りの火を吹き出す
+怨霊への攻撃が有効
+
+&lt;?kgiconKc@17?&gt;長押し:浄爆炎
+前方に神宿りの爆炎を放つ
+爆炎は、敵を吹き飛ばす
+
+&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;長押し:浄火流し
+前方に神宿りの火を吹き出し続ける</text>
+<text id="731000">&lt;?kgiconKc@17?&gt;:叩きつけ
+斧を振り下ろして、叩きつける
+木盾程度のものは破壊する
+
+&lt;?kgiconKc@17?&gt;長押し:ぶん回し叩きつけ
+斧を横なぎに振り回し、叩きつける
+振り回し中に&lt;?kgiconKc@17?&gt;で、繰り返し振り回せる</text>
+<text id="732000">&lt;?kgiconKc@17?&gt;:火打ち
+火を纏った斧を振り下ろして、叩きつける
+木盾程度のものは破壊し、
+叩きつけたときに爆炎を起こす
+
+&lt;?kgiconKc@17?&gt;長押し:ぶん回し叩きつけ
+火を纏った斧を
+横なぎに振り回し、叩きつける
+振り回し中に&lt;?kgiconKc@17?&gt;で、繰り返し振り回せる</text>
+<text id="733000">&lt;?kgiconKc@17?&gt;:瑠璃打ち
+瑠璃の重い斧を叩きつけ、
+まぼろしを消す音の衝撃波を放つ
+
+&lt;?kgiconKc@17?&gt;長押し:瑠璃薙ぎ叩きつけ
+瑠璃の重い斧を
+横なぎに振り回し、叩きつける
+振り回し中に&lt;?kgiconKc@17?&gt;で、繰り返し振り回せる</text>
+<text id="741000">&lt;?kgiconKc@17?&gt;:霧構え
+構えを取り、攻撃を受けると
+&lt;?kgMove?&gt;の方向に瞬時に移動する
+
+攻撃を受けた後に&lt;?kgiconKc@17?&gt;:霧がらす
+&lt;?kgMove?&gt;の方向に瞬時に移動する</text>
+<text id="742000">&lt;?kgiconKc@17?&gt;:緋の霧構え
+構えを取り、攻撃を受けると
+&lt;?kgMove?&gt;の方向に瞬時に移動する
+残した羽が、燃え盛る炎となる
+
+攻撃を受けた後に&lt;?kgiconKc@17?&gt;:緋の霧がらす
+&lt;?kgMove?&gt;の方向に瞬時に移動する
+残した羽が、燃え盛る炎となる</text>
+<text id="751000">&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;:連撃（表/裏）
+錆び丸と刀を使った、表裏で異なる連撃
+
+連撃（表/裏）中に&lt;?kgiconKc@16?&gt;:表裏切替攻撃
+表裏の連撃を切り替える刀攻撃
+身を翻すこの攻撃は、回避としても使える</text>
+<text id="752000">&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;:連撃（表/裏）
+錆び丸と刀を使った、表裏で異なる連撃
+鋭利な刃の錆び丸は、
+敵のＨＰと体幹をガードの上からでも削る
+
+連撃（表/裏）中に&lt;?kgiconKc@16?&gt;:表裏切替攻撃
+表裏の連撃を切り替える刀攻撃
+身を翻すこの攻撃は、回避としても使える</text>
+<text id="753000">&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;:連撃（表/裏）
+錆び丸と刀を使った、表裏で異なる連撃
+錆び丸を振るうたび、毒霧が生じる
+
+連撃（表/裏）中に&lt;?kgiconKc@16?&gt;:表裏切替攻撃
+表裏の連撃を切り替える刀攻撃
+身を翻すこの攻撃は、回避としても使える</text>
+<text id="761000">&lt;?kgiconKc@17?&gt;長押し:雨宿り
+鉄扇を傘のように開き、全方位ガード
+軽い攻撃は、受けながら移動できる
+
+敵の攻撃に合わせて&lt;?kgiconKc@17?&gt;:露弾き
+鉄扇を広げ、敵の攻撃を弾く
+刀の弾きよりも、攻撃に合わせやすい
+
+雨宿り中に敵の攻撃に合わせて&lt;?kgiconKc@18?&gt;:傘回し
+開いた傘を回して、敵の攻撃を弾く</text>
+<text id="762000">&lt;?kgiconKc@17?&gt;長押し:雨宿り
+鉄扇を傘のように開き、全方位ガード
+軽い攻撃は、受けながら移動できる
+
+敵の攻撃に合わせて&lt;?kgiconKc@17?&gt;:露弾き
+鉄扇を広げ、敵の攻撃を弾く
+刀の弾きよりも、攻撃に合わせやすい
+
+雨宿り中に敵の攻撃に合わせて&lt;?kgiconKc@18?&gt;:傘回し
+開いた傘を回して、敵の攻撃を弾く</text>
+<text id="763000">&lt;?kgiconKc@17?&gt;長押し:雨宿り
+鉄扇を傘のように開き、全方位ガード
+軽い攻撃は、受けながら移動できる
+
+敵の攻撃に合わせて&lt;?kgiconKc@17?&gt;:露弾き
+鉄扇を広げ、敵の攻撃を弾く
+刀の弾きよりも、攻撃に合わせやすい
+
+雨宿り中に敵の攻撃に合わせて&lt;?kgiconKc@18?&gt;:傘回し
+開いた傘を回して、敵の攻撃を弾く</text>
+<text id="771000">&lt;?kgiconKc@17?&gt;:大渦集め
+うちわを扇ぎ、大きな渦風を集めて身に纏う
+
+大渦集め中に&lt;?kgiconKc@17?&gt;:神隠し
+渦風を解き放ち、正面の敵に背後を向かせる
+二度続けて放つことができる
+
+一部の強敵を除き、
+自身の姿を見失わせることもできる</text>
+<text id="772000">&lt;?kgiconKc@17?&gt;:黄金の渦集め
+うちわを扇ぎ、黄金の渦風を集めて身に纏う
+
+大渦集め中に&lt;?kgiconKc@17?&gt;:御寄進回し
+渦風を解き放ち、正面の敵に背後を向かせ、
+アイテムや銭を落とさせる
+二度続けて放つことができる
+
+一部の強敵を除き、
+自身の姿を見失わせることもできる</text>
+<text id="781000">&lt;?kgiconKc@17?&gt;:突き
+正面を槍で突く
+
+&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;:引き込み
+槍を当てた敵を、引き寄せる
+大柄な者の身に合わぬ鎧ならば、
+引き剥がすことができる
+
+&lt;?kgiconKc@17?&gt;長押し:突撃
+槍を構え、正面に突撃する</text>
+<text id="782000">&lt;?kgiconKc@17?&gt;:突き
+正面を槍で突く
+
+&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;:引き込み
+槍を当てた敵を、引き寄せる
+大柄な者の身に合わぬ鎧ならば、
+引き剥がすことができる
+
+&lt;?kgiconKc@17?&gt;長押し:薙ぎ払い
+力を溜め、その勢いで薙ぎ払う</text>
+<text id="783000">&lt;?kgiconKc@17?&gt;:螺旋突き
+正面に螺旋回転の鋭利な突きを放つ
+敵のＨＰと体幹をガード上からでも削る
+
+&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;:引き込み
+槍を当てた敵を、引き寄せる
+大柄な者の身に合わぬ鎧ならば、
+引き剥がすことができる
+
+&lt;?kgiconKc@17?&gt;長押し:螺旋突撃
+槍を構え、螺旋回転の鋭利な突撃を繰り出す</text>
+<text id="784000">&lt;?kgiconKc@17?&gt;:火炎突き
+正面に火炎を纏った突きを放つ
+敵を状態異常「炎上」にする
+
+&lt;?kgiconKc@17?&gt;→&lt;?kgiconKc@17?&gt;:引き込み
+槍を当てた敵を、引き寄せる
+大柄な者の身に合わぬ鎧ならば、
+引き剥がすことができる
+
+&lt;?kgiconKc@17?&gt;長押し:火走り
+力を溜め、その勢いで火炎とともに薙ぎ払う</text>
+<text id="791000">&lt;?kgiconKc@17?&gt;:指笛
+指笛を吹き、敵の注意を引く
+獣を狂わせ、敵味方の区別なく攻撃させる
+
+&lt;?kgiconKc@17?&gt;長押し:山びこ吹き
+指笛を吹いたあと、遅れて音を発生させる
+
+指笛の音は、ターゲット固定中は
+狙った敵のみに聴こえ、
+そうでないときは周囲の敵すべてに聴こえる</text>
+<text id="792000">&lt;?kgiconKc@17?&gt;:泣き虫の指笛
+指笛を吹き、敵の注意を引く
+怨霊を苦悶させ、隙を作る
+
+&lt;?kgiconKc@17?&gt;長押し:山びこ吹き
+指笛を吹いたあと、遅れて音を発生させる
+
+指笛の音は、ターゲット固定中は
+狙った敵のみに聴こえ、
+そうでないときは周囲の敵すべてに聴こえる</text>
+<text id="1700000">? ? ?</text>
+<text id="1710000">? ? ?</text>
+<text id="1720000">? ? ?</text>
+<text id="1730000">? ? ?</text>
+<text id="1740000">? ? ?</text>
+<text id="1750000">? ? ?</text>
+<text id="1760000">? ? ?</text>
+<text id="1770000">? ? ?</text>
+<text id="1780000">? ? ?</text>
+<text id="1790000">? ? ?</text>
+<text id="2700000">? ? ?</text>
+</entries>
+</fmg>

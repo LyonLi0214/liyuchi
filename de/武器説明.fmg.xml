@@ -1,0 +1,553 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="5000">&lt;?null?&gt;</text>
+<text id="5100">Eine Hieb-Kampfkunst, die mehrere Feinde gleichzeitig treffen kann.
+
+Der scharfe Schnitt kann mit der Kraft des Wirbels mehrere Feinde treffen und ihnen Schaden zufügen, auch wenn sie abwehren.
+
+Eine gute Shinobi-Technik, um sich einen Weg durch eine Vielzahl von Feinden zu bahnen.</text>
+<text id="5200">Eine Hieb-Kampfkunst mit drehendem Abwärtssprung. Kann die Distanz zum Feind schließen oder vergrößern.
+
+Die Technik stammt vom Ashina dienenden Nachtschwalben-Clan. Sie verstärken den Schlag durch das Gewicht ihrer großen Wurfsterne. Die Shinobi-Prothese aus schwerem Stahl ist ähnlich anwendbar.</text>
+<text id="5201">Eine Hieb-Kampfkunst mit einer Drehung im Sprung. Kann die Distanz zum Feind schließen oder vergrößern.
+
+Der Nachtschwalben-Hieb ist durch den Vor- und Rückwärtsdreh gleichzeitig eine offensive und defensive Fähigkeit.
+
+Vorschnellen, zuschlagen, wegfliegen. Dieser Kampfstil gab dem Nachtschwalben-Clan seinen Namen.</text>
+<text id="5300">Kampfkunst, die einen schweren Überkopf-Schwertschlag ausführt. Fügt der Haltung schweren Schaden zu. Stellt die eigene Haltung mit einem starken Vorwärtsschritt wieder her.
+
+Nur ein wilder Überkopf-Schlag, doch der Fokus auf diese Technik macht die Stärke des Ashina-Stils aus. Einmal gemeistert, kann sie sicherlich verbessert werden.</text>
+<text id="5301">Kampfkunst, die Ichimonji um einen weiteren Überkopf-Schwertangriff als Folgeangriff verlängert. Fügt der Haltung schweren Schaden zu. Stellt die eigene Haltung mit einem starken Vorwärtsschritt wieder her.
+
+Der Folgeangriff ist geeignet, um feindliche Gegenangriffe zu verhindern. Mit diesem Folgeangriff wird Ashinas Ichimonji perfekt.</text>
+<text id="5400">Kampfkunst für einen schnellen Schlag nach dem blitzschnellen Ziehen der Klinge. Lade den Angriff für Schockwellen auf. Verbraucht Geistembleme.
+
+In jungen Jahren suchte Isshin Ashina stets nach tödlichen Kämpfen. Er grübelte oft, wie ein Schlag ausgeführt werden sollte, doch seine Klinge war immer schneller.</text>
+<text id="5500">Kampfkunst mit Haltung, bei der das Schwert in der Scheide steckt, für einen blitzschnellen Schnellzugangriff. Verbraucht Geistembleme.
+
+Stellung zu bewahren gewährt sofortige Konterbereitschaft. Geheimtechnik des Ashina-Stils zum schnellen Töten. Seine Stärke ist laut Isshin Ashina, dass es einem Shura den Arm kosten kann.</text>
+<text id="5600">Kampfkunst, die wiederholte Angriffe entfesselt, die Feinde mit fließenden, tänzerischen Bewegungen überwältigen. 
+
+Diese Ashina-Technik gilt als häretisch, weil sie von einer Außenseiterin gelehrt wurde. Die Meisterin dieser Technik durchquerte den Fließenden Übergang und begab sich hinab nach Ashina. Ihr Name war Tomoe.</text>
+<text id="5601">Der Wolkenwirbel-Übergang ist eine Kampfkunst, die Schockwellen erzeugt. Verbraucht Geistembleme.
+
+Sie wurde nach einem großen Wirbel aus fernen Wolken in der Nähe des Quellgebiets benannt: dem Urquellwirbel. Tomoe beobachtete ihren jungen Meister, wie er sehnsüchtig auf die Wolkenformation blickte. Dieser Anblick bedeutete Tomoe alles.</text>
+<text id="5700">Eine Kampfkunst der Sterblichen Klinge. Verbraucht Geistembleme.
+
+Das Schwert blitzt auf, schneidet durch Feinde und hinterlässt rötlich-schwarzen, schädlichen Nebel, der die Reichweite erhöht. Nur Eidgebundene des göttlichen Erben beherrschen die Technik mit der Klinge, die nicht gezogen werden kann.</text>
+<text id="5701">Eine geheime Kampfkunst mit der Sterblichen Klinge. Verbraucht Geistembleme.
+
+Fokus beim Ziehen der Sterblichen Klinge bringt zusätzliche Kraft für einen verheerenderen Hiebangriff mit erhöhter Reichweite. Nur Eidgebundene des göttlichen Erben beherrschen die Technik mit der Klinge, die nicht gezogen werden kann.</text>
+<text id="5800">Eine Kampfkunst, bei der wiederholte Angriffe mit einem Sprungtritt beginnen. Ein Luftabwehr-Konter in Kombination mit einem Rundumangriff-Konter gefolgt von Tritten.
+
+Senpos Einsiedler verfeinerten diese Technik. Ihnen zufolge beweist die Beherrschung des Sprungtritts, dass man erleuchtet ist. Erst dann kann die Ausbildung beginnen.</text>
+<text id="5801">Geheimtechnik des Senpo-Kampfstils, die auf dem Sprungtritt aufbaut. 
+
+Der Zustand der Erleuchtung befreit den Geist und ermöglicht fließende, wiederholte Angriffe. Die Form dieser Technik hängt ganz von der Gemütslage des Anwenders ab. Der Wolf benutzt ganz natürlich seine geschätzte Klinge Kusabimaru.</text>
+<text id="5900">Eine Kampfkunst mit Ellenbogen- und Handflächenschlägen. Entfessle eine schnelle Angriffsflut, die Schaden verursacht und ein Kontern verhindern.
+
+Die Schläge dienen als Kampfkunst und Gebetsform. "Stärke ist nötig, um Buddhas Feinde zu besiegen." Daran denken die Mönche bei Gebeten, Kämpfen und tugendhaften Taten.</text>
+<text id="5901">Eine Kampfkunst, die Gebetsschläge um einen tödlichen Angriff verlängert.
+
+Entfessle einen Aufruhr aus Angriffen, die die Bewegung des Feindes behindern, und erledige einen taumelnden Feind mit einem finalen Treffer des Oberkörpers. Die Senpo-Mönche befreiten sich einst mit dieser Technik von weltlichen Begehren. Andere unreine Wünsche hingegen ...
+</text>
+<text id="6000">Eine Kampfkunst des Großen Shinobi. Dies ist die Geheimtechnik des Shinobi-Kampfstils.
+
+Entfessle einen starken Stoß mit großer Reichweite und benutze den aufgespießten Gegner als Plattform, um himmelwärts zu springen. Sei wie ein jagender Uhu und steig wieder empor, wenn du deine Beute erlegt hast. Beim Sprung werden Geistembleme verbraucht.</text>
+<text id="6001">Der weiterentwickelte Schattensturm ist eine geheime Technik des Ashina Mushin-Stils. Du kannst diesen Wirbelschnitt von oben durchführen, nachdem du mit Schattensturm von einem Feind abgesprungen bist. Durchbohren, fliegen und wieder abtauchen. Durch den Himmel zu fliegen ist die Natur eines Uhus. Der Absprung vom Feind verbraucht Geistembleme.</text>
+<text id="6100">Entfessle einen Angriffssturm mit nicht gezogenem Schwert; so schnell, dass die Klinge fast unsichtbar ist. Verbraucht Geistembleme.
+
+Der Fokus auf das Ziehen der Klinge macht die Angriffe so schnell wie die eines Gottes. Nur jemand mit dem Geschick des alternden Isshin Ashina kann diese Technik ausführen.</text>
+<text id="7000">Eine Hieb-Kampfkunst mit einer Drehung im Sprung. Kann die Distanz zum Feind schließen oder vergrößern.
+
+Der Nachtschwalben-Hieb ist durch den Vor- und Rückwärtsdreh gleichzeitig eine offensive und defensive Fähigkeit.
+
+Vorschnellen, zuschlagen, wegfliegen. Dieser Kampfstil gab dem Nachtschwalben-Clan seinen Namen.</text>
+<text id="7100">Kampfkunst, die Ichimonji um einen weiteren Überkopf-Schwertangriff als Folgeangriff verlängert. Fügt der Haltung schweren Schaden zu. Stellt die eigene Haltung mit einem starken Vorwärtsschritt wieder her.
+
+Der Folgeangriff ist geeignet, um feindliche Gegenangriffe zu verhindern. Mit diesem Folgeangriff wird Ashinas Ichimonji perfekt.</text>
+<text id="7200">Der Wolkenwirbel-Übergang ist eine Kampfkunst, die Schockwellen erzeugt. Verbraucht Geistembleme.
+
+Sie wurde nach einem großen Wirbel aus fernen Wolken in der Nähe des Quellgebiets benannt: dem Urquellwirbel. Tomoe beobachtete ihren jungen Meister, wie er sehnsüchtig auf die Wolkenformation blickte. Dieser Anblick bedeutete Tomoe alles.</text>
+<text id="7300">Eine geheime Kampfkunst mit der Sterblichen Klinge. Verbraucht Geistembleme.
+
+Fokus beim Ziehen der Sterblichen Klinge bringt zusätzliche Kraft für einen verheerenderen Hiebangriff mit erhöhter Reichweite. Nur Eidgebundene des göttlichen Erben beherrschen die Technik mit der Klinge, die nicht gezogen werden kann.</text>
+<text id="7400">Geheimtechnik des Senpo-Kampfstils, die auf dem Sprungtritt aufbaut. 
+
+Der Zustand der Erleuchtung befreit den Geist und ermöglicht fließende, wiederholte Angriffe. Die Form dieser Technik hängt ganz von der Gemütslage des Anwenders ab. Der Wolf benutzt ganz natürlich seine geschätzte Klinge Kusabimaru.</text>
+<text id="7500">Eine Kampfkunst, die Gebetsschläge um einen tödlichen Angriff verlängert.
+
+Entfessle einen Aufruhr aus Angriffen, die die Bewegung des Feindes behindern, und erledige einen taumelnden Feind mit einem finalen Treffer des Oberkörpers. Die Senpo-Mönche befreiten sich einst mit dieser Technik von weltlichen Begehren. Andere unreine Wünsche hingegen ...
+</text>
+<text id="7600">Der weiterentwickelte Schattensturm ist eine geheime Technik des Ashina Mushin-Stils. Du kannst diesen Wirbelschnitt von oben durchführen, nachdem du mit Schattensturm von einem Feind abgesprungen bist. Durchbohren, fliegen und wieder abtauchen. Durch den Himmel zu fliegen ist die Natur eines Uhus. Der Absprung vom Feind verbraucht Geistembleme.</text>
+<text id="7700">Eine Kampfkunst, die durch eine Reihe von Sprunghieben Schwung sammelt. Kann in Flug-Techniken übergehen. Verbraucht Geistembleme.
+Eine geheime Technik des Wegs von Tomoe, die sie manchmal zu Ehren ihres Meisters aufführte. Die Sakura-Blüten werden bald fallen. Wenn du nicht nach Hause kannst, soll dir wenigstens dieser Tanz Trost spenden.</text>
+<text id="70000">Ein Wurfsternrad-Prothesen-Modul, eingelassen in die Shinobi-Prothese. Verbraucht Geistembleme.
+
+Mit einer flüssigen Bewegung wird ein Wurfstern geladen und auf ein Ziel abgefeuert. 
+
+Der Wurfstern schädigt Vitalität und Haltung eines Feindes und fügt besonders springenden Feinden erheblichen Schaden zu.</text>
+<text id="70100">Ein verbesserter Wurfstern, der mit Rotationsenergie gestärkt wird. Verbraucht Geistembleme.
+
+Reduziere Vitalität und Haltung von Feinden und füge springenden Gegnern größeren Schaden zu. Spannt man die Feder länger, dreht sich die Klinge nach der Landung weiter und verletzt Feinde mehrmals. Es handelt sich im Grunde um einen Kreisel mit Klingen.</text>
+<text id="70200">Verbesserter Wurfstern, der Feinde mit scharfen Klingen durchdringt. Verbraucht Geistembleme.
+
+Diese Klingen behalten ihren Schwung, auch wenn sie bereits getroffen haben und schädigen Vitalität und Haltung, auch wenn sie abgewehrt werden. Spannt man die Feder länger, dreht sich die Klinge nach der Landung weiter und verletzt Feinde mehrmals.</text>
+<text id="70300">Das Kunai des Schmetterlings, eingebaut in das Wurfsternrad. Verbraucht Geistembleme.
+
+Wird es geworfen, macht es ein Geräusch, das dafür sorgt, dass Phantom-Schmetterlinge der Flugbahn folgen. Die Phantom-Schmetterlinge verfolgen Feinde und fügen ihnen Schaden zu, selbst wenn sie sie abwehren.</text>
+<text id="70400">Prothesen-Modul, das geladene Münzbündel abfeuert. Verbraucht Sen und Geistembleme.
+
+Die Reichweite ist geringer als bei Wurfsternen, dafür ist der Schaden umso größer, da die Münzen mehrmals treffen. Die Zahl der geworfenen Münzen basiert auf dem eigenen Besitz. Reich zu sein macht die Salve unglaublich stark, doch ein leerer Geldbeutel verschießt nur Staub.</text>
+<text id="70500">Ein Wurfstern, gesegnet mit der Gunst des Urquell-Lapislazuli. Verbraucht Geistembleme.
+
+Fügt Vitalität und Haltung abwehrender Feinde starken Schaden zu. Diese Klingen werden auch nicht beim Durchdringen von Feinden langsamer. Der Anblick des blau leuchtenden Lapislazuli erinnert an eine Sternschnuppe.</text>
+<text id="71000">Prothesen-Modul, das mit Roberts Feuerwerk ausgestattet wurde. Verbraucht Geistembleme.
+
+Entfesselt einen explosiven Blitz, der Feinde kurz blendet und der Haltung von Tieren Schaden zufügt. Das weite Wirkungsfeld trifft mehrere Feinde vor dir gleichzeitig. Macht getroffene Feinde für kurze Zeit bewegungsunfähig. Besonders effektiv, um Tiere zu erschrecken.</text>
+<text id="71100">Ein verbessertes Feuerwerk mit Sprungfeder. Verbraucht Geistembleme.
+
+Erzeugt einen lauten Explosionsknall mit Blitz, der Feinde zurückschrecken lässt und der Haltung von Tieren Schaden zufügt. Wenn man den Federmechanismus auflädt, wird das Schießpulver effektiver verteilt und die Reichweite in alle Richtungen erhöht.</text>
+<text id="71200">Ein verbessertes Feuerwerk, das eine Schießpulvermischung einsetzt. Verbraucht Geistembleme.
+
+Gemischtes Schießpulver brennt länger. Durch einen erhöhten Anteil an schwarzem Schießpulver hält der Effekt länger an als beim normalen Feuerwerk. Die Flammen des Feuerwerks züngeln für kurze Zeit.</text>
+<text id="71300">Ein verbessertes Feuerwerk, das lila, Rauch erzeugendes Schießpulver nutzt. Verbraucht Geistembleme.
+
+Die Schießpulvermischung ist als "Lila Rauchfunke" bekannt. Der Zusatz von fettigem Wachs verzögert die Zündung leicht. Geblendete Feinde nehmen kurzzeitig mehr Vitalitäts- und Haltungsschaden.</text>
+<text id="72000">Prothesen-Modul aus einem geladenen Flammenlauf. Verbraucht Geistembleme.
+
+Verursacht Feuerschaden durch eine Explosion aus kurzer Entfernung und löst den Status "Brennend" aus. Es ist schwierig, die Wut derer mit "Roten Augen" zu kontrollieren. Aber alle haben Angst vor Feuer. Mit diesem Modul kannst du diese Angst schüren.</text>
+<text id="72100">Ein Flammenlauf mit Schießpulvermechanismus.
+Verbraucht Geistembleme.
+
+Fügt Feinden mit Feuer Schaden zu und verursacht die Brennen-Status-Anomalie.
+
+Der Federmechanismus kann aufgeladen werden, um eine gewaltige Salve Flammen und heißer Luft zu entfesseln, die Feinde durch die Luft schleudert.</text>
+<text id="72200">Ein Lauf, der Glimmharz enthält, das als explosiver Katalysator dient. Verbraucht Geistembleme.
+
+Verursacht einen Flammenstoß mit geringer Reichweite. Kontinuierlicher Feuerschaden löst den Status "Brennend" aus. Durch das Harz ist es in der Lage, einen kontinuierlichen Flammenstrom aufrechtzuerhalten.</text>
+<text id="72300">Ein mit der Gunst des Urquell-Lapislazuli gesegneter Flammenlauf. Verbraucht Geistembleme.
+
+Schädigt sogar Erscheinungen mit seiner lila Feuersbrunst. Die Flamme erzeugt jedoch keine Brennen-Status-Anomalie. Heilige Lapislazuli-Feuer sind göttlich. Reinige den tiefsitzenden Hass mit Feuer.</text>
+<text id="73000">Ein Prothesen-Modul mit einer geladenen schweren Shinobi-Axt. Verbraucht Geistembleme.
+
+Die Stärke der geladenen Axt liegt in ihrem Gewicht.
+
+Ein Schlag mit dieser Axt kann einen Holzschild oder die Haltung des Gegners zerstören.</text>
+<text id="73100">Eine geladene Axt mit Federmechanismus. Verbraucht Geistembleme.
+
+Die Stärke der geladenen Axt liegt in ihrem Gewicht, durch das sie Angriffe abwehrt und einen einfachen Holzschild zerstören kann. Das Aufladen des Federmechanismus ermöglicht es, dass trotz des Gewichts der Axt große schwungvolle Angriffe ausgeübt werden können.</text>
+<text id="73200">Eine geladene Axt mit einem Schlaghammer, um eine Flamme zu erzeugen. Verbraucht Geistembleme.
+
+Bewirkt feurige Axt-Angriffe. Schläge mit dem Schlaghammer verursachen heftige Flammenausbrüche und vergrößern das effektive Angriffsfeld. Schusswaffe und schwere Axt in einem.</text>
+<text id="73300">Eine geladene Axt, gesegnet mit der Gunst Urquell-Lapislazuli. Verbraucht Geistembleme.
+
+Die mächtige Lazulith-Klinge fügt selbst abwehrenden Feinden Schaden zu. Der Klang der auf einen Feind treffenden Lapislazuli-Klinge erzeugt einen mächtigen Hall, der feindliche Illusionen auflösen kann.</text>
+<text id="74000">Ein mit der Feder eines Nebelraben geladenes Prothesen-Modul. Verbraucht Geistembleme.
+
+Verschwinde aus der angenommenen Haltung heraus so schnell wie der Nebel.
+
+Glaubst du, du hast ihn, hast du doch nichts als Federn in der Hand. Dies ist das Zeichen eines wahren Nebelraben.</text>
+<text id="74100">Nebelrabenfedern mit Kerben in den Spitzen. Verbraucht Geistembleme.
+
+Verschwinde so schnell wie der Nebel. Aus der angenommenen Haltung heraus und nach dem Erleiden von Schaden ausführbar.
+Die kleinen Kerben in den Federspitzen erinnern an einen alten Nebelraben. Man kann sich mit ihnen noch leichter in Nebel verwandeln.</text>
+<text id="74200">Nebelrabe, verschmolzen mit blutroten Federn. Verbraucht Geistembleme.
+
+Verschwinde so schnell wie der Nebel. Aus der angenommenen Haltung heraus und nach erlittenem Schaden ausführbar. Die rot gefärbten Federn gleichen dem Großen Nebelraben und hinterlassen eine brennende Spur. Der Große Rabe ist ein Gott des Landes, und die Berührung der Götter ist gefürchtet.</text>
+<text id="75000">Ein Prothesen-Modul mit der Klinge Sabimaru, das eine schnelle Folge von Angriffen zusammen mit dem Schwert ermöglicht. Verbraucht Geistembleme.
+
+Der blaue, giftige Rost auf Sabimarus Klinge erzeugt eine Gift-Status-Anomalie. Ashinas Nationalschatz wurde in alten Kriegen geführt. Der giftige blaue Rost der Klinge konnte selbst die Okami-Kriegerfrauen forttreiben.</text>
+<text id="75100">Sabimaru mit einem besonderen Mechanismus zum Lösen der Klinge. Verbraucht Geistembleme.
+
+Aufgrund des überarbeiteten Mechanismus ist es möglich, zwischen verschiedenen Angriffen zu wechseln. Das blaue Rostgift auf Sabimarus Klinge frisst sich durch die Verteidigung von Feinden und löst eine Gift-Status-Anomalie aus.</text>
+<text id="75200">Ein weiter verbessertes Sabimaru mit einer feingeschliffenen Klinge. Verbraucht Geistembleme.
+
+Wiederholte Angriffe mit der frisch geschärften Klinge reduzieren die gegnerische Vitalität und Haltung, selbst, wenn sie abwehren. Das blaue Rostgift auf Sabimarus Klinge frisst sich durch Feinde und löst den Status Gift aus.</text>
+<text id="75300">Mit der Gunst des Urquell-Lapislazuli gesegnetes Sabimaru. Verbraucht Geistembleme.
+
+Die Kombination aus dem Lapislazuli und der Rostklinge erzeugt beim Angriff einen giftigen Nebel. Der Lapislazuli schmilzt den im Sabimaru eingelassenen blauen Rost und erzeugt so diese Klinge.</text>
+<text id="76000">Prothesen-Modul, für das ein unzerstörbarer Eisenschirm am Arm montiert wird. Verbraucht Geistembleme.
+
+Schützt geöffnet vor Angriffen aus allen Richtungen. Strecke ihn beim Bewegen zum Schutz vor leichten Angriffen aus. Der Schirm bietet jedoch keinen Schutz vor niedrigen Angriffen wie Rundumangriffen.</text>
+<text id="76100">Ein geladener Schirm mit einem magnetischen Mechanismus. Verbraucht Geistembleme.
+
+Schützt geöffnet vor Angriffen aus allen Richtungen. Strecke ihn beim Bewegen zum Schutz vor leichten Angriffen aus. Der magnetische Schaft macht ihn nahezu unzerstörbar. Feindliche Angriffe werden durch Drehen des Schirms abgewehrt.</text>
+<text id="76200">Ein geladener Schirm, verziert mit einem leuchtend roten Zinnober-Vogel. Verbraucht Geistembleme.
+
+Schützt geöffnet vor Angriffen aus allen Richtungen. Strecke ihn beim Bewegen zum Schutz vor leichten Angriffen aus. Der Segen des Zinnober-Vogels verhindert Schaden durch feuerbasierte Angriffe und das Aufbauen des Brennen-Status.</text>
+<text id="76300">Ein geladener Schirm, verziert mit einem lila-blauen Phönix. Verbraucht Geistembleme.
+
+Schützt geöffnet vor Angriffen aus allen Richtungen. Strecke ihn beim Bewegen zum Schutz vor leichten Angriffen aus.
+
+Der Segen des Phönix in diesem Schirm verhindert Schaden durch Erscheinungen.</text>
+<text id="77000">Ein mit einem großen Tengu-Fächer geladenes Prothesen-Modul. Verbraucht Geistembleme.
+
+Entfesselt einen Wirbelwind, der im Wirbel gefangenen Feinde zum Umdrehen zwingt. Der hinfort Gezauberte kann leicht zurückkehren. Es heißt jedoch, dass man nur einmal zurückkehren kann. Beim zweiten Mal gibt es keine Rückkehr.</text>
+<text id="77100">Großer Fächer, der einen Wirbelwind erzeugt. Verbraucht Geistembleme.
+
+Entfesselt einen Wirbelwind, der im Wirbel gefangene Feinde zum Umdrehen zwingt. Kann zweimal nacheinander eingesetzt werden. Der hinfort Gezauberte kann leicht zurückkehren. Es heißt jedoch, dass man nur einmal zurückkehren kann. Beim zweiten Mal gibt es keine Rückkehr.</text>
+<text id="77200">Ein großer und verkümmerter goldener Fächer. Verbraucht Geistembleme.
+
+Sammle leuchtend goldenen Wind und lass ihn dann frei, um die im Wirbel gefangenen Feinde umzudrehen. Kann zweimal nacheinander eingesetzt werden. Umgedrehte Feinde lassen ihre Objekte und Münzen fallen, die als "Spenden" angesehen werden.</text>
+<text id="78000">Prothesen-Modul mit Gyobus kaputtem Horn. Verbraucht Geistembleme.
+
+Entfessle weitreichende Stoßangriffe. Kleine Feinde werden zum Träger hingezogen.
+
+Kann sogar einfache Rüstung losreißen. "Rüstung entfernen" war eine der berühmten Techniken von Gyobu Oniwa.</text>
+<text id="78100">Ein geladener Speer, verstärkt mit einem Federmechanismus. Verbraucht Geistembleme.
+
+Ermöglicht Stoßangriffe auf Distanz. Kleine Feinde, die vom Angriff getroffen werden, werden zum Träger hingezogen. Kann einfache Rüstung von Feinden entfernen. Energie im Federmechanismus zu speichern ermöglicht aufeinanderfolgende Stoßangriffe.</text>
+<text id="78200">Ein geladener Speer, verstärkt mit einem verbesserten Federmechanismus. Verbraucht Geistembleme.
+
+Ermöglicht Stoßangriffe auf Distanz.
+Kleine Feinde, die vom Angriff getroffen werden, werden zum Träger hingezogen. Kann einfache Rüstung von Feinden entfernen. Energie im Federmechanismus zu speichern sorgt für einen starken Schlitzangriff.</text>
+<text id="78300">Ein geladener Speer mit spiralförmiger Klinge. Verbraucht Geistembleme.
+
+Scharfe Stoßangriffe mit diesem Prothesen-Modul fügen der Vitalität und Haltung von Feinden Schaden zu, selbst wenn sie sich schützen. Die Spirale des Speers erzeugt eine sich windende Schockwelle, die beim Eindringen bohrt und spaltet.</text>
+<text id="78400">Ein geladener Speer mit einem Schlaghammer, der eine Flamme erzeugt. Verbraucht Geistembleme.
+
+Tauche die Spitze des geladenen Speers in Flammen und mache ihn zu einem scharfen Speer und einer Schusswaffe. Ein geladener Treffer mit dem Speer schlägt Feinde nieder und die Feuersbrunst verzehrt sie.</text>
+<text id="79000">Prothesen-Modul, erzeugt durch den Einbau eines zarten Fingers in die Prothese. Verbraucht Geistembleme.
+
+Sein Klang erregt die Aufmerksamkeit des Feindes und lockt ihn zum Ort der Flöte. Durch Anvisieren eines Ziels kann nur dieses das Signal hören.
+Das Flötensignal macht Tiere wild, so dass sie nicht mehr zwischen Freund und Feind unterscheiden können.</text>
+<text id="79100">Das Flötensignal kann ein Echo hervorrufen. Verbraucht Geistembleme.
+
+Der Klang der Flöte erregt die Aufmerksamkeit des Feindes und lockt ihn an. Durch Anvisieren eines Ziels kann nur dieses das Signal hören.
+
+Tief einzuatmen, bevor man pfeift, ermöglicht eine Verzögerung des Klangs.</text>
+<text id="79200">Das Flötensignal ist mit dem Ring des Unzufriedenen verstärkt. Verbraucht Geistembleme.
+
+Kann Tiere wahnsinnig machen und Erscheinungen Qualen zufügen. Auf der Innenseite des Rings ist "Eisvogel" eingraviert. Der Ruf des Eisvogels war einst am Flussufer im versunkenen Tal zu hören. Jetzt hört man ihn nicht mehr.</text>
+<text id="110000">-</text>
+<text id="200000">Eine Shinobi-Kampfkunst, bei der man den Schwung des Greifhakens für einen Schwertangriff nutzt.
+
+Die Shinobi-Prothese ist perfekt, um überflüssige Bewegungen zu unterbinden, indem man Schwung und Angriff kombiniert.</text>
+<text id="200100">Eine Shinobi-Kampfkunst, die das Abwehren oder Parieren von Angriffen in der Luft ermöglicht.
+
+Schuss- und andere Projektilwaffen fügen Zielen in der Luft mehr Schaden zu. Diese Technik kann diesen Schaden verhindern.
+
+Ein Shinobi lässt sich nicht so leicht abschießen.</text>
+<text id="200200">Eine Shinobi-Kampfkunst, die die Verwendung von Prothesen-Modulen in der Luft ermöglicht.
+Die Shinobi-Prothese ist aus Eisen gefertigt und entsprechend schwer. Mit den Techniken ihres Erfinders Dogen und genug Training kann sie trotzdem in der Luft verwendet werden. Es ist gut, dass Prothesen-Module nicht nur am Boden genutzt werden können.</text>
+<text id="200300">Shinobi-Kampfkunst, die feindliche Stoßangriffe kontert und der Haltung großen Schaden zufügt.
+Es ist fast unmöglich, schnelle Stöße richtig zu erkennen, außer man besitzt die Augen eines Shinobi. Tritt auf die Waffe eines Feindes, sodass er für einen Konter anfällig wird. Mikiri erfordert perfektes Timing. Ein Fehler kann den Tod bedeuten, aber das gilt auch für deinen Gegner.</text>
+<text id="200400">Eine Shinobi-Kampfkunst, die zur Tarnung verwendet wird. Gleite aus dem Sprint heraus in eine geduckte Position.
+
+Laufe durch einen Bereich und rutsche außer Sichtweite.
+
+Täuscht leicht die Augen deines Feindes.</text>
+<text id="200500">Eine Shinobi-Kampfkunst, die eine Stiltechnik in der Luft verwendet.
+
+Verringere Distanz mit einem Sprung oder vermeide einen Rundumangriff, um dann einen Kampfkunst-Angriff auszuführen.
+
+Die perfekte Kampfkunstfertigkeit für Shinobi-Kämpfe, bei denen die Füße nur selten Bodenkontakt haben.</text>
+<text id="200600">Eine Shinobi-Kampfkunst, mit der du hinter Feinde mit durchbrochener Haltung springen kannst.
+
+Diese Kampfkunsttechnik ermöglicht den Einsatz von Hinterrücks-Todesschlägen im Kampf, ohne getarnt sein zu müssen.
+
+Natürlich kennen Shinobi auch Tricks für den Nahkampf.</text>
+<text id="210000">Eine Kampfkunst, mit der du schlitzend durch die Umgebung wirbelst.
+
+Dieser scharfe Hieb schlitzt sich leicht durch mehrere Feinde und fügt ihnen durch ihre Abwehr Schaden zu.
+
+Schlitze dir mit diesem Angriff einen Weg frei, wenn du umstellt bist. </text>
+<text id="211000">Gewährt die Kampfkunst "Schattensturm".
+
+Die Geheimtechnik des Shinobi-Stils stammt vom Großen Shinobi persönlich. Entfessle einen starken Stoß mit großer Reichweite und benutze den aufgespießten Gegner als Plattform, um himmelwärts zu springen. Sei wie ein jagender Uhu und steig wieder empor, wenn du deine Beute erlegt hast. Beim Sprung werden Geistembleme verbraucht.</text>
+<text id="301000">Diese Shinobi-Kampfkunst ermöglicht nach dem Einsatz bestimmter Prothesen-Module einen Sprint nach vorn mit einem Schwertschnitt.
+Prothesen-Angriff auf lange Distanz mit einem treibenden Schnitt, um direkt zum Feind aufzuschließen.
+
+Geeignete Prothesen-Module:
+&lt;?acquiredWeaponNameId@70000?&gt;, &lt;?acquiredWeaponNameId@71000?&gt;, &lt;?acquiredWeaponNameId@78000?&gt;</text>
+<text id="301100">Nach dem Einsatz bestimmter Prothesen-Module ermöglicht diese Shinobi-Kampfkunst zeitgleiche und Kombinationsangriffe mit dem Prothesen-Modul oder dem Schwert. Fangzahn oder Klinge ... mit dieser Fähigkeit entscheidest du.
+
+Geeignete Prothesen-Module:
+&lt;?acquiredWeaponNameId@73000?&gt;, &lt;?acquiredWeaponNameId@78000?&gt;, &lt;?acquiredWeaponNameId@74000?&gt;</text>
+<text id="301200">Eine Shinobi-Kampfkunst, die nach dem Einsatz bestimmter Prothesen-Module die Übertragung der Kraft des Moduls in das Schwert zulässt, um sie nach vorn freizusetzen. Jede Fangzahn-Farbe führt zu einem anderen farbenreichen Tod.
+
+Geeignete Prothesen-Module:
+&lt;?acquiredWeaponNameId@76000?&gt;, &lt;?acquiredWeaponNameId@79000?&gt;</text>
+<text id="301300">Nach dem Einsatz bestimmter Prothesen-Module lässt sich der Effekt des Moduls mit dem Schwert kombinieren. Nach der Entwicklung legte der Bildhauer die Shinobi-Prothese ab. Er hatte zu viele getötet. So viele, dass die Flammen des Hasses Gestalt annahmen ...
+
+Geeignete Prothesen-Module:
+&lt;?acquiredWeaponNameId@72000?&gt;, &lt;?acquiredWeaponNameId@77000?&gt;</text>
+<text id="310000">Diese Kampftechnik ist ein sich drehender Sprungangriff, der die Distanz zum Feind schnell verringern oder vergrößern kann.
+
+Die Technik stammt vom Ashina dienenden Nachtschwalben-Clan. Sie verstärken den Schlag durch das Gewicht ihrer großen Wurfsterne. Die Shinobi-Prothese aus schwerem Stahl ist ähnlich anwendbar.</text>
+<text id="310100">Diese Kampftechnik ist ein sich drehender Sprungangriff, der die Distanz zum Feind schnell verringern oder vergrößern kann. Hiermit kannst du die Drehrichtung beim Nachtschwalben-Hieb bestimmen.
+
+Vorschnellen, zuschlagen, wegfliegen. Diese Art des Kampfes gab dem Nachtschwalben-Clan seinen Namen.</text>
+<text id="410000">Kampfkunst, die einen schweren Überkopf-Schwertschlag ausführt. Fügt der Haltung schweren Schaden zu. Stellt die eigene Haltung mit einem starken Vorwärtsschritt wieder her.
+
+Nur ein wilder Überkopf-Schlag, doch der Fokus auf diese Technik macht die Stärke des Ashina-Stils aus. Einmal gemeistert, kann sie sicherlich verbessert werden.</text>
+<text id="410100">Kampfkunst, die Ichimonji um einen weiteren Überkopf-Schwertangriff als Folgeangriff verlängert. Fügt der Haltung schweren Schaden zu. Stellt die eigene Haltung mit einem starken Vorwärtsschritt wieder her.
+
+Der Folgeangriff ist geeignet, um feindliche Gegenangriffe zu verhindern. Mit diesem Folgeangriff wird Ashinas Ichimonji perfekt.</text>
+<text id="411000">Kampfkunst mit Haltung, bei der das Schwert in der Scheide steckt, für einen blitzschnellen Schnellzugangriff. Verbraucht Geistembleme.
+
+Stellung zu bewahren gewährt sofortige Konterbereitschaft. Geheimtechnik des Ashina-Stils zum schnellen Töten. Seine Stärke ist laut Isshin Ashina, dass es einem Shura den Arm kosten kann.</text>
+<text id="510000">Eine Kampfkunst mit Ellenbogen- und Handflächenschlägen. Entfessle eine schnelle Angriffsflut, die Schaden verursacht und ein Kontern verhindern.
+
+Die Schläge dienen als Kampfkunst und Gebetsform. "Stärke ist nötig, um Buddhas Feinde zu besiegen." Daran denken die Mönche bei Gebeten, Kämpfen und tugendhaften Taten.</text>
+<text id="510100">Eine Kampfkunst, die Gebetsschläge um einen tödlichen Angriff verlängert.
+
+Entfessle einen Aufruhr aus Angriffen, die die Bewegung des Feindes behindern, und erledige einen taumelnden Feind mit einem finalen Treffer des Oberkörpers. Die Senpo-Mönche befreiten sich einst mit dieser Technik von weltlichen Begehren. Andere unreine Wünsche hingegen ...
+</text>
+<text id="511000">Eine Kampfkunst, bei der wiederholte Angriffe mit einem Sprungtritt beginnen. Ein Luftabwehr-Konter in Kombination mit einem Rundumangriff-Konter gefolgt von Tritten.
+
+Senpos Einsiedler verfeinerten diese Technik. Ihnen zufolge beweist die Beherrschung des Sprungtritts, dass man erleuchtet ist. Erst dann kann die Ausbildung beginnen.</text>
+<text id="511100">Eine Kampfkunst, die den Senpo-Sprungtritt um Hiebe und weitere Tritte ergänzt. Die Geheimtechnik des Senpo-Stils. Wer Erleuchtung erlangt, verkörpert Buddha. Der Geist ist frei und ermöglicht fließende Angriffsfolgen. Die Technik hat keine wahre Form und der Ablauf variiert je nach Person. Der Wolf nutzt für die Technik das Geschenk seines Herrn.</text>
+<text id="610100">Der weiterentwickelte Schattensturm ist eine geheime Technik des Ashina Mushin-Stils. Du kannst diesen Wirbelschnitt von oben durchführen, nachdem du mit Schattensturm von einem Feind abgesprungen bist.
+Durchbohren, fliegen und wieder abtauchen. Durch den Himmel zu fliegen ist die Natur eines Uhus. Der Absprung vom Feind verbraucht Geistembleme.</text>
+<text id="611100">Der Wolkenwirbel-Übergang ist eine Kampfkunst, die Schockwellen erzeugt. Verbraucht Geistembleme.
+
+Sie wurde nach einem großen Wirbel aus fernen Wolken in der Nähe des Quellgebiets benannt: dem Urquellwirbel. Tomoe beobachtete ihren jungen Meister, wie er sehnsüchtig auf die Wolkenformation blickte. Dieser Anblick bedeutete Tomoe alles.</text>
+<text id="612100">Eine geheime Kampfkunst mit der Sterblichen Klinge. Verbraucht Geistembleme.
+
+Fokus beim Ziehen der Sterblichen Klinge bringt zusätzliche Kraft für einen verheerenderen Hiebangriff mit erhöhter Reichweite. Nur Eidgebundene des göttlichen Erben beherrschen die Technik mit der Klinge, die nicht gezogen werden kann.</text>
+<text id="620000">Eine latente Fähigkeit, die das Vermögen eines Feindes zur Wahrnehmung jener mindert, die verborgen sind.
+
+Dies ist eine weitere Shinobi-Technik. Die eigene Präsenz zu unterdrücken macht einen Shinobi aus.</text>
+<text id="620100">Eine latente Fähigkeit, die Bewegungsgeräusche unterdrückt, indem sie das Hörvermögen eines Feindes hemmt.
+
+Dies ist eine weitere Shinobi-Technik. Lautloses Fortbewegen macht einen Shinobi aus.</text>
+<text id="630000">Diese latente Fähigkeit erhöht die Menge an Sen und Objekten, die du von Feinden erhältst.
+
+Mit den Worten des Hohepriesters des Senpo-Tempels:
+"Man sollte sich nur auf tugendhafte Taten konzentrieren und nicht an Wohlstand denken."</text>
+<text id="630100">Diese latente Fähigkeit erhöht die Menge an Sen und Objekten, die du von Feinden erhältst.
+
+Mit den Worten des Hohepriesters des Senpo-Tempels:
+"Man sollte sich weiterhin nur auf tugendhafte Taten konzentrieren und nicht an Wohlstand denken."</text>
+<text id="640000">Eine latente Fähigkeit, die die Heilwirkung von Erholungsobjekten erhöht.
+
+Emma gab diese Technik vor langer Zeit an den Bildhauer weiter.
+
+Sich an ihren Geschmack zu erinnern verstärkt die Wirkung. Leider verbessert das jedoch nicht den Geschmack.</text>
+<text id="640100">Eine latente Fähigkeit, die die Heilwirkung von Erholungsobjekten erhöht.
+
+Emma gab diese Technik vor langer Zeit an den Bildhauer weiter.
+
+Koste das Aroma aus und merke es dir, um die Wirkung zu verstärken. Sei jedoch gewarnt, dass dadurch die Medizin nicht besser riecht.</text>
+<text id="640200">Eine latente Fähigkeit, die die Heilwirkung von Erholungsobjekten erhöht.
+
+Medizinisches Wissen ist für das Überleben eines Shinobi unverzichtbar, da Wunden im Kampf unvermeidlich sind.
+
+Der einzige Weg, solche Techniken zu lernen, ist wieder und wieder von würdigen Gegnern verletzt zu werden.</text>
+<text id="640300">Eine latente Fähigkeit, die die Heilwirkung von Erholungsobjekten erhöht.
+
+Manchmal überlebt ein Shinobi, was einen anderen Krieger getötet hätte. Medizinisches ist Wissen unverzichtbar.
+
+Der einzige Weg, solche Techniken zu lernen, ist wieder und wieder von würdigen Gegnern verletzt zu werden.</text>
+<text id="640400">Eine latente Fähigkeit, die die Heilwirkung von Erholungsobjekten erhöht.
+
+Ein Shinobi kämpft als einsamer Wolf ohne fremde Hilfe. Daher ist medizinisches Wissen unverzichtbar.
+
+Der einzige Weg, solche Techniken zu lernen, ist wieder und wieder von würdigen Gegnern verletzt zu werden.</text>
+<text id="650000">Eine latente Fähigkeit zur Erhöhung der maximalen Anzahl an Geistemblemen, die du besitzen kannst.
+
+Geistembleme sind greifbares Bedauern. Wer seine abscheulichen Taten bedauert, wird von vielen Geistemblemen heimgesucht. 
+
+Shinobi, die viele getötet haben, müssen den physischen Tribut dieser Sünden ertragen.</text>
+<text id="650100">Eine latente Fähigkeit zur Erhöhung der maximalen Anzahl an Geistemblemen, die du besitzen kannst.
+
+Geistembleme sind greifbares Bedauern. Wer seine abscheulichen Taten bedauert, wird von vielen Geistemblemen heimgesucht.
+
+Shinobi, die viele getötet haben, müssen die Last ihrer Sünden in ihren Herzen tragen.</text>
+<text id="650200">Eine latente Fähigkeit zur Erhöhung der maximalen Anzahl an Geistemblemen, die du besitzen kannst.
+
+Geistembleme sind greifbares Bedauern. Wer seine abscheulichen Taten bedauert, wird von vielen Geistemblemen heimgesucht.
+
+Die Shinobi-Prothese ist von Sünde befleckt. Blutspritzer darauf verwandeln sich in ewigen Rost; ein Beweis für die Last des Trägers.</text>
+<text id="650300">Eine latente Fähigkeit zur Erhöhung der maximalen Anzahl an Geistemblemen, die du besitzen kannst.
+
+Geistembleme sind greifbares Bedauern. Wer seine abscheulichen Taten bedauert, wird von vielen Geistemblemen heimgesucht.
+
+Die Shinobi-Prothese ist von Sünde befleckt. Sie ist übersät von vielen kleinen Schnitten und Narben; Beweise für die zahllosen Tode, die sie verursacht hat.</text>
+<text id="650400">Eine latente Fähigkeit zur Erhöhung der maximalen Anzahl deiner Geistembleme.
+
+Geistembleme sind greifbares Bedauern. Wer seine abscheulichen Taten bedauert, wird von vielen Geistemblemen heimgesucht.
+
+Vielleicht war dieses unschuldige Tier vom Karma der Menschen belastet. Ein Shinobi erbt auch das Karma derer, die er getötet hat.</text>
+<text id="660000">Eine latente Fähigkeit, die nach einem Todesschlag Vitalität wiederherstellt.
+
+Todesschläge geben einem Shinobi die Gelegenheit durchzuatmen.
+
+Ein Shinobi kann Körper und Geist durch Atmung beim Töten beruhigen. So kann er mehr Feinde töten.</text>
+<text id="660100">Eine latente Fähigkeit, die nach einem Todesschlag Vitalität wiederherstellt.
+
+Todesschläge geben einem Shinobi die Gelegenheit durchzuatmen.
+
+Die Atempause wird durch Kämpfe gegen starke Feinde verstärkt.</text>
+<text id="660200">Eine latente Fähigkeit, die nach einem erfolgreichen Todesschlag die Haltung wiederherstellt.
+
+Der Ashina-Stil enthält Maßnahmen für den Kampf gegen eine große Überzahl von Gegnern. Nach einem Todesschlag muss man weiterhin wachsam sein und dabei tief ausatmen, um Körper und Geist zu festigen.</text>
+<text id="660300">Eine latente Fähigkeit, die nach einem Todesschlag Haltung wiederherstellt.
+
+Ein Shinobi muss damit rechnen, dass seine Feinde zahlenmäßig überlegen sind. Nach dem Tod eines Feindes muss er ausatmen, um Bedauern loszulassen und seine Haltung zurückzuerlangen.
+
+Das Ausatmen wird durch Kämpfe gegen starke Feinde verstärkt.</text>
+<text id="660400">Eine latente Fähigkeit, die den Schaden für die Haltung nach einem erfolgreichen Mikiri-Konter erhöht.
+
+Die Augen eines Shinobi ahnen immer die Bewegungen einer Klinge voraus. Auch dann gefasst zu sein, wenn man Angst vor einer scharfen Klinge hat, ist der Schlüssel zum Sieg.</text>
+<text id="660500">Eine latente Fähigkeit, die die Wirkungszeit der Effekte von Geiststurz-Konfekt erhöht.
+
+Wer sich aufopfert, genießt länger den Segen der Götter.</text>
+<text id="660600">Eine latente Fähigkeit, die bei erfolgreichem Parieren den Schaden für die Haltung erhöht.
+
+Der Ashina-Stil ist tief verwurzelt mit dem Fluss des Urquellwassers. Sie glauben, das Parieren einer Klinge gleiche einem Karpfen, der den Wasserfall hinaufsteigt.</text>
+<text id="660700">Eine latente Fähigkeit, die bei erfolgreichem Parieren den Schaden für die Haltung für einige Sekunden erhöht.
+
+Der Ashina-Stil ist tief verwurzelt mit dem Fluss des Urquellwassers. Sie glauben, das Parieren einer Klinge gleiche einem Karpfen, der den Wasserfall hinabsteigt.</text>
+<text id="660800">Eine latente Fähigkeit, die den Schaden für die Haltung reduziert, wenn man von einem Feind mit Schwert angegriffen wird.
+
+So wie die fließenden Wasser von Ashina, sollte man Stärke nicht mit weiterer Gewalt kontern, sondern sie umlenken wie fließendes Wasser.</text>
+<text id="670000">Eine Kampfkunst der Sterblichen Klinge. Verbraucht Geistembleme.
+
+Das Schwert blitzt auf, schneidet durch Feinde und hinterlässt rötlich-schwarzen, schädlichen Nebel, der die Reichweite erhöht. Nur Eidgebundene des göttlichen Erben beherrschen die Technik mit der Klinge, die nicht gezogen werden kann.</text>
+<text id="671000">Kampfkunst für einen schnellen Schlag nach dem blitzschnellen Ziehen der Klinge. Lade den Angriff für Schockwellen auf. Verbraucht Geistembleme.
+
+In jungen Jahren suchte Isshin Ashina stets nach tödlichen Kämpfen. Er grübelte oft, wie ein Schlag ausgeführt werden sollte, doch seine Klinge war immer schneller.</text>
+<text id="672000">Kampfkunst, die wiederholte Angriffe entfesselt, die Feinde mit fließenden, tänzerischen Bewegungen überwältigen. 
+
+Diese Ashina-Technik gilt als häretisch, weil sie von einer Außenseiterin gelehrt wurde. Die Meisterin dieser Technik durchquerte den Fließenden Übergang und begab sich hinab nach Ashina. Ihr Name war Tomoe.</text>
+<text id="673000">Entfessle einen Angriffssturm mit nicht gezogenem Schwert; so schnell, dass die Klinge fast unsichtbar ist. Verbraucht Geistembleme.
+
+Der Fokus auf das Ziehen der Klinge macht die Angriffe so schnell wie die eines Gottes. Nur jemand mit dem Geschick des alternden Isshin Ashina kann diese Technik ausführen.</text>
+<text id="674000">Eine Kampfkunst, die durch eine Reihe von Sprunghieben Schwung sammelt. Kann in Flug-Techniken übergehen. Verbraucht Geistembleme.
+Eine geheime Technik des Wegs von Tomoe, die sie manchmal zu Ehren ihres Meisters aufführte. Die Sakura-Blüten werden bald fallen. Wenn du nicht nach Hause kannst, soll dir wenigstens dieser Tanz Trost spenden.</text>
+<text id="680000">Die Mibu-Atemtechnik, eine geheime Atemtechnik.
+Diese latente Fähigkeit ermöglicht das Tauchen und unbegrenzte Atmen unter Wasser. Entwickelt vom Mibu-Dorfgründer.
+
+"Diejenigen, die sich der Prozession anschließen möchten, müssen die Mibu-Atemtechnik beherrschen. Ohne sie können sie den göttlichen Drachen nicht treffen."</text>
+<text id="681000">Eine Shinobi-Kampfkunst, die hoch in die Luft springende Feinde stoppen soll.
+
+Kann die Verwundbarkeit des Feindes in der Luft für einen Sprung zu ihm hin mit Todesschlag nutzen.
+
+Ideal für Shinobi, die das Blatt in der Luft gegen den Feind wenden wollen.</text>
+<text id="690000">Unbekannte Kampfkunst</text>
+<text id="690100">Unbekannte Kampfkunst-Verbesserung</text>
+<text id="690200">Unbekannte Shinobi-Kampfkunst</text>
+<text id="690300">Unbekannte Latente Fähigkeit</text>
+<text id="690400">Unbekannte geheime Kampfkunst</text>
+<text id="699000">Unbekannte geheime Kampfkunst</text>
+<text id="701000">Ein verbesserter Wurfstern, der mit Rotationsenergie gestärkt wird. Verbraucht Geistembleme.
+
+Reduziere Vitalität und Haltung von Feinden und füge springenden Gegnern größeren Schaden zu. Spannt man die Feder länger, dreht sich die Klinge nach der Landung weiter und verletzt Feinde mehrmals. Es handelt sich im Grunde um einen Kreisel mit Klingen.</text>
+<text id="702000">Verbesserter Wurfstern, der Feinde mit scharfen Klingen durchdringt. Verbraucht Geistembleme.
+
+Diese Klingen behalten ihren Schwung, auch wenn sie bereits getroffen haben und schädigen Vitalität und Haltung, auch wenn sie abgewehrt werden. Spannt man die Feder länger, dreht sich die Klinge nach der Landung weiter und verletzt Feinde mehrmals.</text>
+<text id="703000">Das Kunai des Schmetterlings, eingebaut in das Wurfsternrad. Verbraucht Geistembleme.
+
+Wird es geworfen, macht es ein Geräusch, das dafür sorgt, dass Phantom-Schmetterlinge der Flugbahn folgen. Die Phantom-Schmetterlinge verfolgen Feinde und fügen ihnen Schaden zu, selbst wenn sie sie abwehren.</text>
+<text id="704000">Prothesen-Modul, das geladene Münzbündel abfeuert. Verbraucht Sen und Geistembleme.
+
+Die Reichweite ist geringer als bei Wurfsternen, dafür ist der Schaden umso größer, da die Münzen mehrmals treffen. Die Zahl der geworfenen Münzen basiert auf dem eigenen Besitz. Reich zu sein macht die Salve unglaublich stark, doch ein leerer Geldbeutel verschießt nur Staub.</text>
+<text id="705000">Ein Wurfstern, gesegnet mit der Gunst des Urquell-Lapislazuli. Verbraucht Geistembleme.
+
+Fügt Vitalität und Haltung abwehrender Feinde starken Schaden zu. Diese Klingen werden auch nicht beim Durchdringen von Feinden langsamer. Der Anblick des blau leuchtenden Lapislazuli erinnert an eine Sternschnuppe.</text>
+<text id="711000">Ein verbessertes Feuerwerk mit Sprungfeder. Verbraucht Geistembleme.
+
+Erzeugt einen lauten Explosionsknall mit Blitz, der Feinde zurückschrecken lässt und der Haltung von Tieren Schaden zufügt. Wenn man den Federmechanismus auflädt, wird das Schießpulver effektiver verteilt und die Reichweite in alle Richtungen erhöht.</text>
+<text id="712000">Ein verbessertes Feuerwerk, das eine Schießpulvermischung einsetzt. Verbraucht Geistembleme.
+
+Gemischtes Schießpulver brennt länger. Durch einen erhöhten Anteil an schwarzem Schießpulver hält der Effekt länger an als beim normalen Feuerwerk. Die Flammen des Feuerwerks züngeln für kurze Zeit.</text>
+<text id="713000">Ein verbessertes Feuerwerk, das lila, Rauch erzeugendes Schießpulver nutzt. Verbraucht Geistembleme.
+
+Die Schießpulvermischung ist als "Lila Rauchfunke" bekannt. Der Zusatz von fettigem Wachs verzögert die Zündung leicht. Geblendete Feinde nehmen kurzzeitig mehr Vitalitäts- und Haltungsschaden.</text>
+<text id="721000">Ein Flammenlauf mit Schießpulvermechanismus.
+Verbraucht Geistembleme.
+
+Fügt Feinden mit Feuer Schaden zu und verursacht die Brennen-Status-Anomalie.
+
+Der Federmechanismus kann aufgeladen werden, um eine gewaltige Salve Flammen und heißer Luft zu entfesseln, die Feinde durch die Luft schleudert.</text>
+<text id="722000">Ein Lauf, der Glimmharz enthält, das als explosiver Katalysator dient. Verbraucht Geistembleme.
+
+Verursacht einen Flammenstoß mit geringer Reichweite. Kontinuierlicher Feuerschaden löst den Status "Brennend" aus. Durch das Harz ist es in der Lage, einen kontinuierlichen Flammenstrom aufrechtzuerhalten.</text>
+<text id="723000">Ein mit der Gunst des Urquell-Lapislazuli gesegneter Flammenlauf. Verbraucht Geistembleme.
+
+Schädigt sogar Erscheinungen mit seiner lila Feuersbrunst. Die Flamme erzeugt jedoch keine Brennen-Status-Anomalie. Heilige Lapislazuli-Feuer sind göttlich. Reinige den tiefsitzenden Hass mit Feuer.</text>
+<text id="731000">Eine geladene Axt mit Federmechanismus. Verbraucht Geistembleme.
+
+Die Stärke der geladenen Axt liegt in ihrem Gewicht, durch das sie Angriffe abwehrt und einen einfachen Holzschild zerstören kann. Das Aufladen des Federmechanismus ermöglicht es, dass trotz des Gewichts der Axt große schwungvolle Angriffe ausgeübt werden können.</text>
+<text id="732000">Eine geladene Axt mit einem Schlaghammer, um eine Flamme zu erzeugen. Verbraucht Geistembleme.
+
+Bewirkt feurige Axt-Angriffe. Schläge mit dem Schlaghammer verursachen heftige Flammenausbrüche und vergrößern das effektive Angriffsfeld. Schusswaffe und schwere Axt in einem.</text>
+<text id="733000">Eine geladene Axt, gesegnet mit der Gunst Urquell-Lapislazuli. Verbraucht Geistembleme.
+
+Die mächtige Lazulith-Klinge fügt selbst abwehrenden Feinden Schaden zu. Der Klang der auf einen Feind treffenden Lapislazuli-Klinge erzeugt einen mächtigen Hall, der feindliche Illusionen auflösen kann.</text>
+<text id="741000">Nebelrabenfedern mit Kerben in den Spitzen. Verbraucht Geistembleme.
+
+Verschwinde so schnell wie der Nebel. Aus der angenommenen Haltung heraus und nach dem Erleiden von Schaden ausführbar.
+Die kleinen Kerben in den Federspitzen erinnern an einen alten Nebelraben. Man kann sich mit ihnen noch leichter in Nebel verwandeln.</text>
+<text id="742000">Nebelrabe, verschmolzen mit blutroten Federn. Verbraucht Geistembleme.
+
+Verschwinde so schnell wie der Nebel. Aus der angenommenen Haltung heraus und nach erlittenem Schaden ausführbar. Die rot gefärbten Federn gleichen dem Großen Nebelraben und hinterlassen eine brennende Spur. Der Große Rabe ist ein Gott des Landes, und die Berührung der Götter ist gefürchtet.</text>
+<text id="751000">Sabimaru mit einem besonderen Mechanismus zum Lösen der Klinge. Verbraucht Geistembleme.
+
+Aufgrund des überarbeiteten Mechanismus ist es möglich, zwischen verschiedenen Angriffen zu wechseln. Das blaue Rostgift auf Sabimarus Klinge frisst sich durch die Verteidigung von Feinden und löst eine Gift-Status-Anomalie aus.</text>
+<text id="752000">Ein weiter verbessertes Sabimaru mit einer feingeschliffenen Klinge. Verbraucht Geistembleme.
+
+Wiederholte Angriffe mit der frisch geschärften Klinge reduzieren die gegnerische Vitalität und Haltung, selbst, wenn sie abwehren. Das blaue Rostgift auf Sabimarus Klinge frisst sich durch Feinde und löst den Status Gift aus.</text>
+<text id="753000">Mit der Gunst des Urquell-Lapislazuli gesegnetes Sabimaru. Verbraucht Geistembleme.
+
+Die Kombination aus dem Lapislazuli und der Rostklinge erzeugt beim Angriff einen giftigen Nebel. Der Lapislazuli schmilzt den im Sabimaru eingelassenen blauen Rost und erzeugt so diese Klinge.</text>
+<text id="761000">Ein geladener Schirm mit einem magnetischen Mechanismus. Verbraucht Geistembleme.
+
+Schützt geöffnet vor Angriffen aus allen Richtungen. Strecke ihn beim Bewegen zum Schutz vor leichten Angriffen aus. Der magnetische Schaft macht ihn nahezu unzerstörbar. Feindliche Angriffe werden durch Drehen des Schirms abgewehrt.</text>
+<text id="762000">Ein geladener Schirm, verziert mit einem leuchtend roten Zinnober-Vogel. Verbraucht Geistembleme.
+
+Schützt geöffnet vor Angriffen aus allen Richtungen. Strecke ihn beim Bewegen zum Schutz vor leichten Angriffen aus. Der Segen des Zinnober-Vogels verhindert Schaden durch feuerbasierte Angriffe und das Aufbauen des Brennen-Status.</text>
+<text id="763000">Ein geladener Schirm, verziert mit einem lila-blauen Phönix. Verbraucht Geistembleme.
+
+Schützt geöffnet vor Angriffen aus allen Richtungen. Strecke ihn beim Bewegen zum Schutz vor leichten Angriffen aus.
+
+Der Segen des Phönix in diesem Schirm verhindert Schaden durch Erscheinungen.</text>
+<text id="771000">Großer Fächer, der einen Wirbelwind erzeugt. Verbraucht Geistembleme.
+
+Entfesselt einen Wirbelwind, der im Wirbel gefangene Feinde zum Umdrehen zwingt. Kann zweimal nacheinander eingesetzt werden. Der hinfort Gezauberte kann leicht zurückkehren. Es heißt jedoch, dass man nur einmal zurückkehren kann. Beim zweiten Mal gibt es keine Rückkehr.</text>
+<text id="772000">Ein großer und verkümmerter goldener Fächer. Verbraucht Geistembleme.
+
+Sammle leuchtend goldenen Wind und lass ihn dann frei, um die im Wirbel gefangenen Feinde umzudrehen. Kann zweimal nacheinander eingesetzt werden. Umgedrehte Feinde lassen ihre Objekte und Münzen fallen, die als "Spenden" angesehen werden.</text>
+<text id="781000">Ein geladener Speer, verstärkt mit einem Federmechanismus. Verbraucht Geistembleme.
+
+Ermöglicht Stoßangriffe auf Distanz. Kleine Feinde, die vom Angriff getroffen werden, werden zum Träger hingezogen. Kann einfache Rüstung von Feinden entfernen. Energie im Federmechanismus zu speichern ermöglicht aufeinanderfolgende Stoßangriffe.</text>
+<text id="782000">Ein geladener Speer, verstärkt mit einem verbesserten Federmechanismus. Verbraucht Geistembleme.
+
+Ermöglicht Stoßangriffe auf Distanz.
+Kleine Feinde, die vom Angriff getroffen werden, werden zum Träger hingezogen. Kann einfache Rüstung von Feinden entfernen. Energie im Federmechanismus zu speichern sorgt für einen starken Schlitzangriff.</text>
+<text id="783000">Ein geladener Speer mit spiralförmiger Klinge. Verbraucht Geistembleme.
+
+Scharfe Stoßangriffe mit diesem Prothesen-Modul fügen der Vitalität und Haltung von Feinden Schaden zu, selbst wenn sie sich schützen. Die Spirale des Speers erzeugt eine sich windende Schockwelle, die beim Eindringen bohrt und spaltet.</text>
+<text id="784000">Ein geladener Speer mit einem Schlaghammer, der eine Flamme erzeugt. Verbraucht Geistembleme.
+
+Tauche die Spitze des geladenen Speers in Flammen und mache ihn zu einem scharfen Speer und einer Schusswaffe. Ein geladener Treffer mit dem Speer schlägt Feinde nieder und die Feuersbrunst verzehrt sie.</text>
+<text id="791000">Das Flötensignal kann ein Echo hervorrufen. Verbraucht Geistembleme.
+
+Der Klang der Flöte erregt die Aufmerksamkeit des Feindes und lockt ihn an. Durch Anvisieren eines Ziels kann nur dieses das Signal hören.
+
+Tief einzuatmen, bevor man pfeift, ermöglicht eine Verzögerung des Klangs.</text>
+<text id="792000">Das Flötensignal ist mit dem Ring des Unzufriedenen verstärkt. Verbraucht Geistembleme.
+
+Kann Tiere wahnsinnig machen und Erscheinungen Qualen zufügen. Auf der Innenseite des Rings ist "Eisvogel" eingraviert. Der Ruf des Eisvogels war einst am Flussufer im versunkenen Tal zu hören. Jetzt hört man ihn nicht mehr.</text>
+<text id="1700000">Information gesperrt</text>
+<text id="1710000">Information gesperrt</text>
+<text id="1720000">Information gesperrt</text>
+<text id="1730000">Information gesperrt</text>
+<text id="1740000">Information gesperrt</text>
+<text id="1750000">Information gesperrt</text>
+<text id="1760000">Information gesperrt</text>
+<text id="1770000">Information gesperrt</text>
+<text id="1780000">Information gesperrt</text>
+<text id="1790000">Information gesperrt</text>
+<text id="2700000">Diese Information ist zurzeit gesperrt.</text>
+</entries>
+</fmg>

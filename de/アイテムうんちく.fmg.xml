@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="0">%null%</text>
+<text id="2100">&lt;?kgiconKc@16?&gt; nach Hinterrücks-Todesschlag:
+Blutrauch-Ninjutsu
+
+Entzieht dem Opfer eine enorme Blutwolke. Verbraucht Geistembleme.</text>
+<text id="2101">%null%</text>
+<text id="2102">%null%</text>
+<text id="2103">%null%</text>
+<text id="2104">%null%</text>
+<text id="2105">%null%</text>
+<text id="2106">%null%</text>
+<text id="2107">%null%</text>
+<text id="2108">%null%</text>
+<text id="2109">%null%</text>
+<text id="2110">&lt;?kgiconKc@16?&gt; nach Hinterrücks-Todesschlag:
+Puppenspieler-Ninjutsu
+
+Manipuliert das Opfer, sodass es seine Verbündeten angreift. Verbraucht Geistembleme.</text>
+<text id="2111">%null%</text>
+<text id="2112">%null%</text>
+<text id="2113">%null%</text>
+<text id="2114">%null%</text>
+<text id="2115">%null%</text>
+<text id="2116">%null%</text>
+<text id="2117">%null%</text>
+<text id="2118">%null%</text>
+<text id="2119">%null%</text>
+<text id="2120">&lt;?kgiconKc@16?&gt; nach Hinterrücks-Todesschlag:
+Verleihungs-Ninjutsu
+
+Überzieht deine Klinge mit dem Blut deines Ziels. Verbraucht Geistembleme.</text>
+<text id="2490">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Sakura-Tanz
+
+Drehe dich, um Schwung für eine Reihe von drei Sprunghieben in Tanzform zu sammeln. Weiche Rundumangriffen aus und füge deinem Gegner mit scharfen Schnitten sogar durch seine Abwehr Schaden zu.
+Kann nach dem Angriff in eine Flugtechnik übergehen. Verbraucht Geistembleme.</text>
+</entries>
+</fmg>

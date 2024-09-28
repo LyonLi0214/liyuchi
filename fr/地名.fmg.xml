@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1000">Domaine Hirata</text>
+<text id="1100">Alentours d'Ashina</text>
+<text id="1101">%null%</text>
+<text id="1102">%null%</text>
+<text id="1103">%null%</text>
+<text id="1104">%null%</text>
+<text id="1105">%null%</text>
+<text id="1106">%null%</text>
+<text id="1107">%null%</text>
+<text id="1108">%null%</text>
+<text id="1109">%null%</text>
+<text id="1110">Château Ashina</text>
+<text id="1111">%null%</text>
+<text id="1112">%null%</text>
+<text id="1113">%null%</text>
+<text id="1114">%null%</text>
+<text id="1115">%null%</text>
+<text id="1116">%null%</text>
+<text id="1117">%null%</text>
+<text id="1118">%null%</text>
+<text id="1119">%null%</text>
+<text id="1120">Réservoir d'Ashina</text>
+<text id="1300">Donjon abandonné</text>
+<text id="1500">Village de Mibu</text>
+<text id="1501">%null%</text>
+<text id="1502">%null%</text>
+<text id="1503">%null%</text>
+<text id="1504">%null%</text>
+<text id="1505">%null%</text>
+<text id="1506">%null%</text>
+<text id="1507">%null%</text>
+<text id="1508">%null%</text>
+<text id="1509">%null%</text>
+<text id="1510">Profondeurs d'Ashina</text>
+<text id="1700">Vallée engloutie</text>
+<text id="1701">%null%</text>
+<text id="1702">%null%</text>
+<text id="1703">%null%</text>
+<text id="1704">%null%</text>
+<text id="1705">%null%</text>
+<text id="1706">%null%</text>
+<text id="1707">%null%</text>
+<text id="1708">%null%</text>
+<text id="1709">%null%</text>
+<text id="1710">Passage de la Vallée engloutie</text>
+<text id="2000">Temple Senpo, Mont Kongo</text>
+<text id="2500">Palais de la fontaine</text>
+</entries>
+</fmg>

@@ -1,0 +1,1778 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1000">Une poupée de papier blanche.
+
+Les hommes ne sont pas les seuls dont le cœur est empli de remords. Ces sentiments peuvent même se manifester sous une forme illusoire.
+
+Certaines actions, comme utiliser des outils de prothèse, consomment des emblèmes spirituels.</text>
+<text id="1001">%null%</text>
+<text id="1100">%null%</text>
+<text id="1101">%null%</text>
+<text id="1102">%null%</text>
+<text id="1103">%null%</text>
+<text id="1104">%null%</text>
+<text id="1105">%null%</text>
+<text id="1106">%null%</text>
+<text id="1107">%null%</text>
+<text id="1108">%null%</text>
+<text id="1109">%null%</text>
+<text id="1110">%null%</text>
+<text id="1200">%null%</text>
+<text id="2000">Le pouvoir de revenir d'entre les morts, conféré par l'héritier divin du dragon.
+
+Le pouvoir de résurrection a un coût.
+
+Des morts à répétition provoquent la stagnation du sang du dragon, et cela a des conséquences.</text>
+<text id="2100">Un ninjutsu qui extirpe un nuage de sang d'un ennemi après un coup mortel dans le dos. L'utiliser requiert des emblèmes spirituels.
+
+Le sang de la victime devient de la fumée, ce qui permet d'échapper à la vue des ennemis et de regagner l'élément de surprise. En dernier recours, cette technique peut transformer la proie en chasseur.</text>
+<text id="2101">%null%</text>
+<text id="2102">%null%</text>
+<text id="2103">%null%</text>
+<text id="2104">%null%</text>
+<text id="2105">%null%</text>
+<text id="2106">%null%</text>
+<text id="2107">%null%</text>
+<text id="2108">%null%</text>
+<text id="2109">%null%</text>
+<text id="2110">Un ninjutsu qui permet de contrôler la victime comme une marionnette. L'utiliser requiert des emblèmes spirituels. Activé après un coup mortel dans le dos.
+
+Cette technique force temporairement l'esprit d'une victime à rester dans son corps. La marionnette agit selon le bon vouloir de son maître, mais l'esprit ne peut rester indéfiniment et la marionnette finira par mourir.</text>
+<text id="2111">%null%</text>
+<text id="2112">%null%</text>
+<text id="2113">%null%</text>
+<text id="2114">%null%</text>
+<text id="2115">%null%</text>
+<text id="2116">%null%</text>
+<text id="2117">%null%</text>
+<text id="2118">%null%</text>
+<text id="2119">%null%</text>
+<text id="2120">Un ninjutsu qui utilise le sang de la victime pour allonger la portée de votre lame. L'utiliser requiert des emblèmes spirituels. Activé après un coup mortel dans le dos.
+Cette technique a été découverte par Loup qui décapita un adversaire avec la lame de la mort. Elle permet de créer une épée maudite en utilisant le sang de vos ennemis. Si la technique ressemble à la lame de la mort, elle ne permet pas de tuer les immortels.</text>
+<text id="2300">Un sabre offert par Kuro, l'héritier divin. Il appartient aux Hirata, une branche de la famille Ashina.
+
+On a longtemps cru qu'il était perdu, mais Loup l'a de nouveau en sa possession. Le fourreau et le manche sont d'un noir banal. Son nom signifie "liens avec ce qui est précieux", et on dit que la lame incarne ce sentiment.</text>
+<text id="2301">%null%</text>
+<text id="2302">%null%</text>
+<text id="2303">%null%</text>
+<text id="2304">%null%</text>
+<text id="2305">%null%</text>
+<text id="2306">%null%</text>
+<text id="2307">%null%</text>
+<text id="2308">%null%</text>
+<text id="2309">%null%</text>
+<text id="2310">Un bras prosthétique conçu pour les shinobi et donné par le Sculpteur.
+
+Une réplique de bras humain pouvant recevoir toutes sortes de mécanismes. On l'a visiblement conçu pour l'amélioration et la personnalisation.
+
+Il a beaucoup servi et on aperçoit des taches de sang et d'huile, mais il est bien entretenu.
+</text>
+<text id="2390">%null%</text>
+<text id="2391">%null%</text>
+<text id="2392">%null%</text>
+<text id="2393">%null%</text>
+<text id="2394">%null%</text>
+<text id="2395">%null%</text>
+<text id="2396">%null%</text>
+<text id="2397">%null%</text>
+<text id="2398">%null%</text>
+<text id="2399">%null%</text>
+<text id="2400">Un Odachi capable de tuer ceux qui ne peuvent pas mourir. Sa lame rouge prendra la vie de quiconque la dégaine.
+
+Elle a longtemps été cachée au temple Senpo. Nul ne peut maîtriser la lame de la mort sans pouvoir de résurrection.
+
+Son nom est inscrit sur l'arme : "Don des larmes".</text>
+<text id="2420">Un parchemin "Respiration Mibu". Confère la capacité de respirer indéfiniment sous l'eau.
+
+La respiration Mibu n'était enseignée qu'à ceux que l'on jugeait dignes de servir la fontaine. Ceux qui veulent rejoindre la procession doivent maîtriser la respiration Mibu. Sans cela, ils ne sauraient rencontrer le dragon divin.</text>
+<text id="2450">Un abrégé sur le "Coup mortel antiaérien", un Art martial du shinobi. La compétence est déverrouillée quand vous obtenez cet objet.
+
+Un shinobi peut se trouver dans un combat où aucun combattant ne touche le sol. Sauter vers un adversaire qui a baissé sa garde en l'air permet d'infliger un puissant coup mortel.</text>
+<text id="2451">%null%</text>
+<text id="2452">%null%</text>
+<text id="2453">%null%</text>
+<text id="2454">%null%</text>
+<text id="2455">%null%</text>
+<text id="2456">%null%</text>
+<text id="2457">%null%</text>
+<text id="2458">%null%</text>
+<text id="2459">%null%</text>
+<text id="2460">Un art du combat pour trancher rapidement depuis la position du fourreau. Le charger enverra une onde de choc. Coûte des emblèmes spirituels.
+Le jeune Isshin, connu sous le nom de "démon du sabre", passait ses journées en batailles désespérées et en massacres.
+Comment tuer ? Comment celui-ci doit-il être tué ? Il continua de réfléchir sans fin à ce problème et, avant de le savoir, sa lame sembla prendre vie.</text>
+<text id="2461">Un abrégé sur le "Passage flottant", un Art du combat. Cet Art du combat s'apprend en acquérant ce texte.
+
+Déchaîne des attaques sous forme d'une danse fluide qui submerge l'ennemi dans un tourbillon de coups élégants. C'est une technique Ashina, mais son origine étrangère en fait un mouvement hérétique.</text>
+<text id="2462">Un Art du combat qui déchaîne une série d'attaques depuis la position du fourreau, si rapide que la lame est presque invisible. Coûte des emblèmes spirituels.
+Le bretteur doit exclusivement se concentrer sur le mouvement de sa lame. Cette concentration permet la vitesse d'exécution. Une technique conçue par nul autre que le vieux maître épéiste Isshin.</text>
+<text id="2463">%null%</text>
+<text id="2464">%null%</text>
+<text id="2465">%null%</text>
+<text id="2466">%null%</text>
+<text id="2467">%null%</text>
+<text id="2468">%null%</text>
+<text id="2469">%null%</text>
+<text id="2470">Améliore l'effet des objets de récupération.
+
+Les connaissances médicales sont vitales pour la survie d'un shinobi, car on n'échappe pas aux blessures au combat.
+
+Le seul moyen d'apprendre de telles techniques consiste à être gravement blessé encore et encore par des adversaires dignes de valeur.</text>
+<text id="2471">Améliore l'effet des objets de récupération.
+
+Un shinobi peut parfois survivre à une mort certaine. Pour cela, il lui est vital de disposer de connaissances médicales.
+
+Le seul moyen d'apprendre de telles techniques consiste à être gravement blessé encore et encore par des adversaires dignes de valeur.</text>
+<text id="2472">Améliore l'effet des objets de récupération.
+
+Un shinobi combat en loup solitaire. Il lui est vital de disposer de connaissances médicales.
+
+Le seul moyen d'apprendre de telles techniques consiste à être gravement blessé encore et encore par des adversaires dignes de valeur.</text>
+<text id="2473">%null%</text>
+<text id="2474">%null%</text>
+<text id="2475">Une compétence passive qui augmente le nombre maximum d'emblèmes spirituels qu'on peut détenir.
+Les emblèmes spirituels sont des manifestations du regret. Ceux qui regrettent leurs actions viles sont hantés par de nombreux emblèmes spirituels. Cette innocente bête portait peut-être le poids du karma d'un homme. Hériter du karma de ceux que l'on tue est le fardeau d'un shinobi.</text>
+<text id="2476">%null%</text>
+<text id="2477">%null%</text>
+<text id="2478">%null%</text>
+<text id="2479">%null%</text>
+<text id="2480">Une compétence passive qui permet de récupérer de la Vitalité après un coup mortel.
+Les coups mortels permettent au shinobi de respirer. Un shinobi peut calmer son corps et son esprit grâce à la respiration, même pendant qu'il est en train de tuer, ce qui lui permet d'enchaîner les exécutions.
+Affronter des adversaires plus puissants renforce ce moment de répit.</text>
+<text id="2481">Une compétence passive qui permet de récupérer de la Posture après un coup mortel.
+
+Un shinobi doit se préparer à combattre seul plusieurs ennemis. Après avoir tué un ennemi, vous devez expirer vos regrets et réaffirmer votre Posture.
+Affronter des adversaires plus puissants renforce ce moment d'exhalaison.</text>
+<text id="2482">%null%</text>
+<text id="2483">%null%</text>
+<text id="2484">%null%</text>
+<text id="2485">%null%</text>
+<text id="2486">%null%</text>
+<text id="2487">%null%</text>
+<text id="2488">%null%</text>
+<text id="2489">%null%</text>
+<text id="2490">Un Art du combat dans lequel on pirouette et taille avec grâce. Peut s'enchaîner avec une manœuvre de prothèse en l'air à la fois offensive et défensive. Coûte des emblèmes spirituels.
+
+La technique secrète de Tomoe, qu'elle effectuait autrefois comme une danse en l'honneur de son maître. 
+Les fleurs de cerisier vont bientôt tomber. Si retourner au pays est impossible, au moins la danse peut-elle vous consoler.</text>
+<text id="2491">%null%</text>
+<text id="2492">%null%</text>
+<text id="2493">%null%</text>
+<text id="2494">%null%</text>
+<text id="2495">%null%</text>
+<text id="2496">%null%</text>
+<text id="2497">%null%</text>
+<text id="2498">%null%</text>
+<text id="2499">%null%</text>
+<text id="2500">Un lotus blanc qui fleurit dans la Vallée engloutie, au sein des eaux de la source.
+
+L'arôme de la fleur attire les singes femelles, ce qui explique pourquoi le singe gardien la fait pousser, comme offrande à sa compagne.
+
+C'est un ingrédient de l'encens que Kuro recherche pour rompre avec l'immortalité.</text>
+<text id="2501">Une pierre enchâssée dans l'autel au fond du village de Mibu. Ces pierres se forment parfois dans le corps de ceux qui boivent à la source pendant longtemps.
+"Allez à l'autel matrimonial et offrez la pierre odorante de bon augure."
+
+C'est un ingrédient de l'encens que Kuro recherche pour rompre avec l'immortalité.</text>
+<text id="2502">Une branche séchée et odorante du persistant, volée par le père de Loup.
+
+Le cordon rouge autour de la branche a sans doute été attaché quand il a quitté le royaume divin. Cela lui rappelle d'où il vient.
+
+C'est un ingrédient de l'encens que Kuro recherche pour rompre avec l'immortalité.</text>
+<text id="2503">Des fleurs du persistant qui ont fleuri dans un vieux souvenir. Takeru en a gardé la branche, en souvenir du royaume divin.
+
+Ceux qui cherchent la purification doivent donner les larmes du dragon et ces fleurs à l'héritier divin de l'héritage du dragon, afin de briser les liens entre l'héritier divin et ceux qui lui ont fait serment de fidélité.</text>
+<text id="2910">Un tube en métal que l'on peut donner au Sculpteur en vue d'améliorer les outils de prothèse.
+
+Il semble pouvoir s'insérer parfaitement dans l'os du poignet de la prothèse shinobi.
+
+Son acier renforcé rendra les crocs d'un shinobi encore plus acérés.</text>
+<text id="2911">%null%</text>
+<text id="2912">%null%</text>
+<text id="2913">%null%</text>
+<text id="2914">%null%</text>
+<text id="2915">%null%</text>
+<text id="2916">%null%</text>
+<text id="2917">%null%</text>
+<text id="2918">%null%</text>
+<text id="2919">%null%</text>
+<text id="2920">Un livre de secrets qui détaille diverses techniques employées par les shinobi. Permet d'apprendre des compétences de l'Art des shinobi.
+
+Là se trouvent les secrets les plus enfouis de l'Art des shinobi, comme les attaques aériennes et les techniques de furtivité. Les samouraïs ne pratiquent pas ces mouvements.
+</text>
+<text id="2921">Un livre de secrets qui détaille diverses techniques à utiliser avec la prothèse du shinobi. Permet d'apprendre les compétences de prothèse.
+
+Écrit par un homme qui a abandonné la voie des shinobi, mais a continué ses recherches. Il ne pensait pas transmettre un jour ses découvertes.</text>
+<text id="2922">Un abrégé décrivant l'escrime Ashina. Permet d'apprendre les compétences Ashina.
+
+Le texte prend la forme d'une histoire des combats d'Isshin Ashina. Jeune, Isshin s'est battu sans cesse et a peaufiné sa technique dans le sang de ses ennemis. Il a consolidé ses découvertes en une "escrime Ashina" destinée à assurer la domination de son clan.</text>
+<text id="2923">Un livre de secrets qui vous permet d'apprendre les compétences du temple Senpo. Au temple Senpo, on apprend les arts martiaux pour grandir en vertu. On pense que les poings, combinés à une discipline stricte, sont essentiels pour battre les ennemis de Bouddha. Hélas, le temple Senpo a été saisi par une obsession de l'immortalité qui a distordu ses enseignements et son style de combat.</text>
+<text id="2924">Un texte unique qui contient des détails sur le légendaire style Ashina Mushin.
+Jeune, Isshin était dévoré par la soif du pouvoir et sa recherche obsessionnelle de puissance lui permit de s'emparer d'Ashina à son profit. Il absorba les techniques de différents styles et forgea sa propre école. Cette volonté explique les accomplissements d'Isshin et pourquoi ce document ne pourra jamais être considéré comme fini.</text>
+<text id="2925">%null%</text>
+<text id="2926">%null%</text>
+<text id="2927">%null%</text>
+<text id="2928">%null%</text>
+<text id="2929">%null%</text>
+<text id="2930">Un charme de purification créé par Emma.
+
+À l'aide de ce charme, on peut offrir une goutte de sang du dragon à une idole de Sculpteur pour soigner tous ceux qui sont affligés par la peste du dragon.
+Ce charme contient une goutte du sang d'une victime de la peste du dragon, qu'Emma est parvenue à purifier et à solidifier.</text>
+<text id="3000">Une gourde d'eau médicinale qui restaure la Vitalité. Se reposer remplira la gourde.
+
+Fabriquée par un apprenti de l'incroyable docteur Dogen.
+
+Le remplissage automatique de la gourde peut sembler étrange, mais les graines qu'elle renferme expliquent peut-être cela.</text>
+<text id="3001">Une gourde d'eau médicinale qui restaure la Vitalité. Se reposer remplira la gourde.
+
+Fabriquée par un apprenti de l'incroyable docteur Dogen.
+
+Le remplissage automatique de la gourde peut sembler étrange, mais les graines qu'elle renferme expliquent peut-être cela.</text>
+<text id="3020">Des boulettes médicinales qui rendent de la Vitalité.
+
+Ce traitement secret se transmet depuis des générations, et l'on dit qu'il est depuis longtemps utilisé au combat par les guerriers Ashina, qui lui doivent leur réputation de résistance exceptionnelle.
+
+Une boîte remplie de ces boulettes pourrait également servir de charme en combat.</text>
+<text id="3040">Un remède secret qui rend toute la Vitalité et soigne toutes les altérations d'état.
+
+Une partie d'Ashina est particulièrement ancienne. La terre, les roches et l'eau y sont primitives et cela aurait attiré l'attention des dieux. Le docteur Dogen a étudié les plantes de cette région et a conçu ce remède exceptionnel.</text>
+<text id="3041">%null%</text>
+<text id="3042">%null%</text>
+<text id="3043">%null%</text>
+<text id="3044">%null%</text>
+<text id="3045">%null%</text>
+<text id="3046">%null%</text>
+<text id="3047">%null%</text>
+<text id="3048">%null%</text>
+<text id="3049">%null%</text>
+<text id="3050">Une masse rouge et ronde, trouvée dans le corps de Jinzaemon aux yeux rouges.
+Avalée, elle confère les Yeux rouges, un état qui augmente la résistance au tressaillement quand on est attaqué. Toutefois, cet état empêche toute résurrection. Cette masse rouge ne semble pas s'étioler et, bien qu'elle ne produise aucun effet nocif, elle restera sans doute pour toujours dans l'estomac, bien après que ses effets se seront estompés.</text>
+<text id="3051">Une masse rouge et ronde.
+
+Confèrent les Yeux rouges une fois consommées, un état qui augmente la résistance au tressaillement quand on est attaqué. Toutefois, cet état empêche toute résurrection.
+Ces masses rouges rappellent quelqu'un qui n'a jamais pu assouvir ses désirs. Quand on les touche, on remarque qu'elles sont tièdes et semblent émettre une pulsation.</text>
+<text id="3052">Une masse rouge et ronde, trouvée dans le corps de Kotaro aux yeux rouges.
+Avalée, elle confère les Yeux rouges, un état qui augmente la résistance au tressaillement quand on est attaqué. Toutefois, cet état empêche toute résurrection. Cette masse rouge ne semble pas s'étioler et, bien qu'elle ne produise aucun effet nocif, elle restera sans doute pour toujours dans l'estomac, bien après que ses effets se seront estompés.</text>
+<text id="3053">Une masse rouge et ronde, trouvée dans le corps de Dojun aux yeux rouges.
+Avalée, elle confère les Yeux rouges, un état qui augmente la résistance au tressaillement quand on est attaqué. Toutefois, cet état empêche toute résurrection.
+Dosaku et Dojun étaient maître et disciple. Ce que l'on aspire longtemps à devenir est souvent déjà présent en nous.</text>
+<text id="3054">%null%</text>
+<text id="3055">%null%</text>
+<text id="3056">%null%</text>
+<text id="3057">%null%</text>
+<text id="3058">%null%</text>
+<text id="3059">%null%</text>
+<text id="3060">Des boules de riz sucré préparées par Kuro avec le riz de l'enfant divin. Confère lentement une récupération moyenne de la vitalité et une récupération constante de la Posture au fil du temps.
+Alors que Loup était affamé, son père lui tendit sans mot dire une boule de riz. Elle était vraiment délicieuse.
+
+Celles-ci sont certainement tout aussi savoureuses.</text>
+<text id="3061">Une boule de riz sucré préparée par Kuro. Confère une récupération moyenne de la Vitalité et une récupération constante de la Posture au fil du temps.
+
+Loup sent Kuro a mis beaucoup de lui dans sa confection, et il l'appréciera d'autant plus.</text>
+<text id="3062">%null%</text>
+<text id="3063">%null%</text>
+<text id="3064">%null%</text>
+<text id="3065">%null%</text>
+<text id="3066">%null%</text>
+<text id="3067">%null%</text>
+<text id="3068">%null%</text>
+<text id="3069">%null%</text>
+<text id="3070">Une plaquemine rouge et mûre, prête à manger. Elle permet pendant un temps limité de récupérer de la Posture même quand on attaque ou subit des dégâts.
+
+Les plaquemines d'Ashina sont particulièrement nourrissantes, sans doute car elles profitent d'une eau très pure. Les plaquemines deviennent le sang. Le sang devient le riz.
+
+Elles pourraient venir en aide à ceux qui manquent de sang.</text>
+<text id="3071">Une plaquemine d'un rouge profond, mûre à point, que l'on appelle plaquemine de Taro.
+Elle augmente considérablement la récupération de Posture pendant un temps limité, même quand on attaque ou subit des dégâts.
+Les troupes Ashina de Taro sont pratiquement nourries de ces plaquemines, ce qui explique pourquoi elles savent quand les cueillir.</text>
+<text id="3072">%null%</text>
+<text id="3073">%null%</text>
+<text id="3074">%null%</text>
+<text id="3075">%null%</text>
+<text id="3076">%null%</text>
+<text id="3077">%null%</text>
+<text id="3078">%null%</text>
+<text id="3079">%null%</text>
+<text id="3080">Du riz donné par l'enfant divin de l'eau de jouvence. Il restaure progressivement la Vitalité pendant un temps.
+
+Bien qu'ils aient été créés par l'homme, les enfants divins ont toujours le pouvoir de l'héritage du dragon. Le sang favorise une bonne récolte. Le riz est précieux. Non seulement il restaure la vigueur, mais il devient de plus en plus doux au fur et à mesure qu'on le mâche.</text>
+<text id="3081">Du riz argenté froid préparé par l'enfant divin. Il rend progressivement de la Vitalité sur une période limitée de temps. Un peu plus puissant que le riz normal.
+
+Ce riz est froid et sucré. Ce riz est particulièrement précieux. Plus vous en mangez longtemps, plus il est sucré et plus il fournit d'énergie.</text>
+<text id="3200">Un puissant antidote concocté par le clan de la Vallée engloutie.
+Soigne l'altération Poison et augmente pendant un temps la résistance à l'empoisonnement tout en diminuant l'accumulation de l'effet Poison. La Vallée engloutie abrite des dépôts de magnétite, mais c'est un environnement très toxique. Cette poudre d'antidote est donc indispensable pour tous ceux qui veulent extraire ce minerai.</text>
+<text id="3201">%null%</text>
+<text id="3202">%null%</text>
+<text id="3203">%null%</text>
+<text id="3204">%null%</text>
+<text id="3205">%null%</text>
+<text id="3206">%null%</text>
+<text id="3207">%null%</text>
+<text id="3208">%null%</text>
+<text id="3209">%null%</text>
+<text id="3210">Un remède pour soigner les brûlures.
+
+Soigne l'altération Brûlure et augmente la résistance aux brûlures tout en diminuant l'accumulation de l'altération Brûlure. 
+
+Quand le feu est utilisé au combat, la poudre parefeu est indispensable à la survie.</text>
+<text id="3211">Une poudre parefeu utilisée par les forces du ministère.
+
+Un remède pour soigner les brûlures. Il soigne de l'altération Brûlure et augmente la résistance aux brûlures.
+
+Le ministère de l'intérieur en fournit à ses troupes pour éviter de les brûler quand il utilise ses armes de feu contre les Yeux rouges d'Ashina nés de l'eau de jouvence.</text>
+<text id="3212">%null%</text>
+<text id="3213">%null%</text>
+<text id="3214">%null%</text>
+<text id="3215">%null%</text>
+<text id="3216">%null%</text>
+<text id="3217">%null%</text>
+<text id="3218">%null%</text>
+<text id="3219">%null%</text>
+<text id="3220">Un remède utilisé par ceux qui côtoient les morts. Réduit l'accumulation de Terreur et augmente la résistance à cet effet.
+
+Que ce soient les gardes des cimetières, les bourreaux ou les pilleurs, tous ceux qui côtoient les morts en ont sous la main. Ils suivent aussi une règle simple : si la terreur vous prend, cachez-vous.</text>
+<text id="3221">%null%</text>
+<text id="3222">%null%</text>
+<text id="3223">%null%</text>
+<text id="3224">%null%</text>
+<text id="3225">%null%</text>
+<text id="3226">%null%</text>
+<text id="3227">%null%</text>
+<text id="3228">%null%</text>
+<text id="3229">%null%</text>
+<text id="3230">Un remède miraculeux capable de bannir les éclairs, offert à l'autel du clan Ashina.
+Réduit grandement la masse de dégâts reçus des attaques d'éclair, ainsi que l'altération d'état "Choc". L'éclair est une force des dieux. Les anguilles, bien que petites, sont de la famille des dragons. Même la force d'un dieu peut être supprimée, mais sans doute pas pour longtemps.</text>
+<text id="3250">Un remède en poudre aux effets toxiques utilisé depuis des temps immémoriaux par les shinobi d'Ashina.
+
+L'altération d'état "Poison" est infligée à celui qui le consomme. En s'infligeant une petite dose de poison, on rend inefficaces toutes les autres formes de poison. Certains shinobi utilisent aussi ce remède pour une technique spécifique. Utiliser du poison peut développer l'esprit.</text>
+<text id="3290">Une drogue secrète de shinobi, de couleur bleue.
+
+Mourir de sa propre main est parfois nécessaire. Les samouraïs tournent leur sabre contre eux-mêmes par fierté, mais les shinobi ont besoin d'un moyen plus rapide pour mourir. Pour utiliser cette drogue, il suffit de la mordre. Rien de plus n'est requis.
+Ne limite pas la résurrection après usage.</text>
+<text id="3291">Une fausse dent abritant une drogue de shinobi secrète, de couleur bleue. Elle peut être utilisée autant de fois que nécessaire.
+
+Pour s'en servir, il suffit de la mordre et cela provoque une mort immédiate. Cela pourrait s'avérer utile dans certains cas. Il est sans doute inutile de le rappeler, mais généralement on ne meurt qu'une fois.</text>
+<text id="3292">Une drogue de shinobi bleue qu'utilisent les engoulevents.
+
+Mourir de sa propre main est parfois nécessaire, mais certains s'y refusent au moment crucial. Certains décident même de trahir Ashina et de continuer à vivre dans la honte...
+Pour utiliser cette drogue, il suffit de la mordre... Rien de plus n'est requis.
+Ne limite pas la résurrection après usage.</text>
+<text id="3293">%null%</text>
+<text id="3294">%null%</text>
+<text id="3295">%null%</text>
+<text id="3296">%null%</text>
+<text id="3297">%null%</text>
+<text id="3298">%null%</text>
+<text id="3299">%null%</text>
+<text id="3300">Une gourde couverte de mousse remplie d'une eau médicinale. La gourde se remplit quand vous vous reposez.
+
+Elle réduit le niveau de poison accumulé dans le corps et augmente légèrement la résistance, mais ne soigne pas une altération d'état Poison.</text>
+<text id="3301">Une gourde couverte de mousse remplie d'une eau médicinale. La gourde se remplit quand vous vous reposez.
+
+Elle réduit le niveau de poison accumulé dans le corps et augmente légèrement la résistance, mais ne soigne pas une altération d'état Poison.</text>
+<text id="3302">%null%</text>
+<text id="3303">%null%</text>
+<text id="3304">%null%</text>
+<text id="3305">%null%</text>
+<text id="3306">%null%</text>
+<text id="3307">%null%</text>
+<text id="3308">%null%</text>
+<text id="3309">%null%</text>
+<text id="3310">Une gourde rouge couverte de mousse et remplie d'une eau médicinale. La gourde se remplit quand vous vous reposez.
+
+Elle réduit le niveau de brûlure accumulé et augmente légèrement la résistance, mais ne soigne pas une altération d'état Brûlure.</text>
+<text id="3311">Une gourde rouge couverte de mousse et remplie d'une eau médicinale. La gourde se remplit quand vous vous reposez.
+
+Elle réduit le niveau de brûlure accumulé et augmente légèrement la résistance, mais ne soigne pas une altération d'état Brûlure.</text>
+<text id="3312">%null%</text>
+<text id="3313">%null%</text>
+<text id="3314">%null%</text>
+<text id="3315">%null%</text>
+<text id="3316">%null%</text>
+<text id="3317">%null%</text>
+<text id="3318">%null%</text>
+<text id="3319">%null%</text>
+<text id="3320">Une gourde violette couverte de mousse et remplie d'une eau médicinale. La gourde se remplit quand vous vous reposez.
+
+Elle réduit le niveau de terreur accumulé et augmente légèrement la résistance à la terreur.</text>
+<text id="3321">Une gourde violette couverte de mousse et remplie d'une eau médicinale. La gourde se remplit quand vous vous reposez.
+
+Elle réduit le niveau de terreur accumulé et augmente légèrement la résistance à la terreur.</text>
+<text id="3350">Un esprit sans tête qui s'est imprégné d'Ako. Augmente temporairement les dégâts de Vitalité et de Posture. Peut être utilisé à répétition en dépensant des emblèmes spirituels. Les Sans-têtes sont les ombres des héroïques défenseurs du pays, qui ne s'étaient pas montrés parfaitement honnêtes dans la vie. Emparez-vous de la puissance de cet esprit en lui donnant le repos, mais méfiez-vous de son courroux si vous n'offrez rien en retour.</text>
+<text id="3351">%null%</text>
+<text id="3352">%null%</text>
+<text id="3353">%null%</text>
+<text id="3354">%null%</text>
+<text id="3355">%null%</text>
+<text id="3356">%null%</text>
+<text id="3357">%null%</text>
+<text id="3358">%null%</text>
+<text id="3359">%null%</text>
+<text id="3360">Un esprit sans tête qui s'est imprégné de Yashariku. Augmente temporairement la p. d'attaque, en réduisant considérablement la Vitalité et la Posture max. Peut être utilisé à répétition en dépensant des emblèmes spirituels. Les Sans-têtes sont les ombres des héroïques défenseurs du pays, qui ne s'étaient pas montrés parfaitement honnêtes dans la vie. Ce héros avait un jumeau et, s'ils avaient été ensemble, il ne serait pas tombé devant les nobles du palais.</text>
+<text id="3361">%null%</text>
+<text id="3362">%null%</text>
+<text id="3363">%null%</text>
+<text id="3364">%null%</text>
+<text id="3365">%null%</text>
+<text id="3366">%null%</text>
+<text id="3367">%null%</text>
+<text id="3368">%null%</text>
+<text id="3369">%null%</text>
+<text id="3370">L'esprit d'un sans-tête, imprégné de la force d'Ungo. Réduit les dégâts infligés à la Vitalité par les attaques physiques et peut être utilisé à répétition. Coûte des emblèmes spirituels.
+Les sans-têtes sont des ombres. Des héros corrompus qui ont combattu un jour pour leur pays. Ce guerrier a perdu la tête en défendant son pays, et fut décapité pour mutinerie, son corps s'enfonçant dans la boue des douves.</text>
+<text id="3371">%null%</text>
+<text id="3372">%null%</text>
+<text id="3373">%null%</text>
+<text id="3374">%null%</text>
+<text id="3375">%null%</text>
+<text id="3376">%null%</text>
+<text id="3377">%null%</text>
+<text id="3378">%null%</text>
+<text id="3379">%null%</text>
+<text id="3380">L'esprit d'un sans-tête, imprégné de la force de Gokan. Réduit les dégâts infligés à la Posture pendant une durée limitée et peut être utilisé à répétition. Coûte des emblèmes spirituels.
+
+Les sans-têtes sont des ombres. Des héros corrompus qui ont combattu un jour pour leur pays. On enterre parfois les têtes coupées, mais peu visitent ces mémoriaux.</text>
+<text id="3381">%null%</text>
+<text id="3382">%null%</text>
+<text id="3383">%null%</text>
+<text id="3384">%null%</text>
+<text id="3385">%null%</text>
+<text id="3386">%null%</text>
+<text id="3387">%null%</text>
+<text id="3388">%null%</text>
+<text id="3389">%null%</text>
+<text id="3390">L'esprit d'un sans-tête, imprégné de la force de Gachiin. Supprime les sons pour rendre la détection par les ennemis plus difficile. Peut être utilisé à répétition en dépensant des emblèmes spirituels.
+
+Les sans-têtes sont des ombres. Des héros corrompus qui ont combattu un jour pour leur pays. "J'ai perdu l'esprit." Ainsi parla l'homme avant de disparaître dans la forêt.</text>
+<text id="3391">%null%</text>
+<text id="3392">%null%</text>
+<text id="3393">%null%</text>
+<text id="3394">%null%</text>
+<text id="3395">%null%</text>
+<text id="3396">%null%</text>
+<text id="3397">%null%</text>
+<text id="3398">%null%</text>
+<text id="3399">%null%</text>
+<text id="3400">Un bonbon fabriqué au temple Senpo, qui profite de la protection divine d'Ako. Augmente temporairement la puissance d'attaque.
+
+Avaler ce bonbon et prendre la position d'Ako permet de recevoir la bénédiction d'un esprit inhumain. Les esprits symbolisent l'excès de karma. Manger ces bonbons aide à endurer les tourments.</text>
+<text id="3401">%null%</text>
+<text id="3402">%null%</text>
+<text id="3403">%null%</text>
+<text id="3404">%null%</text>
+<text id="3405">%null%</text>
+<text id="3406">%null%</text>
+<text id="3407">%null%</text>
+<text id="3408">%null%</text>
+<text id="3409">%null%</text>
+<text id="3410">Un bonbon fabriqué au temple Senpo, qui profite de la protection divine de Yashariku. Réduit de moitié la Vitalité et la Posture max, mais augmente grandement la puissance d'attaque et les dégâts de Posture. Avaler ce bonbon et prendre la position de Yakshariku permet de recevoir la bénédiction. Le sucre est interdit au temple, mais la quête d'immortalité est coûteuse, et les moines ont commencé à en proposer en échange de dons.</text>
+<text id="3411">%null%</text>
+<text id="3412">%null%</text>
+<text id="3413">%null%</text>
+<text id="3414">%null%</text>
+<text id="3415">%null%</text>
+<text id="3416">%null%</text>
+<text id="3417">%null%</text>
+<text id="3418">%null%</text>
+<text id="3419">%null%</text>
+<text id="3420">Un bonbon fabriqué au temple Senpo, qui profite de la protection divine d'Ungo. Réduit temporairement les dégâts de Vitalité subis lors d'attaques physiques. Mordre ce bonbon et prendre la position d'Ungo permet de recevoir la bénédiction.
+L'excès de karma provoque la faiblesse de l'esprit. Manger ces bonbons aide à endurer les tourments. Les moines Senpo distribuent ces bonbons dans tout Ashina pour célébrer ses héros.</text>
+<text id="3421">%null%</text>
+<text id="3422">%null%</text>
+<text id="3423">%null%</text>
+<text id="3424">%null%</text>
+<text id="3425">%null%</text>
+<text id="3426">%null%</text>
+<text id="3427">%null%</text>
+<text id="3428">%null%</text>
+<text id="3429">%null%</text>
+<text id="3430">Un bonbon fabriqué par les chasseurs de shinobi du temple Misen, qui profite de la protection divine de Gokan. Réduit les dégâts à la Posture pendant un temps.
+
+Avaler ce bonbon et prendre la position de Gokan permet de recevoir la bénédiction. Les chasseurs de Misen'in maîtrisent l'art de tuer les shinobi, et cela nécessite un bon équilibre du corps et de l'esprit.</text>
+<text id="3431">%null%</text>
+<text id="3432">%null%</text>
+<text id="3433">%null%</text>
+<text id="3434">%null%</text>
+<text id="3435">%null%</text>
+<text id="3436">%null%</text>
+<text id="3437">%null%</text>
+<text id="3438">%null%</text>
+<text id="3439">%null%</text>
+<text id="3440">Le grand prêtre Senpo a offert ce bonbon à un clan d'assassins. Il rend l'utilisateur furtif et silencieux, ce qui le rend plus difficile à repérer par ses ennemis.
+Avaler ce bonbon et prendre la position de Gachiin permet de recevoir la bénédiction.
+Ces assassins sont le bras armé du temple Senpo. Ils étaient autrefois les gardiens du temple, mais servent désormais les prêtres dans leur quête d'immortalité.</text>
+<text id="3441">%null%</text>
+<text id="3442">%null%</text>
+<text id="3443">%null%</text>
+<text id="3444">%null%</text>
+<text id="3445">%null%</text>
+<text id="3446">%null%</text>
+<text id="3447">%null%</text>
+<text id="3448">%null%</text>
+<text id="3449">%null%</text>
+<text id="3450">Des confettis agrémentés de bénédictions divines qui chassent les ennemis fantomatiques.
+Le papier est fabriqué de manière solennelle en étalant finement la pâte, à l'aide de l'eau de la source de l'éveillé. Tout comme les dieux bénissent les eaux, le possesseur de ces confettis en sera béni par le contact, permettant ainsi aux attaques contre les ennemis fantomatiques de toucher.</text>
+<text id="3500">Un bout de poterie qui se brise quand on le lance.
+
+Lancez-le pour attirer l'attention d'un ennemi.
+
+Jeter et casser des poteries était un jeu populaire parmi les jeunes garçons d'Ashina. Même adulte, aucun ne l'a oublié.</text>
+<text id="3501">%null%</text>
+<text id="3502">%null%</text>
+<text id="3503">%null%</text>
+<text id="3504">%null%</text>
+<text id="3505">%null%</text>
+<text id="3506">%null%</text>
+<text id="3507">%null%</text>
+<text id="3508">%null%</text>
+<text id="3509">%null%</text>
+<text id="3510">Des cendres durcies ensemble. Les jeter sur l'ennemi pour le distraire temporairement.
+
+À Ashina, la neige tombe en masse et la terre s'épaissit de cendres.</text>
+<text id="3511">%null%</text>
+<text id="3512">%null%</text>
+<text id="3513">%null%</text>
+<text id="3514">%null%</text>
+<text id="3515">%null%</text>
+<text id="3516">%null%</text>
+<text id="3517">%null%</text>
+<text id="3518">%null%</text>
+<text id="3519">%null%</text>
+<text id="3520">Simplement de l'huile. Quand le récipient se brise, l'huile recouvre les environs.
+
+Les ennemis recouverts d'huile sont plus vulnérables à l'altération d'état Brûlure et ils subissent plus de dégâts de Vitalité des attaques de feu.</text>
+<text id="3521">%null%</text>
+<text id="3522">%null%</text>
+<text id="3523">%null%</text>
+<text id="3524">%null%</text>
+<text id="3525">%null%</text>
+<text id="3526">%null%</text>
+<text id="3527">%null%</text>
+<text id="3528">%null%</text>
+<text id="3529">%null%</text>
+<text id="3530">Des graines de bouterolle qui font du bruit en explosant. Elles sont utiles pour contrer l'effet des techniques d'illusion.
+
+Si une illusion se produit, c'est qu'elle a été créée par quelqu'un. Pour vaincre les fantômes et revenir à la réalité, il faut vaincre le créateur de l'illusion. Les graines de bouterolle sont alors très utiles.</text>
+<text id="3580">Une gourde de riz aux cinq couleurs utilisé par les shinobi pour tracer des symboles sur le sol.
+
+Cette gourde blanche est bénie et elle se remplit automatiquement lorsque vous vous reposez à une idole du Sculpteur.
+
+Attention, car ce riz n'est pas comestible.</text>
+<text id="3581">Une gourde de riz aux cinq couleurs utilisé par les shinobi pour tracer des symboles sur le sol.
+
+Cette gourde blanche est bénie et elle se remplit automatiquement lorsque vous vous reposez à une idole du Sculpteur.
+
+Attention, car ce riz n'est pas comestible.</text>
+<text id="3600">Un ballon Mibu rempli d'eau de la source, qui profite d'une bénédiction de richesse.
+
+Si vous faites exploser le ballon doré en priant, tous ceux qui sont baignés de son eau gagneront temporairement plus d'argent. 
+Mibu signifie "vie aquatique" ou "vie qui vient de l'eau" et les Ashina considèrent que l'eau de la source mérite d'être l'objet d'un culte.</text>
+<text id="3601">%null%</text>
+<text id="3602">%null%</text>
+<text id="3603">%null%</text>
+<text id="3604">%null%</text>
+<text id="3605">%null%</text>
+<text id="3606">%null%</text>
+<text id="3607">%null%</text>
+<text id="3608">%null%</text>
+<text id="3609">%null%</text>
+<text id="3610">Un ballon Mibu rempli d'eau de la source, qui profite d'une bénédiction des âmes des défunts.
+
+Si vous faites exploser le ballon rose en priant, tous ceux qui sont baignés de son eau gagneront temporairement plus de pouvoir de résurrection. Il s'agit du plus ancien des ballons Mibu, et les prêtres les font exploser en gage de repos pour les défunts.</text>
+<text id="3611">%null%</text>
+<text id="3612">%null%</text>
+<text id="3613">%null%</text>
+<text id="3614">%null%</text>
+<text id="3615">%null%</text>
+<text id="3616">%null%</text>
+<text id="3617">%null%</text>
+<text id="3618">%null%</text>
+<text id="3619">%null%</text>
+<text id="3620">Un ballon Mibu rempli d'eau de la source, qui profite d'une bénédiction de bonne fortune.
+
+Si vous faites exploser le ballon vert en priant, tous ceux qui sont baignés de son eau gagneront temporairement plus de butin. Mibu signifie "vie aquatique" ou "vie qui vient de l'eau" et les Ashina considèrent que l'eau de la source mérite d'être l'objet d'un culte.</text>
+<text id="3621">%null%</text>
+<text id="3622">%null%</text>
+<text id="3623">%null%</text>
+<text id="3624">%null%</text>
+<text id="3625">%null%</text>
+<text id="3626">%null%</text>
+<text id="3627">%null%</text>
+<text id="3628">%null%</text>
+<text id="3629">%null%</text>
+<text id="3630">Un ballon Mibu rempli d'eau de la source, qui profite d'une bénédiction de compassion.
+
+Si vous faites exploser le ballon noir et blanc en priant, tous ceux qui sont baignés de son eau gagneront temporairement plus d'emblèmes spirituels. Ce ballon témoigne de la tristesse que l'on ressent pour des proches disparus, et des moulins rouges et blancs sont offerts en souvenir.</text>
+<text id="3631">%null%</text>
+<text id="3632">%null%</text>
+<text id="3633">%null%</text>
+<text id="3634">%null%</text>
+<text id="3635">%null%</text>
+<text id="3636">%null%</text>
+<text id="3637">%null%</text>
+<text id="3638">%null%</text>
+<text id="3639">%null%</text>
+<text id="3640">Un ballon Mibu fabriqué l'année du pèlerinage à la source du dragon, dans l'espoir d'avoir des enfants forts et en bonne santé.
+
+Si vous faites exploser le ballon en priant, tous ceux qui sont baignés de son eau gagneront temporairement plus d'objets à collectionner. On peut y lire, écrit d'une main malhabile, "À Tenkichi, de la part du Blaireau".</text>
+<text id="3700">Une bourse contenant une petite quantité de sen. Elle peut être utilisée pour obtenir les sen qu'elle contient.
+
+Le poids de cette bourse est assez satisfaisant. 
+
+Les sen contenus dans cette bourse ne sont pas perdus en cas de mort.</text>
+<text id="3701">%null%</text>
+<text id="3702">%null%</text>
+<text id="3703">%null%</text>
+<text id="3704">Une bourse contenant une grande quantité de sen. Elle peut être utilisée pour obtenir les sen qu'elle contient.
+
+Le poids de cette bourse est très prometteur.
+Les sen contenus dans cette bourse ne sont pas perdus en cas de mort.</text>
+<text id="3705">%null%</text>
+<text id="3706">%null%</text>
+<text id="3707">%null%</text>
+<text id="3708">Une bourse qui déborde presque de sen. Elle peut être utilisée pour obtenir les sen qu'elle contient.
+
+Cette bourse est assez remplie pour donner (presque) le sourire à Loup.
+Les sen contenus dans cette bourse ne sont pas perdus en cas de mort.</text>
+<text id="3720">Une figurine de Bouddha enveloppée de tissu rouge. Tenue à la main en priant, elle rend une charge de pouvoir de résurrection.
+
+Une figurine enveloppée de messages de sympathie.
+Ô, toi que nous enveloppons de cette couverture, gage de notre amour, puisses-tu vivre en paix et en bonne santé.</text>
+<text id="3721">Une figurine de Bouddha enveloppée de tissu rose. Tenue à la main en priant, elle rend une charge de pouvoir de résurrection.
+
+Une figurine enveloppée est symbole d'amour parental.
+
+Seigneur Sakuza, utilisez ce tissu pour protéger notre enfant. Puisse cet enfant vivre en paix et en bonne santé.</text>
+<text id="3722">%null%</text>
+<text id="3723">%null%</text>
+<text id="3724">%null%</text>
+<text id="3725">%null%</text>
+<text id="3726">%null%</text>
+<text id="3727">%null%</text>
+<text id="3728">%null%</text>
+<text id="3729">%null%</text>
+<text id="3730">Un esprit démoniaque scellé dans la cloche de fer du temple Senpo. Possède quiconque sonne la cloche et renforce les ennemis alentour.
+
+Le démon de la cloche endurcit, mais confère aussi un butin un peu supérieur.
+
+Utiliser cet objet n'a pas d'effet, sauf faire partir le démon.</text>
+<text id="3800">Une dague courte dotée d'une lame et d'une poignée solides. Elle dispose du pouvoir de convertir la Vitalité en emblèmes spirituels. Se reposer la recharge. Elle servait à l'origine à une cérémonie de départ, qui permettait de soustraire l'emblème spirituel de l'utilisateur avant de le laisser dériver sur l'eau de la source en offrande au dragon. Le nom de l'arme, Donneuse d'âme, est gravé sur la lame.</text>
+<text id="3801">Une dague courte dotée d'une lame et d'une poignée solides. Elle dispose du pouvoir de convertir la Vitalité en emblèmes spirituels. Se reposer la recharge. Elle servait à l'origine à une cérémonie de départ, qui permettait de soustraire l'emblème spirituel de l'utilisateur avant de le laisser dériver sur l'eau de la source en offrande au dragon. Le nom de l'arme, Donneuse d'âme, est gravé sur la lame.</text>
+<text id="3900">Un tube de bambou permettant de voir des objets à distance.
+
+Les shinobi ont une bonne vue, mais ce tube leur permet de voir encore plus loin. Le clan des engoulevents est au service d'Isshin Ashina. Ses hommes patrouillent sur les toits du château Ashina, d'où ils exercent leur autorité sur les envahisseurs étrangers. Peu de choses leur échappent.</text>
+<text id="3980">Un petit Bouddha en bois qui tient dans la main. Peut être utilisé à répétition.
+
+Cette idole appartient à Loup depuis que celui-ci a été sauvé par son père, et ses angles ont été arrondis par l'usure.
+
+Utiliser ce Bouddha permet de rentrer chez soi. Il renverra l'utilisateur à la dernière idole du Sculpteur visitée ou au Temple en ruines.</text>
+<text id="3981">%null%</text>
+<text id="3982">%null%</text>
+<text id="3983">%null%</text>
+<text id="3984">%null%</text>
+<text id="3985">%null%</text>
+<text id="3986">%null%</text>
+<text id="3987">%null%</text>
+<text id="3988">%null%</text>
+<text id="3989">%null%</text>
+<text id="3990">Une cloche de bronze à cinq pointes. Peut être utilisé à répétition.
+
+Quand on la fait sonner, l'état d'origine des singes et des loups est rétabli.
+
+Cependant, un singe pris dans le tryptique ne s'échappera pas, même si la cloche résonne.</text>
+<text id="3991">%null%</text>
+<text id="3992">%null%</text>
+<text id="3993">%null%</text>
+<text id="3994">%null%</text>
+<text id="3995">%null%</text>
+<text id="3996">%null%</text>
+<text id="3997">%null%</text>
+<text id="3998">%null%</text>
+<text id="3999">%null%</text>
+<text id="4000">Une perle de chapelet. 
+
+En offrir 4 à une idole du Sculpteur permet d'augmenter la Vitalité et la Posture maximales.
+
+Loup possède actuellement &lt;?goodsItemNum@4000?&gt; perle(s) de chapelet.</text>
+<text id="4100">Un collier constitué de perles de chapelet offertes à une idole du Sculpteur. Augmente le maximum de Vitalité et de Posture.
+
+Les perles de chapelet ont de la valeur et sont souvent détenues par de puissants guerriers. L'armée d'Ashina est réputée pour sa férocité et ses généraux sont des experts dans les techniques d'escrime Ashina.</text>
+<text id="4101">Un collier constitué de perles de chapelet offertes à une idole du Sculpteur. Augmente le maximum de Vitalité et de Posture. Les perles de chapelet ont de la valeur et sont souvent détenues par de puissants guerriers. 
+Il existe à Ashina un homme grand aux yeux rouges, appelé l'Ogre enchaîné. Sauvage et dangereux, on dit qu'il a passé plusieurs années dans un donjon abandonné.</text>
+<text id="4102">Un collier constitué de perles de chapelet offertes à une idole du Sculpteur. Augmente le maximum de Vitalité et de Posture.
+Les perles de chapelet ont de la valeur et sont souvent détenues par de puissants guerriers. Un taureau enflammé n'est jamais qu'un taureau en colère. Durant la guerre, les corps des samouraïs Ashina s'empilaient, et il fallait réagir.</text>
+<text id="4103">Un collier constitué de perles de chapelet offertes à une idole du Sculpteur. Augmente le maximum de Vitalité et de Posture.
+Les perles de chapelet ont de la valeur et sont souvent détenues par de puissants guerriers. Seul un maître du style Ashina a le droit d'entrer dans le dojo. Isshin s'y rend parfois pour que les élèves restent sur leur garde.</text>
+<text id="4104">Un collier constitué de perles de chapelet offertes à une idole du Sculpteur. Augmente le maximum de Vitalité et de Posture.
+Le fort de la Vallée engloutie est contrôlé par des guerrières d'élite nommées les "Yeux du serpent" et équipées de puissantes armes à feu. Ces combattantes ont une vue perçante et peuvent toucher leur cible de très loin.</text>
+<text id="4105">Un collier constitué de perles de chapelet offertes à une idole du Sculpteur. Augmente le maximum de Vitalité et de Posture.
+Les Mille-pattes recherchent toujours un chef digne d'eux. Lorsqu'ils en trouvent un, ils le servent loyalement, changeant parfois de nom à cette occasion. Les chefs Mille-pattes sont appelés les Longs bras et ils brandissent d'énormes griffes en forme de serres.</text>
+<text id="4106">Un collier constitué de perles de chapelet offertes à une idole du Sculpteur. Augmente le maximum de Vitalité et de Posture.
+
+Un sumo respecté servait naguère un grand seigneur féodal. Mais il fut chassé à cause de son penchant pour la boisson et il devint un bandit. On le connut dès lors comme Juzo le pochard.</text>
+<text id="4107">Un collier constitué de perles de chapelet offertes à une idole du Sculpteur. Augmente le maximum de Vitalité et de Posture.
+Le Ministère de l'intérieur fait confiance au clan de l'Ombre solitaire plus qu'à tout autre shinobi. Leur chef, Masatsuna Oribe, a eu dix-sept enfants dont chacun utilise des techniques spéciales, comme les lames empoisonnées ou les chiens dressés.</text>
+<text id="4108">Un collier constitué de perles de chapelet offertes à une idole du Sculpteur. Augmente le maximum de Vitalité et de Posture.
+Le père de Robert quitta une terre barbare lointaine pour venir au Japon. Il cherchait la puissance de l'immortalité pour soigner son fils malade. La bénédiction de l'eau de jouvence en échange de sa formidable puissance...</text>
+<text id="4109">Un collier constitué de perles de chapelet offertes à une idole du Sculpteur. Augmente le maximum de Vitalité et de Posture.
+
+Les sept Lanciers célestes d'Ashina furent le cœur de la rébellion. Isshin donna des lances aux guerriers en qui il avait le plus confiance. Mais seule une poignée des sept a survécu jusqu'à aujourd'hui.</text>
+<text id="4400">Une graine d'où les eaux de guérison coulent continuellement. Emma peut l'utiliser pour augmenter les utilisations maximums de la gourde médicinale.
+
+La puissance de la graine fut découverte par l'extraordinaire Dogen et son apprentie Emma alors qu'ils travaillaient sur la gourde d'eaux médicinales, un objet d'Ashina utilisé depuis longtemps. </text>
+<text id="5200">Le souvenir d'une bataille avec un ennemi rare et redoutable qui vit dans le cœur de Loup.
+
+La puissance d'attaque peut être augmentée définitivement si vous communiez avec une idole du Sculpteur et affrontez le souvenir de la bataille.
+
+Ce souvenir concerne Gyobu Oniwa, le gardien de la porte du château Ashina.</text>
+<text id="5201">Le souvenir d'une bataille avec un ennemi rare et redoutable qui vit dans le cœur de Loup.
+
+La puissance d'attaque peut être augmentée définitivement si vous communiez avec une idole du Sculpteur et affrontez le souvenir de la bataille.
+
+Ce souvenir concerne Dame Papillon, l'illusionniste.</text>
+<text id="5202">Le souvenir d'une bataille avec un ennemi rare et redoutable qui vit dans le cœur de Loup.
+
+La puissance d'attaque peut être augmentée définitivement si vous communiez avec une idole du Sculpteur et affrontez le souvenir de la bataille.
+Ce souvenir concerne Genichiro Ashina, cible d'une vengeance de Loup selon les règles établies.</text>
+<text id="5203">Le souvenir d'une bataille avec un ennemi rare et redoutable qui vit dans le cœur de Loup.
+
+La puissance d'attaque peut être augmentée définitivement si vous communiez avec une idole du Sculpteur et affrontez le souvenir de la bataille.
+Ce souvenir concerne les singes du temple Senpo, qui protégeaient l'enfant divin dans les halls d'illusion.</text>
+<text id="5204">Le souvenir d'une bataille avec un ennemi rare et redoutable qui vit dans le cœur de Loup.
+
+La puissance d'attaque peut être augmentée définitivement si vous communiez avec une idole du Sculpteur et affrontez le souvenir de la bataille. Bien que le singe gardien a été vaincu, son rugissement subsiste. On dit que la présence de vers est un signe que vous êtes un mort-vivant...</text>
+<text id="5205">Le souvenir d'une bataille avec un ennemi rare et redoutable qui vit dans le cœur de Loup.
+
+La puissance d'attaque peut être augmentée définitivement si vous communiez avec une idole du Sculpteur et affrontez le souvenir de la bataille.
+Ce souvenir concerne la religieuse corrompue, protectrice de l'entrée de la grotte dans le village de Mibu.</text>
+<text id="5206">Le souvenir d'une bataille avec un ennemi rare et redoutable qui vit dans le cœur de Loup.
+
+La puissance d'attaque peut être augmentée définitivement si vous communiez avec une idole du Sculpteur et affrontez le souvenir de la bataille.
+
+Ce souvenir concerne la Chouette, grand shinobi et père adoptif de Loup.</text>
+<text id="5207">Le souvenir d'une bataille avec un ennemi rare et redoutable qui vit dans le cœur de Loup.
+
+La puissance d'attaque peut être augmentée définitivement si vous communiez avec une idole du Sculpteur et affrontez le souvenir de la bataille.
+
+Ce souvenir concerne un combat face à la Chouette dans sa jeunesse.</text>
+<text id="5208">Le souvenir d'une bataille avec un ennemi rare et redoutable qui vit dans le cœur de Loup.
+
+La puissance d'attaque peut être augmentée définitivement si vous communiez avec une idole du Sculpteur et affrontez le souvenir de la bataille.
+Ce souvenir concerne la religieuse corrompue, protectrice du pont menant au palais de la source.</text>
+<text id="5209">Le souvenir d'une bataille avec un ennemi rare et redoutable qui vit dans le cœur de Loup.
+
+La puissance d'attaque peut être augmentée définitivement si vous communiez avec une idole du Sculpteur et affrontez le souvenir de la bataille.
+
+Ce souvenir concerne la bataille contre le dragon divin.</text>
+<text id="5210">Le souvenir d'une bataille avec un ennemi rare et redoutable qui vit dans le cœur de Loup.
+
+La puissance d'attaque peut être augmentée définitivement si vous communiez avec une idole du Sculpteur et affrontez le souvenir de la bataille.
+Ce souvenir concerne le démon à un bras, englouti par la haine sur le champ de bataille.</text>
+<text id="5211">Le souvenir d'une bataille avec un ennemi rare et redoutable qui vit dans le cœur de Loup.
+La puissance d'attaque peut être augmentée définitivement si vous communiez avec une idole du Sculpteur et affrontez le souvenir de la bataille.
+Au sommet de sa puissance, Isshin Ashina cherchait chaque jour à combattre pour développer sa force. Une machine à tuer n'ayant qu'une chose en tête.</text>
+<text id="5212">Le souvenir d'une bataille avec un ennemi rare et redoutable qui vit dans le cœur de Loup.
+La puissance d'attaque peut être augmentée définitivement si vous communiez avec une idole du Sculpteur et affrontez le souvenir de la bataille.
+L'adversaire n'était nul autre que l'ancien Isshin Ashina, un véritable maître à l'escrime.</text>
+<text id="5213">Le souvenir d'une bataille avec un ennemi rare et redoutable qui vit dans le cœur de Loup.
+
+La puissance d'attaque peut être augmentée définitivement si vous communiez avec une idole du Sculpteur et affrontez le souvenir de la bataille.
+Ce souvenir est celui du singe gardien sans tête, un animal géant doté du pouvoir des morts-vivants.</text>
+<text id="5214">%null%</text>
+<text id="5215">%null%</text>
+<text id="5216">%null%</text>
+<text id="5217">%null%</text>
+<text id="5218">%null%</text>
+<text id="5219">%null%</text>
+<text id="5220">Le souvenir d'un combat contre un adversaire
+extraordinaire qui persiste dans l'esprit de
+Loup. Communier avec une idole du Sculpteur
+et affronter les souvenirs de combat
+augmente en permanence la puissance d'attaque.
+
+Genichiro, réveillé dans les souvenirs
+de Loup, est plus tenace que jamais.
+Ashina exige qu'il devienne plus fort encore.</text>
+<text id="5221">Le souvenir d'un combat contre un adversaire extraordinaire qui persiste dans l'esprit de Loup.
+
+Communier avec une idole du Sculpteur et affronter les souvenirs de combat augmente en permanence la puissance d'attaque.
+La Chouette, tel qu'imaginée par Loup, est plus puissante qu'elle ne l'a jamais été réellement.</text>
+<text id="5222">Le souvenir d'un combat contre un adversaire extraordinaire qui persiste dans l'esprit de Loup.
+
+Communier avec une idole du Sculpteur et affronter les souvenirs de combat augmente en permanence la puissance d'attaque.
+L'obstination d'Isshin est la même dans le souvenir que dans la vie réelle. Un homme ne cherchant que la force.</text>
+<text id="5300">Le souvenir d'une bataille avec un ennemi rare et redoutable.
+Tout ce qui reste est ce souvenir, qui prouve la victoire de Loup.
+Le démon Gyobu était autrefois un terrifiant chef de bandits à Ashina. Après sa défaite aux mains d'Isshin, ce dernier fut tellement impressionné par la force de Gyobu qu'il l'enrôla parmi les guerriers d'Ashina. Gyobu devint par la suite le serviteur de Genichiro.</text>
+<text id="5301">Le souvenir d'une bataille avec un ennemi rare et redoutable.
+Tout ce qui reste est ce souvenir, qui prouve la victoire de Loup.
+À la demande la Chouette, Dame Papillon devait apprendre les techniques shinobi à Loup. Son enseignement se fit à la dure, car le seul moyen de vraiment comprendre ces techniques consiste à les utiliser au combat.</text>
+<text id="5302">Le souvenir d'une bataille avec un ennemi rare et redoutable.
+Tout ce qui reste est ce souvenir, qui prouve la victoire de Loup.
+À sa naissance, Genichiro Ashina n'était qu'un enfant du peuple. Après la mort de sa mère, il fut adopté par les Ashina. Maître dans l'art de la technique hérétique de l'éclair de Tomoe, il n'hésita pas à s'en servir dans l'espoir de sauver Ashina.</text>
+<text id="5303">Le souvenir d'une bataille avec un ennemi rare et redoutable.
+Tout ce qui reste est ce souvenir, qui prouve la victoire de Loup.
+Les halls d'illusion se trouvent à la frontière entre la vie et la mort. Les âmes des enfants divins s'y trouvent encore, prisonniers des corps des singes du temple, et l'enfant divin continue de les appeler ses amis.</text>
+<text id="5304">Le souvenir d'une bataille avec un ennemi rare et redoutable.
+Tout ce qui reste est ce souvenir, qui prouve la victoire de Loup.
+On dit que la présence de vers est un signe que vous êtes un mort-vivant, et une vie si longue peut être bien solitaire pour un singe. Le rugissement que laissa derrière lui le singe gardien était peut-être le signe qu'il voulait autre chose...</text>
+<text id="5305">Le souvenir d'une bataille avec un ennemi rare et redoutable qui vit dans le cœur de Loup. Il ne reste que cette preuve de la victoire de Loup.
+
+Une religieuse corrompue, portant un masque. Elle était lointaine, presque comme une illusion. Comment en était-elle venue à protéger la grotte du village de Mibu ?</text>
+<text id="5306">Le souvenir d'une bataille avec un ennemi rare et redoutable.
+
+Tout ce qui reste est ce souvenir, qui prouve la victoire de Loup.
+
+La Chouette était un grand shinobi, dont l'ambition ultime était d'obtenir le pouvoir de l'héritage du dragon. Que votre véritable nom résonne dans tout le Japon, car tout cela n'était que pour servir son ambition.</text>
+<text id="5307">Le souvenir d'une bataille avec un ennemi rare et redoutable.
+Tout ce qui reste est ce souvenir, qui prouve la victoire de Loup.
+Le jeune chiot que j'ai adopté, que j'ai élevé comme un shinobi, à qui j'ai pris plaisir à enseigner mes techniques... Il est si fort que j'espère l'affronter un jour au combat... Le souhait de la Chouette s'est réalisé, et il n'en reste que le souvenir.</text>
+<text id="5308">Le souvenir d'une bataille avec un ennemi rare et redoutable.
+Tout ce qui reste est ce souvenir, qui prouve la victoire de Loup.
+
+La religieuse corrompue était infestée. Elle protégeait le palais de la source. L'immortalité est une qualité utile pour un gardien éternel.
+Elle s'appelait réellement Yao.</text>
+<text id="5309">Le souvenir d'une bataille avec un ennemi rare et redoutable.
+Tout ce qui reste est ce souvenir, qui prouve la victoire de Loup.
+Le dragon divin est un dieu qui a pris l'aspect d'un dragon. Arrivé de l'ouest il y a longtemps, il a fini par s'installer sur cette terre. Une partie d'Ashina est particulièrement ancienne. La terre, les roches et l'eau y sont primitives et cela aurait attiré l'attention du dragon.</text>
+<text id="5310">Le souvenir d'une bataille avec un ennemi rare et redoutable qui vit dans le cœur de Loup. Il ne reste que cette preuve de la victoire de Loup.
+Un homme qui échoua à être shura devint un vaisseau pour les flammes de la haine. Pendant longtemps, la mort l'épargna. Ce ne fut qu'en devenant un démon qu'il parvint à quitter ce monde.</text>
+<text id="5311">Le souvenir d'une bataille avec un ennemi rare et redoutable.
+Il ne reste que cette preuve de la victoire de Loup.
+Revenu de l'autre monde dans la fleur de la jeunesse, Isshin participa à tous les combats, avide pouvoir. Il fut enfin exaucé et mourut au combat.</text>
+<text id="5312">Le souvenir d'une bataille avec un ennemi rare et redoutable.
+Il ne reste que cette preuve de la victoire de Loup.
+L'ancien Isshin est un maître à l'escrime. N'ayant jamais eu de cesse d'améliorer ses techniques pour créer le style Ashina, il élimina tout geste superflu. Il était parvenu à capturer l'âme de la lame.</text>
+<text id="5313">Le souvenir d'une bataille avec un ennemi rare et redoutable.
+Il ne reste que cette preuve de la victoire de Loup.
+Le singe gardien partageait autrefois son antre avec sa compagne, mais lui seul fut infecté et elle finit par mourir. Tout ce qui reste d'elle, ce sont les fleurs qu'il fait pousser pour les offrir à son âme.</text>
+<text id="5314">%null%</text>
+<text id="5315">%null%</text>
+<text id="5316">%null%</text>
+<text id="5317">%null%</text>
+<text id="5318">%null%</text>
+<text id="5319">%null%</text>
+<text id="5320">Le souvenir d'un combat contre un adversaire extraordinaire.
+Bien que lointain, ce souvenir
+nourrit la mémoire de Loup.
+
+Genichiro encore jeune observe Tomoe qui danse.
+Ses mouvements sont toujours secrets et touchent à une
+perfection qu'une vie entière
+ne suffirait à atteindre. Dans ces souvenirs,
+après avoir affronté son adversaire si souvent,
+Genichiro a repoussé ses propres limites.</text>
+<text id="5321">Le souvenir d'un combat contre un adversaire extraordinaire.
+Bien que lointain, ce souvenir
+nourrit la mémoire de Loup.
+
+La Chouette a une fois de plus abandonné le jeune
+Loup dans la forêt, seul contre des illusions,
+pensant qu'il n'en reviendrait pas.
+Il n'y a que dans la victoire qu'il daignerait le considérer
+comme un fils. C'est ainsi, et uniquement ainsi,
+qu'il a élevé Loup comme son propre enfant.</text>
+<text id="5322">Le souvenir d'un combat contre un adversaire extraordinaire.
+Bien que lointain, ce souvenir
+nourrit la mémoire de Loup.
+
+Toute sa vie, Isshin a cherché des adversaires
+à combattre jusqu'à la mort.
+Seul un idiot penserait qu'en souvenirs, sa soif
+de sang serait enfin étanchée.
+À l'idée de défier celui qui l'a terrassé...
+Le sang bout rien que d'y penser.</text>
+<text id="5500">Un fragment d'un ancien masque de danseuse.
+Le masque original a été brisé en plusieurs morceaux et ce fragment semble être la partie de droite. 
+</text>
+<text id="5501">Un fragment d'un ancien masque de danseuse.
+Le masque original a été brisé en plusieurs morceaux et ce fragment semble être la partie de gauche. 
+</text>
+<text id="5502">Un fragment d'un ancien masque de danseuse.
+Le masque original a été brisé en plusieurs morceaux et ce fragment semble être la partie haute. 
+</text>
+<text id="5503">%null%</text>
+<text id="5504">%null%</text>
+<text id="5505">%null%</text>
+<text id="5506">%null%</text>
+<text id="5507">%null%</text>
+<text id="5508">%null%</text>
+<text id="5509">%null%</text>
+<text id="5510">Un masque de danseuse à l'effigie d'un dragon, reconstitué d'après plusieurs fragments.
+Il confère la capacité d'échanger des points de compétence contre de la puissance d'attaque dans le menu de l'idole du Sculpteur.
+Les guerrières Okami portaient ces masques dans le palais de la source, où elles dansaient en l'honneur du dragon. Ce rituel leur donnait une vigueur sans pareille.</text>
+<text id="5600">Un objet rarement donné par l'héritier divin de l'héritage du dragon. L'utiliser augmente légèrement le pouvoir de résurrection. Restaurez la vie de ceux qui en ont été drainés en offrant cet objet à l'idole du Sculpteur avec le Charme de purification en main. Tous les malades de la Peste du Dragon seront soignés.
+Ces toux constantes doivent cesser.</text>
+<text id="6000">Du fer qu'on trouve dans les mines d'Ashina.
+
+Utilisé pour les améliorations de base des outils de prothèse.
+
+Bien qu'Ashina soit couvert par la neige et ne manque pas de terres désertiques, ce morceau de fer est loin d'être grossier.</text>
+<text id="6001">%null%</text>
+<text id="6002">%null%</text>
+<text id="6003">%null%</text>
+<text id="6004">%null%</text>
+<text id="6005">%null%</text>
+<text id="6006">%null%</text>
+<text id="6007">%null%</text>
+<text id="6008">%null%</text>
+<text id="6009">%null%</text>
+<text id="6010">Du minerai magnétique qu'on trouve à Ashina.
+
+On s'en sert pour les renforts intermédiaires, il peut servir de matériau de base pour améliorer les outils de prothèse.
+
+On peut transformer la magnétite en acier. C'est une ressource importante pour les habitants d'Ashina.</text>
+<text id="6011">%null%</text>
+<text id="6012">%null%</text>
+<text id="6013">%null%</text>
+<text id="6014">%null%</text>
+<text id="6015">%null%</text>
+<text id="6016">%null%</text>
+<text id="6017">%null%</text>
+<text id="6018">%null%</text>
+<text id="6019">%null%</text>
+<text id="6020">Adamantin aux reflets blancs et mats. Ne se trouve qu'à proximité de la source dans le sol révéré par la population d'Ashina.
+
+Souvent utilisé pour des améliorations avancées, elle sert de base puissante pour les améliorations des bras prosthétiques. Ce matériau souple et solide est important dans le monde de l'acier, où il a gagné son surnom de matériau "indestructible".</text>
+<text id="6100">Cette substance noire est une forme grossière de poudre à canon.
+
+Elle peut servir à améliorer les outils de prothèse, avec des explosions et des pouvoirs occultes.
+
+Bien qu'extrêmement basique, cette poudre a un grand nombre d'applications possibles.</text>
+<text id="6200">Des grains couleur d'ambre formant la base d'une puissante poudre à canon. On les trouve dans la Vallée engloutie.
+
+Utilisés pour les améliorations des outils de prothèse explosifs de niveau intermédiaire et supérieur.
+L'efficacité de la poudre jaune est supérieure à celle de la poudre noire, ce qui donne leur supériorité aux défenses de la vallée.</text>
+<text id="6201">%null%</text>
+<text id="6202">%null%</text>
+<text id="6203">%null%</text>
+<text id="6204">%null%</text>
+<text id="6205">%null%</text>
+<text id="6206">%null%</text>
+<text id="6207">%null%</text>
+<text id="6208">%null%</text>
+<text id="6209">%null%</text>
+<text id="6210">Une poudre de grande valeur et extrêmement destructrice qu'on peut utiliser avec les outils de prothèse avancés.
+
+Tirant parti de connaissances barbares, la recette de cette poudre est l'un des secrets les mieux gardés du  ministère de l'intérieur. Grâce à cette poudre, l'armée du ministère de l'intérieur est devenue impossible à arrêter.</text>
+<text id="6300">En de rares situations, ces masses de cire grasse peuvent se former dans le corps.
+Elles peuvent apporter des améliorations occultes intermédiaires et supérieures aux outils de prothèse.
+Elles sont le symptôme d'une maladie et grossissent à mesure que cette maladie empire.</text>
+<text id="6301">%null%</text>
+<text id="6302">%null%</text>
+<text id="6303">%null%</text>
+<text id="6304">%null%</text>
+<text id="6305">%null%</text>
+<text id="6306">%null%</text>
+<text id="6307">%null%</text>
+<text id="6308">%null%</text>
+<text id="6309">%null%</text>
+<text id="6310">Une masse d'adipocire qui se forme dans le corps de quelqu'un et vire au noir.
+
+Utilisée pour l'amélioration des outils de prothèse occultes avancés.
+
+L'adipocire noire se développe chez ceux qui sont frappés depuis longtemps par la maladie. Il est préférable de rincer à l'eau quand la cire a été enlevée.</text>
+<text id="6400">Un lapis-lazuli bleu, utilisé pour l'amélioration ultime des outils de prothèse.
+
+Le lapis-lazuli de la source est un symbole d'éternité. Les objets conçus avec lui ne vieillissent pas et ne rouillent pas, touchés par la bénédiction du dragon divin. Les outils de prothèse conçus avec le lapis-lazuli sont considérés comme des objets sacrés du dragon divin surpassant toute connaissance humaine.</text>
+<text id="9000">Des larmes obtenues auprès du dragon divin.
+Seule la lame de la mort est capable de manipuler le Don des larmes.
+
+Comme le corps du dragon divin lui-même, la larme, une fois versée, conserve sa forme à jamais. Si l'un des héritiers du dragon consomme cette larme, il peut trancher rituellement les liens d'immortalité.</text>
+<text id="9001">%null%</text>
+<text id="9002">%null%</text>
+<text id="9003">Un charme donné par Kuro.
+
+Quand Loup a perdu la vie au domaine Hirata
+et reçu le pouvoir de la résurrection,
+ce charme a été extrait du domaine.
+
+Le charme a protégé efficacement Loup,
+ce qui a limité ses souffrances.
+Sans lui, Loup devrait affronter des
+dangers bien plus redoutables.</text>
+<text id="9004">%null%</text>
+<text id="9005">%null%</text>
+<text id="9006">%null%</text>
+<text id="9007">%null%</text>
+<text id="9008">%null%</text>
+<text id="9009">Un cristal de couleur rose qui est créé quand quelqu'un brise sa connexion avec l'héritier divin.
+
+Confère assez de potentiel de résurrection pour une résurrection supplémentaire.
+
+L'aide de quelqu'un qui possède le pouvoir du sang du dragon est nécessaire pour son utilisation.</text>
+<text id="9010">Un charme donné par une vieille femme qui veut que vous l'offriez à Bouddha.
+
+Ce type de charme offre à son propriétaire la protection divine de Bouddha. Mais la coutume est de l'offrir à Bouddha quand on est déjà le possesseur d'un autre charme. Le Sculpteur du Temple en ruines sait sûrement comment faire offrande de cet objet.</text>
+<text id="9011">Un charme autrefois possédé par la Chouette.
+
+La Chouette le détient depuis longtemps. Vous verrez peut-être un souvenir différent si vous l'offrez au Temple en ruines. Nul ne sait pourquoi ce charme de protection existe. La Chouette le gardait peut-être pour lui, ou peut-être voulait-il l'offrir à quelqu'un...</text>
+<text id="9012">%null%</text>
+<text id="9013">%null%</text>
+<text id="9014">%null%</text>
+<text id="9015">%null%</text>
+<text id="9016">%null%</text>
+<text id="9017">%null%</text>
+<text id="9018">%null%</text>
+<text id="9019">%null%</text>
+<text id="9020">Une lettre jetée au fond d'un puits.
+
+Loup de Kuro,
+
+Ton destin se joue à la Tour de la lune. Échappe-toi du puits et trouve la tour baignée de lumière lunaire.
+
+Même sans épée, tu peux y accéder. Reste silencieux. Reste vigilant.</text>
+<text id="9052">Une carpe vivant dans l'étang de Mibu. Elle a deux yeux rouges.
+Les carpes qui n'ont que deux yeux rouges ne peuvent devenir des Maîtres. Elles sont considérées comme incomplètes et n'ont pas le nombre voulu d'écailles. Mais leurs yeux ne meurent jamais. Elles sont recherchées par Dojun, dans le donjon abandonné, pour ses expériences.</text>
+<text id="9053">%null%</text>
+<text id="9054">%null%</text>
+<text id="9055">%null%</text>
+<text id="9056">%null%</text>
+<text id="9057">%null%</text>
+<text id="9058">%null%</text>
+<text id="9059">%null%</text>
+<text id="9060">Une pièce taillée dans un grand morceau de jade.
+La posséder augmente le nombre d'objets que l'on peut acheter chez les marchands.
+Elle a également de la valeur pour les marchands eux-mêmes. D'après une vieille coutume, ceux qui sont de rang dragon sont reconnus comme marchands suprêmes par le palais et reçoivent le meilleur traitement.</text>
+<text id="9061">Un billet à ordre des terres d'Ashina lié à Matabei Anayama.
+
+Fait baisser le prix des objets quand vous les achetez à un marchand.
+
+Un sen économisé, c'est un sen gagné. Il n'a jamais cessé de marchander jusqu'à son dernier souffle.</text>
+<text id="9062">%null%</text>
+<text id="9063">%null%</text>
+<text id="9064">%null%</text>
+<text id="9065">%null%</text>
+<text id="9066">%null%</text>
+<text id="9067">%null%</text>
+<text id="9068">%null%</text>
+<text id="9069">%null%</text>
+<text id="9070">Une coupe remplie d'eau divine, une boisson appréciée par les nobles du palais.
+
+C'est ce que l'on offre pour accueillir ceux qui se marient au palais de la source.
+
+Le délice des nobles du palais. Buvez jusqu'à plus soif.</text>
+<text id="9071">Un barbillon blanc inestimable, pris à la Grande carpe colorée.
+La Grande carpe est immortelle, mais on peut lui arracher ses barbillons après l'avoir tuée. Le son du barbillon que l'on retire doit être agréable aux oreilles de certains. Pour certains, c'est le son d'une mission accomplie, pour d'autres, celui d'un souhait qui se réalise.</text>
+<text id="9072">%null%</text>
+<text id="9073">%null%</text>
+<text id="9074">%null%</text>
+<text id="9075">%null%</text>
+<text id="9076">%null%</text>
+<text id="9077">%null%</text>
+<text id="9078">%null%</text>
+<text id="9079">%null%</text>
+<text id="9080">Un petit moulin à vent fait de papier rouge et blanc.
+Trouvé à mi-chemin du sommet du mont Kongo.
+
+Les moulins à vent rouges et blancs tournent encore et encore.
+Tout le monde est là.</text>
+<text id="9081">Un petit moulin à vent fait de papier blanc.
+Trouvé au pied d'une falaise du mont Kongo.
+Peut-être a-t-il été porté par le vent.
+
+C'est un simple moulin à vent d'un blanc pur.
+Seul l'enfant est là.</text>
+<text id="9082">%null%</text>
+<text id="9083">%null%</text>
+<text id="9084">%null%</text>
+<text id="9085">%null%</text>
+<text id="9086">%null%</text>
+<text id="9087">%null%</text>
+<text id="9088">%null%</text>
+<text id="9089">%null%</text>
+<text id="9090">Du riz répandu par l'enfant divine de l'eau de jouvence. C'est un cadeau pour Kuro.
+
+Le riz est précieux. Je ne veux rien de plus que le rétablissement de l'héritier divin de l'héritage du dragon.
+
+Le donner à Kuro lui ferait sûrement très plaisir.</text>
+<text id="9091">Des larmes versées par l'enfant divine de l'eau de jouvence après être devenue le berceau. Elles sont gelées.
+
+Quand Kuro aura bu les larmes du dragon et les larmes gelées, le rituel du berceau pourra commencer.
+
+C'est ce que l'on appelle les larmes froides du dragon.</text>
+<text id="9092">%null%</text>
+<text id="9093">%null%</text>
+<text id="9094">%null%</text>
+<text id="9095">%null%</text>
+<text id="9096">%null%</text>
+<text id="9097">%null%</text>
+<text id="9098">%null%</text>
+<text id="9099">%null%</text>
+<text id="9100">Une bouteille remplie de saké Ashina. Le saké est quelque chose que l'on partage.
+
+Il ne contient pas d'eau de la source, mais de l'eau pure, et il est très aimé par les citoyens d'Ashina.</text>
+<text id="9101">Une bouteille de saké non raffiné. Le saké est quelque chose que l'on partage.
+
+Ce saké brut est l'un des préférés d'Isshin Ashina. Il a un arôme riche et charpenté.
+
+Il aurait toutefois tendance à rendre saoul très rapidement.</text>
+<text id="9102">De l'alcool créé par de la rosée accumulée dans un arbre creux.
+
+Les fruits cachés dans les arbres creux peuvent parfois fermenter et devenir du saké.
+
+Son goût est particulièrement âpre, mais ceux qui y sont habitués le trouvent irrésistible.</text>
+<text id="9103">Une bouteille de saké clair comme le cristal. Le saké est quelque chose que l'on partage.
+Un saké de très grande qualité, fabriqué avec l'eau de la source. La pureté de l'eau permet au saké de conserver tous les arômes du meilleur riz d'Ashina. Aucun mot ne permet de rendre pleinement justice à la qualité de ce saké, qu'il faut goûter soi-même pour véritablement apprécier.</text>
+<text id="9104">Une bouteille de saké d'Ashina donné par Emma. Le saké est quelque chose que l'on partage.
+
+Il ne contient pas d'eau de la source, mais de l'eau pure, et il est très aimé par les citoyens d'Ashina.</text>
+<text id="9105">Une bouteille de saké non raffiné offert par Isshin. Le saké est quelque chose que l'on partage.
+
+Ce saké brut est l'un des préférés d'Isshin Ashina. Il a un arôme riche et charpenté.
+
+Il aurait toutefois tendance à rendre saoul très rapidement.</text>
+<text id="9180">Cet appât est précieux.
+
+Il a une texture visqueuse et des excroissances en cornes.
+Le genre d'appât dont raffole le Maître.
+
+Faites sonner la cloche, lancez l'appât.</text>
+<text id="9181">C'est un appât très précieux.
+
+Il a encore plus de valeur s'il y pousse des poils. Le noble de l'urne de Hirata est obsédé par l'idée de devenir un Maître.
+
+Ceux à qui l'on donne la carpe s'approchent eux-mêmes de la carpe... Je vous donne mon trésor secret...</text>
+<text id="9182">C'est un appât très précieux.
+
+Il a encore plus de valeur s'il y pousse des poils. Le noble de l'urne du palais de la source est obsédé par l'idée de devenir un Maître.
+"Présentez cet appât au Maître, la Grande carpe... Offrez-la discrètement, afin que nul n'en sache rien..."</text>
+<text id="9183">%null%</text>
+<text id="9184">%null%</text>
+<text id="9185">%null%</text>
+<text id="9186">%null%</text>
+<text id="9187">%null%</text>
+<text id="9188">%null%</text>
+<text id="9189">%null%</text>
+<text id="9190">%null%</text>
+<text id="9191">%null%</text>
+<text id="9192">Le cœur d'un Grand serpent, qui évoque une plaquemine.
+Le Grand serpent est le dieu de ces terres, et son cœur est l'organe dans lequel son esprit réside. Sa forme évoque la plaquemine, mais c'est en fait l'organe d'un dieu. Manger un organe divin empoisonne probablement les corps humains.</text>
+<text id="9193">Le cœur d'un Grand serpent, qui évoque une plaquemine.
+Le Grand serpent est le dieu de ces terres, et son cœur est l'organe dans lequel son esprit réside. Sa forme évoque la plaquemine, mais c'est en fait l'organe d'un dieu. Les habitants de la Vallée engloutie adorent les organes du Grand serpent, qui représentent la divinité.</text>
+<text id="9194">%null%</text>
+<text id="9195">%null%</text>
+<text id="9196">%null%</text>
+<text id="9197">%null%</text>
+<text id="9198">%null%</text>
+<text id="9199">%null%</text>
+<text id="9200">Une page de l'herbier d'Ashina, un livre dédié aux fleurs et aux plantes.
+La graine de bouterolle pousse dans les ravins et les vallées profondes. Les habitants de la Vallée engloutie pensent que ce genre de vallée est l'endroit parfait pour s'offrir en mariage au Grand serpent. Pour devenir une épousée, ils doivent entrer dans le ventre du Serpent, dans la vallée.</text>
+<text id="9201">%null%</text>
+<text id="9202">%null%</text>
+<text id="9203">%null%</text>
+<text id="9204">%null%</text>
+<text id="9205">Une note laissée par le chirurgien Dosaku.
+
+Mes disciples ont tous rejoint Dogen. Effrayés à l'idée de se salir les mains, ils m'ont abandonné pour ce charlatan…
+Dojun ! Mon dernier disciple ! Même si je meurs, les traitements doivent continuer. Vous devez poursuivre mon travail coûte que coûte. Pour Ashina.
+                                                                    Dosaku
+</text>
+<text id="9206">Une description des "rats" qui se sont infiltrés dans Ashina. Parlez de nouveau au Tengu quand vous vous serez occupés des rats.
+Les rats :
+- Assassins du temple Senpo
+- Petite taille, portant des chapeaux de bambou
+- Ils sont plusieurs
+- Vus pour la dernière fois près de la porte du château Ashina</text>
+<text id="9207">Une lettre tachée de sang de Dosaku, le chirurgien du donjon abandonné.
+Nécessaire : 1 homme robuste
+De préférence un maître samouraï, ou un jeune et solide soldat, par exemple un membre de l'unité Taro. Ne doit pas être blessé.
+                                                                    Dosaku
+</text>
+<text id="9208">Une note écrite par Dosaku, le chirurgien du donjon abandonné. Elle est tachée de sang.
+
+   Au fond de l'étang du village de Mibu, vous trouverez une carpe sakura. Vous la reconnaîtrez à ses yeux rouges, dont on dit qu'ils ne pourrissent jamais. J'ai besoin de ces yeux rouges.
+                                                                    Dosaku</text>
+<text id="9209">Un extrait décrivant le voyage vers l'illumination. "Immortel, je prie pour le retour du dragon. Immortels, attendons une ère, que l'héritier divin assimile les larmes froides du dragon, que le berceau consomme les deux fruits serpentins. Que le berceau perdure, lui servant de refuge, pour assurer son retour vers l'ouest. "</text>
+<text id="9210">Un livre reçu de Kuro sur l'art de mettre fin à l'héritage du dragon. Le livre est ancien. Sa reliure est partiellement arrachée et il manque plusieurs pages.
+
+  Voici comment accomplir le rite de rupture avec l'immortalité. Au-delà du palais de la source, trouvez le sanctuaire pour y collecter les larmes du dragon sacré du royaume divin.
+</text>
+<text id="9211">Extrait du livre de rupture avec l'immortalité laissé par Takeru.
+
+"La lame de la mort en main, mon sang peut être versé.
+Avec mon sang, l'arôme sera achevé, le royaume divin sera à portée et la rupture avec l'immortalité atteignable.
+Je dois demander à Tomoe de m'aider pour la décapitation..."
+</text>
+<text id="9212">Une note reçue de Kuro et écrite par Takeru, l'ancien héritier divin du dragon.
+
+  Les parents de Tomoe avaient trouvé le parfum de la source et s'étaient rendus au palais. 
+
+  Vous pourrez trouver une clé là où les eaux de jouvence se rassemblent dans un bassin. Une fleur blanche et très parfumée...
+</text>
+<text id="9213">Une ancienne note du clan Okami, qui cherchait à atteindre le royaume divin.
+
+"Une pierre odorante, abritée dans l'autel d'un village des confins d'Ashina. Il faut s'y jeter pour la trouver. Ainsi, le parfum de la source sera achevé, et nous pourrons partir pour le royaume divin."
+</text>
+<text id="9214">Une entrée du journal tenu par le page de Takeru.
+
+Le seigneur Takeru tendit son bras au-dessus de l'encensoir et tenta de le couper avec un sabre, mais sa blessure se referma aussitôt et pas une goutte de sang ne fut versée. Dame Tomoe lui dit : "Sans elle, ton sang ne saurait être versé". Je me demande de quoi elle parlait.</text>
+<text id="9215">Un passage décrivant un voyage vers l'illumination.
+"Pendant un temps, j'ai été béni par le ver. Ne pouvoir mourir permet d'avancer sur la voie éternelle de l'illumination, et je dois l'atteindre pour comprendre pourquoi je ne peux pas mourir. On dit que le dragon sacré est originaire de l'ouest. Je me demande quel but le ver m'a confié..."</text>
+<text id="9216">La note de Tomoe est écrite d'une main habile.
+"La toux du seigneur Takeru empire. Il est impossible de retourner au royaume divin. Je veux juste mettre fin à l'héritage du dragon et l'aider à retrouver son humanité. Pour cela, il faut le persistant et la lame de la mort, et je ne peux pas encore acquérir la lame. Je pense que le grand-prêtre du temple Senpo l'a cachée. Il ne veut pas mettre fin à l'héritage du dragon…"</text>
+<text id="9217">Une note souillée écrite par Anayama. Des années sont passées depuis qu'elle a été écrite.
+
+   Information lucrative N°36.
+Quand nous nous sommes introduits dans le domaine Hirata, nous avons trouvé un tube crachant des flammes. Les gars ont allumé un feu avec et ont profité des boissons. C'était sans doute un outil de shinobi.</text>
+<text id="9218">Une note sur les signaux de fumée des engoulevents, les shinobi d'Ashina.
+
+Des signaux de fumée rose sont placés sur les toits du château Ashina.  
+
+Ce sont des fanaux pour les ninjas engoulevents.
+
+On dit que seuls ces ninjas peuvent suivre une piste de ce genre.</text>
+<text id="9219">Une note laissée par Isshin dans la tour de guet. Peut-être qu'Emma sait où il se trouve.
+
+       Chère Emma,
+
+    Les portes du château Ashina ont résonné
+    au son de la débandade.
+    Le Tengu s'occupera des rats. Ne vous
+    inquiétez pas.
+                                                                    Isshin
+</text>
+<text id="9220">Une note laissée par un cadavre dans le donjon abandonné.
+"La pierre odorante serait cachée dans un village des confins d'Ashina. Mais comment interpréter : 's'y jeter' ?
+L'ancien tome Okami ne m'a pas permis d'aller plus loin. Ont-ils vraiment atteint le Palais de la source ? J'aimerais le savoir, mais cela n'arrivera sans doute jamais. Kotaro... Pardonne-moi..."
+</text>
+<text id="9221">Une note qui indique où trouver une épée courte du nom de Sabimaru. Il faut l'acheter pour lire le contenu.</text>
+<text id="9222">Une note qui précise où se trouverait un sabre court nommé Sabimaru.
+L'antique Sabimaru se trouve au château Ashina, dans un autel au premier niveau du donjon. Sabimaru a servi lors des anciennes guerres, et c'est un des trésors nationaux d'Ashina. La légende veut que la rouille bleue venimeuse de la lame soit capable de repousser même les inhumaines guerrières Okami.</text>
+<text id="9223">Une note sur les esprits vengeurs dans la Vallée engloutie.
+
+Il faut l'acheter pour lire le contenu.</text>
+<text id="9224">Une note sur les esprits vengeurs dans la Vallée engloutie.
+"On a repéré des esprits vengeurs dans le vieux repaire du singe gardien de la Vallée engloutie. Des esprits furieux aux visages multiples. Le vieux repaire se trouve en bas de la Vallée engloutie, pas loin de la forêt des brumes. Certains prétendent qu'on peut y entendre une femme pleurant au loin..."</text>
+<text id="9225">Une note décrivant la pagode à trois niveaux.
+
+Il faut l'acheter pour lire le contenu.</text>
+<text id="9226">Une note décrivant la pagode à trois niveaux.
+"La pagode à trois niveaux du domaine Hirata abrite un fabuleux trésor. La pagode se trouve au bord d'un précipice dans la Colline aux bambous. Le trésor lui-même serait lié aux techniques shinobi. On dit qu'elle était dédiée au brouillard... quoi que cela puisse vouloir dire."
+</text>
+<text id="9227">Un vieux texte décrivant une lame de la mort noire.
+
+"En plus de la lame de la mort rouge, il en existe une noire. Son nom signifie Porte Ouverte et on dit qu'elle peut ouvrir un passage vers le monde des profondeurs. C'est grâce à sa puissance que l'on crée la vie. Je vous en supplie, faites des offrandes au sang du dragon..."</text>
+<text id="9228">Un passage décrivant un voyage vers l'illumination.
+"Pour l'enfant divin de l'eau de jouvence".
+"Pendant un temps, j'ai été béni par le ver. Ne pouvoir mourir permet d'avancer sur la voie éternelle de l'illumination, et je dois l'atteindre pour comprendre pourquoi je ne peux pas mourir. On dit que le dragon sacré est originaire de l'ouest. Je me demande quel but le ver m'a confié..."</text>
+<text id="9402">La clé d'une salle de garde de samouraïs située dans le réservoir Ashina, non loin du puits où était gardé Loup. C'est là qu'est entreposée dans le plus grand respect la Corne brisée du démon Gyobu.
+La Corne brisée est la lame de la lance qu'utilisait le démon Gyobu. Quand elle choisit sa cible, il est impossible de lui échapper. Elle attire les ennemis vers elle et peut leur faire perdre leur armure.</text>
+<text id="9403">La clé du temple caché dans le domaine Hirata, donnée par la Chouette.
+
+Le temple secret est situé tout à l'arrière du domaine Hirata.
+
+   Deux,
+   La parole du maître est absolue.
+   Protège ton maître à tout prix. 
+   Tu dois le ramener à n'importe quel prix.</text>
+<text id="9404">La clé du passage secret qui mène à l'extérieur du château Ashina.
+
+On peut trouver le passage secret au bout de la douve du canal Ashina, non loin de la tour de la lune.
+
+Kuro s'est enfui du château en empruntant ce passage et Loup doit le retrouver.</text>
+<text id="9405">La clé d'un autel qui se trouve dans le Fort aux canons. Elle permet d'ouvrir la porte qui se trouve derrière l'autel.
+
+Le clan de la Vallée engloutie abattra tout étranger qui s'approche.
+
+Les fusils des Yeux du serpent sont particulièrement dangereux. Ces femmes ont des yeux spéciaux qui leur permettent d'abattre leurs victimes à très longue portée.</text>
+<text id="9500">Une toux douloureuse retentit quelque part...
+
+L'homme qui tousse sculpte sans relâche des statues de Bouddha pour ne pas être brûlé par les flammes.
+
+Posséder cet objet réduit les chances de profiter de l'aide divine.</text>
+<text id="9501">Une toux douloureuse retentit quelque part...
+
+L'homme qui tousse voyage beaucoup pour développer ses affaires.
+
+Posséder cet objet réduit les chances de profiter de l'aide divine.</text>
+<text id="9502">Une toux douloureuse retentit quelque part...
+
+L'homme qui tousse ne veut rien tant que retourner à un endroit abandonné.
+
+Posséder cet objet réduit les chances de profiter de l'aide divine.</text>
+<text id="9503">Une toux douloureuse retentit quelque part...
+
+La personne qui tousse est un enfant perdu, plutôt fort.
+
+Posséder cet objet réduit les chances de profiter de l'aide divine.</text>
+<text id="9504">Une toux douloureuse retentit quelque part...
+
+L'homme qui tousse est un homme ensorcelé par une magnifique mélodie.
+
+Posséder cet objet réduit les chances de profiter de l'aide divine.</text>
+<text id="9505">Une toux douloureuse retentit quelque part...
+
+Les personnes qui toussent sont deux chercheurs troublés, mais néanmoins désireux d'aller jusqu'au bout. Ils toussent ensemble.
+
+Posséder cet objet réduit les chances de profiter de l'aide divine.</text>
+<text id="9506">%null%</text>
+<text id="9507">%null%</text>
+<text id="9508">%null%</text>
+<text id="9509">%null%</text>
+<text id="9510">Une toux douloureuse retentit quelque part...
+
+L'homme qui tousse est un homme qui pense à sa mère malade.
+
+Posséder cet objet réduit les chances de profiter de l'aide divine.</text>
+<text id="9511">Une toux douloureuse retentit quelque part...
+
+L'homme qui tousse est à la fois effrayé et assoiffé.
+
+Posséder cet objet réduit les chances de profiter de l'aide divine.</text>
+<text id="9512">%null%</text>
+<text id="9513">%null%</text>
+<text id="9514">%null%</text>
+<text id="9515">Une toux douloureuse retentit quelque part...
+
+La personne qui tousse est une femme âgée qui s'inquiète pour son maître.
+
+Posséder cet objet réduit les chances de profiter de l'aide divine.</text>
+<text id="9516">Une toux douloureuse retentit quelque part...
+
+La personne qui tousse est une femme âgée qui a beaucoup de reconnaissance pour quelqu'un. Garder la foi quand on a été rendu fou permet de voir certaines choses...
+
+Posséder cet objet réduit les chances de profiter de l'aide divine.</text>
+<text id="9517">%null%</text>
+<text id="9518">%null%</text>
+<text id="9519">%null%</text>
+<text id="9520">Une toux douloureuse retentit quelque part...
+
+L'homme qui tousse semble tirer beaucoup de fierté de son travail funéraire, dans les Alentours d'Ashina.
+
+Posséder cet objet réduit les chances de profiter de l'aide divine.</text>
+<text id="9521">Une toux douloureuse retentit quelque part...
+
+C'est la toux de quelqu'un qui va bientôt mourir. L'homme qui tousse a assisté à des combats sans fin et fait des offrandes aux morts, sur le champ de bataille près de la porte du château Ashina.
+
+Posséder cet objet réduit les chances de profiter de l'aide divine.</text>
+<text id="9522">Une toux douloureuse retentit quelque part...
+
+C'est la toux de quelqu'un qui va bientôt mourir. L'homme qui tousse a trop souvent vu ceux qu'on abandonne, mais il continue de faire des offrandes aux morts.
+
+Posséder cet objet réduit les chances de profiter de l'aide divine.</text>
+<text id="9523">Une toux douloureuse retentit quelque part...
+
+C'est la toux de quelqu'un qui va bientôt mourir. Le vieil homme qui tousse se trouve près de bassins empoisonnés, mais il continue d'apporter des offrandes à ceux que Bouddha n'a pu sauver.
+
+Posséder cet objet réduit les chances de profiter de l'aide divine.</text>
+<text id="9524">Une toux douloureuse retentit quelque part...
+
+L'homme qui tousse est un dévot qui apporte des offrandes aux morts, en un lieu où Bouddha a été oublié.
+
+Posséder cet objet réduit les chances de profiter de l'aide divine.</text>
+<text id="9525">Une toux douloureuse retentit quelque part...
+
+L'homme qui tousse est un ivrogne qui apporte des offrandes aux morts, bien qu'il ne croie plus en leur sincérité.
+
+Posséder cet objet réduit les chances de profiter de l'aide divine.</text>
+<text id="9526">Une toux douloureuse retentit quelque part...
+
+L'homme qui tousse gagne sa vie en vendant des informations, mais il est toujours habité par la compassion.
+
+Posséder cet objet réduit les chances de profiter de l'aide divine.</text>
+<text id="9560">Un échantillon de sang de victime de la Peste du dragon. Contient du sang stagnant.
+
+Emma peut l'utiliser pour trouver un remède à la Peste du dragon.</text>
+<text id="9700">Un outil mécanique créé par le génial Dogen. Utilisable dans la prothèse de shinobi pour devenir un outil de prothèse.
+
+Bien qu'elle ne soit pas plus grande que la paume de la main, la roue de shurikens peut accueillir de nombreux shurikens.
+Un magnifique exemple de ce que l'on peut accomplir en combinant ingéniosité et ruse.
+</text>
+<text id="9701">Un kunaï qui appartenait autrefois à Dame Papillon. Il permet de renforcer l'outil de prothèse Shuriken chargé. Quand on le lance, il émet un son qui fait apparaître des papillons fantômes dans son sillage. Depuis son enfance, Dame Papillon a acquis beaucoup d'expérience dans la forêt d'Usui, loin de toute civilisation. Cette forêt abrite de nombreux mythes et mystères, ce qui en fait l'endroit idéal pour s'entraîner aux techniques d'illusion.</text>
+<text id="9702">%null%</text>
+<text id="9703">%null%</text>
+<text id="9704">%null%</text>
+<text id="9705">%null%</text>
+<text id="9706">%null%</text>
+<text id="9707">%null%</text>
+<text id="9708">%null%</text>
+<text id="9709">%null%</text>
+<text id="9710">Des pétards d'origine étrangère. Ils peuvent être insérés dans une prothèse de shinobi pour devenir un outil de prothèse.
+
+Leur bruit assourdissant effraie les animaux. Le jeune Robert et son père en vendent pour financer leurs voyages. C'est pour prolonger la vie de Robert qu'ils sont venus au Japon, à la recherche du pouvoir de la vie éternelle.</text>
+<text id="9711">%null%</text>
+<text id="9712">%null%</text>
+<text id="9713">%null%</text>
+<text id="9714">%null%</text>
+<text id="9715">%null%</text>
+<text id="9716">%null%</text>
+<text id="9717">%null%</text>
+<text id="9718">%null%</text>
+<text id="9719">%null%</text>
+<text id="9720">Un canon en acier qui crache du feu. Il peut être inséré dans une prothèse de shinobi pour devenir un outil de prothèse.
+
+Un homme seul aura du mal à affronter les Yeux rouges.
+
+Une arme capable de cracher des flammes pourrait l'y aider, car on dit qu'ils craignent le feu plus que toute autre chose.</text>
+<text id="9721">Une flamme inextinguible continue de brûler dans la résine. Elle permet d'améliorer l'outil de prothèse Expulsion de flammes. La résine a été découverte dans un pin noir, dans la forêt qui entoure le village de Mibu. Ces flammes qui ne s'éteignent jamais servaient de balises pour retrouver le chemin du village, mais avec le temps, les villageois de Mibu finirent par les détester, tout comme ceux qui les protégeaient.</text>
+<text id="9722">%null%</text>
+<text id="9723">%null%</text>
+<text id="9724">%null%</text>
+<text id="9725">%null%</text>
+<text id="9726">%null%</text>
+<text id="9727">%null%</text>
+<text id="9728">%null%</text>
+<text id="9729">%null%</text>
+<text id="9730">Une lourde hache noire en acier utilisée par les shinobi. Utilisable dans la prothèse de shinobi pour devenir un outil de prothèse.
+
+En raison de son poids, cette hache est bien plus utile pour briser des choses que pour les trancher.
+
+Autrefois très appréciée par le shinobi du singe de la Vallée engloutie. Mais il la perdit en même temps que son bras gauche.
+</text>
+<text id="9731">%null%</text>
+<text id="9732">%null%</text>
+<text id="9733">%null%</text>
+<text id="9734">%null%</text>
+<text id="9735">%null%</text>
+<text id="9736">%null%</text>
+<text id="9737">%null%</text>
+<text id="9738">%null%</text>
+<text id="9739">%null%</text>
+<text id="9740">Des plumes de corbeau de la brume. Elles peuvent être insérées dans une prothèse de shinobi pour devenir un outil de prothèse.
+
+La forêt d'Usui, tout au nord d'Ashina, abritaient de nombreux oiseaux de proie dont les corbeaux de la brume, bien que personne n'en ait jamais capturé un.
+Si même vous parveniez à en saisir un, il disparaîtrait, ne laissant que quelques plumes derrière lui.</text>
+<text id="9741">%null%</text>
+<text id="9742">%null%</text>
+<text id="9743">%null%</text>
+<text id="9744">%null%</text>
+<text id="9745">%null%</text>
+<text id="9746">%null%</text>
+<text id="9747">%null%</text>
+<text id="9748">%null%</text>
+<text id="9749">%null%</text>
+<text id="9750">Un antique sabre court, dont la lame est teintée de rouille bleue. Il peut être inséré dans une prothèse de shinobi pour devenir un outil de prothèse.
+
+Forgée par le clan Ashina pour repousser les démons inhumains qui avaient envahi Ashina en des temps oubliés, sa lame fut trempée dans un poison bleu capable de repousser les esprits.</text>
+<text id="9751">%null%</text>
+<text id="9752">%null%</text>
+<text id="9753">%null%</text>
+<text id="9754">%null%</text>
+<text id="9755">%null%</text>
+<text id="9756">%null%</text>
+<text id="9757">%null%</text>
+<text id="9758">%null%</text>
+<text id="9759">%null%</text>
+<text id="9760">Un éventail en fer fabriqué à l'étranger. Utilisable dans la prothèse de shinobi pour devenir un outil de prothèse.
+
+En l'utilisant, il est possible de dévier les flèches et même les balles.
+Cet éventail en fer se transmet depuis des générations parmi les assassins qui servent le temple Senpo. En raison de son poids, il n'est pas impossible que le prochain propriétaire décide de s'en débarrasser.</text>
+<text id="9761">%null%</text>
+<text id="9762">%null%</text>
+<text id="9763">%null%</text>
+<text id="9764">%null%</text>
+<text id="9765">%null%</text>
+<text id="9766">%null%</text>
+<text id="9767">%null%</text>
+<text id="9768">%null%</text>
+<text id="9769">%null%</text>
+<text id="9770">Un grand éventail fait de feuilles d'aralia rouges. Utilisable dans la prothèse de shinobi pour devenir un outil de prothèse.
+Son utilisation provoque un puissant souffle qui repousse ceux qui sont pris dedans.
+Ravissement divin par un éventail. Une fois, parfait, mais personne ne revient d'une deuxième capture. Si vous êtes ravi, rendez-vous au Mont Kongo. On accomplira des œuvres vertueuses au temple Senpo.</text>
+<text id="9771">%null%</text>
+<text id="9772">%null%</text>
+<text id="9773">%null%</text>
+<text id="9774">%null%</text>
+<text id="9775">%null%</text>
+<text id="9776">%null%</text>
+<text id="9777">%null%</text>
+<text id="9778">%null%</text>
+<text id="9779">%null%</text>
+<text id="9780">La corne de la célèbre lance qu'utilisait Gyobu Masataka Oniwa. La corne brisée peut être insérée dans une prothèse de shinobi pour devenir un outil de prothèse.
+Inverser la charge permet d'attirer les ennemis et de leur faire perdre leur armure.
+La corne fut malheureusement brisée durant la rébellion. Isshin loua sa puissance et offrit à Gyobu la lance en croix de Shuzen Tamura, un général ennemi.</text>
+<text id="9781">%null%</text>
+<text id="9782">%null%</text>
+<text id="9783">%null%</text>
+<text id="9784">%null%</text>
+<text id="9785">%null%</text>
+<text id="9786">%null%</text>
+<text id="9787">%null%</text>
+<text id="9788">%null%</text>
+<text id="9789">%null%</text>
+<text id="9790">Le doigt d'une jeune femme. Il peut être inséré dans une prothèse de shinobi pour devenir un outil de prothèse.
+
+Retrouvé dans le ventre du singe gardien, il a été partiellement digéré. La technique de shinobi du sifflet de doigt peut rendre les bêtes folles. Ce doigt servait déjà précédemment à cet usage, comme en témoigne le trou dans le doigt.</text>
+<text id="9791">Un antique anneau destiné à des doigts fins. Il permet de modifier l'outil de prothèse Sifflet de doigt. À l'intérieur de l'anneau, l'inscription est "Roi pêcheur".
+
+Porter cet anneau en utilisant le sifflet de doigt sert à émettre un son plus sombre, suffisamment mélancolique pour calmer temporairement une voix enragée.</text>
+<text id="9792">%null%</text>
+<text id="9793">%null%</text>
+<text id="9794">%null%</text>
+<text id="9795">%null%</text>
+<text id="9796">%null%</text>
+<text id="9797">%null%</text>
+<text id="9798">%null%</text>
+<text id="9799">%null%</text>
+<text id="9800">Un souvenir laissé par un autre.
+Concentrez-vous sur ces regrets ou
+ces obsessions à une idole du Sculpteur
+pour changer la forme de Loup.
+Cela n'affecte pas ses compétences.
+Celui-ci est relaté par un chant d'Ashina :
+"Champs de cadavres, montagnes de morts
+De la source du dragon le sang de notre pays
+Sort un dieu de feu, un loup rouge de ses Efforts."</text>
+<text id="9801">%null%</text>
+<text id="9802">%null%</text>
+<text id="9803">%null%</text>
+<text id="9804">%null%</text>
+<text id="9805">%null%</text>
+<text id="9806">%null%</text>
+<text id="9807">%null%</text>
+<text id="9808">%null%</text>
+<text id="9809">%null%</text>
+<text id="9810">Un souvenir laissé par un autre.
+Concentrez-vous sur ces regrets ou
+ces obsessions à une idole du Sculpteur
+pour changer la forme de Loup.
+Cela n'affecte pas ses compétences.
+
+Ce souvenir appartient à un ancien serviteur
+d'Ashina. Il accepta de perdre un bras
+et de prendre le nom de Sekijo ;
+une dette doit toujours être payée.</text>
+<text id="9811">%null%</text>
+<text id="9812">%null%</text>
+<text id="9813">%null%</text>
+<text id="9814">%null%</text>
+<text id="9815">%null%</text>
+<text id="9816">%null%</text>
+<text id="9817">%null%</text>
+<text id="9818">%null%</text>
+<text id="9819">%null%</text>
+<text id="9820">Un souvenir laissé par un autre. C'est peut-être un regret, ou même une obsession.
+
+En abritant son esprit à une idole du Sculpteur, Loup peut exprimer ces souvenirs en changeant de forme. Cela n'affecte pas ses compétences.
+Ce souvenir appartient au Tengu d'Ashina.
+Il est accompagné d'un désir puissant.
+Si l'on voit un rat, il faut le tuer.</text>
+<text id="9821">%null%</text>
+<text id="9822">%null%</text>
+<text id="9823">%null%</text>
+<text id="9824">%null%</text>
+<text id="9825">%null%</text>
+<text id="9826">%null%</text>
+<text id="9827">%null%</text>
+<text id="9828">%null%</text>
+<text id="9829">%null%</text>
+<text id="9830">Un souvenir de la forme originale de Loup.
+
+Concentrez-vous sur ce souvenir à une
+idole du Sculpteur pour rendre à Loup
+sa forme originale.
+
+Le forme originale de Loup est encore
+celle qui lui convient le mieux.</text>
+<text id="10000">Une écaille étincelante de la carpe au trésor.
+
+Pour n'importe qui, c'est une belle écaille.
+
+Mais pour ceux qui exaltent un certain "maître", il n'y a rien au monde de plus précieux que ces écailles. En conséquence, les garder peut valoir le coup.</text>
+<text id="11000">Lieu :
+Alentours d'Ashina</text>
+<text id="11001">%null%</text>
+<text id="11002">%null%</text>
+<text id="11003">%null%</text>
+<text id="11004">%null%</text>
+<text id="11005">%null%</text>
+<text id="11006">%null%</text>
+<text id="11007">%null%</text>
+<text id="11008">%null%</text>
+<text id="11009">%null%</text>
+<text id="11010">Lieu :
+Domaine Hirata</text>
+<text id="11011">%null%</text>
+<text id="11012">%null%</text>
+<text id="11013">%null%</text>
+<text id="11014">%null%</text>
+<text id="11015">%null%</text>
+<text id="11016">%null%</text>
+<text id="11017">%null%</text>
+<text id="11018">%null%</text>
+<text id="11019">%null%</text>
+<text id="11020">Lieu :
+Château Ashina</text>
+<text id="11021">%null%</text>
+<text id="11022">%null%</text>
+<text id="11023">%null%</text>
+<text id="11024">%null%</text>
+<text id="11025">%null%</text>
+<text id="11026">%null%</text>
+<text id="11027">%null%</text>
+<text id="11028">%null%</text>
+<text id="11029">%null%</text>
+<text id="11030">Lieu :
+Temple Senpo, Mont Kongo</text>
+<text id="11031">%null%</text>
+<text id="11032">%null%</text>
+<text id="11033">%null%</text>
+<text id="11034">%null%</text>
+<text id="11035">%null%</text>
+<text id="11036">%null%</text>
+<text id="11037">%null%</text>
+<text id="11038">%null%</text>
+<text id="11039">%null%</text>
+<text id="11040">Lieu :
+Passage de la Vallée engloutie</text>
+<text id="11041">%null%</text>
+<text id="11042">%null%</text>
+<text id="11043">%null%</text>
+<text id="11044">%null%</text>
+<text id="11045">%null%</text>
+<text id="11046">%null%</text>
+<text id="11047">%null%</text>
+<text id="11048">%null%</text>
+<text id="11049">%null%</text>
+<text id="11050">Lieu :
+Profondeurs d'Ashina</text>
+<text id="11051">%null%</text>
+<text id="11052">%null%</text>
+<text id="11053">%null%</text>
+<text id="11054">%null%</text>
+<text id="11055">%null%</text>
+<text id="11056">%null%</text>
+<text id="11057">%null%</text>
+<text id="11058">%null%</text>
+<text id="11059">%null%</text>
+<text id="11060">Lieu :
+Village de Mibu</text>
+<text id="11061">%null%</text>
+<text id="11062">%null%</text>
+<text id="11063">%null%</text>
+<text id="11064">%null%</text>
+<text id="11065">%null%</text>
+<text id="11066">%null%</text>
+<text id="11067">%null%</text>
+<text id="11068">%null%</text>
+<text id="11069">%null%</text>
+<text id="11070">Lieu :
+Palais de la fontaine</text>
+<text id="11071">%null%</text>
+<text id="11072">%null%</text>
+<text id="11073">%null%</text>
+<text id="11074">%null%</text>
+<text id="11075">%null%</text>
+<text id="11076">%null%</text>
+<text id="11077">%null%</text>
+<text id="11078">%null%</text>
+<text id="11079">%null%</text>
+<text id="11080">Lieu :
+Château Ashina</text>
+<text id="11081">%null%</text>
+<text id="11082">%null%</text>
+<text id="11083">%null%</text>
+<text id="11084">%null%</text>
+<text id="11085">%null%</text>
+<text id="11086">%null%</text>
+<text id="11087">%null%</text>
+<text id="11088">%null%</text>
+<text id="11089">%null%</text>
+<text id="11090">Lieu :
+Domaine Hirata</text>
+<text id="11091">%null%</text>
+<text id="11092">%null%</text>
+<text id="11093">%null%</text>
+<text id="11094">%null%</text>
+<text id="11095">%null%</text>
+<text id="11096">%null%</text>
+<text id="11097">%null%</text>
+<text id="11098">%null%</text>
+<text id="11099">%null%</text>
+<text id="11100">Lieu :
+Palais de la fontaine</text>
+<text id="11101">%null%</text>
+<text id="11102">%null%</text>
+<text id="11103">%null%</text>
+<text id="11104">%null%</text>
+<text id="11105">%null%</text>
+<text id="11106">%null%</text>
+<text id="11107">%null%</text>
+<text id="11108">%null%</text>
+<text id="11109">%null%</text>
+<text id="11110">Lieu :
+Château Ashina</text>
+<text id="11111">%null%</text>
+<text id="11112">%null%</text>
+<text id="11113">%null%</text>
+<text id="11114">%null%</text>
+<text id="11115">%null%</text>
+<text id="11116">%null%</text>
+<text id="11117">%null%</text>
+<text id="11118">%null%</text>
+<text id="11119">%null%</text>
+<text id="11120">Lieu :
+Château Ashina</text>
+<text id="11121">%null%</text>
+<text id="11122">%null%</text>
+<text id="11123">%null%</text>
+<text id="11124">%null%</text>
+<text id="11125">%null%</text>
+<text id="11126">%null%</text>
+<text id="11127">%null%</text>
+<text id="11128">%null%</text>
+<text id="11129">%null%</text>
+<text id="11130">Lieu :
+Réservoir d'Ashina</text>
+<text id="11131">%null%</text>
+<text id="11132">%null%</text>
+<text id="11133">%null%</text>
+<text id="11134">%null%</text>
+<text id="11135">%null%</text>
+<text id="11136">%null%</text>
+<text id="11137">%null%</text>
+<text id="11138">%null%</text>
+<text id="11139">%null%</text>
+<text id="11140">Lieu :
+Alentours d'Ashina</text>
+<text id="11141">%null%</text>
+<text id="11142">%null%</text>
+<text id="11143">%null%</text>
+<text id="11144">%null%</text>
+<text id="11145">%null%</text>
+<text id="11146">%null%</text>
+<text id="11147">%null%</text>
+<text id="11148">%null%</text>
+<text id="11149">%null%</text>
+<text id="11150">Lieu :
+Château Ashina</text>
+<text id="11151">%null%</text>
+<text id="11152">%null%</text>
+<text id="11153">%null%</text>
+<text id="11154">%null%</text>
+<text id="11155">%null%</text>
+<text id="11156">%null%</text>
+<text id="11157">%null%</text>
+<text id="11158">%null%</text>
+<text id="11159">%null%</text>
+<text id="11160">Lieu :
+Domaine Hirata</text>
+<text id="11161">%null%</text>
+<text id="11162">%null%</text>
+<text id="11163">%null%</text>
+<text id="11164">%null%</text>
+<text id="11165">%null%</text>
+<text id="11166">%null%</text>
+<text id="11167">%null%</text>
+<text id="11168">%null%</text>
+<text id="11169">%null%</text>
+<text id="11170">Lieu :
+Réservoir d'Ashina</text>
+<text id="11171">%null%</text>
+<text id="11172">%null%</text>
+<text id="11173">%null%</text>
+<text id="11174">%null%</text>
+<text id="11175">%null%</text>
+<text id="11176">%null%</text>
+<text id="11177">%null%</text>
+<text id="11178">%null%</text>
+<text id="11179">%null%</text>
+<text id="11180">Lieu :
+Réservoir d'Ashina</text>
+<text id="11500">???</text>
+<text id="110000">Lieu :</text>
+</entries>
+</fmg>

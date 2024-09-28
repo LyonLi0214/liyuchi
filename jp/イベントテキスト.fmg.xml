@@ -1,0 +1,4075 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">ああああああああああああああああああああいいいいい</text>
+<text id="2">%null%</text>
+<text id="3">%null%</text>
+<text id="4">%null%</text>
+<text id="5">%null%</text>
+<text id="6">%null%</text>
+<text id="7">%null%</text>
+<text id="8">%null%</text>
+<text id="9">%null%</text>
+<text id="10">ああああああああああああああああああああいいいいい
+ああああああああああああああああああああいいいいい
+ああああああああああああああああああああいいいいい
+ああああああああああああああああああああいいいいい</text>
+<text id="11">%null%</text>
+<text id="12">%null%</text>
+<text id="13">%null%</text>
+<text id="14">%null%</text>
+<text id="15">%null%</text>
+<text id="16">%null%</text>
+<text id="17">%null%</text>
+<text id="18">%null%</text>
+<text id="19">%null%</text>
+<text id="20">&lt;?kgiconKc@0?&gt;:歩行シフト/低速水泳シフト</text>
+<text id="21">N:\NTC\data\Tool\excel\Msg\Item Text(Weapon).xlsm</text>
+<text id="22">&lt;?kgiconKc@2?&gt;:走行前/（水上・水中）水泳　後</text>
+<text id="23">&lt;?kgiconKc@3?&gt;:走行前/（水上・水中）水泳　左</text>
+<text id="24">&lt;?kgiconKc@4?&gt;:走行前/（水上・水中）水泳　右</text>
+<text id="25">&lt;?kgiconKc@5?&gt;:ダッシュ/裏回り/（水上・水中）潜る</text>
+<text id="26">&lt;?kgiconKc@6?&gt;:ジャンプ/蹴り/（水中）浮上</text>
+<text id="27">&lt;?kgiconKc@7?&gt;:しゃがみ/しゃがみ解除</text>
+<text id="28">&lt;?kgiconKc@8?&gt;:カメラ上/ロック対象変更　上</text>
+<text id="29">&lt;?kgiconKc@9?&gt;:カメラ下/ロック対象変更　下</text>
+<text id="30">&lt;?kgiconKc@10?&gt;:カメラ左/ロック対象変更　左</text>
+<text id="31">&lt;?kgiconKc@11?&gt;:カメラ右/ロック対象変更　右</text>
+<text id="32">&lt;?kgiconKc@12?&gt;:カメラリセット/ロックオン</text>
+<text id="33">&lt;?kgiconKc@13?&gt;:道具切替</text>
+<text id="34">&lt;?kgiconKc@14?&gt;:道具切替（逆送り）</text>
+<text id="35">&lt;?kgiconKc@15?&gt;:義手忍具切替</text>
+<text id="36">&lt;?kgiconKc@16?&gt;:通常攻撃/忍殺</text>
+<text id="37">&lt;?kgiconKc@17?&gt;:義手忍具アクション/（水中）急加速</text>
+<text id="38">&lt;?kgiconKc@18?&gt;:ガード</text>
+<text id="39">&lt;?kgiconKc@19?&gt;:ワイヤー</text>
+<text id="40">&lt;?kgiconKc@20?&gt;:会話/調べる/壁張り付き/ぶら下がり/空中ぶら下がり掴み</text>
+<text id="41">&lt;?kgiconKc@21?&gt;:道具使用/ドロップ引き寄せ</text>
+<text id="42">&lt;?kgiconKc@22?&gt;:盗み聞き</text>
+<text id="43">&lt;?kgiconKc@16?&gt;:復活の術発動</text>
+<text id="44">&lt;?kgiconKc@18?&gt;:復活の術中断</text>
+<text id="45">&lt;?kgiconKc@25?&gt;:会話送り</text>
+<text id="46">&lt;?kgiconKc@26?&gt;:会話中断</text>
+<text id="47">&lt;?kgiconKc@27?&gt;:メニュー開く</text>
+<text id="48">&lt;?kgiconKc@28?&gt;:メニュー閉じる</text>
+<text id="49">&lt;?kgiconKc@29?&gt;:カーソル移動　上</text>
+<text id="50">&lt;?kgiconKc@30?&gt;:カーソル移動　下</text>
+<text id="51">&lt;?kgiconKc@31?&gt;:カーソル移動　右</text>
+<text id="52">&lt;?kgiconKc@32?&gt;:カーソル移動　左</text>
+<text id="53">&lt;?kgiconKc@33?&gt;:決定</text>
+<text id="54">&lt;?kgiconKc@34?&gt;:キャンセル</text>
+<text id="55">&lt;?kgiconKc@35?&gt;:メニュータブの切り替え　左</text>
+<text id="56">&lt;?kgiconKc@36?&gt;:メニュータブの切り替え　右</text>
+<text id="57">&lt;?kgiconKc@37?&gt;:ページ送り　上</text>
+<text id="58">&lt;?kgiconKc@38?&gt;:ページ送り　下</text>
+<text id="59">&lt;?kgiconKc@39?&gt;:ウィンドウスクロール　上</text>
+<text id="60">&lt;?kgiconKc@40?&gt;:ウィンドウスクロール　下</text>
+<text id="61">&lt;?kgiconKc@41?&gt;:ソート</text>
+<text id="62">&lt;?kgiconKc@42?&gt;:補助メニュー表示</text>
+<text id="63">%null%</text>
+<text id="64">%null%</text>
+<text id="65">%null%</text>
+<text id="66">%null%</text>
+<text id="67">%null%</text>
+<text id="68">%null%</text>
+<text id="69">%null%</text>
+<text id="70">&lt;?kgMove?&gt;:移動タグ</text>
+<text id="71">&lt;?kgControlCamera?&gt;:カメラ操作タグ</text>
+<text id="72">&lt;?kgToggleItems?&gt;:道具切替タグ</text>
+<text id="73">%null%</text>
+<text id="74">%null%</text>
+<text id="75">%null%</text>
+<text id="76">%null%</text>
+<text id="77">%null%</text>
+<text id="78">%null%</text>
+<text id="79">%null%</text>
+<text id="80">&lt;?kgicon@2201?&gt;</text>
+<text id="81">&lt;?kgicon@2202?&gt;</text>
+<text id="82">&lt;?kgicon@2203?&gt;</text>
+<text id="83">&lt;?kgicon@2205?&gt;</text>
+<text id="2290">&lt;?kgicon@2290?&gt;</text>
+<text id="2291">&lt;?kgicon@2291?&gt;</text>
+<text id="2292">&lt;?kgicon@2292?&gt;</text>
+<text id="2293">&lt;?kgicon@2293?&gt;</text>
+<text id="2294">&lt;?kgicon@2294?&gt;</text>
+<text id="2295">&lt;?kgicon@2295?&gt;</text>
+<text id="2296">&lt;?kgicon@2296?&gt;</text>
+<text id="2297">&lt;?kgicon@2297?&gt;</text>
+<text id="2298">&lt;?kgicon@2298?&gt;</text>
+<text id="2299">%null%</text>
+<text id="2300">&lt;?kgicon@2300?&gt;</text>
+<text id="2301">&lt;?kgicon@2301?&gt;</text>
+<text id="2302">%null%</text>
+<text id="2303">%null%</text>
+<text id="2304">%null%</text>
+<text id="2305">%null%</text>
+<text id="2306">%null%</text>
+<text id="2307">%null%</text>
+<text id="2308">%null%</text>
+<text id="2309">%null%</text>
+<text id="2310">&lt;?kgicon@2310?&gt;</text>
+<text id="2311">&lt;?kgicon@2311?&gt;</text>
+<text id="2312">&lt;?kgicon@2312?&gt;</text>
+<text id="2313">%null%</text>
+<text id="2314">%null%</text>
+<text id="2315">%null%</text>
+<text id="2316">%null%</text>
+<text id="2317">%null%</text>
+<text id="2318">%null%</text>
+<text id="2319">%null%</text>
+<text id="2320">&lt;?kgicon@2320?&gt;</text>
+<text id="2321">&lt;?kgicon@2321?&gt;</text>
+<text id="2322">&lt;?kgicon@2322?&gt;</text>
+<text id="2323">&lt;?kgicon@2323?&gt;</text>
+<text id="2324">&lt;?kgicon@2324?&gt;</text>
+<text id="2400">&lt;?kgicon@2400?&gt;</text>
+<text id="2401">&lt;?kgicon@2401?&gt;</text>
+<text id="2402">&lt;?kgicon@2402?&gt;</text>
+<text id="2403">&lt;?kgicon@2403?&gt;</text>
+<text id="2404">&lt;?kgicon@2404?&gt;</text>
+<text id="2405">&lt;?kgicon@2405?&gt;</text>
+<text id="2406">&lt;?kgicon@2406?&gt;</text>
+<text id="2407">&lt;?kgicon@2407?&gt;</text>
+<text id="2408">&lt;?kgicon@2408?&gt;</text>
+<text id="2409">&lt;?kgicon@2409?&gt;</text>
+<text id="2410">&lt;?kgicon@2410?&gt;</text>
+<text id="2411">&lt;?kgicon@2411?&gt;</text>
+<text id="2412">&lt;?kgicon@2412?&gt;</text>
+<text id="2413">&lt;?kgicon@2413?&gt;</text>
+<text id="2414">&lt;?kgicon@2414?&gt;</text>
+<text id="2415">&lt;?kgicon@2415?&gt;</text>
+<text id="2416">&lt;?kgicon@2416?&gt;</text>
+<text id="2417">&lt;?kgicon@2417?&gt;</text>
+<text id="2418">&lt;?kgicon@2418?&gt;</text>
+<text id="2419">&lt;?kgicon@2419?&gt;</text>
+<text id="2420">&lt;?kgicon@2420?&gt;</text>
+<text id="2421">&lt;?kgicon@2421?&gt;</text>
+<text id="2422">&lt;?kgicon@2422?&gt;</text>
+<text id="2450">&lt;?kgicon@2450?&gt;</text>
+<text id="2451">&lt;?kgicon@2451?&gt;</text>
+<text id="2452">&lt;?kgicon@2452?&gt;</text>
+<text id="2453">&lt;?kgicon@2453?&gt;</text>
+<text id="2500">&lt;?kgicon@2500?&gt;</text>
+<text id="2501">&lt;?kgicon@2501?&gt;</text>
+<text id="2502">&lt;?kgicon@2502?&gt;</text>
+<text id="2503">&lt;?kgicon@2503?&gt;</text>
+<text id="2504">&lt;?kgicon@2504?&gt;</text>
+<text id="2505">&lt;?kgicon@2505?&gt;</text>
+<text id="2506">&lt;?kgicon@2506?&gt;</text>
+<text id="2507">&lt;?kgicon@2507?&gt;</text>
+<text id="2508">&lt;?kgicon@2508?&gt;</text>
+<text id="2509">&lt;?kgicon@2509?&gt;</text>
+<text id="2510">&lt;?kgicon@2510?&gt;</text>
+<text id="2511">&lt;?kgicon@2511?&gt;</text>
+<text id="2512">&lt;?kgicon@2512?&gt;</text>
+<text id="2513">&lt;?kgicon@2513?&gt;</text>
+<text id="2514">&lt;?kgicon@2514?&gt;</text>
+<text id="2515">&lt;?kgicon@2515?&gt;</text>
+<text id="2516">&lt;?kgicon@2516?&gt;</text>
+<text id="2517">&lt;?kgicon@2517?&gt;</text>
+<text id="2518">&lt;?kgicon@2518?&gt;</text>
+<text id="2519">&lt;?kgicon@2519?&gt;</text>
+<text id="2520">&lt;?kgicon@2520?&gt;</text>
+<text id="2521">&lt;?kgicon@2521?&gt;</text>
+<text id="2522">&lt;?kgicon@2522?&gt;</text>
+<text id="2523">&lt;?kgicon@2523?&gt;</text>
+<text id="2524">&lt;?kgicon@2524?&gt;</text>
+<text id="2525">&lt;?kgicon@2525?&gt;</text>
+<text id="2526">&lt;?kgicon@2526?&gt;</text>
+<text id="2527">&lt;?kgicon@2527?&gt;</text>
+<text id="2528">&lt;?kgicon@2528?&gt;</text>
+<text id="2529">&lt;?kgicon@2529?&gt;</text>
+<text id="2530">&lt;?kgicon@2530?&gt;</text>
+<text id="2531">&lt;?kgicon@2531?&gt;</text>
+<text id="2532">&lt;?kgicon@2532?&gt;</text>
+<text id="2533">&lt;?kgicon@2533?&gt;</text>
+<text id="2534">&lt;?kgicon@2534?&gt;</text>
+<text id="2535">&lt;?kgicon@2535?&gt;</text>
+<text id="2610">&lt;?kgicon@2610?&gt;</text>
+<text id="2611">&lt;?kgicon@2611?&gt;</text>
+<text id="2612">&lt;?kgicon@2612?&gt;</text>
+<text id="2613">&lt;?kgicon@2613?&gt;</text>
+<text id="2614">&lt;?kgicon@2614?&gt;</text>
+<text id="2615">&lt;?kgicon@2615?&gt;</text>
+<text id="2616">&lt;?kgicon@2616?&gt;</text>
+<text id="2617">&lt;?kgicon@2617?&gt;</text>
+<text id="2618">&lt;?kgicon@2618?&gt;</text>
+<text id="2619">&lt;?kgicon@2619?&gt;</text>
+<text id="2620">&lt;?kgicon@2620?&gt;</text>
+<text id="2621">&lt;?kgicon@2621?&gt;</text>
+<text id="2622">&lt;?kgicon@2622?&gt;</text>
+<text id="2623">&lt;?kgicon@2623?&gt;</text>
+<text id="2624">&lt;?kgicon@2624?&gt;</text>
+<text id="2625">&lt;?kgicon@2625?&gt;</text>
+<text id="70000">手裏剣（手裏剣打ち後）</text>
+<text id="71000">爆竹（ばらまき後）</text>
+<text id="78000">仕込み槍（突き後/薙ぎ払い後）</text>
+<text id="83000">仕込み斧（叩きつけ後）</text>
+<text id="84000">霧がらす（霧がらす発動後）</text>
+<text id="88000">仕込み槍（引き込み後）</text>
+<text id="96000">仕込み傘（ガード中）
+　仕込み傘は
+　敵の飛び道具を受けることで力を溜め、
+　放つことができる </text>
+<text id="99000">指笛（指笛後）
+　指笛は吹いた後に放つことで、
+　狙った位置に音を発生させることができる </text>
+<text id="102000">火吹き筒（火吹き後）</text>
+<text id="107000">神隠し（渦風集め後）</text>
+<text id="10010103">アイテムを拾う</text>
+<text id="10010104">%null%</text>
+<text id="10010105">%null%</text>
+<text id="10010106">%null%</text>
+<text id="10010107">アイテムを拾う</text>
+<text id="10010108">%null%</text>
+<text id="10010109">%null%</text>
+<text id="10010110">OK</text>
+<text id="10010111">%null%</text>
+<text id="10010112">%null%</text>
+<text id="10010113">%null%</text>
+<text id="10010114">%null%</text>
+<text id="10010115">%null%</text>
+<text id="10010116">%null%</text>
+<text id="10010117">%null%</text>
+<text id="10010118">%null%</text>
+<text id="10010119">%null%</text>
+<text id="10010120">調べる</text>
+<text id="10010121">賽銭箱を調べる</text>
+<text id="10010122">幻廊へ向かう</text>
+<text id="10010123">幻廊を去る</text>
+<text id="10010124">%null%</text>
+<text id="10010125">%null%</text>
+<text id="10010126">%null%</text>
+<text id="10010127">%null%</text>
+<text id="10010128">%null%</text>
+<text id="10010129">%null%</text>
+<text id="10010130">拝んで、祈る</text>
+<text id="10010131">拝んで、祈る</text>
+<text id="10010132">%null%</text>
+<text id="10010133">%null%</text>
+<text id="10010134">%null%</text>
+<text id="10010135">%null%</text>
+<text id="10010136">%null%</text>
+<text id="10010137">%null%</text>
+<text id="10010138">%null%</text>
+<text id="10010139">%null%</text>
+<text id="10010140">読む</text>
+<text id="10010141">%null%</text>
+<text id="10010142">%null%</text>
+<text id="10010143">%null%</text>
+<text id="10010144">%null%</text>
+<text id="10010145">%null%</text>
+<text id="10010146">%null%</text>
+<text id="10010147">%null%</text>
+<text id="10010148">%null%</text>
+<text id="10010149">%null%</text>
+<text id="10010150">&lt;?gdsparam@9402?&gt;を使いました</text>
+<text id="10010151">&lt;?gdsparam@9403?&gt;を使いました</text>
+<text id="10010152">&lt;?gdsparam@9404?&gt;を使いました</text>
+<text id="10010153">&lt;?gdsparam@9405?&gt;を使いました</text>
+<text id="10010154">%null%</text>
+<text id="10010155">%null%</text>
+<text id="10010156">%null%</text>
+<text id="10010157">%null%</text>
+<text id="10010158">%null%</text>
+<text id="10010159">%null%</text>
+<text id="10010160">%null%</text>
+<text id="10010161">こちらからは開かない</text>
+<text id="10010162">鍵がかかっている</text>
+<text id="10010163">固く閉ざされている</text>
+<text id="10010164">仕掛けが動かない</text>
+<text id="10010182">鬼仏と対座する</text>
+<text id="10010183">鬼仏と対座する</text>
+<text id="10010184">%null%</text>
+<text id="10010185">%null%</text>
+<text id="10010186">%null%</text>
+<text id="10010187">%null%</text>
+<text id="10010188">%null%</text>
+<text id="10010189">%null%</text>
+<text id="10010190">御子に跪く</text>
+<text id="10010191">残影に触れる</text>
+<text id="10010192">%null%</text>
+<text id="10010193">%null%</text>
+<text id="10010194">%null%</text>
+<text id="10010195">%null%</text>
+<text id="10010196">%null%</text>
+<text id="10010197">%null%</text>
+<text id="10010198">%null%</text>
+<text id="10010199">%null%</text>
+<text id="10010200">話しかける</text>
+<text id="10010250">盗み聞く</text>
+<text id="10010251">%null%</text>
+<text id="10010252">%null%</text>
+<text id="10010253">%null%</text>
+<text id="10010254">%null%</text>
+<text id="10010255">%null%</text>
+<text id="10010256">%null%</text>
+<text id="10010257">%null%</text>
+<text id="10010258">%null%</text>
+<text id="10010259">%null%</text>
+<text id="10010260">残影に耳を傾ける</text>
+<text id="10010310">&lt;?kgiconKc@20?&gt;:張り付く</text>
+<text id="10010311">&lt;?kgiconKc@20?&gt;:離れる</text>
+<text id="10010312">%null%</text>
+<text id="10010313">%null%</text>
+<text id="10010314">%null%</text>
+<text id="10010315">%null%</text>
+<text id="10010316">%null%</text>
+<text id="10010317">%null%</text>
+<text id="10010318">%null%</text>
+<text id="10010319">%null%</text>
+<text id="10010320">&lt;?kgiconKc@20?&gt;:ぶら下がる</text>
+<text id="10010321">&lt;?kgiconKc@20?&gt;:よじ登る</text>
+<text id="10010322">&lt;?kgiconKc@5?&gt;:降りる</text>
+<text id="10010323">%null%</text>
+<text id="10010324">%null%</text>
+<text id="10010325">%null%</text>
+<text id="10010326">%null%</text>
+<text id="10010327">%null%</text>
+<text id="10010328">%null%</text>
+<text id="10010329">%null%</text>
+<text id="10010330">&lt;?kgiconKc@17?&gt;:潜る</text>
+<text id="10010331">%null%</text>
+<text id="10010332">%null%</text>
+<text id="10010333">%null%</text>
+<text id="10010334">%null%</text>
+<text id="10010335">%null%</text>
+<text id="10010336">%null%</text>
+<text id="10010337">%null%</text>
+<text id="10010338">%null%</text>
+<text id="10010339">%null%</text>
+<text id="10010340">&lt;?kgiconKc@5?&gt;:水中加速</text>
+<text id="10010341">&lt;?kgiconKc@19?&gt;:浮上</text>
+<text id="10010342">&lt;?kgiconKc@17?&gt;:潜水</text>
+<text id="10010343">&lt;?kgiconKc@19?&gt;:浮上</text>
+<text id="10010390">&lt;?kgiconKc@16?&gt;:回生する</text>
+<text id="10010391">&lt;?kgiconKc@18?&gt;:そのまま死ぬ</text>
+<text id="10010392">%null%</text>
+<text id="10010393">%null%</text>
+<text id="10010394">%null%</text>
+<text id="10010395">%null%</text>
+<text id="10010396">%null%</text>
+<text id="10010397">%null%</text>
+<text id="10010398">%null%</text>
+<text id="10010399">%null%</text>
+<text id="10010400">開く</text>
+<text id="10010401">%null%</text>
+<text id="10010402">%null%</text>
+<text id="10010403">%null%</text>
+<text id="10010404">%null%</text>
+<text id="10010405">%null%</text>
+<text id="10010406">%null%</text>
+<text id="10010407">%null%</text>
+<text id="10010408">%null%</text>
+<text id="10010409">%null%</text>
+<text id="10010410">畳をずらす</text>
+<text id="10010411">%null%</text>
+<text id="10010412">%null%</text>
+<text id="10010413">%null%</text>
+<text id="10010414">%null%</text>
+<text id="10010415">%null%</text>
+<text id="10010416">%null%</text>
+<text id="10010417">%null%</text>
+<text id="10010418">%null%</text>
+<text id="10010419">%null%</text>
+<text id="10010420">宝櫃を開ける</text>
+<text id="10010500">絡繰りを動かす</text>
+<text id="10010501">絡繰りを動かす</text>
+<text id="10010502">%null%</text>
+<text id="10010503">%null%</text>
+<text id="10010504">%null%</text>
+<text id="10010505">%null%</text>
+<text id="10010506">%null%</text>
+<text id="10010507">%null%</text>
+<text id="10010508">%null%</text>
+<text id="10010509">%null%</text>
+<text id="10010510">鐘を撞く</text>
+<text id="10010511">鐘を鳴らす</text>
+<text id="10010512">%null%</text>
+<text id="10010513">%null%</text>
+<text id="10010514">%null%</text>
+<text id="10010515">%null%</text>
+<text id="10010516">%null%</text>
+<text id="10010517">%null%</text>
+<text id="10010518">%null%</text>
+<text id="10010519">%null%</text>
+<text id="10010520">輿に入る</text>
+<text id="10010521">輿から出る</text>
+<text id="10010522">%null%</text>
+<text id="10010523">%null%</text>
+<text id="10010524">%null%</text>
+<text id="10010525">%null%</text>
+<text id="10010526">%null%</text>
+<text id="10010527">%null%</text>
+<text id="10010528">%null%</text>
+<text id="10010529">%null%</text>
+<text id="10010530">凧を揚げる</text>
+<text id="10010531">手を放す</text>
+<text id="10010532">%null%</text>
+<text id="10010533">%null%</text>
+<text id="10010534">%null%</text>
+<text id="10010535">%null%</text>
+<text id="10010536">%null%</text>
+<text id="10010537">%null%</text>
+<text id="10010538">%null%</text>
+<text id="10010539">%null%</text>
+<text id="10010540">どんでん返す</text>
+<text id="10010541">どんでん返す</text>
+<text id="10010542">忍びの抜け道は閉ざされている</text>
+<text id="10010543">%null%</text>
+<text id="10010544">%null%</text>
+<text id="10010545">%null%</text>
+<text id="10010546">%null%</text>
+<text id="10010547">%null%</text>
+<text id="10010548">%null%</text>
+<text id="10010549">%null%</text>
+<text id="10010550">輿入れする</text>
+<text id="10010551">源の宮へ向かう</text>
+<text id="10010552">源の宮へ向かわない</text>
+<text id="10010553">%null%</text>
+<text id="10010554">%null%</text>
+<text id="10010555">%null%</text>
+<text id="10010556">%null%</text>
+<text id="10010557">%null%</text>
+<text id="10010558">%null%</text>
+<text id="10010559">%null%</text>
+<text id="10010560">拝んで、祈る</text>
+<text id="10010561">巫女は静かに眠っている</text>
+<text id="10010562">%null%</text>
+<text id="10010563">%null%</text>
+<text id="10010564">%null%</text>
+<text id="10010565">%null%</text>
+<text id="10010566">%null%</text>
+<text id="10010567">%null%</text>
+<text id="10010568">%null%</text>
+<text id="10010569">%null%</text>
+<text id="10010570">&lt;?gdsparam@2503?&gt;を捧げる</text>
+<text id="10010571">捧げものを持っていない</text>
+<text id="10010572">%null%</text>
+<text id="10010573">%null%</text>
+<text id="10010574">%null%</text>
+<text id="10010575">%null%</text>
+<text id="10010576">%null%</text>
+<text id="10010577">%null%</text>
+<text id="10010578">%null%</text>
+<text id="10010579">%null%</text>
+<text id="10010580">香炉を調べる</text>
+<text id="10010581">源の香を焚く</text>
+<text id="10010582">%null%</text>
+<text id="10010583">%null%</text>
+<text id="10010584">%null%</text>
+<text id="10010585">%null%</text>
+<text id="10010586">%null%</text>
+<text id="10010587">%null%</text>
+<text id="10010588">%null%</text>
+<text id="10010589">%null%</text>
+<text id="10010590">修練を止める</text>
+<text id="10010591">%null%</text>
+<text id="10010592">%null%</text>
+<text id="10010593">%null%</text>
+<text id="10010594">%null%</text>
+<text id="10010595">%null%</text>
+<text id="10010596">%null%</text>
+<text id="10010597">%null%</text>
+<text id="10010598">%null%</text>
+<text id="10010599">%null%</text>
+<text id="10010600">&lt;?kgiconKc@44?&gt;:記録中断</text>
+<text id="10010700">この先が抜け穴のようだ
+葦の葉笛を吹いて、御子を呼びますか？</text>
+<text id="10010713">ゲームのインストールが完了していないため、
+この先へ進むことはできません</text>
+<text id="10010714">%null%</text>
+<text id="10010715">%null%</text>
+<text id="10010716">%null%</text>
+<text id="10010717">%null%</text>
+<text id="10010718">%null%</text>
+<text id="10010719">%null%</text>
+<text id="10010720">戻る場所を選択してください</text>
+<text id="10010768">&lt;?null?&gt;</text>
+<text id="10010769">%null%</text>
+<text id="10010770">&lt;?null?&gt;</text>
+<text id="10010771">&lt;?null?&gt;</text>
+<text id="10010772">&lt;?null?&gt;</text>
+<text id="10010773">%null%</text>
+<text id="10010774">%null%</text>
+<text id="10010775">%null%</text>
+<text id="10010776">&lt;?null?&gt;</text>
+<text id="10010777">&lt;?null?&gt;</text>
+<text id="10010778">%null%</text>
+<text id="10010779">%null%</text>
+<text id="10010780">回復忍具の選択には休息が必要です
+休息しますか？</text>
+<text id="10010781">%null%</text>
+<text id="10010782">%null%</text>
+<text id="10010783">%null%</text>
+<text id="10010784">%null%</text>
+<text id="10010785">%null%</text>
+<text id="10010786">%null%</text>
+<text id="10010787">%null%</text>
+<text id="10010788">%null%</text>
+<text id="10010789">%null%</text>
+<text id="10010790">危うい！</text>
+<text id="10010791">%null%</text>
+<text id="10010792">%null%</text>
+<text id="10010793">%null%</text>
+<text id="10010794">%null%</text>
+<text id="10010795">%null%</text>
+<text id="10010796">%null%</text>
+<text id="10010797">%null%</text>
+<text id="10010798">%null%</text>
+<text id="10010799">%null%</text>
+<text id="10010800">今は流れ着いたアイテムが無いようだ</text>
+<text id="10010900">SHINOBI EXECUTION</text>
+<text id="10010901">SCULPTOR'S IDOL FOUND</text>
+<text id="10010902">DEATH</text>
+<text id="10010903">IMMORTALITY SEVERED</text>
+<text id="10010950">GRACIOUS GIFT OF TEARS</text>
+<text id="10010951">SINISTER BURDEN</text>
+<text id="10010952">BURDEN DISPELLED</text>
+<text id="10010953">UNSEEN AID</text>
+<text id="10010954">DRAGONROT HEALED</text>
+<text id="10010955">INNER REFLECTION CONQUERED</text>
+<text id="10011951">荒れ寺の鬼仏</text>
+<text id="10011952">最後に対座した鬼仏</text>
+<text id="10020000">&lt;?gdsparam@2310?&gt;と義手忍具</text>
+<text id="10020001">「&lt;?gdsparam@2310?&gt;」は、忍者の使う特殊な義手
+
+&lt;?gdsparam@2310?&gt;には、さまざまな「義手忍具」を装備して使うことができる
+
+&lt;?kgiconKc@27?&gt;で装備メニューを開き、義手忍具を装備する</text>
+<text id="10020002">%null%</text>
+<text id="10020003">%null%</text>
+<text id="10020004">%null%</text>
+<text id="10020005">%null%</text>
+<text id="10020006">%null%</text>
+<text id="10020007">%null%</text>
+<text id="10020008">%null%</text>
+<text id="10020009">%null%</text>
+<text id="10020010">床下移動</text>
+<text id="10020011">しゃがんでいれば、
+床下のような狭い場所にも入り込める</text>
+<text id="10020012">%null%</text>
+<text id="10020013">%null%</text>
+<text id="10020014">%null%</text>
+<text id="10020015">%null%</text>
+<text id="10020016">%null%</text>
+<text id="10020017">%null%</text>
+<text id="10020018">%null%</text>
+<text id="10020019">%null%</text>
+<text id="10020020">空中鉤縄</text>
+<text id="10020021">&lt;?kgiconKc@6?&gt;→&lt;?kgiconKc@19?&gt;:空中鉤縄</text>
+<text id="10020022">%null%</text>
+<text id="10020023">%null%</text>
+<text id="10020024">%null%</text>
+<text id="10020025">%null%</text>
+<text id="10020026">%null%</text>
+<text id="10020027">%null%</text>
+<text id="10020028">%null%</text>
+<text id="10020029">%null%</text>
+<text id="10020030">鬼仏</text>
+<text id="10020031">鬼仏の前で&lt;?kgiconKc@20?&gt;:鬼仏を拝む
+
+鬼仏を拝むと、休息することができる
+リトライ時は、最後に拝んだ鬼仏から再開される</text>
+<text id="10020032">%null%</text>
+<text id="10020033">%null%</text>
+<text id="10020034">%null%</text>
+<text id="10020035">%null%</text>
+<text id="10020036">%null%</text>
+<text id="10020037">%null%</text>
+<text id="10020038">%null%</text>
+<text id="10020039">%null%</text>
+<text id="10020040">壁蹴りぶら下がり</text>
+<text id="10020041">ジャンプ中に壁際で&lt;?kgiconKc@6?&gt;:壁蹴り
+へりで&lt;?kgiconKc@20?&gt;:ぶら下がり</text>
+<text id="10020042">%null%</text>
+<text id="10020043">%null%</text>
+<text id="10020044">%null%</text>
+<text id="10020045">%null%</text>
+<text id="10020046">%null%</text>
+<text id="10020047">%null%</text>
+<text id="10020048">%null%</text>
+<text id="10020049">%null%</text>
+<text id="10020050">戦闘</text>
+<text id="10020051">&lt;?kgiconKc@12?&gt;:ターゲット固定/解除
+&lt;?kgiconKc@16?&gt;:攻撃
+&lt;?kgiconKc@18?&gt;:ガード
+敵の攻撃に合わせて&lt;?kgiconKc@18?&gt;:弾き</text>
+<text id="10020052">%null%</text>
+<text id="10020053">%null%</text>
+<text id="10020054">%null%</text>
+<text id="10020055">%null%</text>
+<text id="10020056">%null%</text>
+<text id="10020057">%null%</text>
+<text id="10020058">%null%</text>
+<text id="10020059">%null%</text>
+<text id="10020060">連続壁蹴り</text>
+<text id="10020061">足がかりのある壁で&lt;?kgiconKc@6?&gt;を連続入力:連続壁蹴り</text>
+<text id="10020080">&lt;?gdsparam@1010?&gt;</text>
+<text id="10020081">忍殺忍術は
+赤い形代を消費して使用する</text>
+<text id="10020082">%null%</text>
+<text id="10020083">%null%</text>
+<text id="10020084">%null%</text>
+<text id="10020085">%null%</text>
+<text id="10020086">%null%</text>
+<text id="10020087">%null%</text>
+<text id="10020088">%null%</text>
+<text id="10020089">%null%</text>
+<text id="10020090">ジャンプぶら下がり</text>
+<text id="10020091">&lt;?kgiconKc@6?&gt;:ジャンプ
+へりで&lt;?kgiconKc@20?&gt;:ぶら下がり</text>
+<text id="10020120">対空忍殺</text>
+<text id="10020121">跳びあがった敵に向かって&lt;?kgiconKc@6?&gt;:ジャンプ
+赤い印が出た時に&lt;?kgiconKc@16?&gt;:対空忍殺</text>
+<text id="10020250">水中の操作</text>
+<text id="10020251">&lt;?kgiconKc@17?&gt;:潜水
+&lt;?kgiconKc@19?&gt;:浮上
+&lt;?kgMove?&gt;で移動しながら&lt;?kgiconKc@5?&gt;:水中加速</text>
+<text id="10020252">%null%</text>
+<text id="10020253">%null%</text>
+<text id="10020254">%null%</text>
+<text id="10020255">%null%</text>
+<text id="10020256">%null%</text>
+<text id="10020257">%null%</text>
+<text id="10020258">%null%</text>
+<text id="10020259">%null%</text>
+<text id="10020260">落下忍殺</text>
+<text id="10020261">&lt;?kgiconKc@12?&gt;:ターゲット固定
+&lt;?kgiconKc@6?&gt;:ジャンプ
+敵の頭上で
+赤い印が出た時に&lt;?kgiconKc@16?&gt;:落下忍殺</text>
+<text id="10020262">%null%</text>
+<text id="10020263">%null%</text>
+<text id="10020264">%null%</text>
+<text id="10020265">%null%</text>
+<text id="10020266">%null%</text>
+<text id="10020267">%null%</text>
+<text id="10020268">%null%</text>
+<text id="10020269">%null%</text>
+<text id="10020270">隠密</text>
+<text id="10020271">今は刀を持っていない
+隠密で敵を避け、月見櫓を目指すと良いだろう</text>
+<text id="10020272">%null%</text>
+<text id="10020273">%null%</text>
+<text id="10020274">%null%</text>
+<text id="10020275">%null%</text>
+<text id="10020276">%null%</text>
+<text id="10020277">%null%</text>
+<text id="10020278">%null%</text>
+<text id="10020279">%null%</text>
+<text id="10020280">飛び道具への対処</text>
+<text id="10020281">銃弾や、投擲武器も刀で弾くことができる</text>
+<text id="10020282">%null%</text>
+<text id="10020283">%null%</text>
+<text id="10020284">%null%</text>
+<text id="10020285">%null%</text>
+<text id="10020286">%null%</text>
+<text id="10020287">%null%</text>
+<text id="10020288">%null%</text>
+<text id="10020289">%null%</text>
+<text id="10020290">雷返し</text>
+<text id="10020291">空中で雷攻撃を受け、着地前に&lt;?kgiconKc@16?&gt;:雷返し</text>
+<text id="10020292">%null%</text>
+<text id="10020293">%null%</text>
+<text id="10020294">%null%</text>
+<text id="10020295">%null%</text>
+<text id="10020296">%null%</text>
+<text id="10020297">%null%</text>
+<text id="10020298">%null%</text>
+<text id="10020299">%null%</text>
+<text id="10020300">咳の音</text>
+<text id="10020301">竜咳に罹った者が増えて
+「咳の音」を多く所持すればするほど、
+冥助確率が低くなる</text>
+<text id="10020302">%null%</text>
+<text id="10020303">%null%</text>
+<text id="10020304">%null%</text>
+<text id="10020305">%null%</text>
+<text id="10020306">%null%</text>
+<text id="10020307">%null%</text>
+<text id="10020308">%null%</text>
+<text id="10020309">%null%</text>
+<text id="10020310">記憶の中の出来事</text>
+<text id="10020311">再戦・連戦から元の世界に戻ると、
+消費したアイテムと形代は、元の状態に戻る
+
+記憶の中ならば、
+惜しみなく使うのが良いだろう</text>
+<text id="10020840">剣戟実践（初級）</text>
+<text id="10020841">覚えた事を生かし、敵を倒すべし</text>
+<text id="10021000">&lt;?kgControlCamera?&gt;:視点移動</text>
+<text id="10021001">%null%</text>
+<text id="10021002">%null%</text>
+<text id="10021003">%null%</text>
+<text id="10021004">%null%</text>
+<text id="10021005">%null%</text>
+<text id="10021006">%null%</text>
+<text id="10021007">%null%</text>
+<text id="10021008">%null%</text>
+<text id="10021009">%null%</text>
+<text id="10021010">&lt;?kgiconKc@6?&gt;:ジャンプ</text>
+<text id="10021011">%null%</text>
+<text id="10021012">%null%</text>
+<text id="10021013">%null%</text>
+<text id="10021014">%null%</text>
+<text id="10021015">%null%</text>
+<text id="10021016">%null%</text>
+<text id="10021017">%null%</text>
+<text id="10021018">%null%</text>
+<text id="10021019">%null%</text>
+<text id="10021020">ジャンプ中に壁際で&lt;?kgiconKc@6?&gt;:壁蹴り</text>
+<text id="10021021">%null%</text>
+<text id="10021022">%null%</text>
+<text id="10021023">%null%</text>
+<text id="10021024">%null%</text>
+<text id="10021025">%null%</text>
+<text id="10021026">%null%</text>
+<text id="10021027">%null%</text>
+<text id="10021028">%null%</text>
+<text id="10021029">%null%</text>
+<text id="10021030">&lt;?kgiconKc@20?&gt;:壁に張り付く/離れる</text>
+<text id="10021031">%null%</text>
+<text id="10021032">%null%</text>
+<text id="10021033">%null%</text>
+<text id="10021034">%null%</text>
+<text id="10021035">%null%</text>
+<text id="10021036">%null%</text>
+<text id="10021037">%null%</text>
+<text id="10021038">%null%</text>
+<text id="10021039">%null%</text>
+<text id="10021040">壁張り付き中に &lt;?kgMove?&gt;:壁張り付き移動</text>
+<text id="10021041">%null%</text>
+<text id="10021042">%null%</text>
+<text id="10021043">%null%</text>
+<text id="10021044">%null%</text>
+<text id="10021045">%null%</text>
+<text id="10021046">%null%</text>
+<text id="10021047">%null%</text>
+<text id="10021048">%null%</text>
+<text id="10021049">%null%</text>
+<text id="10021050">&lt;?kgiconKc@7?&gt;:しゃがむ/立つ</text>
+<text id="10021051">%null%</text>
+<text id="10021052">%null%</text>
+<text id="10021053">%null%</text>
+<text id="10021054">%null%</text>
+<text id="10021055">%null%</text>
+<text id="10021056">%null%</text>
+<text id="10021057">%null%</text>
+<text id="10021058">%null%</text>
+<text id="10021059">%null%</text>
+<text id="10021060">&lt;?kgiconKc@22?&gt;:盗み聞き</text>
+<text id="10021061">%null%</text>
+<text id="10021062">%null%</text>
+<text id="10021063">%null%</text>
+<text id="10021064">%null%</text>
+<text id="10021065">%null%</text>
+<text id="10021066">%null%</text>
+<text id="10021067">%null%</text>
+<text id="10021068">%null%</text>
+<text id="10021069">%null%</text>
+<text id="10021070">へりの近くで&lt;?kgiconKc@20?&gt;:ぶら下がり</text>
+<text id="10021071">%null%</text>
+<text id="10021072">%null%</text>
+<text id="10021073">%null%</text>
+<text id="10021074">%null%</text>
+<text id="10021075">%null%</text>
+<text id="10021076">%null%</text>
+<text id="10021077">%null%</text>
+<text id="10021078">%null%</text>
+<text id="10021079">%null%</text>
+<text id="10021080">ぶら下がり中に&lt;?kgMove?&gt;:ぶら下がり移動</text>
+<text id="10021081">%null%</text>
+<text id="10021082">%null%</text>
+<text id="10021083">%null%</text>
+<text id="10021084">%null%</text>
+<text id="10021085">%null%</text>
+<text id="10021086">%null%</text>
+<text id="10021087">%null%</text>
+<text id="10021088">%null%</text>
+<text id="10021089">%null%</text>
+<text id="10021090">&lt;?kgiconKc@20?&gt;:よじ登り</text>
+<text id="10021091">%null%</text>
+<text id="10021092">%null%</text>
+<text id="10021093">%null%</text>
+<text id="10021094">%null%</text>
+<text id="10021095">%null%</text>
+<text id="10021096">%null%</text>
+<text id="10021097">%null%</text>
+<text id="10021098">%null%</text>
+<text id="10021099">%null%</text>
+<text id="10021100">&lt;?kgiconKc@5?&gt;:ぶら下がり解除</text>
+<text id="10021101">%null%</text>
+<text id="10021102">%null%</text>
+<text id="10021103">%null%</text>
+<text id="10021104">%null%</text>
+<text id="10021105">%null%</text>
+<text id="10021106">%null%</text>
+<text id="10021107">%null%</text>
+<text id="10021108">%null%</text>
+<text id="10021109">%null%</text>
+<text id="10021110">&lt;?kgiconKc@27?&gt;:装備メニューを開く</text>
+<text id="10021111">%null%</text>
+<text id="10021112">%null%</text>
+<text id="10021113">%null%</text>
+<text id="10021114">%null%</text>
+<text id="10021115">%null%</text>
+<text id="10021116">%null%</text>
+<text id="10021117">%null%</text>
+<text id="10021118">%null%</text>
+<text id="10021119">%null%</text>
+<text id="10021120">&lt;?kgiconKc@12?&gt;:ターゲット固定/解除</text>
+<text id="10021121">%null%</text>
+<text id="10021122">%null%</text>
+<text id="10021123">%null%</text>
+<text id="10021124">%null%</text>
+<text id="10021125">%null%</text>
+<text id="10021126">%null%</text>
+<text id="10021127">%null%</text>
+<text id="10021128">%null%</text>
+<text id="10021129">%null%</text>
+<text id="10021130">&lt;?kgiconKc@16?&gt;:攻撃</text>
+<text id="10021131">%null%</text>
+<text id="10021132">%null%</text>
+<text id="10021133">%null%</text>
+<text id="10021134">%null%</text>
+<text id="10021135">%null%</text>
+<text id="10021136">%null%</text>
+<text id="10021137">%null%</text>
+<text id="10021138">%null%</text>
+<text id="10021139">%null%</text>
+<text id="10021140">体勢が崩れた敵に&lt;?kgiconKc@16?&gt;:忍殺</text>
+<text id="10021141">%null%</text>
+<text id="10021142">%null%</text>
+<text id="10021143">%null%</text>
+<text id="10021144">%null%</text>
+<text id="10021145">%null%</text>
+<text id="10021146">%null%</text>
+<text id="10021147">%null%</text>
+<text id="10021148">%null%</text>
+<text id="10021149">%null%</text>
+<text id="10021150">敵の攻撃に合わせて&lt;?kgiconKc@18?&gt;:弾き</text>
+<text id="10021151">%null%</text>
+<text id="10021152">%null%</text>
+<text id="10021153">%null%</text>
+<text id="10021154">%null%</text>
+<text id="10021155">%null%</text>
+<text id="10021156">%null%</text>
+<text id="10021157">%null%</text>
+<text id="10021158">%null%</text>
+<text id="10021159">%null%</text>
+<text id="10021160">ターゲット固定中に&lt;?kgControlCamera?&gt;:ターゲット切り替え</text>
+<text id="10021161">%null%</text>
+<text id="10021162">%null%</text>
+<text id="10021163">%null%</text>
+<text id="10021164">%null%</text>
+<text id="10021165">%null%</text>
+<text id="10021166">%null%</text>
+<text id="10021167">%null%</text>
+<text id="10021168">%null%</text>
+<text id="10021169">%null%</text>
+<text id="10021170">&lt;?kgiconKc@5?&gt;:ぶら下がり解除</text>
+<text id="10021171">%null%</text>
+<text id="10021172">%null%</text>
+<text id="10021173">%null%</text>
+<text id="10021174">%null%</text>
+<text id="10021175">%null%</text>
+<text id="10021176">%null%</text>
+<text id="10021177">%null%</text>
+<text id="10021178">%null%</text>
+<text id="10021179">%null%</text>
+<text id="10021180">&lt;?kgiconKc@19?&gt;:鉤縄</text>
+<text id="10021181">%null%</text>
+<text id="10021182">%null%</text>
+<text id="10021183">%null%</text>
+<text id="10021184">%null%</text>
+<text id="10021185">%null%</text>
+<text id="10021186">%null%</text>
+<text id="10021187">%null%</text>
+<text id="10021188">%null%</text>
+<text id="10021189">%null%</text>
+<text id="10021190">&lt;?kgiconKc@16?&gt;:回生の術</text>
+<text id="10021191">%null%</text>
+<text id="10021192">%null%</text>
+<text id="10021193">%null%</text>
+<text id="10021194">%null%</text>
+<text id="10021195">%null%</text>
+<text id="10021196">%null%</text>
+<text id="10021197">%null%</text>
+<text id="10021198">%null%</text>
+<text id="10021199">%null%</text>
+<text id="10021200">&lt;?kgiconKc@17?&gt;:義手忍具</text>
+<text id="10021201">%null%</text>
+<text id="10021202">%null%</text>
+<text id="10021203">%null%</text>
+<text id="10021204">%null%</text>
+<text id="10021205">%null%</text>
+<text id="10021206">%null%</text>
+<text id="10021207">%null%</text>
+<text id="10021208">%null%</text>
+<text id="10021209">%null%</text>
+<text id="10021210">&lt;?kgiconKc@15?&gt;:義手忍具切り替え</text>
+<text id="10021211">%null%</text>
+<text id="10021212">%null%</text>
+<text id="10021213">%null%</text>
+<text id="10021214">%null%</text>
+<text id="10021215">%null%</text>
+<text id="10021216">%null%</text>
+<text id="10021217">%null%</text>
+<text id="10021218">%null%</text>
+<text id="10021219">%null%</text>
+<text id="10021220">&lt;?kgiconKc@21?&gt;:アイテム使用</text>
+<text id="10021221">%null%</text>
+<text id="10021222">%null%</text>
+<text id="10021223">%null%</text>
+<text id="10021224">%null%</text>
+<text id="10021225">%null%</text>
+<text id="10021226">%null%</text>
+<text id="10021227">%null%</text>
+<text id="10021228">%null%</text>
+<text id="10021229">%null%</text>
+<text id="10021230">背後忍殺中に&lt;?kgiconKc@16?&gt;:忍殺忍術</text>
+<text id="10021231">%null%</text>
+<text id="10021232">%null%</text>
+<text id="10021233">%null%</text>
+<text id="10021234">%null%</text>
+<text id="10021235">%null%</text>
+<text id="10021236">%null%</text>
+<text id="10021237">%null%</text>
+<text id="10021238">%null%</text>
+<text id="10021239">%null%</text>
+<text id="10021240">&lt;?kgiconKc@20?&gt;長押し:遺物取得</text>
+<text id="10021241">%null%</text>
+<text id="10021242">%null%</text>
+<text id="10021243">%null%</text>
+<text id="10021244">%null%</text>
+<text id="10021245">%null%</text>
+<text id="10021246">%null%</text>
+<text id="10021247">%null%</text>
+<text id="10021248">%null%</text>
+<text id="10021249">%null%</text>
+<text id="10021250">&lt;?kgiconKc@6?&gt;→&lt;?kgiconKc@19?&gt;:空中鉤縄</text>
+<text id="10021251">%null%</text>
+<text id="10021252">%null%</text>
+<text id="10021253">%null%</text>
+<text id="10021254">%null%</text>
+<text id="10021255">%null%</text>
+<text id="10021256">%null%</text>
+<text id="10021257">%null%</text>
+<text id="10021258">%null%</text>
+<text id="10021259">%null%</text>
+<text id="10021260">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;:流派技</text>
+<text id="10021261">%null%</text>
+<text id="10021262">%null%</text>
+<text id="10021263">%null%</text>
+<text id="10021264">%null%</text>
+<text id="10021265">%null%</text>
+<text id="10021266">%null%</text>
+<text id="10021267">%null%</text>
+<text id="10021268">%null%</text>
+<text id="10021269">%null%</text>
+<text id="10021270">&lt;?kgiconKc@5?&gt;:ステップ</text>
+<text id="10021271">%null%</text>
+<text id="10021272">%null%</text>
+<text id="10021273">%null%</text>
+<text id="10021274">%null%</text>
+<text id="10021275">%null%</text>
+<text id="10021276">%null%</text>
+<text id="10021277">%null%</text>
+<text id="10021278">%null%</text>
+<text id="10021279">%null%</text>
+<text id="10021280">壁張り付き中に &lt;?kgMove?&gt;で端まで移動:覗き込み</text>
+<text id="10021500">鬼仏の前で&lt;?kgiconKc@20?&gt;:鬼仏と対座する</text>
+<text id="10021501">%null%</text>
+<text id="10021502">%null%</text>
+<text id="10021503">%null%</text>
+<text id="10021504">%null%</text>
+<text id="10021505">%null%</text>
+<text id="10021506">%null%</text>
+<text id="10021507">%null%</text>
+<text id="10021508">%null%</text>
+<text id="10021509">%null%</text>
+<text id="10021510">飛び道具に合わせて&lt;?kgiconKc@18?&gt;:弾き</text>
+<text id="10021511">%null%</text>
+<text id="10021512">%null%</text>
+<text id="10021513">%null%</text>
+<text id="10021514">%null%</text>
+<text id="10021515">%null%</text>
+<text id="10021516">%null%</text>
+<text id="10021517">%null%</text>
+<text id="10021518">%null%</text>
+<text id="10021519">%null%</text>
+<text id="10021520">忍殺後、赤い印が出た時に&lt;?kgiconKc@16?&gt;:とどめ忍殺</text>
+<text id="10021521">%null%</text>
+<text id="10021522">%null%</text>
+<text id="10021523">%null%</text>
+<text id="10021524">%null%</text>
+<text id="10021525">%null%</text>
+<text id="10021526">%null%</text>
+<text id="10021527">%null%</text>
+<text id="10021528">%null%</text>
+<text id="10021529">%null%</text>
+<text id="10021530">崩されたり、倒れたとき&lt;?kgiconKc@6?&gt;/&lt;?kgiconKc@5?&gt;:転がり回避</text>
+<text id="10021531">%null%</text>
+<text id="10021532">%null%</text>
+<text id="10021533">%null%</text>
+<text id="10021534">%null%</text>
+<text id="10021535">%null%</text>
+<text id="10021536">%null%</text>
+<text id="10021537">%null%</text>
+<text id="10021538">%null%</text>
+<text id="10021539">%null%</text>
+<text id="10021540">弾き後に&lt;?kgiconKc@16?&gt;:斬り返し</text>
+<text id="10021541">%null%</text>
+<text id="10021542">%null%</text>
+<text id="10021543">%null%</text>
+<text id="10021544">%null%</text>
+<text id="10021545">%null%</text>
+<text id="10021546">%null%</text>
+<text id="10021547">%null%</text>
+<text id="10021548">%null%</text>
+<text id="10021549">%null%</text>
+<text id="10021550">&lt;?kgiconKc@16?&gt;長押し:突き</text>
+<text id="10021551">%null%</text>
+<text id="10021552">%null%</text>
+<text id="10021553">%null%</text>
+<text id="10021554">%null%</text>
+<text id="10021555">%null%</text>
+<text id="10021556">%null%</text>
+<text id="10021557">%null%</text>
+<text id="10021558">%null%</text>
+<text id="10021559">%null%</text>
+<text id="10021560">&lt;?kgiconKc@5?&gt;長押し＋&lt;?kgMove?&gt;:ダッシュ</text>
+<text id="10021800">&lt;?kgiconKc@16?&gt;:攻撃</text>
+<text id="10021801">%null%</text>
+<text id="10021802">%null%</text>
+<text id="10021803">%null%</text>
+<text id="10021804">%null%</text>
+<text id="10021805">%null%</text>
+<text id="10021806">%null%</text>
+<text id="10021807">%null%</text>
+<text id="10021808">%null%</text>
+<text id="10021809">%null%</text>
+<text id="10021810">体勢が崩れた敵に&lt;?kgiconKc@16?&gt;:忍殺</text>
+<text id="10021811">%null%</text>
+<text id="10021812">%null%</text>
+<text id="10021813">%null%</text>
+<text id="10021814">%null%</text>
+<text id="10021815">%null%</text>
+<text id="10021816">%null%</text>
+<text id="10021817">%null%</text>
+<text id="10021818">%null%</text>
+<text id="10021819">%null%</text>
+<text id="10021820">敵の攻撃に合わせて&lt;?kgiconKc@18?&gt;:弾く</text>
+<text id="10022000">体幹</text>
+<text id="10022001">体幹ゲージが0になると、プレイヤーも敵も体勢を崩す
+攻撃や弾きで、敵の体幹を減らすことができる</text>
+<text id="10022002">%null%</text>
+<text id="10022003">%null%</text>
+<text id="10022004">%null%</text>
+<text id="10022005">%null%</text>
+<text id="10022006">%null%</text>
+<text id="10022007">%null%</text>
+<text id="10022008">%null%</text>
+<text id="10022009">%null%</text>
+<text id="10022010">回生力ゲージ</text>
+<text id="10022011">回生の術を使うのに必要な
+「回生力」の状態を確認できる
+
+鬼仏で休息する度に
+必ず一回分の回生力が溜まる</text>
+<text id="10022012">%null%</text>
+<text id="10022013">%null%</text>
+<text id="10022014">%null%</text>
+<text id="10022015">%null%</text>
+<text id="10022016">%null%</text>
+<text id="10022017">%null%</text>
+<text id="10022018">%null%</text>
+<text id="10022019">%null%</text>
+<text id="10022020">落下忍殺</text>
+<text id="10022021">敵の頭上にジャンプして&lt;?kgiconKc@16?&gt;:落下忍殺</text>
+<text id="10022022">%null%</text>
+<text id="10022023">%null%</text>
+<text id="10022024">%null%</text>
+<text id="10022025">%null%</text>
+<text id="10022026">%null%</text>
+<text id="10022027">%null%</text>
+<text id="10022028">%null%</text>
+<text id="10022029">%null%</text>
+<text id="10022030">発見マーカー</text>
+<text id="10022031">黄色のマーカー:敵が警戒状態
+赤のマーカー:敵が戦闘状態</text>
+<text id="10022032">%null%</text>
+<text id="10022033">%null%</text>
+<text id="10022034">%null%</text>
+<text id="10022035">%null%</text>
+<text id="10022036">%null%</text>
+<text id="10022037">%null%</text>
+<text id="10022038">%null%</text>
+<text id="10022039">%null%</text>
+<text id="10022040">危険攻撃</text>
+<text id="10022041">危険攻撃マーカーは、ガードできない攻撃の予兆</text>
+<text id="10022042">%null%</text>
+<text id="10022043">%null%</text>
+<text id="10022044">%null%</text>
+<text id="10022045">%null%</text>
+<text id="10022046">%null%</text>
+<text id="10022047">%null%</text>
+<text id="10022048">%null%</text>
+<text id="10022049">%null%</text>
+<text id="10022050">&lt;?gdsparam@1000?&gt;</text>
+<text id="10022051">義手忍具は、&lt;?gdsparam@1000?&gt;を消費して使用する</text>
+<text id="10022052">%null%</text>
+<text id="10022053">%null%</text>
+<text id="10022054">%null%</text>
+<text id="10022055">%null%</text>
+<text id="10022056">%null%</text>
+<text id="10022057">%null%</text>
+<text id="10022058">%null%</text>
+<text id="10022059">%null%</text>
+<text id="10022060">落下忍殺</text>
+<text id="10022061">&lt;?kgiconKc@6?&gt;:ジャンプ
+敵の頭上で赤い印が出た時に&lt;?kgiconKc@16?&gt;:落下忍殺</text>
+<text id="10023000">剣戟</text>
+<text id="10023001">&lt;?kgiconKc@16?&gt;:攻撃
+敵の攻撃に合わせて&lt;?kgiconKc@18?&gt;:弾き</text>
+<text id="10023002">%null%</text>
+<text id="10023003">%null%</text>
+<text id="10023004">%null%</text>
+<text id="10023005">%null%</text>
+<text id="10023006">%null%</text>
+<text id="10023007">%null%</text>
+<text id="10023008">%null%</text>
+<text id="10023009">%null%</text>
+<text id="10023010">弾き忍殺</text>
+<text id="10023011">敵の攻撃に合わせて&lt;?kgiconKc@18?&gt;:弾く
+&lt;?kgiconKc@16?&gt;:弾きから、「弾き忍殺」</text>
+<text id="10023012">%null%</text>
+<text id="10023013">%null%</text>
+<text id="10023014">%null%</text>
+<text id="10023015">%null%</text>
+<text id="10023016">%null%</text>
+<text id="10023017">%null%</text>
+<text id="10023018">%null%</text>
+<text id="10023019">%null%</text>
+<text id="10023020">&lt;?kgiconKc@21?&gt;:アイテム使用</text>
+<text id="10023021">%null%</text>
+<text id="10023022">%null%</text>
+<text id="10023023">%null%</text>
+<text id="10023024">%null%</text>
+<text id="10023025">%null%</text>
+<text id="10023026">%null%</text>
+<text id="10023027">%null%</text>
+<text id="10023028">%null%</text>
+<text id="10023029">%null%</text>
+<text id="10023030">形代</text>
+<text id="10023031">義手忍具は、形代を消費して使用する</text>
+<text id="10023032">%null%</text>
+<text id="10023033">%null%</text>
+<text id="10023034">%null%</text>
+<text id="10023035">%null%</text>
+<text id="10023036">%null%</text>
+<text id="10023037">%null%</text>
+<text id="10023038">%null%</text>
+<text id="10023039">%null%</text>
+<text id="10023040">鬼仏</text>
+<text id="10023041">鬼仏を拝むと、休息することができる
+リトライ時は、最後に拝んだ鬼仏から再開される</text>
+<text id="10023042">%null%</text>
+<text id="10023043">%null%</text>
+<text id="10023044">%null%</text>
+<text id="10023045">%null%</text>
+<text id="10023046">%null%</text>
+<text id="10023047">%null%</text>
+<text id="10023048">%null%</text>
+<text id="10023049">%null%</text>
+<text id="10023050">&lt;?kgiconKc@5?&gt;:ステップ</text>
+<text id="10023051">%null%</text>
+<text id="10023052">%null%</text>
+<text id="10023053">%null%</text>
+<text id="10023054">%null%</text>
+<text id="10023055">%null%</text>
+<text id="10023056">%null%</text>
+<text id="10023057">%null%</text>
+<text id="10023058">%null%</text>
+<text id="10023059">%null%</text>
+<text id="10023060">アイテム</text>
+<text id="10023061">&lt;?kgiconKc@21?&gt;:アイテム使用
+&lt;?kgToggleItems?&gt;:アイテム切り替え</text>
+<text id="10023062">%null%</text>
+<text id="10023063">%null%</text>
+<text id="10023064">%null%</text>
+<text id="10023065">%null%</text>
+<text id="10023066">%null%</text>
+<text id="10023067">%null%</text>
+<text id="10023068">%null%</text>
+<text id="10023069">%null%</text>
+<text id="10023070">体幹の回復速度</text>
+<text id="10023071">体幹は時間が経つと回復するが
+生命力が低いほど、回復が遅くなる</text>
+<text id="10023090">危険攻撃</text>
+<text id="10023091">ガードができない攻撃もある
+
+そうした危うい攻撃は、強い殺気を放つ
+「危」の一文字が現れたならば、
+攻撃を見極め、応じた対処をすれば良い
+
+突き攻撃に合わせて&lt;?kgiconKc@18?&gt;:弾き
+下段攻撃に合わせて&lt;?kgiconKc@6?&gt;:ジャンプ
+掴み攻撃は、掴まれないように距離を取るか、
+&lt;?kgiconKc@5?&gt;:ステップで回避する</text>
+<text id="10023092">%null%</text>
+<text id="10023093">%null%</text>
+<text id="10023094">%null%</text>
+<text id="10023095">%null%</text>
+<text id="10023096">%null%</text>
+<text id="10023097">%null%</text>
+<text id="10023098">%null%</text>
+<text id="10023099">%null%</text>
+<text id="10023100">&lt;?kgiconKc@5?&gt;:起き上がる</text>
+<text id="10023101">%null%</text>
+<text id="10023102">%null%</text>
+<text id="10023103">%null%</text>
+<text id="10023104">%null%</text>
+<text id="10023105">%null%</text>
+<text id="10023106">%null%</text>
+<text id="10023107">%null%</text>
+<text id="10023108">%null%</text>
+<text id="10023109">%null%</text>
+<text id="10023110">落下忍殺</text>
+<text id="10023111">こちらに気づいていない敵は、
+頭上から跳びかかり、
+忍殺することができる
+
+&lt;?kgiconKc@12?&gt;:ターゲット固定
+&lt;?kgiconKc@6?&gt;:ジャンプ
+敵の頭上で
+赤い印が出た時に&lt;?kgiconKc@16?&gt;:落下忍殺</text>
+<text id="10023112">%null%</text>
+<text id="10023113">%null%</text>
+<text id="10023114">%null%</text>
+<text id="10023115">%null%</text>
+<text id="10023116">%null%</text>
+<text id="10023117">%null%</text>
+<text id="10023118">%null%</text>
+<text id="10023119">%null%</text>
+<text id="10023120">剣戟</text>
+<text id="10023121">剣戟とは、「体幹への攻撃」
+
+攻撃や弾きで敵の体幹に
+ダメージを与えると、
+敵の体勢を崩し、忍殺できる
+
+&lt;?kgiconKc@16?&gt;:攻撃
+敵の攻撃に合わせて&lt;?kgiconKc@18?&gt;:弾き
+体勢が崩れた敵に&lt;?kgiconKc@16?&gt;:忍殺</text>
+<text id="10023122">%null%</text>
+<text id="10023123">%null%</text>
+<text id="10023124">%null%</text>
+<text id="10023125">%null%</text>
+<text id="10023126">%null%</text>
+<text id="10023127">%null%</text>
+<text id="10023128">%null%</text>
+<text id="10023129">%null%</text>
+<text id="10023130">義手忍具</text>
+<text id="10023131">忍義手に仕込む秘器
+
+義手忍具の種類は様々で
+状況に応じて、有効なものが異なる
+
+&lt;?kgiconKc@17?&gt;:義手忍具の使用
+&lt;?kgiconKc@15?&gt;:義手忍具切り替え</text>
+<text id="10023150">アイテムの使用</text>
+<text id="10023151">アイテムには様々な種類があり、
+状況に合わせ切り替えて使用できる
+
+例えば、敵から攻撃を受けた時は、
+「&lt;?gdsparam@3000?&gt;」でＨＰを回復できる
+
+&lt;?kgiconKc@21?&gt;:アイテム使用
+&lt;?kgToggleItems?&gt;:アイテム切り替え</text>
+<text id="10023152">%null%</text>
+<text id="10023153">%null%</text>
+<text id="10023154">%null%</text>
+<text id="10023155">%null%</text>
+<text id="10023156">%null%</text>
+<text id="10023157">%null%</text>
+<text id="10023158">%null%</text>
+<text id="10023159">%null%</text>
+<text id="10023160">転がり回避</text>
+<text id="10023161">体勢を崩されてしまった時には、
+転がり回避で隙を小さくできる
+
+敵に崩されたり、倒れたとき
+&lt;?kgiconKc@6?&gt;もしくは&lt;?kgiconKc@5?&gt;:転がり回避</text>
+<text id="10023162">%null%</text>
+<text id="10023163">%null%</text>
+<text id="10023164">%null%</text>
+<text id="10023165">%null%</text>
+<text id="10023166">%null%</text>
+<text id="10023167">%null%</text>
+<text id="10023168">%null%</text>
+<text id="10023169">%null%</text>
+<text id="10023170">&lt;?kgToggleItems?&gt;:アイテム切り替え</text>
+<text id="10024500">隠密</text>
+<text id="10024501">しゃがんで茂みに隠れたり、床下を移動すれば
+敵に見つからずに進むことができる
+
+今は刀を持っていない
+隠密で敵を避け、月見櫓を目指すと良いだろう
+
+敵に見つかりそうな時は、
+敵頭上の警戒マーカーが表示される</text>
+<text id="10024502">%null%</text>
+<text id="10024503">%null%</text>
+<text id="10024504">%null%</text>
+<text id="10024505">%null%</text>
+<text id="10024506">%null%</text>
+<text id="10024507">%null%</text>
+<text id="10024508">%null%</text>
+<text id="10024509">%null%</text>
+<text id="10024510">アイテムの使用</text>
+<text id="10024511">アイテムには様々な種類があり、
+状況に合わせ切り替えて使用できる
+
+例えば、敵から攻撃を受けた時は、
+「&lt;?gdsparam@3000?&gt;」でＨＰを回復できる
+
+&lt;?kgiconKc@21?&gt;:アイテム使用
+&lt;?kgToggleItems?&gt;:アイテム切り替え</text>
+<text id="10024512">%null%</text>
+<text id="10024513">%null%</text>
+<text id="10024514">%null%</text>
+<text id="10024515">%null%</text>
+<text id="10024516">%null%</text>
+<text id="10024517">%null%</text>
+<text id="10024518">%null%</text>
+<text id="10024519">%null%</text>
+<text id="10024520">斬り返し</text>
+<text id="10024521">攻撃を弾き、すかさず「斬り返し」をする
+
+そうすれば、敵に休む間を与えず、
+体幹ダメージを与えられる
+
+敵の攻撃に合わせて&lt;?kgiconKc@18?&gt;:弾き
+弾き後に&lt;?kgiconKc@16?&gt;:斬り返し</text>
+<text id="10024522">%null%</text>
+<text id="10024523">%null%</text>
+<text id="10024524">%null%</text>
+<text id="10024525">%null%</text>
+<text id="10024526">%null%</text>
+<text id="10024527">%null%</text>
+<text id="10024528">%null%</text>
+<text id="10024529">%null%</text>
+<text id="10024530">強者への忍殺</text>
+<text id="10024531">一度の忍殺では、死なぬ強者もいる
+
+だが、一度で死なぬならば、
+幾度でも殺せば良いだろう
+
+ＨＰゲージの上に忍殺マーカーが表示された
+敵を殺し切るには、
+マーカーの回数だけ、忍殺をすれば良い</text>
+<text id="10024532">%null%</text>
+<text id="10024533">%null%</text>
+<text id="10024534">%null%</text>
+<text id="10024535">%null%</text>
+<text id="10024536">%null%</text>
+<text id="10024537">%null%</text>
+<text id="10024538">%null%</text>
+<text id="10024539">%null%</text>
+<text id="10024540">鉤縄</text>
+<text id="10024541">&lt;?gdsparam@2310?&gt;に仕込まれた鉤縄で、
+道なき道、常人には行けぬ場所へ移動できる
+
+高所から戦場を望めば、
+どう敵に挑むかを、計画できるだろう
+
+鉤を引っかけられる場所には印が表示され、
+緑色になった時に鉤縄を飛ばすことができる
+
+&lt;?kgiconKc@19?&gt;:鉤縄</text>
+<text id="10024542">%null%</text>
+<text id="10024543">%null%</text>
+<text id="10024544">%null%</text>
+<text id="10024545">%null%</text>
+<text id="10024546">%null%</text>
+<text id="10024547">%null%</text>
+<text id="10024548">%null%</text>
+<text id="10024549">%null%</text>
+<text id="10024550">隠密忍殺</text>
+<text id="10024551">こちらに気づいていない敵には、
+「隠密忍殺」することができる
+
+隠密忍殺の一つ、
+頭上から跳びかかるものを、落下忍殺という
+
+&lt;?kgiconKc@12?&gt;:ターゲット固定
+&lt;?kgiconKc@6?&gt;:ジャンプ
+敵の頭上で
+赤い印が出た時に&lt;?kgiconKc@16?&gt;:落下忍殺</text>
+<text id="10024552">%null%</text>
+<text id="10024553">%null%</text>
+<text id="10024554">%null%</text>
+<text id="10024555">%null%</text>
+<text id="10024556">%null%</text>
+<text id="10024557">%null%</text>
+<text id="10024558">%null%</text>
+<text id="10024559">%null%</text>
+<text id="10024560">義手忍具の仕込み</text>
+<text id="10024561">忍具は、そのままでは使えない
+仏師に渡す事で、
+&lt;?gdsparam@2310?&gt;に仕込むことができる
+
+仏師の元へは、鬼仏の仏渡りか、
+&lt;?gdsparam@3980?&gt;を使うと素早く戻ることができる</text>
+<text id="10024562">%null%</text>
+<text id="10024563">%null%</text>
+<text id="10024564">%null%</text>
+<text id="10024565">%null%</text>
+<text id="10024566">%null%</text>
+<text id="10024567">%null%</text>
+<text id="10024568">%null%</text>
+<text id="10024569">%null%</text>
+<text id="10024570">義手忍具</text>
+<text id="10024571">&lt;?gdsparam@2310?&gt;に仕込まれた忍具
+
+装備メニューで装備し、
+&lt;?gdsparam@1000?&gt;を消費して使用できる
+
+&lt;?kgiconKc@27?&gt;:装備メニューを開く
+&lt;?kgiconKc@17?&gt;:義手忍具の使用
+&lt;?kgiconKc@15?&gt;:義手忍具切り替え</text>
+<text id="10024572">%null%</text>
+<text id="10024573">%null%</text>
+<text id="10024574">%null%</text>
+<text id="10024575">%null%</text>
+<text id="10024576">%null%</text>
+<text id="10024577">%null%</text>
+<text id="10024578">%null%</text>
+<text id="10024579">%null%</text>
+<text id="10024580">危険攻撃</text>
+<text id="10024581">ガードができない攻撃もある
+
+そうした危うい攻撃は、強い殺気を放つ
+「危」の一文字が現れたならば、
+攻撃を見極め、応じた対処をすれば良い
+
+突き攻撃に合わせて&lt;?kgiconKc@18?&gt;:弾き
+下段攻撃に合わせて&lt;?kgiconKc@6?&gt;:ジャンプ
+掴み攻撃は、掴まれないように距離を取るか、
+&lt;?kgiconKc@5?&gt;:ステップで回避する</text>
+<text id="10024582">%null%</text>
+<text id="10024583">%null%</text>
+<text id="10024584">%null%</text>
+<text id="10024585">%null%</text>
+<text id="10024586">%null%</text>
+<text id="10024587">%null%</text>
+<text id="10024588">%null%</text>
+<text id="10024589">%null%</text>
+<text id="10024590">強化義手忍具の作成</text>
+<text id="10024591">&lt;?gdsparam@2910?&gt;を仏師に渡す事で、
+強化義手忍具の作成ができるようになる
+
+仏師の元へは、鬼仏の仏渡りか、
+&lt;?gdsparam@3980?&gt;を使うと素早く戻ることができる</text>
+<text id="10024592">%null%</text>
+<text id="10024593">%null%</text>
+<text id="10024594">%null%</text>
+<text id="10024595">%null%</text>
+<text id="10024596">%null%</text>
+<text id="10024597">%null%</text>
+<text id="10024598">%null%</text>
+<text id="10024599">%null%</text>
+<text id="10024600">竜胤の淀み</text>
+<text id="10024601">回生の力が無い時に死亡すると、
+「竜胤の淀み」が溜まる
+
+淀みが溜まり切った状態で死亡すると、
+淀みが溢れる可能性がある
+死ぬたび、その確率は上がっていく
+
+淀みが溢れると、
+狼が知りあった誰かが「竜咳」と言う病になる
+また、回生の力が一つ使えなくなるだろう</text>
+<text id="10024602">%null%</text>
+<text id="10024603">%null%</text>
+<text id="10024604">%null%</text>
+<text id="10024605">%null%</text>
+<text id="10024606">%null%</text>
+<text id="10024607">%null%</text>
+<text id="10024608">%null%</text>
+<text id="10024609">%null%</text>
+<text id="10024610">竜咳の治療</text>
+<text id="10024611">竜咳に罹った者は、
+放っておけば死んでしまう
+
+だが、エマの作った竜咳の薬を与えれば治る
+
+回生の力を一つ消費することで
+竜咳の薬を作ることができる</text>
+<text id="10024612">%null%</text>
+<text id="10024613">%null%</text>
+<text id="10024614">%null%</text>
+<text id="10024615">%null%</text>
+<text id="10024616">%null%</text>
+<text id="10024617">%null%</text>
+<text id="10024618">%null%</text>
+<text id="10024619">%null%</text>
+<text id="10024620">雷返し</text>
+<text id="10024621">雷は、地に足ついた者の全身を駆け巡り
+一瞬にして動きを封じてしまう
+
+空中の一瞬、刀身に雷を受け、返す秘技がある
+それを雷返しと呼ぶ
+
+空中で雷攻撃を受け、着地前に&lt;?kgiconKc@16?&gt;:雷返し</text>
+<text id="10024622">%null%</text>
+<text id="10024623">%null%</text>
+<text id="10024624">%null%</text>
+<text id="10024625">%null%</text>
+<text id="10024626">%null%</text>
+<text id="10024627">%null%</text>
+<text id="10024628">%null%</text>
+<text id="10024629">%null%</text>
+<text id="10024630">スキル</text>
+<text id="10024631">「伝書」を所有していると、
+その伝書の流派にまつわるスキルを
+鬼仏で習得できる
+
+習得に必要なスキルポイントは、
+敵を倒す度に得られるスキル経験値を
+溜める事で得られる
+
+また、「技書」や敵を倒すことによって
+スキルを習得する事もある</text>
+<text id="10024632">%null%</text>
+<text id="10024633">%null%</text>
+<text id="10024634">%null%</text>
+<text id="10024635">%null%</text>
+<text id="10024636">%null%</text>
+<text id="10024637">%null%</text>
+<text id="10024638">%null%</text>
+<text id="10024639">%null%</text>
+<text id="10024640">流派技</text>
+<text id="10024641">流派の特徴に応じた、
+特殊な攻撃のことを「流派技」と呼ぶ
+
+スキルメニューや伝書で習得した流派技は、
+装備メニューから選び、装備すれば使用できる
+
+&lt;?kgiconKc@18?&gt;を押しながら&lt;?kgiconKc@16?&gt;:流派技</text>
+<text id="10024642">%null%</text>
+<text id="10024643">%null%</text>
+<text id="10024644">%null%</text>
+<text id="10024645">%null%</text>
+<text id="10024646">%null%</text>
+<text id="10024647">%null%</text>
+<text id="10024648">%null%</text>
+<text id="10024649">%null%</text>
+<text id="10024650">派生攻撃</text>
+<text id="10024651">義手忍具を使ったあと、
+派生して繰り出せる剣技がある
+
+&lt;?kgiconKc@17?&gt;:義手忍具
+義手忍具使用後に&lt;?kgiconKc@16?&gt;:派生攻撃
+
+派生攻撃ごとの操作方法は、
+それぞれ、装備メニューで確認できる</text>
+<text id="10024652">%null%</text>
+<text id="10024653">%null%</text>
+<text id="10024654">%null%</text>
+<text id="10024655">%null%</text>
+<text id="10024656">%null%</text>
+<text id="10024657">%null%</text>
+<text id="10024658">%null%</text>
+<text id="10024659">%null%</text>
+<text id="10024660">忍殺忍術</text>
+<text id="10024661">背後から敵を忍殺したときに、
+「忍殺忍術」と呼ばれる
+特殊な術を使うことができる
+
+装備メニューから、任意の一つを装備し、
+&lt;?gdsparam@1000?&gt;を消費して発動する
+
+敵を背後忍殺した時に&lt;?kgiconKc@16?&gt;：忍殺忍術</text>
+<text id="10024662">%null%</text>
+<text id="10024663">%null%</text>
+<text id="10024664">%null%</text>
+<text id="10024665">%null%</text>
+<text id="10024666">%null%</text>
+<text id="10024667">%null%</text>
+<text id="10024668">%null%</text>
+<text id="10024669">%null%</text>
+<text id="10024670">遺物取得</text>
+<text id="10024671">遺物ならば、まとめて取得できる
+即ち、殺した敵が落としたアイテムや銭である
+
+元々置かれたアイテムは、遺物ではない
+近づき、直接拾うものだ
+
+&lt;?kgiconKc@20?&gt;長押し:遺物を取得
+置かれたアイテムに近付き&lt;?kgiconKc@20?&gt;:アイテムを拾う</text>
+<text id="10024672">%null%</text>
+<text id="10024673">%null%</text>
+<text id="10024674">%null%</text>
+<text id="10024675">%null%</text>
+<text id="10024676">%null%</text>
+<text id="10024677">%null%</text>
+<text id="10024678">%null%</text>
+<text id="10024679">%null%</text>
+<text id="10024680">回生</text>
+<text id="10024681">竜胤の御子の力
+回生の力を消費して、自らを蘇らせる
+
+回生の力は、
+基本の一つは鬼仏での休息で補充され、
+残りは敵を倒して集めることで、得られる
+
+回生は、続けて使えるものではないが、
+敵を倒したり忍殺すれば、再び発動できる</text>
+<text id="10024682">%null%</text>
+<text id="10024683">%null%</text>
+<text id="10024684">%null%</text>
+<text id="10024685">%null%</text>
+<text id="10024686">%null%</text>
+<text id="10024687">%null%</text>
+<text id="10024688">%null%</text>
+<text id="10024689">%null%</text>
+<text id="10024690">水中行動</text>
+<text id="10024691">&lt;?gdsparam@2420?&gt;があれば、ずっと息が続く
+息が続くなら、潜れば良い
+
+&lt;?kgiconKc@17?&gt;:潜水
+&lt;?kgiconKc@19?&gt;:浮上
+&lt;?kgMove?&gt;で移動しながら&lt;?kgiconKc@5?&gt;:水中加速</text>
+<text id="10024692">%null%</text>
+<text id="10024693">%null%</text>
+<text id="10024694">%null%</text>
+<text id="10024695">%null%</text>
+<text id="10024696">%null%</text>
+<text id="10024697">%null%</text>
+<text id="10024698">%null%</text>
+<text id="10024699">%null%</text>
+<text id="10024700">状態異常</text>
+<text id="10024701">心身に変調をきたすことを、状態異常と言う
+種類に応じたマイナス効果が発生し、
+戦闘の上で不利な状況に陥る
+
+一部の攻撃によって耐性ゲージが蓄積し、
+溜まりきると状態異常が発生する
+
+蓄積した耐性ゲージを抑えたり、
+状態異常を解除できるアイテムも存在する</text>
+<text id="10024702">%null%</text>
+<text id="10024703">%null%</text>
+<text id="10024704">%null%</text>
+<text id="10024705">%null%</text>
+<text id="10024706">%null%</text>
+<text id="10024707">%null%</text>
+<text id="10024708">%null%</text>
+<text id="10024709">%null%</text>
+<text id="10024710">転がり回避</text>
+<text id="10024711">体勢を崩されてしまった時、
+そのまま寝ていれば、きっと死ぬだろう
+
+転がって起き上がれば、隙を小さくできる
+
+敵に崩されたり、倒れたとき
+&lt;?kgiconKc@6?&gt;もしくは&lt;?kgiconKc@5?&gt;:転がり回避</text>
+<text id="10024712">%null%</text>
+<text id="10024713">%null%</text>
+<text id="10024714">%null%</text>
+<text id="10024715">%null%</text>
+<text id="10024716">%null%</text>
+<text id="10024717">%null%</text>
+<text id="10024718">%null%</text>
+<text id="10024719">%null%</text>
+<text id="10024720">&lt;?gdsparam@1000?&gt;</text>
+<text id="10024721">形代は、義手忍具などの発動に必要で、
+使うたびに消費される
+
+&lt;?gdsparam@1000?&gt;は、倒した敵から取得できるほか、
+辺りに漂っていることもあり、
+近づけば入手できる
+
+また、鬼仏で購入することもできる</text>
+<text id="10024740">賽銭箱</text>
+<text id="10024741">時が経ち、行き場を失った品が流れ着く賽銭箱
+
+箱が光っている時は、
+何かアイテムが流れ着いている
+
+賽銭箱を調べて銭を納める事で、
+アイテムを取得できる</text>
+<text id="10024742">%null%</text>
+<text id="10024743">%null%</text>
+<text id="10024744">%null%</text>
+<text id="10024745">%null%</text>
+<text id="10024746">%null%</text>
+<text id="10024747">%null%</text>
+<text id="10024748">%null%</text>
+<text id="10024749">%null%</text>
+<text id="10024750">体幹と忍殺</text>
+<text id="10024751">忍びの攻撃は、「体幹」を削り取るためにある
+攻撃を重ねると、やがて敵は体勢を崩す
+
+体勢を崩せば、「忍殺」で一撃で殺せるだろう
+
+&lt;?kgiconKc@16?&gt;:攻撃
+体勢が崩れた敵に&lt;?kgiconKc@16?&gt;:忍殺</text>
+<text id="10024752">%null%</text>
+<text id="10024753">%null%</text>
+<text id="10024754">%null%</text>
+<text id="10024755">%null%</text>
+<text id="10024756">%null%</text>
+<text id="10024757">%null%</text>
+<text id="10024758">%null%</text>
+<text id="10024759">%null%</text>
+<text id="10024760">弾き</text>
+<text id="10024761">打ち込むばかりでは、崩せない相手もいる
+
+敵の攻撃を弾けば、
+その勢いを利用して体幹を削ることができる
+優れた忍びの防御は、
+同時に攻撃を兼ね備えるのだ
+
+敵の攻撃に合わせて&lt;?kgiconKc@18?&gt;:弾き</text>
+<text id="10024762">%null%</text>
+<text id="10024763">%null%</text>
+<text id="10024764">%null%</text>
+<text id="10024765">%null%</text>
+<text id="10024766">%null%</text>
+<text id="10024767">%null%</text>
+<text id="10024768">%null%</text>
+<text id="10024769">%null%</text>
+<text id="10024770">ターゲット固定</text>
+<text id="10024771">ターゲットを固定して
+敵を正面にとらえ続けることで、
+攻撃や弾きなど剣戟アクションがしやすくなる
+
+&lt;?kgiconKc@12?&gt;:ターゲット固定/解除
+ターゲット固定中に&lt;?kgControlCamera?&gt;:ターゲット切り替え</text>
+<text id="10024772">%null%</text>
+<text id="10024773">%null%</text>
+<text id="10024774">%null%</text>
+<text id="10024775">%null%</text>
+<text id="10024776">%null%</text>
+<text id="10024777">%null%</text>
+<text id="10024778">%null%</text>
+<text id="10024779">%null%</text>
+<text id="10024780">打雷</text>
+<text id="10024781">地に足ついた状態で雷を受けると、
+全身を雷が駆け巡りＨＰに大ダメージを受ける
+また一時的に身体の自由を奪われる
+
+空中の一瞬、刀身に雷を受け、返す秘技がある
+それを雷返しと呼ぶ
+
+空中で雷攻撃を受け、着地前に&lt;?kgiconKc@16?&gt;:雷返し</text>
+<text id="10024782">%null%</text>
+<text id="10024783">%null%</text>
+<text id="10024784">%null%</text>
+<text id="10024785">%null%</text>
+<text id="10024786">%null%</text>
+<text id="10024787">%null%</text>
+<text id="10024788">%null%</text>
+<text id="10024789">%null%</text>
+<text id="10024790">掴み攻撃</text>
+<text id="10024791">掴み攻撃は、弾く事ができない
+掴まれると、なす術なく痛手を受ける
+
+だが掴まれる前に、ジャンプやダッシュで
+距離を取ってしまえば掴まれることはない
+またステップで回避できる瞬間もある
+
+&lt;?kgiconKc@6?&gt;＋&lt;?kgMove?&gt;:入力方向へジャンプ
+&lt;?kgiconKc@5?&gt;長押し＋&lt;?kgMove?&gt;:ダッシュ
+&lt;?kgiconKc@5?&gt;:ステップ</text>
+<text id="10024792">%null%</text>
+<text id="10024793">%null%</text>
+<text id="10024794">%null%</text>
+<text id="10024795">%null%</text>
+<text id="10024796">%null%</text>
+<text id="10024797">%null%</text>
+<text id="10024798">%null%</text>
+<text id="10024799">%null%</text>
+<text id="10024800">死亡喪失</text>
+<text id="10024801">死亡すると、銭とスキル経験値を半分失う
+また、それを取り戻す事はできない
+
+死ねば失うのは、免れない
+神や仏の助けでも、無いことには…</text>
+<text id="10024802">%null%</text>
+<text id="10024803">%null%</text>
+<text id="10024804">%null%</text>
+<text id="10024805">%null%</text>
+<text id="10024806">%null%</text>
+<text id="10024807">%null%</text>
+<text id="10024808">%null%</text>
+<text id="10024809">%null%</text>
+<text id="10024810">冥助</text>
+<text id="10024811">死亡喪失により、
+銭とスキル経験値を半分失うが
+稀に、それを回避する事ができる
+
+「冥助」と呼ばれる、神仏の助けである
+
+冥助が起こる確率は、
+ポーズメニューで確認することができる
+
+&lt;?kgiconKc@27?&gt;:ポーズメニューを開く</text>
+<text id="10024812">%null%</text>
+<text id="10024813">%null%</text>
+<text id="10024814">%null%</text>
+<text id="10024815">%null%</text>
+<text id="10024816">%null%</text>
+<text id="10024817">%null%</text>
+<text id="10024818">%null%</text>
+<text id="10024819">%null%</text>
+<text id="10024820">竜咳</text>
+<text id="10024821">竜胤の力を持つ者が死を重ねると、
+「竜咳」と呼ばれる病が、世に振りまかれる
+竜咳は回生の使用・不使用に関わらず、
+狼が死亡を繰り返すことで発生する
+
+どこからか聴こえる咳の音は、
+狼が関わった誰かが、竜咳に罹ったことを示す
+
+「咳の音」を多く所持すればするほど、
+冥助確率が低くなる</text>
+<text id="10024822">%null%</text>
+<text id="10024823">%null%</text>
+<text id="10024824">%null%</text>
+<text id="10024825">%null%</text>
+<text id="10024826">%null%</text>
+<text id="10024827">%null%</text>
+<text id="10024828">%null%</text>
+<text id="10024829">%null%</text>
+<text id="10024830">竜咳の快復</text>
+<text id="10024831">「&lt;?gdsparam@2930?&gt;」があれば、
+鬼仏で竜咳の快復ができるようになる
+
+竜咳の快復には、「&lt;?gdsparam@5600?&gt;」を消費する
+そうすれば、一度に全ての竜咳患者が快復する
+
+所持していた「咳の音」が無くなり、
+下がっていた冥助確率が元に戻る</text>
+<text id="10024832">%null%</text>
+<text id="10024833">%null%</text>
+<text id="10024834">%null%</text>
+<text id="10024835">%null%</text>
+<text id="10024836">%null%</text>
+<text id="10024837">%null%</text>
+<text id="10024838">%null%</text>
+<text id="10024839">%null%</text>
+<text id="10024840">ＨＰと体幹</text>
+<text id="10024841">ＨＰが減ると、体幹の回復速度が遅くなる
+体幹の回復速度が遅くなっていくにつれ、
+ゲージ背景の色が、黄を経て赤に変化していく
+
+体幹の回復が早い強者に対しては、
+ステップ後攻撃などでＨＰを削り、
+そこから体幹を崩す戦術が有効だ
+
+&lt;?kgiconKc@5?&gt;:ステップ
+敵の攻撃を回避して&lt;?kgiconKc@16?&gt;:ステップ後攻撃 </text>
+<text id="10024842">%null%</text>
+<text id="10024843">%null%</text>
+<text id="10024844">%null%</text>
+<text id="10024845">%null%</text>
+<text id="10024846">%null%</text>
+<text id="10024847">%null%</text>
+<text id="10024848">%null%</text>
+<text id="10024849">%null%</text>
+<text id="10024850">突きへの対処</text>
+<text id="10024851">突き攻撃は、
+弾くことはできるが、ガードはできない
+
+忍び技のスキル「見切り」を習得していれば、
+突き攻撃を見切って無効化し、
+弾くよりも大きな体幹ダメージを与えられる</text>
+<text id="10024880">残影</text>
+<text id="10024881">忍びは、その行動を幻影として残せる
+それを「残影」と呼ぶ
+
+残影は忍びが、互いの修練のため残すものだ
+ときに道を示す師であり、
+ときに後を追うべき競争相手にもなる
+
+&lt;?kgiconKc@44?&gt;:残影メニューを開く
+
+※残影を残すにはネットワーク接続が必要です</text>
+<text id="10024882">%null%</text>
+<text id="10024883">%null%</text>
+<text id="10024884">%null%</text>
+<text id="10024885">%null%</text>
+<text id="10024886">%null%</text>
+<text id="10024887">%null%</text>
+<text id="10024888">%null%</text>
+<text id="10024889">%null%</text>
+<text id="10024890">類稀な強者との再戦</text>
+<text id="10024891">類稀な強者と見え、打ち勝ったことで
+記憶の中で再び戦うことができるようになった
+
+類稀な強者との再戦は、鬼仏で行える</text>
+<text id="10024892">%null%</text>
+<text id="10024893">%null%</text>
+<text id="10024894">%null%</text>
+<text id="10024895">%null%</text>
+<text id="10024896">%null%</text>
+<text id="10024897">%null%</text>
+<text id="10024898">%null%</text>
+<text id="10024899">%null%</text>
+<text id="10024900">類稀な強者との連戦</text>
+<text id="10024901">多くの類稀な強者と見え、打ち勝ったことで
+記憶の中で連戦できるようになった
+
+類稀な強者との連戦は、鬼仏で行える
+
+自らの記憶と向き合うのは、
+新たな可能性を見出すことに似ている
+
+戦いの果て、見える境地もあるだろうか</text>
+<text id="10024902">%null%</text>
+<text id="10024903">%null%</text>
+<text id="10024904">%null%</text>
+<text id="10024905">%null%</text>
+<text id="10024906">%null%</text>
+<text id="10024907">%null%</text>
+<text id="10024908">%null%</text>
+<text id="10024909">%null%</text>
+<text id="10024910">類稀な強者との再戦・連戦</text>
+<text id="10024911">多くの類稀な強者と見え、打ち勝ったことで
+記憶の中で再戦と連戦ができるようになった
+
+類稀な強者との再戦と連戦は、鬼仏で行える
+
+自らの記憶と向き合うのは、
+新たな可能性を見出すことに似ている
+
+戦いの果て、見える境地もあるだろうか</text>
+<text id="10024912">%null%</text>
+<text id="10024913">%null%</text>
+<text id="10024914">%null%</text>
+<text id="10024915">%null%</text>
+<text id="10024916">%null%</text>
+<text id="10024917">%null%</text>
+<text id="10024918">%null%</text>
+<text id="10024919">%null%</text>
+<text id="10024920">別の記憶</text>
+<text id="10024921">別の誰かが残した記憶
+心残り、あるいは執念とも呼べるもの
+
+鬼仏で心中に宿せば、狼の姿を変えられる
+ただし、能力に影響することはない
+
+誰かの心残りを引き受けてやっても、
+それは、かりそめにすぎないのだから</text>
+<text id="10024922">%null%</text>
+<text id="10024923">%null%</text>
+<text id="10024924">%null%</text>
+<text id="10024925">%null%</text>
+<text id="10024926">%null%</text>
+<text id="10024927">%null%</text>
+<text id="10024928">%null%</text>
+<text id="10024929">%null%</text>
+<text id="10024930">残影の風評</text>
+<text id="10024931">残した残影がよい評価を受けると
+HPが回復する
+
+忍びの評判は、風に乗って流布される
+耳に入れば心地よく、幾らか癒しになるだろう
+
+※残影の風評の取得には
+　ネットワーク接続が必要です</text>
+<text id="10025000">装備メニュー　使用アイテム</text>
+<text id="10025001">装備メニューでは、
+装備の付け替えや確認ができます
+
+使用アイテムは、5つのスロットに任意のアイテムを装備でき、
+切り替えて使うことができます</text>
+<text id="10025002">%null%</text>
+<text id="10025003">%null%</text>
+<text id="10025004">%null%</text>
+<text id="10025005">%null%</text>
+<text id="10025006">%null%</text>
+<text id="10025007">%null%</text>
+<text id="10025008">%null%</text>
+<text id="10025009">%null%</text>
+<text id="10025010">装備メニュー　義手忍具</text>
+<text id="10025011">義手忍具の装備スロットが解禁されました
+
+義手忍具は、3つのスロットに任意の義手忍具を装備でき、
+切り替えて使う事ができます
+
+装備選択画面で、
+&lt;?kgicon@2010?&gt;で操作方法が確認できます</text>
+<text id="10025012">%null%</text>
+<text id="10025013">%null%</text>
+<text id="10025014">%null%</text>
+<text id="10025015">%null%</text>
+<text id="10025016">%null%</text>
+<text id="10025017">%null%</text>
+<text id="10025018">%null%</text>
+<text id="10025019">%null%</text>
+<text id="10025020">スキルメニュー</text>
+<text id="10025021">スキルメニューでは、
+現在習得しているスキルの確認ができます
+
+&lt;?kgicon@2014?&gt;と&lt;?kgicon@2015?&gt;で各種カテゴリを選択できます
+
+流派技の付け替えは、装備メニューで行うことができます</text>
+<text id="10025022">%null%</text>
+<text id="10025023">%null%</text>
+<text id="10025024">%null%</text>
+<text id="10025025">%null%</text>
+<text id="10025026">%null%</text>
+<text id="10025027">%null%</text>
+<text id="10025028">%null%</text>
+<text id="10025029">%null%</text>
+<text id="10025030">装備メニュー　忍殺忍術</text>
+<text id="10025031">忍殺忍術の装備スロットが解禁されました
+
+スロットに、1つだけ任意の忍殺忍術を装備できます</text>
+<text id="10025050">仏渡り</text>
+<text id="10025051">仏渡りメニューが解禁されました
+
+仏渡りメニューでは、
+すでに対座したことのある鬼仏を選択し、
+そこまで即座に移動することができます</text>
+<text id="10025070">身体力の成長</text>
+<text id="10025071">身体力の成長メニューが解禁されました
+
+&lt;?gdsparam@4000?&gt;を4つ消費し、
+数珠玉を束ねた念珠を入手することで
+身体力を成長させることができます
+
+身体力が成長すると、ＨＰと体幹の最大値が上がります</text>
+<text id="10025090">義手忍具の仕込み</text>
+<text id="10025091">義手忍具仕込みメニューでは、
+忍具を消費して、義手忍具を作成できます</text>
+<text id="10025092">%null%</text>
+<text id="10025093">%null%</text>
+<text id="10025094">%null%</text>
+<text id="10025095">%null%</text>
+<text id="10025096">%null%</text>
+<text id="10025097">%null%</text>
+<text id="10025098">%null%</text>
+<text id="10025099">%null%</text>
+<text id="10025100">強化義手忍具の作成</text>
+<text id="10025101">強化義手忍具の作成メニューでは、
+筒薬と銭を消費して、強化した義手忍具を作成できます
+
+強化義手忍具の作成には、対応する義手忍具の入手が必要です
+また、親となる強化義手忍具が作成済みである必要もあります
+
+強化義手忍具作成後も、強化前の義手忍具が失われることはありません</text>
+<text id="10025102">%null%</text>
+<text id="10025103">%null%</text>
+<text id="10025104">%null%</text>
+<text id="10025105">%null%</text>
+<text id="10025106">%null%</text>
+<text id="10025107">%null%</text>
+<text id="10025108">%null%</text>
+<text id="10025109">%null%</text>
+<text id="10025110">スキルの習得</text>
+<text id="10025111">スキル習得メニューでは、
+スキルポイントを消費して、新たなスキルを習得できます
+新たな流派を解禁するには、専用の伝書が必要になります
+
+スキルには、「流派技」「忍びの体術」「常在効果」があります
+「流派技」は装備メニューで装備することで使用可能になり、
+「忍びの体術」「常在効果」は習得するだけで効果が発動します</text>
+<text id="10025140">スキル習得</text>
+<text id="10025141">スキル習得メニューが解禁されました
+
+スキル習得メニューでは、
+スキルポイントを消費し、任意のスキルを習得することができます</text>
+<text id="10025200">所持品メニュー</text>
+<text id="10025201">所持品メニューでは、
+現在所持しているアイテムの確認ができます
+
+&lt;?kgicon@2014?&gt;と&lt;?kgicon@2015?&gt;で各種カテゴリを選択できます</text>
+<text id="10025202">%null%</text>
+<text id="10025203">%null%</text>
+<text id="10025204">%null%</text>
+<text id="10025205">%null%</text>
+<text id="10025206">%null%</text>
+<text id="10025207">%null%</text>
+<text id="10025208">%null%</text>
+<text id="10025209">%null%</text>
+<text id="10025210">装備メニュー　流派技</text>
+<text id="10025211">流派技の装備スロットが解禁されました
+
+スロットに、1つだけ任意の流派技を装備できます</text>
+<text id="10025212">%null%</text>
+<text id="10025213">%null%</text>
+<text id="10025214">%null%</text>
+<text id="10025215">%null%</text>
+<text id="10025216">%null%</text>
+<text id="10025217">%null%</text>
+<text id="10025218">%null%</text>
+<text id="10025219">%null%</text>
+<text id="10025220">攻め力の成長</text>
+<text id="10025221">攻め力の成長メニューが解禁されました
+
+戦いの記憶を消費し、
+攻め力を成長させることができます
+
+攻め力が成長すると、
+敵のＨＰと体幹に与えるダメージが増加します</text>
+<text id="10025222">%null%</text>
+<text id="10025223">%null%</text>
+<text id="10025224">%null%</text>
+<text id="10025225">%null%</text>
+<text id="10025226">%null%</text>
+<text id="10025227">%null%</text>
+<text id="10025228">%null%</text>
+<text id="10025229">%null%</text>
+<text id="10025230">鬼仏メニュー</text>
+<text id="10025231">葦名の国に点在する鬼仏を開放し、
+対座することで各種機能を利用できます
+
+休息すると、ＨＰが全快し、&lt;?gdsparam@3000?&gt;の回数や、
+所持上限を超えて鬼仏に転送されたアイテムが補充されますが、
+一部を除く全ての敵が復活します
+死亡後は、最後に対座した鬼仏から再開されます</text>
+<text id="10025232">%null%</text>
+<text id="10025233">%null%</text>
+<text id="10025234">%null%</text>
+<text id="10025235">%null%</text>
+<text id="10025236">%null%</text>
+<text id="10025237">%null%</text>
+<text id="10025238">%null%</text>
+<text id="10025239">%null%</text>
+<text id="10025240">竜咳の快復</text>
+<text id="10025241">竜咳の快復メニューが解禁されました
+
+「&lt;?gdsparam@5600?&gt;」を消費して、
+竜咳に罹った患者を快復させることができます</text>
+<text id="10025260">姿変え</text>
+<text id="10025261">姿変えメニューでは
+狼の外見を変更することができます
+
+どの姿を選択しても、狼の能力は変わりません
+
+「別の記憶」を入手することで、
+変更できる姿が増えます</text>
+<text id="10025262">%null%</text>
+<text id="10025263">%null%</text>
+<text id="10025264">%null%</text>
+<text id="10025265">%null%</text>
+<text id="10025266">%null%</text>
+<text id="10025267">%null%</text>
+<text id="10025268">%null%</text>
+<text id="10025269">%null%</text>
+<text id="10025270">類稀な強者との再戦</text>
+<text id="10025271">戦いの記憶の中で、撃破済みの類稀な強者を一体選択し、
+再戦することができます
+
+記憶の中では、狼の攻め力が固定になります
+また、元の世界に戻ると、
+消費したアイテムと形代は、元の状態に戻ります</text>
+<text id="10025272">%null%</text>
+<text id="10025273">%null%</text>
+<text id="10025274">%null%</text>
+<text id="10025275">%null%</text>
+<text id="10025276">%null%</text>
+<text id="10025277">%null%</text>
+<text id="10025278">%null%</text>
+<text id="10025279">%null%</text>
+<text id="10025280">類稀な強者との連戦</text>
+<text id="10025281">戦いの記憶を辿り、撃破済みの類稀な強者たちと連続で戦います
+
+一体ずつ順に戦い、倒すと次の強者へ進むことができます
+敗北すると挑戦失敗となり、元の世界に戻ります
+
+記憶の中では、狼の攻め力が固定になります
+また、元の世界に戻ると、消費したアイテムと形代は元の状態に戻ります</text>
+<text id="10025300">姿変え</text>
+<text id="10025301">姿変えメニューが解禁されました
+
+姿変えメニューでは、所持している「別の記憶」に応じて、
+外見を変更することができます</text>
+<text id="10025302">%null%</text>
+<text id="10025303">%null%</text>
+<text id="10025304">%null%</text>
+<text id="10025305">%null%</text>
+<text id="10025306">%null%</text>
+<text id="10025307">%null%</text>
+<text id="10025308">%null%</text>
+<text id="10025309">%null%</text>
+<text id="10025310">類稀な強者との再戦</text>
+<text id="10025311">類稀な強者との再戦メニューが解禁されました
+
+類稀な強者との再戦メニューでは、
+撃破済みの類稀な強者と再戦することができます</text>
+<text id="10025312">%null%</text>
+<text id="10025313">%null%</text>
+<text id="10025314">%null%</text>
+<text id="10025315">%null%</text>
+<text id="10025316">%null%</text>
+<text id="10025317">%null%</text>
+<text id="10025318">%null%</text>
+<text id="10025319">%null%</text>
+<text id="10025320">類稀な強者との連戦</text>
+<text id="10025321">類稀な強者との連戦メニューが解禁されました
+
+類稀な強者との連戦メニューでは、
+撃破済みの類稀な強者たちと連戦することができます</text>
+<text id="10025322">%null%</text>
+<text id="10025323">%null%</text>
+<text id="10025324">%null%</text>
+<text id="10025325">%null%</text>
+<text id="10025326">%null%</text>
+<text id="10025327">%null%</text>
+<text id="10025328">%null%</text>
+<text id="10025329">%null%</text>
+<text id="10025330">記憶の連戦・死闘踏破</text>
+<text id="10025331">戦いの記憶を辿り、全ての類稀な強者たちと連戦します
+
+見返りのない長き死闘の道です</text>
+<text id="10025332">%null%</text>
+<text id="10025333">%null%</text>
+<text id="10025334">%null%</text>
+<text id="10025335">%null%</text>
+<text id="10025336">%null%</text>
+<text id="10025337">%null%</text>
+<text id="10025338">%null%</text>
+<text id="10025339">%null%</text>
+<text id="10025340">残影</text>
+<text id="10025341">忍びは、一定時間の行動を「残影」として残すことができます
+残影が評価されると、ＨＰが回復します
+
+「記録した残影一覧」タブから任意のスロットを選び、残影を記録できます
+また、残影には覚え書きの付与も行えます
+
+スロットを選んで&lt;?kgiconKc@33?&gt;:残影記録の開始</text>
+<text id="10025342">%null%</text>
+<text id="10025343">%null%</text>
+<text id="10025344">%null%</text>
+<text id="10025345">%null%</text>
+<text id="10025346">%null%</text>
+<text id="10025347">%null%</text>
+<text id="10025348">%null%</text>
+<text id="10025349">%null%</text>
+<text id="10025350">確認した残影一覧</text>
+<text id="10025351">「確認した残影一覧」タブでは
+過去に見たことのある他者の残影が一覧で表示されます
+
+また、ここから確認した残影を評価することもできます</text>
+<text id="10025352">%null%</text>
+<text id="10025353">%null%</text>
+<text id="10025354">%null%</text>
+<text id="10025355">%null%</text>
+<text id="10025356">%null%</text>
+<text id="10025357">%null%</text>
+<text id="10025358">%null%</text>
+<text id="10025359">%null%</text>
+<text id="10025360">覚え書きの付与</text>
+<text id="10025361">残影には、覚え書きを付与することができます
+
+覚え書きは、ベース文と単語を選択して編集します
+覚え書きの構成を選択すると、2文目を追加することもできます
+
+「残影記録を開始」を選択すると、記録が開始されます</text>
+<text id="10025362">%null%</text>
+<text id="10025363">%null%</text>
+<text id="10025364">%null%</text>
+<text id="10025365">%null%</text>
+<text id="10025366">%null%</text>
+<text id="10025367">%null%</text>
+<text id="10025368">%null%</text>
+<text id="10025369">%null%</text>
+<text id="10025370">類稀な強者の新たな境地</text>
+<text id="10025371">戦いの記憶の中で、類稀な強者の新たな境地を見出しました
+
+「心中の弦一郎」とは
+類稀な強者との再戦でも戦うことができます</text>
+<text id="10025372">%null%</text>
+<text id="10025373">%null%</text>
+<text id="10025374">%null%</text>
+<text id="10025375">%null%</text>
+<text id="10025376">%null%</text>
+<text id="10025377">%null%</text>
+<text id="10025378">%null%</text>
+<text id="10025379">%null%</text>
+<text id="10025380">類稀な強者の新たな境地</text>
+<text id="10025381">戦いの記憶の中で、類稀な強者の新たな境地を見出しました
+
+「心中の義父」とは
+類稀な強者との再戦でも戦うことができます</text>
+<text id="10025382">%null%</text>
+<text id="10025383">%null%</text>
+<text id="10025384">%null%</text>
+<text id="10025385">%null%</text>
+<text id="10025386">%null%</text>
+<text id="10025387">%null%</text>
+<text id="10025388">%null%</text>
+<text id="10025389">%null%</text>
+<text id="10025390">類稀な強者の新たな境地</text>
+<text id="10025391">戦いの記憶の中で、類稀な強者の新たな境地を見出しました
+
+「心中の一心」とは
+類稀な強者との再戦でも戦うことができます</text>
+<text id="10090000">装備メニュー</text>
+<text id="10090001">装備の付け替えや確認するメニュー
+
+義手忍具装備メニューでは
+各種義手忍具の派生攻撃リストも確認できる</text>
+<text id="10090002">%null%</text>
+<text id="10090003">%null%</text>
+<text id="10090004">%null%</text>
+<text id="10090005">%null%</text>
+<text id="10090006">%null%</text>
+<text id="10090007">%null%</text>
+<text id="10090008">%null%</text>
+<text id="10090009">%null%</text>
+<text id="10090010">貴重品メニュー</text>
+<text id="10090011">貴重品の確認ができるメニュー
+
+選択することで、貴重品の内容を確認できる</text>
+<text id="10090012">%null%</text>
+<text id="10090013">%null%</text>
+<text id="10090014">%null%</text>
+<text id="10090015">%null%</text>
+<text id="10090016">%null%</text>
+<text id="10090017">%null%</text>
+<text id="10090018">%null%</text>
+<text id="10090019">%null%</text>
+<text id="10090020">地図メニュー</text>
+<text id="10090021">葦名の国の地図を表示するメニュー
+現在地を確認することができる</text>
+<text id="10090022">%null%</text>
+<text id="10090023">%null%</text>
+<text id="10090024">%null%</text>
+<text id="10090025">%null%</text>
+<text id="10090026">%null%</text>
+<text id="10090027">%null%</text>
+<text id="10090028">%null%</text>
+<text id="10090029">%null%</text>
+<text id="10090030">設定メニュー</text>
+<text id="10090031">各種設定の確認と変更を行うメニュー
+
+「ゲーム終了」を選択すると
+ゲームを保存して終了することができる
+</text>
+<text id="10090032">%null%</text>
+<text id="10090033">%null%</text>
+<text id="10090034">%null%</text>
+<text id="10090035">%null%</text>
+<text id="10090036">%null%</text>
+<text id="10090037">%null%</text>
+<text id="10090038">%null%</text>
+<text id="10090039">%null%</text>
+<text id="10090040">装備メニュー</text>
+<text id="10090041">装備メニューでは、使用アイテムを装備できる
+
+装備スロットを選択して&lt;?kgiconKc@33?&gt;:使用アイテムを装備</text>
+<text id="10090042">%null%</text>
+<text id="10090043">%null%</text>
+<text id="10090044">%null%</text>
+<text id="10090045">%null%</text>
+<text id="10090046">%null%</text>
+<text id="10090047">%null%</text>
+<text id="10090048">%null%</text>
+<text id="10090049">%null%</text>
+<text id="10090050">技能メニュー</text>
+<text id="10090051">&lt;?gdsparam@1200?&gt;を消費して
+体術スキル/剣術スキルを
+習得できるメニュー</text>
+<text id="11000000">はい</text>
+<text id="11000001">いいえ</text>
+<text id="11000020">戦闘チュートリアルを始めますか？</text>
+<text id="11010030">刀は避けず、弾くもの</text>
+<text id="11010031">ただし、&lt;?kgiconKc@6?&gt;は回避にあらず
+刀は避けるのではなく、&lt;?kgiconKc@18?&gt;で弾くもの
+刀を前にして、不用意に宙を跳ぶのは、
+愚か者のすること</text>
+<text id="11010060">手裏剣</text>
+<text id="11010061">犬のような動きが早い敵には
+&lt;?wepparam@70000?&gt;が有効
+&lt;?wepparam@70000?&gt;で、すべての犬を撃退せよ</text>
+<text id="11010062">%null%</text>
+<text id="11010063">%null%</text>
+<text id="11010064">%null%</text>
+<text id="11010065">%null%</text>
+<text id="11010066">%null%</text>
+<text id="11010067">%null%</text>
+<text id="11010068">%null%</text>
+<text id="11010069">%null%</text>
+<text id="11010070">蹴り</text>
+<text id="11010071">蹴りでは距離を詰められる
+&lt;?kgiconKc@6?&gt;で距離を詰めながら、敵を倒すべし</text>
+<text id="11010072">%null%</text>
+<text id="11010073">%null%</text>
+<text id="11010074">%null%</text>
+<text id="11010075">%null%</text>
+<text id="11010076">%null%</text>
+<text id="11010077">%null%</text>
+<text id="11010078">%null%</text>
+<text id="11010079">%null%</text>
+<text id="11010080">見切り</text>
+<text id="11010081">敵の突き攻撃は、&lt;?kgiconKc@5?&gt;で見切れる
+&lt;?kgiconKc@5?&gt;で見切って、敵を忍殺せよ</text>
+<text id="11010082">%null%</text>
+<text id="11010083">%null%</text>
+<text id="11010084">%null%</text>
+<text id="11010085">%null%</text>
+<text id="11010086">%null%</text>
+<text id="11010087">%null%</text>
+<text id="11010088">%null%</text>
+<text id="11010089">%null%</text>
+<text id="11010090">はやて斬り</text>
+<text id="11010091">はやて斬りは、手裏剣を投げたあと
+それを追うように斬り込む技
+はやて斬りを使い、敵を倒すべし</text>
+<text id="11100000">攻撃</text>
+<text id="11100001">忍びの攻撃は、「体幹」を削り取るためにある
+攻撃を重ねると、やがて敵は体勢を崩す
+
+体勢を崩せば、「忍殺」で一撃で殺せるだろう
+
+”敵を攻撃して崩し、3回忍殺せよ”
+
+&lt;?kgiconKc@16?&gt;:攻撃
+体勢が崩れた敵に&lt;?kgiconKc@16?&gt;:忍殺</text>
+<text id="11100002">%null%</text>
+<text id="11100003">%null%</text>
+<text id="11100004">%null%</text>
+<text id="11100005">%null%</text>
+<text id="11100006">%null%</text>
+<text id="11100007">%null%</text>
+<text id="11100008">%null%</text>
+<text id="11100009">%null%</text>
+<text id="11100010">弾き</text>
+<text id="11100011">打ち込むばかりでは、崩せない相手もいる
+
+敵の攻撃を弾けば、
+その勢いを利用して体幹を削ることができる
+忍びの防御は、同時に攻撃を兼ね備えるのだ
+
+”敵の攻撃を弾き、3回忍殺せよ”
+
+敵の攻撃に合わせて&lt;?kgiconKc@18?&gt;:弾き
+体勢が崩れた敵に&lt;?kgiconKc@16?&gt;:忍殺</text>
+<text id="11100012">%null%</text>
+<text id="11100013">%null%</text>
+<text id="11100014">%null%</text>
+<text id="11100015">%null%</text>
+<text id="11100016">%null%</text>
+<text id="11100017">%null%</text>
+<text id="11100018">%null%</text>
+<text id="11100019">%null%</text>
+<text id="11100020">斬り返し</text>
+<text id="11100021">攻撃を弾き、すかさず「斬り返し」をする
+
+そうすれば、敵に休む間を与えず、
+体幹ダメージを与えられる
+
+”弾きと攻撃を交互に行い、3回忍殺せよ”
+
+敵の攻撃に合わせて&lt;?kgiconKc@18?&gt;:弾き
+弾き後に&lt;?kgiconKc@16?&gt;:斬り返し</text>
+<text id="11100022">%null%</text>
+<text id="11100023">%null%</text>
+<text id="11100024">%null%</text>
+<text id="11100025">%null%</text>
+<text id="11100026">%null%</text>
+<text id="11100027">%null%</text>
+<text id="11100028">%null%</text>
+<text id="11100029">%null%</text>
+<text id="11100030">回避</text>
+<text id="11100031">ステップを使えば、敵の攻撃を回避できる
+
+回避しても敵の体幹は削れないが、
+ステップ後の攻撃は隙を突きやすいため
+ＨＰを削ることに向いている
+
+”敵の攻撃を避けて攻撃し、3回忍殺せよ”
+
+&lt;?kgiconKc@5?&gt;:ステップ
+敵の攻撃を回避して&lt;?kgiconKc@16?&gt;:ステップ後攻撃</text>
+<text id="11100032">%null%</text>
+<text id="11100033">%null%</text>
+<text id="11100034">%null%</text>
+<text id="11100035">%null%</text>
+<text id="11100036">%null%</text>
+<text id="11100037">%null%</text>
+<text id="11100038">%null%</text>
+<text id="11100039">%null%</text>
+<text id="11100040">ＨＰと体幹</text>
+<text id="11100041">自分も敵も、ＨＰが減ると体幹回復が遅くなる
+
+なかなか体勢が崩れない敵は、
+ステップ後攻撃などでＨＰを削り、
+そこから体幹を崩すのが良い
+
+”敵を3回忍殺せよ”
+
+&lt;?kgiconKc@5?&gt;:ステップ
+敵の攻撃を回避して&lt;?kgiconKc@16?&gt;:ステップ後攻撃</text>
+<text id="11100042">%null%</text>
+<text id="11100043">%null%</text>
+<text id="11100044">%null%</text>
+<text id="11100045">%null%</text>
+<text id="11100046">%null%</text>
+<text id="11100047">%null%</text>
+<text id="11100048">%null%</text>
+<text id="11100049">%null%</text>
+<text id="11100050">突き攻撃への対処</text>
+<text id="11100051">突きはガードできない
+ゆえに受けようとするものではない
+
+弾きやステップで、対処すると良い
+
+”敵の突きに対処し、3回忍殺せよ”
+
+敵の突き攻撃に合わせて&lt;?kgiconKc@18?&gt;:弾く
+&lt;?kgiconKc@5?&gt;:ステップ</text>
+<text id="11100052">%null%</text>
+<text id="11100053">%null%</text>
+<text id="11100054">%null%</text>
+<text id="11100055">%null%</text>
+<text id="11100056">%null%</text>
+<text id="11100057">%null%</text>
+<text id="11100058">%null%</text>
+<text id="11100059">%null%</text>
+<text id="11100060">下段攻撃への対処</text>
+<text id="11100061">下段攻撃は、ガードも弾くこともできない
+だが、ジャンプで回避はできる
+空中から蹴り込めば、体幹を大きく削り取る
+体勢を崩した時は、そのまま忍殺もできる
+
+”敵の下段攻撃に対処し、3回忍殺せよ”
+
+&lt;?kgiconKc@6?&gt;:ジャンプ
+ジャンプ中に&lt;?kgiconKc@6?&gt;:空中蹴り</text>
+<text id="11100062">%null%</text>
+<text id="11100063">%null%</text>
+<text id="11100064">%null%</text>
+<text id="11100065">%null%</text>
+<text id="11100066">%null%</text>
+<text id="11100067">%null%</text>
+<text id="11100068">%null%</text>
+<text id="11100069">%null%</text>
+<text id="11100070">見切り</text>
+<text id="11100071">忍びの目ならば、鋭い突きの動きも捉えられる
+
+敵の突き攻撃に対して
+前方向のステップで刃を踏みつけ、
+弾きよりも、大きな体幹ダメージを与える
+
+”見切りを使い、3回忍殺せよ”
+
+敵の突き攻撃に合わせて&lt;?kgiconKc@5?&gt;:見切り</text>
+<text id="11100072">%null%</text>
+<text id="11100073">%null%</text>
+<text id="11100074">%null%</text>
+<text id="11100075">%null%</text>
+<text id="11100076">%null%</text>
+<text id="11100077">%null%</text>
+<text id="11100078">%null%</text>
+<text id="11100079">%null%</text>
+<text id="11100080">崩し裏回り</text>
+<text id="11100081">体勢が崩れた敵に、「崩し裏回り」を使うことで、
+敵の背面に回り込むことができ
+そのまま背後忍殺ができる
+
+”裏回りを使い、3回背後忍殺せよ”
+
+体勢が崩れた敵の前で&lt;?kgiconKc@6?&gt;:崩し裏回り</text>
+<text id="11100082">%null%</text>
+<text id="11100083">%null%</text>
+<text id="11100084">%null%</text>
+<text id="11100085">%null%</text>
+<text id="11100086">%null%</text>
+<text id="11100087">%null%</text>
+<text id="11100088">%null%</text>
+<text id="11100089">%null%</text>
+<text id="11100090">連続弾き</text>
+<text id="11100091">一度の弾きで敵の攻撃が止まらないこともある
+
+敵の連続攻撃には、「連続弾き」で対応できる
+全てを弾ききれば、
+敵の体幹を大きく削ることができるだろう
+
+”敵の連続攻撃を全て弾き、3回忍殺せよ”
+
+敵の連撃に合わせ連続で&lt;?kgiconKc@18?&gt;:連続弾き
+体勢が崩れた敵に&lt;?kgiconKc@16?&gt;:忍殺</text>
+<text id="11101000">剣戟</text>
+<text id="11101001">&lt;?kgiconKc@16?&gt;:攻撃
+敵の攻撃に合わせて&lt;?kgiconKc@18?&gt;:弾き
+体勢が崩れた敵に&lt;?kgiconKc@16?&gt;:忍殺</text>
+<text id="11101002">%null%</text>
+<text id="11101003">%null%</text>
+<text id="11101004">%null%</text>
+<text id="11101005">%null%</text>
+<text id="11101006">%null%</text>
+<text id="11101007">%null%</text>
+<text id="11101008">%null%</text>
+<text id="11101009">%null%</text>
+<text id="11101010">回避と反撃</text>
+<text id="11101011">&lt;?kgiconKc@5?&gt;:ステップ
+敵の攻撃を回避して&lt;?kgiconKc@16?&gt;:攻撃</text>
+<text id="11101012">%null%</text>
+<text id="11101013">%null%</text>
+<text id="11101014">%null%</text>
+<text id="11101015">%null%</text>
+<text id="11101016">%null%</text>
+<text id="11101017">%null%</text>
+<text id="11101018">%null%</text>
+<text id="11101019">%null%</text>
+<text id="11101020">下段攻撃への対処</text>
+<text id="11101021">&lt;?kgiconKc@6?&gt;:ジャンプ
+ジャンプ中に&lt;?kgiconKc@6?&gt;:空中蹴り</text>
+<text id="11101022">%null%</text>
+<text id="11101023">%null%</text>
+<text id="11101024">%null%</text>
+<text id="11101025">%null%</text>
+<text id="11101026">%null%</text>
+<text id="11101027">%null%</text>
+<text id="11101028">%null%</text>
+<text id="11101029">%null%</text>
+<text id="11101030">模擬戦(基礎)</text>
+<text id="11101031">今までの修練を活かし、戦いましょう</text>
+<text id="11101032">%null%</text>
+<text id="11101033">%null%</text>
+<text id="11101034">%null%</text>
+<text id="11101035">%null%</text>
+<text id="11101036">%null%</text>
+<text id="11101037">%null%</text>
+<text id="11101038">%null%</text>
+<text id="11101039">%null%</text>
+<text id="11101040">模擬戦(応用)</text>
+<text id="11101041">今までの修練を活かし、
+多彩になった攻撃に対処して、戦いましょう</text>
+<text id="11101042">%null%</text>
+<text id="11101043">%null%</text>
+<text id="11101044">%null%</text>
+<text id="11101045">%null%</text>
+<text id="11101046">%null%</text>
+<text id="11101047">%null%</text>
+<text id="11101048">%null%</text>
+<text id="11101049">%null%</text>
+<text id="11101050">ＨＰと体幹(その一)</text>
+<text id="11101051">敵の体幹回復が速いので
+まずはステップ後攻撃でＨＰを削りましょう</text>
+<text id="11101052">%null%</text>
+<text id="11101053">%null%</text>
+<text id="11101054">%null%</text>
+<text id="11101055">%null%</text>
+<text id="11101056">%null%</text>
+<text id="11101057">%null%</text>
+<text id="11101058">%null%</text>
+<text id="11101059">%null%</text>
+<text id="11101060">ＨＰと体幹(その二)</text>
+<text id="11101061">敵のＨＰを十分減らしたので、
+体幹回復が遅くなりました
+
+次は体幹を削って忍殺しましょう</text>
+<text id="11101062">%null%</text>
+<text id="11101063">%null%</text>
+<text id="11101064">%null%</text>
+<text id="11101065">%null%</text>
+<text id="11101066">%null%</text>
+<text id="11101067">%null%</text>
+<text id="11101068">%null%</text>
+<text id="11101069">%null%</text>
+<text id="11101070">ガード中の体幹回復速度</text>
+<text id="11101071">ガード中は、体幹の回復が早くなる
+
+&lt;?kgiconKc@18?&gt;長押し:ガード</text>
+<text id="11101072">%null%</text>
+<text id="11101073">%null%</text>
+<text id="11101074">%null%</text>
+<text id="11101075">%null%</text>
+<text id="11101076">%null%</text>
+<text id="11101077">%null%</text>
+<text id="11101078">%null%</text>
+<text id="11101079">%null%</text>
+<text id="11101080">古い記憶の強者</text>
+<text id="11101081">古い記憶で立ち塞がる強者は、手ごわい
+
+勝つことが難しければ、
+一度古い記憶から抜け出し、
+他のマップで強化してから戻るのも良いだろう</text>
+<text id="11102000">&lt;?kgiconKc@16?&gt;:攻撃</text>
+<text id="11102001">%null%</text>
+<text id="11102002">%null%</text>
+<text id="11102003">%null%</text>
+<text id="11102004">%null%</text>
+<text id="11102005">%null%</text>
+<text id="11102006">%null%</text>
+<text id="11102007">%null%</text>
+<text id="11102008">%null%</text>
+<text id="11102009">%null%</text>
+<text id="11102010">敵の攻撃に合わせて&lt;?kgiconKc@18?&gt;:弾き</text>
+<text id="11102011">%null%</text>
+<text id="11102012">%null%</text>
+<text id="11102013">%null%</text>
+<text id="11102014">%null%</text>
+<text id="11102015">%null%</text>
+<text id="11102016">%null%</text>
+<text id="11102017">%null%</text>
+<text id="11102018">%null%</text>
+<text id="11102019">%null%</text>
+<text id="11102020">体勢が崩れた敵に&lt;?kgiconKc@16?&gt;:忍殺</text>
+<text id="11102021">%null%</text>
+<text id="11102022">%null%</text>
+<text id="11102023">%null%</text>
+<text id="11102024">%null%</text>
+<text id="11102025">%null%</text>
+<text id="11102026">%null%</text>
+<text id="11102027">%null%</text>
+<text id="11102028">%null%</text>
+<text id="11102029">%null%</text>
+<text id="11102030">敵の突き攻撃に合わせて&lt;?kgiconKc@18?&gt;:弾き</text>
+<text id="11102031">%null%</text>
+<text id="11102032">%null%</text>
+<text id="11102033">%null%</text>
+<text id="11102034">%null%</text>
+<text id="11102035">%null%</text>
+<text id="11102036">%null%</text>
+<text id="11102037">%null%</text>
+<text id="11102038">%null%</text>
+<text id="11102039">%null%</text>
+<text id="11102040">敵の突き攻撃に合わせて&lt;?kgiconKc@5?&gt;:見切り</text>
+<text id="11102041">%null%</text>
+<text id="11102042">%null%</text>
+<text id="11102043">%null%</text>
+<text id="11102044">%null%</text>
+<text id="11102045">%null%</text>
+<text id="11102046">%null%</text>
+<text id="11102047">%null%</text>
+<text id="11102048">%null%</text>
+<text id="11102049">%null%</text>
+<text id="11102050">体勢が崩れた敵の前で&lt;?kgiconKc@6?&gt;:崩し裏回り</text>
+<text id="11102051">%null%</text>
+<text id="11102052">%null%</text>
+<text id="11102053">%null%</text>
+<text id="11102054">%null%</text>
+<text id="11102055">%null%</text>
+<text id="11102056">%null%</text>
+<text id="11102057">%null%</text>
+<text id="11102058">%null%</text>
+<text id="11102059">%null%</text>
+<text id="11102060">&lt;?kgiconKc@5?&gt;:ステップ</text>
+<text id="11102061">%null%</text>
+<text id="11102062">%null%</text>
+<text id="11102063">%null%</text>
+<text id="11102064">%null%</text>
+<text id="11102065">%null%</text>
+<text id="11102066">%null%</text>
+<text id="11102067">%null%</text>
+<text id="11102068">%null%</text>
+<text id="11102069">%null%</text>
+<text id="11102070">敵の攻撃を回避して&lt;?kgiconKc@16?&gt;:攻撃</text>
+<text id="11102071">%null%</text>
+<text id="11102072">%null%</text>
+<text id="11102073">%null%</text>
+<text id="11102074">%null%</text>
+<text id="11102075">%null%</text>
+<text id="11102076">%null%</text>
+<text id="11102077">%null%</text>
+<text id="11102078">%null%</text>
+<text id="11102079">%null%</text>
+<text id="11102080">まずはHPを削りましょう</text>
+<text id="11102081">%null%</text>
+<text id="11102082">%null%</text>
+<text id="11102083">%null%</text>
+<text id="11102084">%null%</text>
+<text id="11102085">%null%</text>
+<text id="11102086">%null%</text>
+<text id="11102087">%null%</text>
+<text id="11102088">%null%</text>
+<text id="11102089">%null%</text>
+<text id="11102090">次は体幹を削りましょう</text>
+<text id="11102091">%null%</text>
+<text id="11102092">%null%</text>
+<text id="11102093">%null%</text>
+<text id="11102094">%null%</text>
+<text id="11102095">%null%</text>
+<text id="11102096">%null%</text>
+<text id="11102097">%null%</text>
+<text id="11102098">%null%</text>
+<text id="11102099">%null%</text>
+<text id="11102100">&lt;?kgiconKc@16?&gt;:背後忍殺</text>
+<text id="12000000">首が惜しくば、引き返せ
+
+首が無いゆえ、首を落とせぬ
+刀も槍も、通じぬぞ</text>
+<text id="12000001">お堂の張り紙</text>
+<text id="12000002">%null%</text>
+<text id="12000003">%null%</text>
+<text id="12000004">%null%</text>
+<text id="12000005">%null%</text>
+<text id="12000006">%null%</text>
+<text id="12000007">%null%</text>
+<text id="12000008">%null%</text>
+<text id="12000009">%null%</text>
+<text id="12000010">古戦の掛け軸</text>
+<text id="12000011">かつて葦名に、あやかし来たり
+
+あやかしの雷は、源の神鳴り
+神業無くば、弾き返せぬ
+
+即ち、地に足つけぬ、雷返しなり</text>
+<text id="12000012">%null%</text>
+<text id="12000013">%null%</text>
+<text id="12000014">%null%</text>
+<text id="12000015">%null%</text>
+<text id="12000016">%null%</text>
+<text id="12000017">%null%</text>
+<text id="12000018">%null%</text>
+<text id="12000019">%null%</text>
+<text id="12000020">崩れた供養塔</text>
+<text id="12000021">国盗られ刑死した
+葦名衆の荒ぶる御霊
+
+ここに鎮める</text>
+<text id="12000022">%null%</text>
+<text id="12000023">%null%</text>
+<text id="12000024">%null%</text>
+<text id="12000025">%null%</text>
+<text id="12000026">%null%</text>
+<text id="12000027">%null%</text>
+<text id="12000028">%null%</text>
+<text id="12000029">%null%</text>
+<text id="12000030">落ち谷衆の記録</text>
+<text id="12000031">落ち谷の衆は、白蛇を崇める者どもだ
+異敵と見れば、撃ち殺す
+
+中でも、蛇の目の石火矢、あな恐ろしや
+
+かの女衆、稀な目を持ち
+遥か彼方を容易く射抜く</text>
+<text id="12000230">エマへ</text>
+<text id="12000231">所用有り
+心配無用</text>
+<text id="12000232">%null%</text>
+<text id="12000233">%null%</text>
+<text id="12000234">%null%</text>
+<text id="12000235">%null%</text>
+<text id="12000236">%null%</text>
+<text id="12000237">%null%</text>
+<text id="12000238">%null%</text>
+<text id="12000239">%null%</text>
+<text id="12000240">隻狼へ</text>
+<text id="12000241">今度は落ち谷の入り口
+白蛇神社のあたりが、騒がしい
+天狗が鼠を見てくるぞ</text>
+<text id="12000242">%null%</text>
+<text id="12000243">%null%</text>
+<text id="12000244">%null%</text>
+<text id="12000245">%null%</text>
+<text id="12000246">%null%</text>
+<text id="12000247">%null%</text>
+<text id="12000248">%null%</text>
+<text id="12000249">%null%</text>
+<text id="12000250">泥々堂の張り紙</text>
+<text id="12000251">ここは泥だらけ、泥まみれ
+
+歩けば、泥が跳ねる
+誰だって、泥が跳ねる</text>
+<text id="12000252">泥々堂の張り紙</text>
+<text id="12000253">ここは泥だらけ、泥まみれ
+
+歩けば、泥が跳ねる
+誰だって、泥が跳ねる
+
+見る猿も、聞く猿も、言う猿も、　　　も…</text>
+<text id="12000254">%null%</text>
+<text id="12000255">%null%</text>
+<text id="12000256">%null%</text>
+<text id="12000257">%null%</text>
+<text id="12000258">%null%</text>
+<text id="12000259">%null%</text>
+<text id="12000260">轟き堂の張り紙</text>
+<text id="12000261">轟き滝は、ごうごうと良く轟く
+轟音ゆえに、物音聞こえず</text>
+<text id="12000262">轟き堂の張り紙</text>
+<text id="12000263">轟き滝は、ごうごうと良く轟く
+
+轟音ゆえに、物音聞こえず
+耳が良くとも、役には立たぬ</text>
+<text id="12000264">%null%</text>
+<text id="12000265">%null%</text>
+<text id="12000266">%null%</text>
+<text id="12000267">%null%</text>
+<text id="12000268">%null%</text>
+<text id="12000269">%null%</text>
+<text id="12000270">灯り堂の張り紙</text>
+<text id="12000271">風前のともし火
+消えれば、何も見えぬ暗闇</text>
+<text id="12000272">灯り堂の張り紙</text>
+<text id="12000273">ほのかな灯りは、消えやすい
+まさに風前のともし火なり
+
+消えてしまえば、そこは暗闇
+見えなくて、心細い
+目が良くとも、怯えるばかり</text>
+<text id="12000274">灯り堂の張り紙</text>
+<text id="12000275">風前のともし火
+消えれば、何も見えぬ暗闇</text>
+<text id="12000276">%null%</text>
+<text id="12000277">%null%</text>
+<text id="12000278">%null%</text>
+<text id="12000279">%null%</text>
+<text id="12000280">奈落堂の張り紙</text>
+<text id="12000281">下に奈落、底は見えず
+上に暗闇、何も見えず</text>
+<text id="12000282">奈落堂の張り紙</text>
+<text id="12000283">下には奈落あり
+上には暗闇あり
+
+登り行けば、そこは見えぬ暗闇
+目が良くとも、怯えるばかり</text>
+<text id="12000284">奈落堂の張り紙</text>
+<text id="12000285">下に奈落、底は見えず
+上に暗闇、何も見えず</text>
+<text id="12000286">%null%</text>
+<text id="12000287">%null%</text>
+<text id="12000288">%null%</text>
+<text id="12000289">%null%</text>
+<text id="12000290">お宿り石の祭壇</text>
+<text id="12000291">お宿りは吉兆ぞ
+かぐわしく、輿入れ奉ろう
+
+輿に入れば、お迎えくださる</text>
+<text id="12000292">%null%</text>
+<text id="12000293">%null%</text>
+<text id="12000294">%null%</text>
+<text id="12000295">%null%</text>
+<text id="12000296">%null%</text>
+<text id="12000297">%null%</text>
+<text id="12000298">%null%</text>
+<text id="12000299">%null%</text>
+<text id="12000300">天狗の書置き</text>
+<text id="12000301">今度は、白蛇の社が、騒がしい
+天狗が鼠を見てくるぞ
+
+隻狼よ、気が向けば参れ</text>
+<text id="12000302">%null%</text>
+<text id="12000303">%null%</text>
+<text id="12000304">%null%</text>
+<text id="12000305">%null%</text>
+<text id="12000306">%null%</text>
+<text id="12000307">%null%</text>
+<text id="12000308">%null%</text>
+<text id="12000309">%null%</text>
+<text id="12000310">御子の書置き</text>
+<text id="12000311">狼へ
+
+　調べ物、有り
+　書庫を開けたので、そちらにおるぞ
+
+　　　　　　　　　　　　　九郎</text>
+<text id="12000312">%null%</text>
+<text id="12000313">%null%</text>
+<text id="12000314">%null%</text>
+<text id="12000315">%null%</text>
+<text id="12000316">%null%</text>
+<text id="12000317">%null%</text>
+<text id="12000318">%null%</text>
+<text id="12000319">%null%</text>
+<text id="12000320">耳潰しの鐘の張り紙</text>
+<text id="12000321">この鐘は、耳潰し
+みだりに鳴らせば、耳も鳴る</text>
+<text id="12000322">%null%</text>
+<text id="12000323">%null%</text>
+<text id="12000324">%null%</text>
+<text id="12000325">%null%</text>
+<text id="12000326">%null%</text>
+<text id="12000327">%null%</text>
+<text id="12000328">%null%</text>
+<text id="12000329">%null%</text>
+<text id="12000330">忍び道の張り紙</text>
+<text id="12000331">忍びの抜け道
+鬼の鐘に通ず</text>
+<text id="12000332">%null%</text>
+<text id="12000333">%null%</text>
+<text id="12000334">%null%</text>
+<text id="12000335">%null%</text>
+<text id="12000336">%null%</text>
+<text id="12000337">%null%</text>
+<text id="12000338">%null%</text>
+<text id="12000339">%null%</text>
+<text id="12000340">鐘の銘文</text>
+<text id="12000341">コノ鐘、撞クベカラズ
+
+厄負ウハ、功徳ナレド
+艱難辛苦ノ荒行ナリ</text>
+<text id="12001000">&lt;?evntAcquittalPrice?&gt;スキルポイントを捧げ、攻め力を強化しますか？</text>
+<text id="12001001">%null%</text>
+<text id="12001002">%null%</text>
+<text id="12001003">%null%</text>
+<text id="12001004">%null%</text>
+<text id="12001005">%null%</text>
+<text id="12001006">%null%</text>
+<text id="12001007">%null%</text>
+<text id="12001008">%null%</text>
+<text id="12001009">%null%</text>
+<text id="12001010">竜咳を快復させますか？</text>
+<text id="12001011">%null%</text>
+<text id="12001012">%null%</text>
+<text id="12001013">%null%</text>
+<text id="12001014">%null%</text>
+<text id="12001015">%null%</text>
+<text id="12001016">%null%</text>
+<text id="12001017">%null%</text>
+<text id="12001018">%null%</text>
+<text id="12001019">%null%</text>
+<text id="12001020">戦いをやめて、元の鬼仏に戻りますか？
+(戦いをやめても、失うものはありません)</text>
+<text id="12001021">%null%</text>
+<text id="12001022">%null%</text>
+<text id="12001023">%null%</text>
+<text id="12001024">%null%</text>
+<text id="12001025">%null%</text>
+<text id="12001026">%null%</text>
+<text id="12001027">%null%</text>
+<text id="12001028">%null%</text>
+<text id="12001029">%null%</text>
+<text id="12001030">戦いをやめて、元の鬼仏に戻りますか？
+(戦いをやめると、連戦の進行状況はリセットされます)</text>
+<text id="12001031">%null%</text>
+<text id="12001032">%null%</text>
+<text id="12001033">%null%</text>
+<text id="12001034">%null%</text>
+<text id="12001035">%null%</text>
+<text id="12001036">%null%</text>
+<text id="12001037">%null%</text>
+<text id="12001038">%null%</text>
+<text id="12001039">%null%</text>
+<text id="12001040">攻め力は限界まで強化されているため、これ以上強化できません
+戦いの記憶を、戦いの残滓に変えますか？</text>
+<text id="12010000">&lt;?gdsparam@2910?&gt;を渡しますか？</text>
+<text id="12010100">本当に御守りを返してもらい、さらなる苦難から逃れますか？
+(一度逃れると、その周回中は、さらなる苦難に戻ることはできません) </text>
+<text id="12011100">さらなる苦難に足を踏み入れますか？</text>
+<text id="12014000">&lt;?evntAcquittalPrice?&gt;銭で&lt;?gdsparam@3040?&gt;を買いますか？</text>
+<text id="12017002">葦名の侍たちが求める品を教えますか？</text>
+<text id="12017003">&lt;?evntAcquittalPrice?&gt;銭を払って情報を買いますか？</text>
+<text id="12022000">&lt;?gdsparam@9215?&gt;を渡しますか？</text>
+<text id="12022001">&lt;?gdsparam@3070?&gt;を渡しますか？</text>
+<text id="12022002">&lt;?gdsparam@3071?&gt;を渡しますか？</text>
+<text id="12023000">回生の力を消費し&lt;?gdsparam@9550?&gt;を作成しますか？</text>
+<text id="12023001">&lt;?gdsparam@4400?&gt;を消費し、&lt;?gdsparam@3000?&gt;の使用回数を増やしますか？</text>
+<text id="12023002">&lt;?gdsparam@9560?&gt;を渡しますか？</text>
+<text id="12090000">&lt;?nextLoopCount?&gt;周目の戦いをはじめると
+現在の&lt;?loopCount?&gt;周目の戦いには戻れません
+&lt;?nextLoopCount?&gt;周目の戦いをはじめてよろしいですか？</text>
+<text id="12095000">&lt;?gdsparam@9100?&gt;を渡しますか？</text>
+<text id="12095001">&lt;?gdsparam@9101?&gt;を渡しますか？</text>
+<text id="12095002">&lt;?gdsparam@9102?&gt;を渡しますか？</text>
+<text id="12095003">&lt;?gdsparam@9103?&gt;を渡しますか？</text>
+<text id="12095004">&lt;?gdsparam@9104?&gt;を渡しますか？</text>
+<text id="12095005">&lt;?gdsparam@9105?&gt;を渡しますか？</text>
+<text id="12095006">%null%</text>
+<text id="12095007">%null%</text>
+<text id="12095008">%null%</text>
+<text id="12095009">%null%</text>
+<text id="12095010">&lt;?gdsparam@9550?&gt;を渡しますか？</text>
+<text id="13000000">&lt;?gdsparam@4400?&gt;を持っていません</text>
+<text id="13000001">&lt;?gdsparam@4400?&gt;を消費し、&lt;?gdsparam@3000?&gt;の使用回数を増やしますか？</text>
+<text id="13000002">&lt;?gdsparam@3000?&gt;の使用回数が増えました</text>
+<text id="13000003">&lt;?gdsparam@3000?&gt;は、これ以上は使用回数を増やせません</text>
+<text id="13000004">%null%</text>
+<text id="13000005">%null%</text>
+<text id="13000006">%null%</text>
+<text id="13000007">%null%</text>
+<text id="13000008">%null%</text>
+<text id="13000009">%null%</text>
+<text id="13000010">&lt;?gdsparam@4000?&gt;を&lt;?evntAcquittalPrice?&gt;個持っていません</text>
+<text id="13000011">&lt;?gdsparam@4000?&gt;を&lt;?evntAcquittalPrice?&gt;個消費し、身体力を成長させますか？</text>
+<text id="13000012">身体力が成長し、ＨＰと体幹の最大値が上昇しました</text>
+<text id="13000013">身体力は、これ以上は成長できません</text>
+<text id="13000014">%null%</text>
+<text id="13000015">%null%</text>
+<text id="13000016">%null%</text>
+<text id="13000017">%null%</text>
+<text id="13000018">%null%</text>
+<text id="13000019">%null%</text>
+<text id="13000020">淀みを抑えるのに必要な&lt;?evntAcquittalPrice?&gt;銭を持っていません</text>
+<text id="13000021">&lt;?evntAcquittalPrice?&gt;銭を鬼仏に捧げ、淀みを抑えますか？</text>
+<text id="13000022">淀みを抑えました</text>
+<text id="13000023">今は竜胤は淀んでいません</text>
+<text id="13000024">%null%</text>
+<text id="13000025">%null%</text>
+<text id="13000026">%null%</text>
+<text id="13000027">%null%</text>
+<text id="13000028">%null%</text>
+<text id="13000029">%null%</text>
+<text id="13000030">&lt;?gdsparam@2100?&gt;を装備しました</text>
+<text id="13000031">&lt;?gdsparam@2110?&gt;を装備しました</text>
+<text id="13000032">&lt;?gdsparam@2120?&gt;を装備しました</text>
+<text id="13000033">%null%</text>
+<text id="13000034">%null%</text>
+<text id="13000035">%null%</text>
+<text id="13000036">%null%</text>
+<text id="13000037">%null%</text>
+<text id="13000038">%null%</text>
+<text id="13000039">%null%</text>
+<text id="13000040">攻め力を強化しました</text>
+<text id="13000041">攻め力は、これ以上強化することはできません</text>
+<text id="13000042">&lt;?gdsparam@5100?&gt;を持っていません</text>
+<text id="13000043">%null%</text>
+<text id="13000044">%null%</text>
+<text id="13000045">%null%</text>
+<text id="13000046">%null%</text>
+<text id="13000047">%null%</text>
+<text id="13000048">%null%</text>
+<text id="13000049">%null%</text>
+<text id="13000050">スキルポイントが不足しています</text>
+<text id="13000051">スキルポイントを捧げて、攻め力を強化しました</text>
+<text id="13000052">攻め力が最大まで強化されました</text>
+<text id="13000053">%null%</text>
+<text id="13000054">%null%</text>
+<text id="13000055">%null%</text>
+<text id="13000056">%null%</text>
+<text id="13000057">%null%</text>
+<text id="13000058">%null%</text>
+<text id="13000059">%null%</text>
+<text id="13000060">全ての竜咳患者が快復しました</text>
+<text id="13000061">%null%</text>
+<text id="13000062">%null%</text>
+<text id="13000063">%null%</text>
+<text id="13000064">%null%</text>
+<text id="13000065">%null%</text>
+<text id="13000066">%null%</text>
+<text id="13000067">%null%</text>
+<text id="13000068">%null%</text>
+<text id="13000069">%null%</text>
+<text id="13000070">&lt;?gdsparam@5600?&gt;を持っていません</text>
+<text id="13000071">%null%</text>
+<text id="13000072">%null%</text>
+<text id="13000073">%null%</text>
+<text id="13000074">%null%</text>
+<text id="13000075">%null%</text>
+<text id="13000076">%null%</text>
+<text id="13000077">%null%</text>
+<text id="13000078">%null%</text>
+<text id="13000079">%null%</text>
+<text id="13000080">誰も竜咳に罹っていません</text>
+<text id="13001700">必要な銭が足りません</text>
+<text id="13010000">作成可能な義手忍具がありません</text>
+<text id="13010001">%null%</text>
+<text id="13010002">%null%</text>
+<text id="13010003">%null%</text>
+<text id="13010004">%null%</text>
+<text id="13010005">%null%</text>
+<text id="13010006">%null%</text>
+<text id="13010007">%null%</text>
+<text id="13010008">%null%</text>
+<text id="13010009">%null%</text>
+<text id="13010010">作成可能な強化義手忍具がありません</text>
+<text id="13010011">%null%</text>
+<text id="13010012">%null%</text>
+<text id="13010013">%null%</text>
+<text id="13010014">%null%</text>
+<text id="13010015">%null%</text>
+<text id="13010016">%null%</text>
+<text id="13010017">%null%</text>
+<text id="13010018">%null%</text>
+<text id="13010019">%null%</text>
+<text id="13010020">敵を攻撃し、崩して忍殺してみましょう
+赤い印が出ている間は忍殺可能になります
+
+&lt;?kgiconKc@16?&gt;:攻撃
+体勢が崩れた敵に&lt;?kgiconKc@16?&gt;:忍殺</text>
+<text id="13010021">%null%</text>
+<text id="13010022">%null%</text>
+<text id="13010023">%null%</text>
+<text id="13010024">%null%</text>
+<text id="13010025">%null%</text>
+<text id="13010026">%null%</text>
+<text id="13010027">%null%</text>
+<text id="13010028">%null%</text>
+<text id="13010029">%null%</text>
+<text id="13010030">敵の攻撃を弾き、忍殺してみましょう
+赤い印が出ている間は忍殺可能になります
+
+敵の攻撃に合わせて&lt;?kgiconKc@18?&gt;:弾き
+体勢が崩れた敵に&lt;?kgiconKc@16?&gt;:忍殺</text>
+<text id="13010031">%null%</text>
+<text id="13010032">%null%</text>
+<text id="13010033">%null%</text>
+<text id="13010034">%null%</text>
+<text id="13010035">%null%</text>
+<text id="13010036">%null%</text>
+<text id="13010037">%null%</text>
+<text id="13010038">%null%</text>
+<text id="13010039">%null%</text>
+<text id="13010040">敵の体幹にダメージを与え、
+ゲージが溜まりきると体勢を崩し
+忍殺できるようになります
+攻撃と弾きを交互に行い、
+敵の体幹にダメージを与えて忍殺しましょう
+
+&lt;?kgiconKc@16?&gt;:攻撃
+敵の攻撃に合わせて&lt;?kgiconKc@18?&gt;:弾き</text>
+<text id="13010041">%null%</text>
+<text id="13010042">%null%</text>
+<text id="13010043">%null%</text>
+<text id="13010044">%null%</text>
+<text id="13010045">%null%</text>
+<text id="13010046">%null%</text>
+<text id="13010047">%null%</text>
+<text id="13010048">%null%</text>
+<text id="13010049">%null%</text>
+<text id="13010050">次は、連続で攻撃と弾きを繰り返しましょう
+
+攻撃と弾きを連続で行う事で、
+敵に体幹を回復する隙を与えず、
+効率よく体幹にダメージを与えられます
+
+&lt;?kgiconKc@16?&gt;:攻撃
+敵の攻撃に合わせて&lt;?kgiconKc@18?&gt;:弾き</text>
+<text id="13010051">%null%</text>
+<text id="13010052">%null%</text>
+<text id="13010053">%null%</text>
+<text id="13010054">%null%</text>
+<text id="13010055">%null%</text>
+<text id="13010056">%null%</text>
+<text id="13010057">%null%</text>
+<text id="13010058">%null%</text>
+<text id="13010059">%null%</text>
+<text id="13010060">敵の攻撃をステップで回避し、
+攻撃してみましょう
+攻撃後の敵には一定の隙が生まれるため、
+攻撃を回避した後は反撃のチャンスになります
+&lt;?kgiconKc@5?&gt;:ステップ
+敵の攻撃を回避して&lt;?kgiconKc@16?&gt;:攻撃</text>
+<text id="13010061">%null%</text>
+<text id="13010062">%null%</text>
+<text id="13010063">%null%</text>
+<text id="13010064">%null%</text>
+<text id="13010065">%null%</text>
+<text id="13010066">%null%</text>
+<text id="13010067">%null%</text>
+<text id="13010068">%null%</text>
+<text id="13010069">%null%</text>
+<text id="13010070">敵がガード不可の攻撃をする時は、
+「DANGER!」と表示されます
+
+突き攻撃は弾きで対処しましょう
+
+敵の攻撃に合わせて&lt;?kgiconKc@18?&gt;:弾く</text>
+<text id="13010071">%null%</text>
+<text id="13010072">%null%</text>
+<text id="13010073">%null%</text>
+<text id="13010074">%null%</text>
+<text id="13010075">%null%</text>
+<text id="13010076">%null%</text>
+<text id="13010077">%null%</text>
+<text id="13010078">%null%</text>
+<text id="13010079">%null%</text>
+<text id="13010080">敵がガード不可の攻撃をする時は、
+「DANGER!」と表示されます。
+
+下段攻撃はジャンプで回避し、空中から蹴り込む事で
+体幹に大きなダメージを与えられます
+空中蹴りによって敵が体勢を崩した場合は、
+そのまま落下忍殺につなげられます
+
+&lt;?kgiconKc@6?&gt;:ジャンプ
+ジャンプ中に&lt;?kgiconKc@6?&gt;:空中蹴り
+体勢が崩れた敵に、空中で&lt;?kgiconKc@16?&gt;:落下忍殺</text>
+<text id="13010081">%null%</text>
+<text id="13010082">%null%</text>
+<text id="13010083">%null%</text>
+<text id="13010084">%null%</text>
+<text id="13010085">%null%</text>
+<text id="13010086">%null%</text>
+<text id="13010087">%null%</text>
+<text id="13010088">%null%</text>
+<text id="13010089">%null%</text>
+<text id="13010090">今までの練習を活かし、敵を倒してみましょう</text>
+<text id="13010091">%null%</text>
+<text id="13010092">%null%</text>
+<text id="13010093">%null%</text>
+<text id="13010094">%null%</text>
+<text id="13010095">%null%</text>
+<text id="13010096">%null%</text>
+<text id="13010097">%null%</text>
+<text id="13010098">%null%</text>
+<text id="13010099">%null%</text>
+<text id="13010100">さらなる苦難から逃れました</text>
+<text id="13010101">&lt;?gdsparam@2910?&gt;を渡しました</text>
+<text id="13010102">&lt;?gdsparam@2910?&gt;を組み込みました</text>
+<text id="13010103">古い記憶には、辿るための順序がある
+先に供えるべき鈴が、どこかにあるようだ</text>
+<text id="13010104">優しい貌の仏さまだ
+何かを供えられそうだ</text>
+<text id="13011000">御子を置き去りにするわけにはいかない</text>
+<text id="13011011">香炉からは、かすかに桜のような香りがする</text>
+<text id="13011100">さらなる苦難に足を踏み入れました</text>
+<text id="13011101">%null%</text>
+<text id="13011102">%null%</text>
+<text id="13011103">%null%</text>
+<text id="13011104">%null%</text>
+<text id="13011105">%null%</text>
+<text id="13011106">%null%</text>
+<text id="13011107">%null%</text>
+<text id="13011108">%null%</text>
+<text id="13011109">%null%</text>
+<text id="13011110">&lt;?gdsparam@9090?&gt;を渡しました</text>
+<text id="13011111">%null%</text>
+<text id="13011112">%null%</text>
+<text id="13011113">%null%</text>
+<text id="13011114">%null%</text>
+<text id="13011115">%null%</text>
+<text id="13011116">%null%</text>
+<text id="13011117">%null%</text>
+<text id="13011118">%null%</text>
+<text id="13011119">%null%</text>
+<text id="13011120">回生の力を使える回数が、増えました</text>
+<text id="13011121">&lt;?gdsparam@9009?&gt;を持っていません</text>
+<text id="13011122">これ以上、強化できません</text>
+<text id="13012200">紹介できる行き先がない</text>
+<text id="13013000">模擬戦が行えるようになりました</text>
+<text id="13013001">荒れ寺にいる死なずの侍と、
+新たな修練が行えるようになりました</text>
+<text id="13013002">%null%</text>
+<text id="13013003">荒れ寺にいる死なずの侍と、
+「見切り」の修練が行えるようになりました</text>
+<text id="13013004">荒れ寺にいる死なずの侍と、
+「崩し裏回り」の修練が行えるようになりました</text>
+<text id="13013005">荒れ寺にいる死なずの侍と、
+新たな修練が行えるようになりました</text>
+<text id="13013006">模擬戦が行えるようになりました</text>
+<text id="13013007">新たな修練が行えるようになりました</text>
+<text id="13013008">「見切り」の修練が行えるようになりました</text>
+<text id="13013009">「崩し裏回り」の修練が行えるようになりました</text>
+<text id="13013010">「模擬戦（応用）」が行えるようになりました</text>
+<text id="13017000">&lt;?evntAcquittalPrice?&gt;銭を受け取りました</text>
+<text id="13017001">&lt;?evntAcquittalPrice?&gt;銭を払いました</text>
+<text id="13022000">&lt;?gdsparam@3070?&gt;を持っていません</text>
+<text id="13023003">&lt;?gdsparam@4400?&gt;を持っていません</text>
+<text id="13023004">&lt;?gdsparam@3000?&gt;の使用回数が増えました</text>
+<text id="13023005">&lt;?gdsparam@3000?&gt;は、これ以上は使用回数を増やせません</text>
+<text id="13023006">&lt;?gdsparam@9560?&gt;を渡しました</text>
+<text id="13024000">類稀な強者との連戦に、「記憶の連戦・御子奪還」が解禁されました</text>
+<text id="13024001">%null%</text>
+<text id="13024002">%null%</text>
+<text id="13024003">%null%</text>
+<text id="13024004">%null%</text>
+<text id="13024005">%null%</text>
+<text id="13024006">%null%</text>
+<text id="13024007">%null%</text>
+<text id="13024008">%null%</text>
+<text id="13024009">%null%</text>
+<text id="13024010">類稀な強者との連戦に、「記憶の連戦・修羅」が解禁されました</text>
+<text id="13024011">%null%</text>
+<text id="13024012">%null%</text>
+<text id="13024013">%null%</text>
+<text id="13024014">%null%</text>
+<text id="13024015">%null%</text>
+<text id="13024016">%null%</text>
+<text id="13024017">%null%</text>
+<text id="13024018">%null%</text>
+<text id="13024019">%null%</text>
+<text id="13024020">類稀な強者との連戦に、「記憶の連戦・不死断ち」が解禁されました</text>
+<text id="13024021">%null%</text>
+<text id="13024022">%null%</text>
+<text id="13024023">%null%</text>
+<text id="13024024">%null%</text>
+<text id="13024025">%null%</text>
+<text id="13024026">%null%</text>
+<text id="13024027">%null%</text>
+<text id="13024028">%null%</text>
+<text id="13024029">%null%</text>
+<text id="13024030">類稀な強者との連戦に、「記憶の連戦・死闘踏破」が解禁されました</text>
+<text id="14000000">&lt;?gdsparam@9550?&gt;を飲ませる</text>
+<text id="14000001">&lt;?gdsparam@9550?&gt;を飲ませない</text>
+<text id="14000002">吐いた血をもらう</text>
+<text id="14000003">何もしない</text>
+<text id="14000100">&lt;?gdsparam@9000?&gt;を飲ませる</text>
+<text id="14000101">&lt;?gdsparam@9000?&gt;と&lt;?gdsparam@2503?&gt;を飲ませる</text>
+<text id="14000102">&lt;?gdsparam@9000?&gt;と&lt;?gdsparam@9091?&gt;を飲ませる</text>
+<text id="14000500">&lt;?gdsparam@9180?&gt;を与える</text>
+<text id="14000501">まこと貴い餌を選ぶ</text>
+<text id="14000502">立ち去る</text>
+<text id="14000503">壷の貴人・春長にもらった餌</text>
+<text id="14000504">壷の貴人・維盛にもらった餌</text>
+<text id="14010000">何が見えたか尋ねる</text>
+<text id="14010001">何が見えたか尋ねない</text>
+<text id="14010002">%null%</text>
+<text id="14010003">%null%</text>
+<text id="14010004">%null%</text>
+<text id="14010005">%null%</text>
+<text id="14010006">%null%</text>
+<text id="14010007">%null%</text>
+<text id="14010008">%null%</text>
+<text id="14010009">%null%</text>
+<text id="14010010">&lt;?gdsparam@9003?&gt;を返してもらう</text>
+<text id="14010011">&lt;?gdsparam@9003?&gt;を預かっていてもらう</text>
+<text id="14011000">&lt;?gdsparam@9003?&gt;を渡す</text>
+<text id="14011001">何もしない</text>
+<text id="14011002">%null%</text>
+<text id="14011003">%null%</text>
+<text id="14011004">%null%</text>
+<text id="14011005">%null%</text>
+<text id="14011006">%null%</text>
+<text id="14011007">%null%</text>
+<text id="14011008">%null%</text>
+<text id="14011009">%null%</text>
+<text id="14011010">それでも返す</text>
+<text id="14011011">預かっている</text>
+<text id="14011012">%null%</text>
+<text id="14011013">%null%</text>
+<text id="14011014">%null%</text>
+<text id="14011015">%null%</text>
+<text id="14011016">%null%</text>
+<text id="14011017">%null%</text>
+<text id="14011018">%null%</text>
+<text id="14011019">%null%</text>
+<text id="14011020">御子を手伝う</text>
+<text id="14011021">掟に従い、御子を守る</text>
+<text id="14011022">%null%</text>
+<text id="14011023">%null%</text>
+<text id="14011024">%null%</text>
+<text id="14011025">%null%</text>
+<text id="14011026">%null%</text>
+<text id="14011027">%null%</text>
+<text id="14011028">%null%</text>
+<text id="14011029">%null%</text>
+<text id="14011030">起こす</text>
+<text id="14011031">起こさない</text>
+<text id="14011032">%null%</text>
+<text id="14011033">%null%</text>
+<text id="14011034">%null%</text>
+<text id="14011035">%null%</text>
+<text id="14011036">%null%</text>
+<text id="14011037">%null%</text>
+<text id="14011038">%null%</text>
+<text id="14011039">%null%</text>
+<text id="14011040">身投げ場について話す</text>
+<text id="14011041">分からない</text>
+<text id="14011042">%null%</text>
+<text id="14011043">%null%</text>
+<text id="14011044">%null%</text>
+<text id="14011045">%null%</text>
+<text id="14011046">%null%</text>
+<text id="14011047">%null%</text>
+<text id="14011048">%null%</text>
+<text id="14011049">%null%</text>
+<text id="14011050">&lt;?gdsparam@9009?&gt;を渡す</text>
+<text id="14011051">&lt;?gdsparam@9009?&gt;を渡さない</text>
+<text id="14011052">%null%</text>
+<text id="14011053">%null%</text>
+<text id="14011054">%null%</text>
+<text id="14011055">%null%</text>
+<text id="14011056">%null%</text>
+<text id="14011057">%null%</text>
+<text id="14011058">%null%</text>
+<text id="14011059">%null%</text>
+<text id="14011060">残り香をかいだ</text>
+<text id="14011061">残り香をかいでいない</text>
+<text id="14012000">掟に従い、御子を捨てる</text>
+<text id="14012001">掟に背き、御子を捨てない</text>
+<text id="14012002">%null%</text>
+<text id="14012003">%null%</text>
+<text id="14012004">%null%</text>
+<text id="14012005">%null%</text>
+<text id="14012006">%null%</text>
+<text id="14012007">%null%</text>
+<text id="14012008">%null%</text>
+<text id="14012009">%null%</text>
+<text id="14012010">掟に従い、御子を捨てる</text>
+<text id="14012011">掟に背き、御子を捨てない</text>
+<text id="14013000">承知する</text>
+<text id="14013001">断る</text>
+<text id="14013002">謝る</text>
+<text id="14013003">礼を言う</text>
+<text id="14013004">不死斬りだと教える</text>
+<text id="14013005">教えたくない</text>
+<text id="14013006">承知する</text>
+<text id="14013007">殺したくない</text>
+<text id="14014000">知らない</text>
+<text id="14014001">知っている</text>
+<text id="14014002">心当たりはない</text>
+<text id="14014003">心当たりがある</text>
+<text id="14015000">泣く訳を聞く</text>
+<text id="14015001">泣く訳を聞かない</text>
+<text id="14015002">知らない</text>
+<text id="14015003">答えない</text>
+<text id="14016000">倅ではないと答える</text>
+<text id="14016001">何も言わない</text>
+<text id="14017000">あの夜について尋ねる</text>
+<text id="14017001">何も言わない</text>
+<text id="14017002">&lt;?evntAcquittalPrice?&gt;銭を払って情報を買う</text>
+<text id="14017003">情報を買わない</text>
+<text id="14018000">答える</text>
+<text id="14018001">答えない</text>
+<text id="14022000">抜く</text>
+<text id="14022001">抜かない</text>
+<text id="14022002">&lt;?gdsparam@3070?&gt;を渡す</text>
+<text id="14022003">&lt;?gdsparam@3070?&gt;を渡さない</text>
+<text id="14022004">声をかける</text>
+<text id="14022005">&lt;?gdsparam@9215?&gt;を渡す</text>
+<text id="14022006">立ち去る</text>
+<text id="14022007">蛇柿を渡す</text>
+<text id="14022008">蛇柿を渡さない</text>
+<text id="14022009">桜雫を渡す</text>
+<text id="14022010">桜雫を渡さない</text>
+<text id="14023000">一心の離れに入る方法を尋ねる</text>
+<text id="14023001">一心の離れに入る方法を尋ねない</text>
+<text id="14023002">同意する。九郎の命を救いたい</text>
+<text id="14023003">断る。不死断ちは主の命だ</text>
+<text id="14023004">考え直す。やはり九郎の命を救いたい</text>
+<text id="14023005">考えは変わらない</text>
+<text id="14023006">黙って去る</text>
+<text id="14023007">隠しているものについて尋ねる</text>
+<text id="14024000">知っている</text>
+<text id="14024001">知らない</text>
+<text id="14024050">承知する</text>
+<text id="14024051">断る</text>
+<text id="14025000">&lt;?gdsparam@9071?&gt;を渡す</text>
+<text id="14025001">&lt;?gdsparam@9071?&gt;を渡さない</text>
+<text id="14025002">何もしない</text>
+<text id="14026000">泣く訳を聞く</text>
+<text id="14026001">泣く訳を聞かない</text>
+<text id="14026002">&lt;?gdsparam@9080?&gt;を渡す</text>
+<text id="14026003">&lt;?gdsparam@9081?&gt;を渡す</text>
+<text id="14026004">&lt;?placeName@1300?&gt;へ誘う</text>
+<text id="14026005">&lt;?npcName@937420?&gt;を紹介する</text>
+<text id="14026006">承知する</text>
+<text id="14026007">断る</text>
+<text id="14026008">行き先を紹介する</text>
+<text id="14026009">何もしない</text>
+<text id="14026010">やめる</text>
+<text id="14027000">声をかける</text>
+<text id="14027001">声をかけない</text>
+<text id="14028000">声をかける</text>
+<text id="14028001">声をかけない</text>
+<text id="14028002">&lt;?gdsparam@9070?&gt;を渡す</text>
+<text id="14028003">&lt;?gdsparam@9070?&gt;を渡さない</text>
+<text id="14029000">&lt;?gdsparam@3080?&gt;を渡す</text>
+<text id="14029001">&lt;?gdsparam@3080?&gt;を渡さない</text>
+<text id="14029002">何もしない</text>
+<text id="14030000">声をかける</text>
+<text id="14030001">声をかけない</text>
+<text id="14030002">&lt;?placeName@1300?&gt;へ誘う</text>
+<text id="14030003">知らない</text>
+<text id="14030004">&lt;?placeName@1300?&gt;へ誘わない</text>
+<text id="14031002">認める</text>
+<text id="14031003">何も言わない</text>
+<text id="14031004">&lt;?gdsparam@9052?&gt;を渡す</text>
+<text id="14031005">&lt;?gdsparam@9052?&gt;を渡さない</text>
+<text id="14031006">教える</text>
+<text id="14031007">教えない</text>
+<text id="14032000">貴い御方について聞く</text>
+<text id="14032001">答えない</text>
+<text id="14036000">秘めごとを聞く</text>
+<text id="14036001">秘めごとを聞かない</text>
+<text id="14047000">認める</text>
+<text id="14047001">何も言わない</text>
+<text id="14070000">何があったのか尋ねる</text>
+<text id="14070001">今がいつなのか尋ねる</text>
+<text id="14070002">何も尋ねない</text>
+<text id="14070003">%null%</text>
+<text id="14070004">%null%</text>
+<text id="14070005">承知する</text>
+<text id="14070006">何も言わない</text>
+<text id="15000000">話す</text>
+<text id="15000001">%null%</text>
+<text id="15000002">%null%</text>
+<text id="15000003">%null%</text>
+<text id="15000004">%null%</text>
+<text id="15000005">立ち去る</text>
+<text id="15000006">やめる</text>
+<text id="15000007">%null%</text>
+<text id="15000008">%null%</text>
+<text id="15000009">%null%</text>
+<text id="15000010">アイテムを購入する</text>
+<text id="15000011">アイテムを売却する</text>
+<text id="15000012">形代を購入する</text>
+<text id="15000013">%null%</text>
+<text id="15000014">%null%</text>
+<text id="15000015">%null%</text>
+<text id="15000016">%null%</text>
+<text id="15000017">%null%</text>
+<text id="15000018">%null%</text>
+<text id="15000019">%null%</text>
+<text id="15000020">平田屋敷について聞く</text>
+<text id="15000110">立ち去る</text>
+<text id="15000111">%null%</text>
+<text id="15000112">%null%</text>
+<text id="15000113">%null%</text>
+<text id="15000114">%null%</text>
+<text id="15000115">%null%</text>
+<text id="15000116">%null%</text>
+<text id="15000117">%null%</text>
+<text id="15000118">%null%</text>
+<text id="15000119">%null%</text>
+<text id="15000120">休息する</text>
+<text id="15000121">%null%</text>
+<text id="15000122">%null%</text>
+<text id="15000123">%null%</text>
+<text id="15000124">%null%</text>
+<text id="15000125">%null%</text>
+<text id="15000126">%null%</text>
+<text id="15000127">%null%</text>
+<text id="15000128">%null%</text>
+<text id="15000129">%null%</text>
+<text id="15000130">回復忍具を選択する</text>
+<text id="15000131">%null%</text>
+<text id="15000132">%null%</text>
+<text id="15000133">%null%</text>
+<text id="15000134">%null%</text>
+<text id="15000135">%null%</text>
+<text id="15000136">%null%</text>
+<text id="15000137">%null%</text>
+<text id="15000138">%null%</text>
+<text id="15000139">%null%</text>
+<text id="15000140">形代を購入する</text>
+<text id="15000141">%null%</text>
+<text id="15000142">%null%</text>
+<text id="15000143">%null%</text>
+<text id="15000144">%null%</text>
+<text id="15000145">%null%</text>
+<text id="15000146">%null%</text>
+<text id="15000147">%null%</text>
+<text id="15000148">%null%</text>
+<text id="15000149">%null%</text>
+<text id="15000150">仏渡り</text>
+<text id="15000170">身体力を成長させる</text>
+<text id="15000171">%null%</text>
+<text id="15000172">%null%</text>
+<text id="15000173">%null%</text>
+<text id="15000174">%null%</text>
+<text id="15000175">%null%</text>
+<text id="15000176">%null%</text>
+<text id="15000177">%null%</text>
+<text id="15000178">%null%</text>
+<text id="15000179">%null%</text>
+<text id="15000180">淀みを抑える</text>
+<text id="15000181">%null%</text>
+<text id="15000182">%null%</text>
+<text id="15000183">%null%</text>
+<text id="15000184">%null%</text>
+<text id="15000185">%null%</text>
+<text id="15000186">%null%</text>
+<text id="15000187">%null%</text>
+<text id="15000188">%null%</text>
+<text id="15000189">%null%</text>
+<text id="15000190">&lt;?nextLoopCount?&gt;周目の戦いをはじめる</text>
+<text id="15000191">%null%</text>
+<text id="15000192">%null%</text>
+<text id="15000193">%null%</text>
+<text id="15000194">%null%</text>
+<text id="15000195">%null%</text>
+<text id="15000196">%null%</text>
+<text id="15000197">%null%</text>
+<text id="15000198">%null%</text>
+<text id="15000199">%null%</text>
+<text id="15000200">次へ</text>
+<text id="15000201">前へ</text>
+<text id="15000250">竜咳を快復させる</text>
+<text id="15000300">スキルを習得する</text>
+<text id="15000400">忍殺忍術の変更</text>
+<text id="15000401">&lt;?gdsparam@2100?&gt;を装備する</text>
+<text id="15000402">&lt;?gdsparam@2110?&gt;を装備する</text>
+<text id="15000403">&lt;?gdsparam@2120?&gt;を装備する</text>
+<text id="15000500">&lt;?gdsparam@9100?&gt;を振る舞う</text>
+<text id="15000501">&lt;?gdsparam@9101?&gt;を振る舞う</text>
+<text id="15000502">&lt;?gdsparam@9102?&gt;を振る舞う</text>
+<text id="15000503">&lt;?gdsparam@9103?&gt;を振る舞う</text>
+<text id="15000504">&lt;?gdsparam@9104?&gt;を振る舞う</text>
+<text id="15000505">&lt;?gdsparam@9105?&gt;を振る舞う</text>
+<text id="15000506">%null%</text>
+<text id="15000507">%null%</text>
+<text id="15000508">%null%</text>
+<text id="15000509">%null%</text>
+<text id="15000510">酒を振る舞う</text>
+<text id="15000511">%null%</text>
+<text id="15000512">%null%</text>
+<text id="15000513">%null%</text>
+<text id="15000514">%null%</text>
+<text id="15000515">%null%</text>
+<text id="15000516">%null%</text>
+<text id="15000517">%null%</text>
+<text id="15000518">%null%</text>
+<text id="15000519">%null%</text>
+<text id="15000520">&lt;?gdsparam@9550?&gt;を飲ませる</text>
+<text id="15000521">&lt;?gdsparam@9560?&gt;をもらう</text>
+<text id="15000600">攻め力を強化する</text>
+<text id="15000601">攻め力を強化する(スキルポイント消費)</text>
+<text id="15000700">&lt;?gdsparam@5200?&gt;と向き合う</text>
+<text id="15000701">%null%</text>
+<text id="15000702">%null%</text>
+<text id="15000703">%null%</text>
+<text id="15000704">%null%</text>
+<text id="15000705">%null%</text>
+<text id="15000706">%null%</text>
+<text id="15000707">%null%</text>
+<text id="15000708">%null%</text>
+<text id="15000709">%null%</text>
+<text id="15000710">&lt;?gdsparam@5200?&gt;と向き合う</text>
+<text id="15000711">&lt;?gdsparam@5201?&gt;と向き合う</text>
+<text id="15000712">&lt;?gdsparam@5202?&gt;と向き合う</text>
+<text id="15000713">&lt;?gdsparam@5203?&gt;と向き合う</text>
+<text id="15000714">&lt;?gdsparam@5204?&gt;と向き合う</text>
+<text id="15000715">&lt;?gdsparam@5205?&gt;と向き合う</text>
+<text id="15000716">&lt;?gdsparam@5206?&gt;と向き合う</text>
+<text id="15000717">&lt;?gdsparam@5207?&gt;と向き合う</text>
+<text id="15000718">&lt;?gdsparam@5208?&gt;と向き合う</text>
+<text id="15000719">&lt;?gdsparam@5209?&gt;と向き合う</text>
+<text id="15000720">&lt;?gdsparam@5210?&gt;と向き合う</text>
+<text id="15000721">&lt;?gdsparam@5211?&gt;と向き合う</text>
+<text id="15000722">&lt;?gdsparam@5212?&gt;と向き合う</text>
+<text id="15000723">&lt;?gdsparam@5213?&gt;と向き合う</text>
+<text id="15000724">%null%</text>
+<text id="15000725">%null%</text>
+<text id="15000726">%null%</text>
+<text id="15000727">%null%</text>
+<text id="15000728">%null%</text>
+<text id="15000729">%null%</text>
+<text id="15000730">&lt;?gdsparam@5220?&gt;と向き合う</text>
+<text id="15000731">&lt;?gdsparam@5221?&gt;と向き合う</text>
+<text id="15000732">&lt;?gdsparam@5222?&gt;と向き合う</text>
+<text id="15000800">&lt;?gdsparam@9550?&gt;を飲ませる</text>
+<text id="15000811">吐いた血をもらう</text>
+<text id="15000900">類稀な強者と再戦する</text>
+<text id="15000901">類稀な強者と連戦する</text>
+<text id="15000902">姿変えをする</text>
+<text id="15000903">%null%</text>
+<text id="15000904">%null%</text>
+<text id="15000905">%null%</text>
+<text id="15000906">%null%</text>
+<text id="15000907">%null%</text>
+<text id="15000908">%null%</text>
+<text id="15000909">%null%</text>
+<text id="15000910">休息する</text>
+<text id="15000911">形代を購入する</text>
+<text id="15000912">類稀な強者と再戦する</text>
+<text id="15000913">戦いをやめる</text>
+<text id="15000914">%null%</text>
+<text id="15000915">%null%</text>
+<text id="15000916">%null%</text>
+<text id="15000917">%null%</text>
+<text id="15000918">%null%</text>
+<text id="15000919">%null%</text>
+<text id="15000920">休息する</text>
+<text id="15000921">形代を購入する</text>
+<text id="15000922">次の類稀な強者と戦う</text>
+<text id="15000923">戦いをやめる</text>
+<text id="15001000">類稀な強者との連戦</text>
+<text id="15001001">記憶の連戦・御子奪還</text>
+<text id="15001002">記憶の連戦・修羅</text>
+<text id="15001003">記憶の連戦・不死断ち</text>
+<text id="15001004">記憶の連戦・死闘踏破</text>
+<text id="15010000">義手忍具を仕込む</text>
+<text id="15010001">強化義手忍具を作成する</text>
+<text id="15010002">&lt;?gdsparam@2910?&gt;を渡す</text>
+<text id="15010003">忍義手を見てもらう</text>
+<text id="15010300">自分のことを尋ねる</text>
+<text id="15010301">左腕について尋ねる</text>
+<text id="15010302">御子の血について尋ねる</text>
+<text id="15010900">さらなる苦難から逃れる</text>
+<text id="15011010">&lt;?gdsparam@9009?&gt;を見せる</text>
+<text id="15011011">&lt;?gdsparam@9009?&gt;を渡す</text>
+<text id="15011012">花について</text>
+<text id="15011013">石について</text>
+<text id="15011014">桜について</text>
+<text id="15011015">御子の血について</text>
+<text id="15011016">&lt;?gdsparam@9010?&gt;について</text>
+<text id="15013000">修練</text>
+<text id="15013001">模擬戦</text>
+<text id="15013002">&lt;?gdsparam@2400?&gt;について教える</text>
+<text id="15013003">&lt;?gdsparam@2400?&gt;について話す</text>
+<text id="15013004">社について話す</text>
+<text id="15013005">%null%</text>
+<text id="15013006">%null%</text>
+<text id="15013007">%null%</text>
+<text id="15013008">%null%</text>
+<text id="15013009">%null%</text>
+<text id="15013010">模擬戦(基礎)</text>
+<text id="15013011">模擬戦(応用)</text>
+<text id="15013012">%null%</text>
+<text id="15013013">%null%</text>
+<text id="15013014">%null%</text>
+<text id="15013015">%null%</text>
+<text id="15013016">%null%</text>
+<text id="15013017">%null%</text>
+<text id="15013018">%null%</text>
+<text id="15013019">%null%</text>
+<text id="15013020">攻撃</text>
+<text id="15013021">弾き</text>
+<text id="15013022">回避</text>
+<text id="15013023">連続弾き</text>
+<text id="15013024">ＨＰと体幹</text>
+<text id="15013025">突き攻撃への対処</text>
+<text id="15013026">下段攻撃への対処</text>
+<text id="15013027">見切り</text>
+<text id="15013028">崩し裏回り</text>
+<text id="15013039">やめる</text>
+<text id="15014000">アイテムを購入する</text>
+<text id="15017000">商売について</text>
+<text id="15017001">キーアイテムを渡す</text>
+<text id="15017002">好物を教える</text>
+<text id="15017003">アイテムを購入する</text>
+<text id="15017004">アイテムを売却する</text>
+<text id="15017005">平田屋敷について聞く</text>
+<text id="15017006">情報を買う</text>
+<text id="15017007">情報を買う</text>
+<text id="15017008">%null%</text>
+<text id="15017009">買った情報を確認する</text>
+<text id="15022004">&lt;?gdsparam@3080?&gt;を授かる</text>
+<text id="15022005">&lt;?gdsparam@9215?&gt;を渡す</text>
+<text id="15022006">&lt;?gdsparam@3070?&gt;を渡す</text>
+<text id="15022007">&lt;?gdsparam@9009?&gt;を見せる</text>
+<text id="15022008">&lt;?gdsparam@3070?&gt;を渡す</text>
+<text id="15022009">&lt;?gdsparam@3071?&gt;を渡す</text>
+<text id="15023000">&lt;?gdsparam@9550?&gt;を作る</text>
+<text id="15023001">&lt;?gdsparam@3000?&gt;を見せる</text>
+<text id="15023002">&lt;?gdsparam@4400?&gt;を渡す</text>
+<text id="15023003">&lt;?gdsparam@9560?&gt;を渡す</text>
+<text id="15023004">盗み聞いたことを尋ねる</text>
+<text id="15023005">竜咳について話す</text>
+<text id="15023006">一心の言づてについて</text>
+<text id="15024000">不死断ちについて</text>
+<text id="15024001">&lt;?gdsparam@2400?&gt;の在処について</text>
+<text id="15026002">&lt;?npcName@937420?&gt;を紹介する</text>
+<text id="15027000">村について尋ねる</text>
+<text id="15027001">村人について尋ねる</text>
+<text id="15027002">神主について尋ねる</text>
+<text id="15036000">鱗と交換する</text>
+<text id="15048000">紫着物の猿について聞く</text>
+<text id="15048001">橙着物の猿について聞く</text>
+<text id="15048002">緑着物の猿について聞く</text>
+<text id="15100000">&lt;?null?&gt;</text>
+<text id="15100001">%null%</text>
+<text id="15100002">%null%</text>
+<text id="15100003">%null%</text>
+<text id="15100004">%null%</text>
+<text id="15100005">&lt;?null?&gt;</text>
+<text id="15100006">&lt;?null?&gt;</text>
+<text id="15100007">%null%</text>
+<text id="15100008">%null%</text>
+<text id="15100009">%null%</text>
+<text id="15100010">&lt;?null?&gt;</text>
+<text id="15100011">&lt;?null?&gt;</text>
+<text id="15100120">鬼仏で休息します</text>
+<text id="15100140">形代を購入します</text>
+<text id="15100141">%null%</text>
+<text id="15100142">%null%</text>
+<text id="15100143">%null%</text>
+<text id="15100144">%null%</text>
+<text id="15100145">%null%</text>
+<text id="15100146">%null%</text>
+<text id="15100147">%null%</text>
+<text id="15100148">%null%</text>
+<text id="15100149">%null%</text>
+<text id="15100150">過去に対座した鬼仏の前へ仏渡りします</text>
+<text id="15100170">&lt;?gdsparam@4000?&gt;を消費し、ＨＰと体幹を成長させます</text>
+<text id="15100190">&lt;?nextLoopCount?&gt;周目の戦いをはじめます</text>
+<text id="15100250">竜咳を快復させます</text>
+<text id="15100300">スキルポイントを使用し、スキルを習得します</text>
+<text id="15100500">&lt;?null?&gt;</text>
+<text id="15100501">&lt;?null?&gt;</text>
+<text id="15100502">&lt;?null?&gt;</text>
+<text id="15100503">&lt;?null?&gt;</text>
+<text id="15100504">%null%</text>
+<text id="15100505">%null%</text>
+<text id="15100506">%null%</text>
+<text id="15100507">%null%</text>
+<text id="15100508">%null%</text>
+<text id="15100509">%null%</text>
+<text id="15100510">&lt;?null?&gt;</text>
+<text id="15100511">%null%</text>
+<text id="15100512">%null%</text>
+<text id="15100513">%null%</text>
+<text id="15100514">%null%</text>
+<text id="15100515">%null%</text>
+<text id="15100516">%null%</text>
+<text id="15100517">%null%</text>
+<text id="15100518">%null%</text>
+<text id="15100519">%null%</text>
+<text id="15100520">&lt;?null?&gt;</text>
+<text id="15100521">&lt;?null?&gt;</text>
+<text id="15100600">戦いの記憶と向き合い、攻め力を強化します</text>
+<text id="15100601">スキルポイントを捧げ、攻め力を強化します</text>
+<text id="15100700">&lt;?gdsparam@5100?&gt;と向き合い、
+攻め力を強化します</text>
+<text id="15100701">%null%</text>
+<text id="15100702">%null%</text>
+<text id="15100703">%null%</text>
+<text id="15100704">%null%</text>
+<text id="15100705">%null%</text>
+<text id="15100706">%null%</text>
+<text id="15100707">%null%</text>
+<text id="15100708">%null%</text>
+<text id="15100709">%null%</text>
+<text id="15100710">&lt;?gdsparam@5200?&gt;と向き合い、
+攻め力を強化します</text>
+<text id="15100711">&lt;?gdsparam@5201?&gt;と向き合い、
+攻め力を強化します</text>
+<text id="15100712">&lt;?gdsparam@5202?&gt;と向き合い、
+攻め力を強化します</text>
+<text id="15100713">&lt;?gdsparam@5203?&gt;と向き合い、
+攻め力を強化します</text>
+<text id="15100714">&lt;?gdsparam@5204?&gt;と向き合い、
+攻め力を強化します</text>
+<text id="15100715">&lt;?gdsparam@5205?&gt;と向き合い、
+攻め力を強化します</text>
+<text id="15100716">&lt;?gdsparam@5206?&gt;と向き合い、
+攻め力を強化します</text>
+<text id="15100717">&lt;?gdsparam@5207?&gt;と向き合い、
+攻め力を強化します</text>
+<text id="15100718">&lt;?gdsparam@5208?&gt;と向き合い、
+攻め力を強化します</text>
+<text id="15100719">&lt;?gdsparam@5209?&gt;と向き合い、
+攻め力を強化します</text>
+<text id="15100720">&lt;?gdsparam@5210?&gt;と向き合い、
+攻め力を強化します</text>
+<text id="15100721">&lt;?gdsparam@5211?&gt;と向き合い、
+攻め力を強化します</text>
+<text id="15100722">&lt;?gdsparam@5212?&gt;と向き合い、
+攻め力を強化します</text>
+<text id="15100723">&lt;?gdsparam@5213?&gt;と向き合い、
+攻め力を強化します</text>
+<text id="15100724">%null%</text>
+<text id="15100725">%null%</text>
+<text id="15100726">%null%</text>
+<text id="15100727">%null%</text>
+<text id="15100728">%null%</text>
+<text id="15100729">%null%</text>
+<text id="15100730">&lt;?gdsparam@5220?&gt;と向き合い、
+攻め力を強化します</text>
+<text id="15100731">&lt;?gdsparam@5221?&gt;と向き合い、
+攻め力を強化します</text>
+<text id="15100732">&lt;?gdsparam@5222?&gt;と向き合い、
+攻め力を強化します</text>
+<text id="15100810">&lt;?null?&gt;</text>
+<text id="15100811">&lt;?null?&gt;</text>
+<text id="15100900">記憶の中で、類稀な強者と再戦します</text>
+<text id="15100901">記憶の中で、類稀な強者と連戦します</text>
+<text id="15100902">狼の姿を変更します</text>
+<text id="15100903">%null%</text>
+<text id="15100904">%null%</text>
+<text id="15100905">%null%</text>
+<text id="15100906">%null%</text>
+<text id="15100907">%null%</text>
+<text id="15100908">%null%</text>
+<text id="15100909">%null%</text>
+<text id="15100910">鬼仏で休息します</text>
+<text id="15100911">形代を購入します</text>
+<text id="15100912">類稀な強者を選択して、再戦します</text>
+<text id="15100913">戦いをやめて、元の鬼仏に戻ります</text>
+<text id="15100914">%null%</text>
+<text id="15100915">%null%</text>
+<text id="15100916">%null%</text>
+<text id="15100917">%null%</text>
+<text id="15100918">%null%</text>
+<text id="15100919">%null%</text>
+<text id="15100920">鬼仏で休息します</text>
+<text id="15100921">形代を購入します</text>
+<text id="15100922">次に戦う類稀な強者を選択します</text>
+<text id="15100923">戦いをやめて、元の鬼仏に戻ります</text>
+<text id="15101001">御子奪還の記憶を辿り、
+類稀な強者たちと連戦します</text>
+<text id="15101002">修羅の記憶を辿り、
+類稀な強者たちと連戦します</text>
+<text id="15101003">不死断ちの記憶を辿り、
+類稀な強者たちと連戦します</text>
+<text id="15101004">戦いの記憶を辿り、
+全ての類稀な強者たちと連戦します</text>
+<text id="15110000">&lt;?null?&gt;</text>
+<text id="15110001">&lt;?null?&gt;</text>
+<text id="15110002">&lt;?null?&gt;</text>
+<text id="15110003">&lt;?null?&gt;</text>
+<text id="15110300">&lt;?null?&gt;</text>
+<text id="15110301">&lt;?null?&gt;</text>
+<text id="15110302">&lt;?null?&gt;</text>
+<text id="15110900">&lt;?null?&gt;</text>
+<text id="15111010">&lt;?null?&gt;</text>
+<text id="15111011">&lt;?null?&gt;</text>
+<text id="15111012">&lt;?null?&gt;</text>
+<text id="15111013">&lt;?null?&gt;</text>
+<text id="15111014">&lt;?null?&gt;</text>
+<text id="15111015">&lt;?null?&gt;</text>
+<text id="15111016">&lt;?null?&gt;</text>
+<text id="15113000">戦闘についての基礎的な修練を行う</text>
+<text id="15113001">模擬戦を行う</text>
+<text id="15113002">&lt;?null?&gt;</text>
+<text id="15113003">&lt;?null?&gt;</text>
+<text id="15113004">%null%</text>
+<text id="15113005">%null%</text>
+<text id="15113006">%null%</text>
+<text id="15113007">%null%</text>
+<text id="15113008">%null%</text>
+<text id="15113009">%null%</text>
+<text id="15113010">模擬戦(基礎)を行います</text>
+<text id="15113011">模擬戦(応用)を行います</text>
+<text id="15113012">%null%</text>
+<text id="15113013">%null%</text>
+<text id="15113014">%null%</text>
+<text id="15113015">%null%</text>
+<text id="15113016">%null%</text>
+<text id="15113017">%null%</text>
+<text id="15113018">%null%</text>
+<text id="15113019">その場から立ち去る</text>
+<text id="15113020">「攻撃」の基本的な修練をします</text>
+<text id="15113021">「弾き」の基本的な修練をします</text>
+<text id="15113022">「回避」の基本的な修練をします</text>
+<text id="15113023">「連続弾き」の修練をします</text>
+<text id="15113024">「ＨＰと体幹」についての修練をします</text>
+<text id="15113025">「突き攻撃への対処」の修練をします</text>
+<text id="15113026">「下段攻撃への対処」の修練をします</text>
+<text id="15113027">「見切り」の修練をします</text>
+<text id="15113028">「崩し裏回り」の修練をします</text>
+<text id="15113039">戦闘チュートリアルをやめる</text>
+<text id="15114000">&lt;?null?&gt;</text>
+<text id="15114001">&lt;?null?&gt;</text>
+<text id="15117000">&lt;?null?&gt;</text>
+<text id="15117001">&lt;?null?&gt;</text>
+<text id="15117002">&lt;?null?&gt;</text>
+<text id="15117003">&lt;?null?&gt;</text>
+<text id="15117004">&lt;?null?&gt;</text>
+<text id="15117005">&lt;?null?&gt;</text>
+<text id="15117006">&lt;?null?&gt;</text>
+<text id="15117007">&lt;?null?&gt;</text>
+<text id="15117008">&lt;?null?&gt;</text>
+<text id="15122000">&lt;?null?&gt;</text>
+<text id="15122001">&lt;?null?&gt;</text>
+<text id="15122002">&lt;?null?&gt;</text>
+<text id="15122003">&lt;?null?&gt;</text>
+<text id="15122004">&lt;?null?&gt;</text>
+<text id="15122005">&lt;?null?&gt;</text>
+<text id="15122006">&lt;?null?&gt;</text>
+<text id="15122007">&lt;?null?&gt;</text>
+<text id="15122008">&lt;?null?&gt;</text>
+<text id="15122009">&lt;?null?&gt;</text>
+<text id="15123000">&lt;?null?&gt;</text>
+<text id="15123001">&lt;?null?&gt;</text>
+<text id="15123002">&lt;?null?&gt;</text>
+<text id="15123003">&lt;?null?&gt;</text>
+<text id="15123004">&lt;?null?&gt;</text>
+<text id="15123005">&lt;?null?&gt;</text>
+<text id="15123006">&lt;?null?&gt;</text>
+<text id="15124000">&lt;?null?&gt;</text>
+<text id="15124001">&lt;?null?&gt;</text>
+<text id="15126000">&lt;?null?&gt;</text>
+<text id="15126001">&lt;?null?&gt;</text>
+<text id="15127000">&lt;?null?&gt;</text>
+<text id="15127001">&lt;?null?&gt;</text>
+<text id="15127002">&lt;?null?&gt;</text>
+<text id="15136000">&lt;?null?&gt;</text>
+<text id="15148000">&lt;?null?&gt;</text>
+<text id="15148001">&lt;?null?&gt;</text>
+<text id="15148002">&lt;?null?&gt;</text>
+<text id="50000210">残影に触れる</text>
+<text id="50000500">自分の残影に触れる</text>
+<text id="80010400">開く</text>
+<text id="80010500">輿に入る</text>
+<text id="80010501">輿から出る</text>
+</entries>
+</fmg>

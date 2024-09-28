@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">OK</text>
+<text id="2">キャンセル</text>
+<text id="3">はい</text>
+<text id="4">いいえ</text>
+<text id="15">リトライ</text>
+<text id="16">続ける</text>
+<text id="17">タイトル画面に戻る</text>
+<text id="11020">使用する数を選択してください</text>
+<text id="12300">購入する数を選択してください</text>
+<text id="12320">交換する数を選択してください</text>
+<text id="12400">売却する数を選択してください</text>
+<text id="40200">所持金が足りません</text>
+<text id="40201">必要なアイテムが足りません</text>
+<text id="40202">所持金、必要なアイテムが足りません</text>
+<text id="40300">設定を初期状態に戻します
+よろしいですか？</text>
+<text id="40500">すべての設定を初期状態に戻します
+よろしいですか？</text>
+<text id="102000">&lt;?itemName?&gt;を使用しますか？</text>
+<text id="102001">所持金の上限を超えてしまいます
+上限を超えた銭は失われますが、それでも使用しますか？</text>
+<text id="110500">ゲームを保存して、タイトル画面に戻ります
+よろしいですか？</text>
+<text id="110501">ゲームを終了して、タイトル画面に戻ります
+よろしいですか？</text>
+<text id="111100">設定を変更しました
+&lt;?remainingSec?&gt;秒後に元の設定に戻します
+現在の設定を反映しますか？</text>
+<text id="111101">現在の設定を反映しますか？</text>
+<text id="111102">一部の設定はタイトル画面に戻るまで反映されません</text>
+<text id="111103">この項目はゲームの再起動後に反映されます</text>
+<text id="111104">設定を変更しました
+&lt;?remainingSec?&gt;秒後に元の設定に戻します
+現在の設定を反映しますか？</text>
+<text id="111105">一部の設定はタイトル画面に戻るまで反映されません</text>
+<text id="111106">HDRをOFFに変更しました</text>
+<text id="111107">HDRをONに変更しました</text>
+<text id="210000">対座中の鬼仏への仏渡りはできません</text>
+<text id="210001">この鬼仏は切り離されており、仏渡りはできません</text>
+<text id="220000">&lt;?retryBossName?&gt;との戦いを開始しますか？</text>
+<text id="230000">&lt;?itemName?&gt;を
+所持金&lt;?demandSoul?&gt;で購入します</text>
+<text id="230001">%null%</text>
+<text id="230002">%null%</text>
+<text id="230003">%null%</text>
+<text id="230004">%null%</text>
+<text id="230005">%null%</text>
+<text id="230006">%null%</text>
+<text id="230007">%null%</text>
+<text id="230008">%null%</text>
+<text id="230009">%null%</text>
+<text id="230010">所持上限を超えたアイテムは格納されました</text>
+<text id="230011">%null%</text>
+<text id="230012">%null%</text>
+<text id="230013">%null%</text>
+<text id="230014">%null%</text>
+<text id="230015">%null%</text>
+<text id="230016">%null%</text>
+<text id="230017">%null%</text>
+<text id="230018">%null%</text>
+<text id="230019">%null%</text>
+<text id="230020">所持および格納上限を超えてしまうため、購入できません</text>
+<text id="230100">売り切れのため、購入できません</text>
+<text id="232000">&lt;?itemName?&gt;を
+&lt;?gdsparam@10000?&gt;&lt;?demandScale?&gt;枚と交換します</text>
+<text id="232001">%null%</text>
+<text id="232002">%null%</text>
+<text id="232003">%null%</text>
+<text id="232004">%null%</text>
+<text id="232005">%null%</text>
+<text id="232006">%null%</text>
+<text id="232007">%null%</text>
+<text id="232008">%null%</text>
+<text id="232009">%null%</text>
+<text id="232010">所持上限を超えたアイテムは格納されました</text>
+<text id="232011">%null%</text>
+<text id="232012">%null%</text>
+<text id="232013">%null%</text>
+<text id="232014">%null%</text>
+<text id="232015">%null%</text>
+<text id="232016">%null%</text>
+<text id="232017">%null%</text>
+<text id="232018">%null%</text>
+<text id="232019">%null%</text>
+<text id="232020">所持および格納上限を超えてしまうため、交換できません</text>
+<text id="232100">売り切れのため、交換できません</text>
+<text id="240000">&lt;?itemName?&gt;を&lt;?sellSouls?&gt;銭で売却します</text>
+<text id="240001">装備しているアイテムは売却できません</text>
+<text id="250000">&lt;?itemName?&gt;を作成しますか？</text>
+<text id="260000">&lt;?itemName?&gt;を作成しますか？</text>
+<text id="260001">%null%</text>
+<text id="260002">%null%</text>
+<text id="260003">%null%</text>
+<text id="260004">%null%</text>
+<text id="260005">%null%</text>
+<text id="260006">%null%</text>
+<text id="260007">%null%</text>
+<text id="260008">%null%</text>
+<text id="260009">%null%</text>
+<text id="260010">3段階目の義手忍具の情報が、解禁されました</text>
+<text id="260011">4段階目の義手忍具の情報が、解禁されました</text>
+<text id="260012">5段階目の義手忍具の情報が、解禁されました</text>
+<text id="260013">最終段階の義手忍具の情報が、解禁されました</text>
+<text id="260110">必要な義手忍具の強化が完了していません</text>
+<text id="260111">情報が解禁される強化段階に達していません</text>
+<text id="260112">対応する義手忍具を所持していません</text>
+<text id="270000">&lt;?itemName?&gt;を習得しますか？</text>
+<text id="270100">必要なスキルポイントが足りません</text>
+<text id="270101">必要なスキルを習得していません</text>
+<text id="270102">スキル情報を確認できる段階に達していません</text>
+<text id="270103">必要なスキルを習得していないため
+スキル情報を確認する事ができません</text>
+<text id="280000">この項目の割り当てを解除することはできません</text>
+<text id="280001">すべての設定を初期状態に戻します
+よろしいですか？</text>
+<text id="280002">重複している設定があります
+設定を確認してください</text>
+<text id="280003">重複している設定があります
+設定を保存せず終了してもよろしいですか？</text>
+<text id="280004">プライマリーデバイスが変更されたため設定をキャンセルしました</text>
+<text id="311000">この残影を削除します
+よろしいですか？</text>
+<text id="311001">この残影を評価しますか？</text>
+<text id="311002">この残影に悪評をつけますか？</text>
+<text id="321000">この内容の覚え書きを付与して、残影の記録を開始しますか？</text>
+<text id="321001">設定中の覚え書きを破棄します
+よろしいですか？</text>
+<text id="321002">%null%</text>
+<text id="321003">%null%</text>
+<text id="321004">%null%</text>
+<text id="321005">%null%</text>
+<text id="321006">%null%</text>
+<text id="321007">%null%</text>
+<text id="321008">%null%</text>
+<text id="321009">%null%</text>
+<text id="321010">残影メニューは使用できません</text>
+<text id="321011">残影メニューは使用できません</text>
+<text id="322000">この残影を削除します
+よろしいですか？</text>
+<text id="322001">残影の記録を開始しますか？</text>
+<text id="322002">現在の残影を削除して、新たに残影の記録を開始しますか？</text>
+<text id="322003">現在の残影を削除して、新たに残影の覚え書きを設定しますか？</text>
+<text id="322004">現在の覚え書きを使用しますか？</text>
+<text id="323000">残影記録を完了しますか？</text>
+<text id="323001">残影記録を破棄しますか？</text>
+<text id="401701">&lt;?sysmsg@401701?&gt;</text>
+<text id="404020">HDR設定がONの場合
+ゲーム内ポーズメニューの設定メニューでのみ
+画質を調整することができます </text>
+<text id="406011">選択したプロファイルで開始します</text>
+<text id="406012">選択したプロファイルを削除して
+新たにゲームを始めますか？</text>
+<text id="406013">選択したプロファイルを削除します
+よろしいですか？</text>
+<text id="450000">このまま&lt;?nextLoopCount?&gt;周目の戦いをはじめますか？
+今はじめない場合は、後で荒れ寺の大鬼仏から
+&lt;?nextLoopCount?&gt;周目の戦いをはじめることができます</text>
+<text id="450001">&lt;?nextLoopCount?&gt;周目の戦いをはじめると
+現在の&lt;?loopCount?&gt;周目の戦いには戻れません
+&lt;?nextLoopCount?&gt;周目の戦いをはじめてよろしいですか？</text>
+</entries>
+</fmg>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="0">%null%</text>
+<text id="103000">原本的记忆·狼</text>
+<text id="303000">其他记忆·修罗</text>
+<text id="403000">其他记忆·苇名的古老忍者</text>
+<text id="503000">其他记忆·天狗</text>
+</entries>
+</fmg>

@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">OK</text>
+<text id="2">ANNULER</text>
+<text id="3">OUI</text>
+<text id="4">NON</text>
+<text id="15">Réessayer</text>
+<text id="16">Continuer</text>
+<text id="17">Retour au menu titre</text>
+<text id="11020">Choisir le nombre à utiliser</text>
+<text id="12300">Choisir le nombre à acheter</text>
+<text id="12320">Choisir le nombre à échanger</text>
+<text id="12400">Choisir le nombre à vendre</text>
+<text id="40200">Pas assez de sen</text>
+<text id="40201">Pas assez de matériaux requis</text>
+<text id="40202">Fonds et objets requis insuffisants.</text>
+<text id="40300">Vous allez rétablir les paramètres par défaut.
+Confirmer  ?</text>
+<text id="40500">Vous allez rétablir les paramètres par défaut.
+Confirmer  ?</text>
+<text id="102000">Utiliser &lt;?itemName?&gt; ?</text>
+<text id="102001">Limite max de sen possédés dépassée.
+Les sen en excès seront perdus. Continuer quand même ?</text>
+<text id="110500">Vous allez sauvegarder la partie et revenir au menu titre.
+
+Confirmer ?</text>
+<text id="110501">Quitter la partie et revenir au menu titre ?</text>
+<text id="111100">Les paramètres ont été modifiés.
+Les modifications seront annulées dans &lt;?remainingSec?&gt; secondes.
+Conserver les paramètres actuels ?</text>
+<text id="111101">Appliquer les paramètres actuels ?</text>
+<text id="111102">Certaines modifications ne seront pas prises en compte
+jusqu'à votre retour dans le menu titre.</text>
+<text id="111103">Vous devez relancer le jeu pour que cette
+modification soit prise en compte.</text>
+<text id="111104">Les paramètres ont été modifiés.
+Les modifications seront annulées dans &lt;?remainingSec?&gt; secondes.
+Conserver les paramètres actuels ?</text>
+<text id="111105">Certaines modifications ne seront pas prises en compte
+jusqu'à votre retour dans le menu titre.</text>
+<text id="111106">HDR désactivée.</text>
+<text id="111107">HDR activée.</text>
+<text id="210000">Impossible d'aller jusqu'à l'idole
+avec laquelle vous communiez.</text>
+<text id="210001">Idole du Sculpteur indisponible. Communier avec pour la réactiver.</text>
+<text id="220000">Commencer le combat avec &lt;?retryBossName?&gt; ?</text>
+<text id="230000">Acheter &lt;?itemName?&gt;
+pour &lt;?demandSoul?&gt; sen ?</text>
+<text id="230001">%null%</text>
+<text id="230002">%null%</text>
+<text id="230003">%null%</text>
+<text id="230004">%null%</text>
+<text id="230005">%null%</text>
+<text id="230006">%null%</text>
+<text id="230007">%null%</text>
+<text id="230008">%null%</text>
+<text id="230009">%null%</text>
+<text id="230010">Les objets en excès de la limite d'emport ont été stockés.</text>
+<text id="230011">%null%</text>
+<text id="230012">%null%</text>
+<text id="230013">%null%</text>
+<text id="230014">%null%</text>
+<text id="230015">%null%</text>
+<text id="230016">%null%</text>
+<text id="230017">%null%</text>
+<text id="230018">%null%</text>
+<text id="230019">%null%</text>
+<text id="230020">Achat impossible, car vous dépasseriez 
+les limites d'inventaire et de stockage.</text>
+<text id="230100">Achat impossible, stock épuisé</text>
+<text id="232000">Échanger &lt;?demandScale?&gt; &lt;?gdsparam@10000?&gt;(s) 
+pour &lt;?itemName?&gt; ?</text>
+<text id="232001">%null%</text>
+<text id="232002">%null%</text>
+<text id="232003">%null%</text>
+<text id="232004">%null%</text>
+<text id="232005">%null%</text>
+<text id="232006">%null%</text>
+<text id="232007">%null%</text>
+<text id="232008">%null%</text>
+<text id="232009">%null%</text>
+<text id="232010">Les objets en excès de la limite d'emport ont été stockés.</text>
+<text id="232011">%null%</text>
+<text id="232012">%null%</text>
+<text id="232013">%null%</text>
+<text id="232014">%null%</text>
+<text id="232015">%null%</text>
+<text id="232016">%null%</text>
+<text id="232017">%null%</text>
+<text id="232018">%null%</text>
+<text id="232019">%null%</text>
+<text id="232020">Achat impossible, car vous dépasseriez
+les limites d'emport et de stockage.</text>
+<text id="232100">Échange impossible, plus de stock</text>
+<text id="240000">Vendre &lt;?itemName?&gt; pour &lt;?sellSouls?&gt; sen ?</text>
+<text id="240001">Les objets dont vous êtes équipés ne peuvent pas être vendus.</text>
+<text id="250000">Créer &lt;?itemName?&gt; ?</text>
+<text id="260000">Améliorer &lt;?itemName?&gt; ?</text>
+<text id="260001">%null%</text>
+<text id="260002">%null%</text>
+<text id="260003">%null%</text>
+<text id="260004">%null%</text>
+<text id="260005">%null%</text>
+<text id="260006">%null%</text>
+<text id="260007">%null%</text>
+<text id="260008">%null%</text>
+<text id="260009">%null%</text>
+<text id="260010">Informations de palier 3 déverrouillées.</text>
+<text id="260011">Informations de palier 4 déverrouillées.</text>
+<text id="260012">Informations de palier 5 déverrouillées.</text>
+<text id="260013">Informations de dernier palier déverrouillées.</text>
+<text id="260110">Toutes les conditions pour cette
+amélioration ne sont pas encore remplies.</text>
+<text id="260111">Vous n'avez pas encore atteint le palier d'amélioration
+requis pour voir cette information.</text>
+<text id="260112">Aucun outil de prothèse compatible en votre possession.</text>
+<text id="270000">Acquérir &lt;?itemName?&gt; ?</text>
+<text id="270100">Pas assez de points de compétence.</text>
+<text id="270101">La compétence requise n'a pas encore été apprise.</text>
+<text id="270102">Conditions pour voir ces informations
+de compétence pas encore remplies.</text>
+<text id="270103">Vous ne pouvez pas encore voir l'information de compétence
+car vous n'avez pas appris les compétences requises.</text>
+<text id="280000">Cette association ne peut pas être supprimée.</text>
+<text id="280001">Vous allez rétablir les paramètres par défaut.
+Confirmer ?</text>
+<text id="280002">Certaines touches sont déjà utilisées.
+Confirmez la configuration.</text>
+<text id="280003">Certaines touches sont déjà utilisées.
+Quitter la configuration sans sauvegarder ?</text>
+<text id="280004">Paramètres supprimés car le périphérique principal a changé.</text>
+<text id="311000">Êtes-vous sûr de vouloir effacer ce fragment ?</text>
+<text id="311001">Honorer ce fragment ?</text>
+<text id="311002">Rejeter ce fragment ?</text>
+<text id="321000">Créer un fragment avec ce message ?</text>
+<text id="321001">Supprimer le message en pièce jointe ?</text>
+<text id="321002">%null%</text>
+<text id="321003">%null%</text>
+<text id="321004">%null%</text>
+<text id="321005">%null%</text>
+<text id="321006">%null%</text>
+<text id="321007">%null%</text>
+<text id="321008">%null%</text>
+<text id="321009">%null%</text>
+<text id="321010">Menu des fragments indisponible.</text>
+<text id="321011">Menu des fragments indisponible.</text>
+<text id="322000">Voulez-vous vraiment effacer ce fragment ?</text>
+<text id="322001">Enregistrer le fragment ?</text>
+<text id="322002">Supprimer et commencer l'enregistrement d'un nouveau fragment ?</text>
+<text id="322003">Supprimer le fragment et composer un nouveau message de fragment ?</text>
+<text id="322004">Utiliser le message d'un précédent fragment ?</text>
+<text id="323000">Terminer l'enregistrement du fragment ?</text>
+<text id="323001">Supprimer le fragment enregistré ?</text>
+<text id="401701">&lt;?sysmsg@401701?&gt;</text>
+<text id="404020">Quand la fonction HDR est activée, la luminosité ne peut être
+modifiée que depuis le menu de pause du jeu.</text>
+<text id="406011">Jouer avec le profil sélectionné ?</text>
+<text id="406012">Effacer le profil sélectionné
+et commencer une nouvelle partie ?</text>
+<text id="406013">Vous allez effacer le profil sélectionné.
+Confirmer ?</text>
+<text id="450000">Commencer la partie N°&lt;?nextLoopCount?&gt; maintenant ?
+Si vous décidez de ne pas commencer la partie N°&lt;?nextLoopCount?&gt;
+maintenant, vous pourrez la choisir à tout moment en accédant à l'idole
+du sculpteur dans le Temple en ruines.</text>
+<text id="450001">Vous ne pourrez pas revenir à la partie actuelle N°&lt;?loopCount?&gt;
+si vous commencez la partie N°&lt;?nextLoopCount?&gt;.
+Vraiment commencer la partie N°&lt;?nextLoopCount?&gt; ?</text>
+</entries>
+</fmg>

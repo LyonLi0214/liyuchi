@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="0">%null%</text>
+<text id="103000">Un souvenir de la forme originale de Loup.
+
+Concentrez-vous sur ce souvenir à une
+idole du Sculpteur pour rendre à Loup
+sa forme originale.
+
+Le forme originale de Loup est encore
+celle qui lui convient le mieux.</text>
+<text id="303000">Un souvenir laissé par un autre.
+Concentrez-vous sur ces regrets ou
+ces obsessions à une idole du Sculpteur
+pour changer la forme de Loup.
+Cela n'affecte pas ses compétences.
+Celui-ci est relaté par un chant d'Ashina :
+"Champs de cadavres, montagnes de morts
+De la source du dragon le sang de notre pays
+Sort un dieu de feu, un loup rouge de ses Efforts."</text>
+<text id="403000">Un souvenir laissé par un autre.
+Concentrez-vous sur ces regrets ou
+ces obsessions à une idole du Sculpteur
+pour changer la forme de Loup.
+Cela n'affecte pas ses compétences.
+
+Ce souvenir appartient à un ancien serviteur
+d'Ashina. Il accepta de perdre un bras
+et de prendre le nom de Sekijo ;
+une dette doit toujours être payée.</text>
+<text id="503000">Un souvenir laissé par un autre. C'est peut-être un regret, ou même une obsession.
+
+En abritant son esprit à une idole du Sculpteur, Loup peut exprimer ces souvenirs en changeant de forme. Cela n'affecte pas ses compétences.
+Ce souvenir appartient au Tengu d'Ashina.
+Il est accompagné d'un désir puissant.
+Si l'on voit un rat, il faut le tuer.</text>
+</entries>
+</fmg>

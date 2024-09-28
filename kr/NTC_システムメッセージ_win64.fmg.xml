@@ -1,0 +1,1267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2001">KG_R_R</text>
+<text id="2002">KG_R_D</text>
+<text id="2003">KG_L_U</text>
+<text id="2004">KG_L_D</text>
+<text id="2005">KG_L_L</text>
+<text id="2006">KG_L_R</text>
+<text id="2007">KG_L_UD</text>
+<text id="2008">KG_L_LR</text>
+<text id="2009">KG_L_UDLR</text>
+<text id="2010">KG_R_U</text>
+<text id="2011">KG_R_L</text>
+<text id="2012">KG_L1</text>
+<text id="2013">KG_R1</text>
+<text id="2014">KG_L2</text>
+<text id="2015">KG_R2</text>
+<text id="2016">KG_L3</text>
+<text id="2017">KG_R3</text>
+<text id="2018">KG_LS</text>
+<text id="2019">KG_RS</text>
+<text id="2020">KG_TP_L</text>
+<text id="2021">KG_TP_R</text>
+<text id="2022">KG_Start</text>
+<text id="2050">KG_L1_SWITCH_TAB</text>
+<text id="2051">KG_R1_SWITCH_TAB</text>
+<text id="2052">KG_L2_SWITCH_TAB</text>
+<text id="2053">KG_R2_SWITCH_TAB</text>
+<text id="2054">%null%</text>
+<text id="2055">%null%</text>
+<text id="2056">%null%</text>
+<text id="2057">%null%</text>
+<text id="2058">%null%</text>
+<text id="2059">%null%</text>
+<text id="2060">KG_R_U_TOGGLE_DISPLAY</text>
+<text id="2201">KG_TEX_Copyright</text>
+<text id="2202">KG_TEX_R_mark</text>
+<text id="2203">KG_TEX_TradeMark</text>
+<text id="2204">%null%</text>
+<text id="2205">KG_TEX_R_mark_LineHelp</text>
+<text id="2300">KG_Mouse_Click_L</text>
+<text id="2301">KG_Mouse_Click_R</text>
+<text id="2302">%null%</text>
+<text id="2303">%null%</text>
+<text id="2304">%null%</text>
+<text id="2305">%null%</text>
+<text id="2306">%null%</text>
+<text id="2307">%null%</text>
+<text id="2308">%null%</text>
+<text id="2309">%null%</text>
+<text id="2310">KG_Mouse_Wheel_U</text>
+<text id="2311">KG_Mouse_Wheel_D</text>
+<text id="2312">KG_Mouse_Wheel_Click</text>
+<text id="2313">%null%</text>
+<text id="2314">%null%</text>
+<text id="2315">%null%</text>
+<text id="2316">%null%</text>
+<text id="2317">%null%</text>
+<text id="2318">%null%</text>
+<text id="2319">%null%</text>
+<text id="2320">KG_Mouse_Button3</text>
+<text id="2321">KG_Mouse_Button4</text>
+<text id="2322">KG_Mouse_Button5</text>
+<text id="2323">KG_Mouse_Button6</text>
+<text id="2324">KG_Mouse_Button7</text>
+<text id="2325">%null%</text>
+<text id="2326">%null%</text>
+<text id="2327">%null%</text>
+<text id="2328">%null%</text>
+<text id="2329">%null%</text>
+<text id="2330">KG_Mouse_Move</text>
+<text id="2400">KG_Key_BackSpace</text>
+<text id="2401">KG_Key_Tab</text>
+<text id="2402">KG_Key_Enter</text>
+<text id="2403">KG_Key_Shift</text>
+<text id="2404">KG_Key_Shift_L</text>
+<text id="2405">KG_Key_Shift_R</text>
+<text id="2406">KG_Key_Ctrl</text>
+<text id="2407">KG_Key_Ctrl_L</text>
+<text id="2408">KG_Key_Ctrl_R</text>
+<text id="2409">KG_Key_Alt</text>
+<text id="2410">KG_Key_Alt_L</text>
+<text id="2411">KG_Key_Alt_R</text>
+<text id="2412">KG_Key_Alt_LR</text>
+<text id="2413">KG_Key_AltGr</text>
+<text id="2414">KG_Key_CapsLock</text>
+<text id="2415">KG_Key_Esc</text>
+<text id="2416">KG_Key_Space</text>
+<text id="2417">KG_Key_PageUp</text>
+<text id="2418">KG_Key_PageDown</text>
+<text id="2419">KG_Key_Home</text>
+<text id="2420">KG_Key_End</text>
+<text id="2421">KG_Key_Insert</text>
+<text id="2422">KG_Key_Delete</text>
+<text id="2423">%null%</text>
+<text id="2424">%null%</text>
+<text id="2425">%null%</text>
+<text id="2426">%null%</text>
+<text id="2427">%null%</text>
+<text id="2428">%null%</text>
+<text id="2429">%null%</text>
+<text id="2430">KG_Key_Comma</text>
+<text id="2450">KG_Key_Arrow_L</text>
+<text id="2451">KG_Key_Arrow_U</text>
+<text id="2452">KG_Key_Arrow_R</text>
+<text id="2453">KG_Key_Arrow_D</text>
+<text id="2500">KG_Key_0</text>
+<text id="2501">KG_Key_1</text>
+<text id="2502">KG_Key_2</text>
+<text id="2503">KG_Key_3</text>
+<text id="2504">KG_Key_4</text>
+<text id="2505">KG_Key_5</text>
+<text id="2506">KG_Key_6</text>
+<text id="2507">KG_Key_7</text>
+<text id="2508">KG_Key_8</text>
+<text id="2509">KG_Key_9</text>
+<text id="2510">KG_Key_A</text>
+<text id="2511">KG_Key_B</text>
+<text id="2512">KG_Key_C</text>
+<text id="2513">KG_Key_D</text>
+<text id="2514">KG_Key_E</text>
+<text id="2515">KG_Key_F</text>
+<text id="2516">KG_Key_G</text>
+<text id="2517">KG_Key_H</text>
+<text id="2518">KG_Key_I</text>
+<text id="2519">KG_Key_J</text>
+<text id="2520">KG_Key_K</text>
+<text id="2521">KG_Key_L</text>
+<text id="2522">KG_Key_M</text>
+<text id="2523">KG_Key_N</text>
+<text id="2524">KG_Key_O</text>
+<text id="2525">KG_Key_P</text>
+<text id="2526">KG_Key_Q</text>
+<text id="2527">KG_Key_R</text>
+<text id="2528">KG_Key_S</text>
+<text id="2529">KG_Key_T</text>
+<text id="2530">KG_Key_U</text>
+<text id="2531">KG_Key_V</text>
+<text id="2532">KG_Key_W</text>
+<text id="2533">KG_Key_X</text>
+<text id="2534">KG_Key_Y</text>
+<text id="2535">KG_Key_Z</text>
+<text id="2536">%null%</text>
+<text id="2537">%null%</text>
+<text id="2538">%null%</text>
+<text id="2539">%null%</text>
+<text id="2540">KG_Key_WS</text>
+<text id="2541">KG_Key_AD</text>
+<text id="2542">KG_Key_WSAD</text>
+<text id="2543">%null%</text>
+<text id="2544">%null%</text>
+<text id="2545">%null%</text>
+<text id="2546">%null%</text>
+<text id="2547">%null%</text>
+<text id="2548">%null%</text>
+<text id="2549">%null%</text>
+<text id="2550">KG_Key_ZS</text>
+<text id="2551">KG_Key_QD</text>
+<text id="2552">KG_Key_ZSQD</text>
+<text id="2553">KG_Key_Agrave</text>
+<text id="2554">KG_Key_And</text>
+<text id="2555">KG_Key_Eacute</text>
+<text id="2556">KG_Key_DoubleQuotation</text>
+<text id="2557">KG_Key_Parenthesis_L</text>
+<text id="2558">KG_Key_Hyphen</text>
+<text id="2559">KG_Key_Egrave</text>
+<text id="2560">KG_Key_Underscore</text>
+<text id="2561">KG_Key_Ccedil</text>
+<text id="2610">KG_Key_Num_0</text>
+<text id="2611">KG_Key_Num_1</text>
+<text id="2612">KG_Key_Num_2</text>
+<text id="2613">KG_Key_Num_3</text>
+<text id="2614">KG_Key_Num_4</text>
+<text id="2615">KG_Key_Num_5</text>
+<text id="2616">KG_Key_Num_6</text>
+<text id="2617">KG_Key_Num_7</text>
+<text id="2618">KG_Key_Num_8</text>
+<text id="2619">KG_Key_Num_9</text>
+<text id="2620">KG_Key_Num_Enter</text>
+<text id="2621">KG_Key_Num_Slash</text>
+<text id="2622">KG_Key_Num_Asterisk</text>
+<text id="2623">KG_Key_Num_Minus</text>
+<text id="2624">KG_Key_Num_Plus</text>
+<text id="2625">KG_Key_Num_Period</text>
+<text id="2626">%null%</text>
+<text id="2627">%null%</text>
+<text id="2628">%null%</text>
+<text id="2629">%null%</text>
+<text id="2630">KG_Key_Period</text>
+<text id="2631">KG_Key_Semicolon</text>
+<text id="2632">KG_Key_Apostrophe</text>
+<text id="2712">KG_Key_C_BIG</text>
+<text id="2731">KG_Key_V_BIG</text>
+<text id="2732">KG_Key_W_BIG</text>
+<text id="2733">KG_Key_X_BIG</text>
+<text id="2734">KG_Key_Y_BIG</text>
+<text id="2735">KG_Key_Z_BIG</text>
+<text id="2736">%null%</text>
+<text id="2737">%null%</text>
+<text id="2738">%null%</text>
+<text id="2739">%null%</text>
+<text id="2740">KG_Key_F_BIG</text>
+<text id="2741">%null%</text>
+<text id="2742">%null%</text>
+<text id="2743">%null%</text>
+<text id="2744">%null%</text>
+<text id="2745">%null%</text>
+<text id="2746">%null%</text>
+<text id="2747">%null%</text>
+<text id="2748">%null%</text>
+<text id="2749">%null%</text>
+<text id="2750">KG_Key_J_BIG</text>
+<text id="2751">KG_Key_K_BIG</text>
+<text id="2752">KG_Key_Q_BIG</text>
+<text id="2753">KG_Key_U_BIG</text>
+<text id="2754">KG_Key_Semicolon_BIG</text>
+<text id="3000">컨트롤러의 진동 세기를 설정합니다</text>
+<text id="4101">Steam과 연결이 끊어졌습니다
+타이틀 화면으로 돌아갑니다</text>
+<text id="4102">SEKIRO 게임 서버와의 연결이 끊어졌습니다
+오프라인 모드로 전환합니다</text>
+<text id="4160">Steam과 연결이 끊어졌습니다
+타이틀 화면으로 돌아갑니다</text>
+<text id="4191">게임의 저장에 실패했습니다
+저장 데이터가 파손되어 있습니다
+
+다시 실행하려면 [예]를 선택해 주십시오
+
+게임을 저장하지 않고
+타이틀 화면으로 돌아가려면 [아니요]를 선택해 주십시오</text>
+<text id="4192">게임의 저장에 실패했습니다
+저장 데이터가 파손되어 있습니다
+
+타이틀 화면으로 돌아갑니다</text>
+<text id="4193">게임의 저장에 실패했습니다
+저장 데이터가 파손되어 있습니다</text>
+<text id="5001">KG_PS4_R_R</text>
+<text id="5002">KG_PS4_R_D</text>
+<text id="5003">KG_PS4_L_U</text>
+<text id="5004">KG_PS4_L_D</text>
+<text id="5005">KG_PS4_L_L</text>
+<text id="5006">KG_PS4_L_R</text>
+<text id="5007">KG_PS4_L_UD</text>
+<text id="5008">KG_PS4_L_LR</text>
+<text id="5009">KG_PS4_L_UDLR</text>
+<text id="5010">KG_PS4_R_U</text>
+<text id="5011">KG_PS4_R_L</text>
+<text id="5012">KG_PS4_L1</text>
+<text id="5013">KG_PS4_R1</text>
+<text id="5014">KG_PS4_L2</text>
+<text id="5015">KG_PS4_R2</text>
+<text id="5016">KG_PS4_L3</text>
+<text id="5017">KG_PS4_R3</text>
+<text id="5018">KG_PS4_LS</text>
+<text id="5019">KG_PS4_RS</text>
+<text id="5020">KG_PS4_Share</text>
+<text id="5021">KG_PS4_TP_R</text>
+<text id="5022">KG_PS4_Start</text>
+<text id="5050">KG_PS4_L1_SWITCH_TAB</text>
+<text id="5051">KG_PS4_R1_SWITCH_TAB</text>
+<text id="5052">KG_PS4_L2_SWITCH_TAB</text>
+<text id="5053">KG_PS4_R2_SWITCH_TAB</text>
+<text id="5054">%null%</text>
+<text id="5055">%null%</text>
+<text id="5056">%null%</text>
+<text id="5057">%null%</text>
+<text id="5058">%null%</text>
+<text id="5059">%null%</text>
+<text id="5060">KG_PS4_R_U_TOGGLE_DISPLAY</text>
+<text id="6001">KG_STA_R_R</text>
+<text id="6002">KG_STA_R_D</text>
+<text id="6003">KG_STA_L_U</text>
+<text id="6004">KG_STA_L_D</text>
+<text id="6005">KG_STA_L_L</text>
+<text id="6006">KG_STA_L_R</text>
+<text id="6007">KG_STA_L_UD</text>
+<text id="6008">KG_STA_L_LR</text>
+<text id="6009">KG_STA_L_UDLR</text>
+<text id="6010">KG_STA_R_U</text>
+<text id="6011">KG_STA_R_L</text>
+<text id="6012">KG_STA_L1</text>
+<text id="6013">KG_STA_R1</text>
+<text id="6014">KG_STA_L2</text>
+<text id="6015">KG_STA_R2</text>
+<text id="6016">KG_STA_L3</text>
+<text id="6017">KG_STA_R3</text>
+<text id="6018">KG_STA_LS</text>
+<text id="6019">KG_STA_RS</text>
+<text id="6020">KG_STA_TP_L</text>
+<text id="6021">KG_STA_TP_R</text>
+<text id="6022">KG_STA_Start</text>
+<text id="6050">KG_STA_L1_SWITCH_TAB</text>
+<text id="6051">KG_STA_R1_SWITCH_TAB</text>
+<text id="6052">KG_STA_L2_SWITCH_TAB</text>
+<text id="6053">KG_STA_R2_SWITCH_TAB</text>
+<text id="6054">%null%</text>
+<text id="6055">%null%</text>
+<text id="6056">%null%</text>
+<text id="6057">%null%</text>
+<text id="6058">%null%</text>
+<text id="6059">%null%</text>
+<text id="6060">KG_STA_R_U_TOGGLE_DISPLAY</text>
+<text id="7001">KG_PRO_R_R</text>
+<text id="7002">KG_PRO_R_D</text>
+<text id="7003">KG_PRO_L_U</text>
+<text id="7004">KG_PRO_L_D</text>
+<text id="7005">KG_PRO_L_L</text>
+<text id="7006">KG_PRO_L_R</text>
+<text id="7007">KG_PRO_L_UD</text>
+<text id="7008">KG_PRO_L_LR</text>
+<text id="7009">KG_PRO_L_UDLR</text>
+<text id="7010">KG_PRO_R_U</text>
+<text id="7011">KG_PRO_R_L</text>
+<text id="7012">KG_PRO_L1</text>
+<text id="7013">KG_PRO_R1</text>
+<text id="7014">KG_PRO_L2</text>
+<text id="7015">KG_PRO_R2</text>
+<text id="7016">KG_PRO_L3</text>
+<text id="7017">KG_PRO_R3</text>
+<text id="7018">KG_PRO_LS</text>
+<text id="7019">KG_PRO_RS</text>
+<text id="7020">KG_PRO_TP_L</text>
+<text id="7021">KG_PRO_TP_R</text>
+<text id="7022">KG_PRO_Start</text>
+<text id="7050">KG_PRO_L1_SWITCH_TAB</text>
+<text id="7051">KG_PRO_R1_SWITCH_TAB</text>
+<text id="7052">KG_PRO_L2_SWITCH_TAB</text>
+<text id="7053">KG_PRO_R2_SWITCH_TAB</text>
+<text id="7054">%null%</text>
+<text id="7055">%null%</text>
+<text id="7056">%null%</text>
+<text id="7057">%null%</text>
+<text id="7058">%null%</text>
+<text id="7059">%null%</text>
+<text id="7060">KG_PRO_R_U_TOGGLE_DISPLAY</text>
+<text id="100000">&lt;?kgicon@2051?&gt;</text>
+<text id="100001">&lt;?kgicon@2050?&gt;</text>
+<text id="100002">&lt;?kgicon@2053?&gt;</text>
+<text id="100003">&lt;?kgicon@2052?&gt;</text>
+<text id="100004">%null%</text>
+<text id="100005">%null%</text>
+<text id="100006">%null%</text>
+<text id="100007">%null%</text>
+<text id="100008">%null%</text>
+<text id="100009">%null%</text>
+<text id="100010">&lt;?kgicon@2060?&gt;</text>
+<text id="101000">PRESS ANY BUTTON</text>
+<text id="400003">이전에 게임을 종료했을 때, 설정 메뉴에서
+[게임 종료]를 선택하지 않았을 수 있습니다
+게임을 종료할 때는, 설정 메뉴에서
+[게임 종료]를 선택해 주십시오
+
+[게임 종료]를 선택하지 않으면
+종료 시의 진행 상황에서 재개되지 않을 수 있습니다</text>
+<text id="401001">©2019,2020 FromSoftware, Inc. All rights reserved.  ACTIVISION is a trademark of Activision Publishing, Inc.</text>
+<text id="401102">저장 데이터의 작성에 실패했습니다
+다시 작성을 시도하려면 [OK]를 선택해 주십시오</text>
+<text id="401103">저장 데이터를 불러오는 데 실패했습니다
+다시 실행하려면 [OK]를 선택해 주십시오</text>
+<text id="401104">%null%</text>
+<text id="401105">%null%</text>
+<text id="401106">게임의 저장에 실패했습니다
+저장 데이터가 파손되어 있습니다
+
+다시 실행하려면 [OK]를 선택해 주십시오</text>
+<text id="401107">저장 데이터가 파손되어 있습니다
+파손된 저장 데이터를 삭제하고 새로 작성하시겠습니까?</text>
+<text id="401108">%null%</text>
+<text id="401109">%null%</text>
+<text id="401110">저장 데이터를 확인하고 있습니다</text>
+<text id="401111">저장 데이터를 작성하고 있습니다</text>
+<text id="401112">저장 데이터를 갱신하고 있습니다</text>
+<text id="401113">게임의 버전과 저장 데이터의 버전이 다릅니다
+게임을 종료하고 Steam 클라이언트에서
+업데이트 파일을 적용한 후 기동해 주십시오</text>
+<text id="401114">마지막으로 이 프로필을 저장했을 때보다
+게임의 버전이 오래되어 불러올 수 없습니다
+게임을 종료하고, Steam 클라이언트에서
+업데이트 파일을 적용한 후 기동해 주십시오</text>
+<text id="401115">%null%</text>
+<text id="401116">%null%</text>
+<text id="401117">%null%</text>
+<text id="401118">%null%</text>
+<text id="401119">%null%</text>
+<text id="401120">네트워크 연결 상태를 확인하고 있습니다</text>
+<text id="401150">SEKIRO 게임 서버에 로그인하고 있습니다</text>
+<text id="401151">%null%</text>
+<text id="401152">%null%</text>
+<text id="401153">%null%</text>
+<text id="401154">%null%</text>
+<text id="401155">%null%</text>
+<text id="401156">%null%</text>
+<text id="401157">%null%</text>
+<text id="401158">%null%</text>
+<text id="401159">%null%</text>
+<text id="401160">SEKIRO 게임 서버에서 데이터를 취득하고 있습니다</text>
+<text id="401161">%null%</text>
+<text id="401162">%null%</text>
+<text id="401163">%null%</text>
+<text id="401164">%null%</text>
+<text id="401165">SEKIRO 게임 서버에 데이터를 등록하고 있습니다</text>
+<text id="401166">%null%</text>
+<text id="401167">%null%</text>
+<text id="401168">%null%</text>
+<text id="401169">%null%</text>
+<text id="401170">오프라인 모드로 시작합니다
+
+네트워크 기능을 사용하려면
+통신 환경을 확인한 후
+타이틀 메뉴에서 [LOGIN]을 선택해 주십시오</text>
+<text id="401201">네트워크에 연결하지 못했습니다
+네트워크 설정을 확인해 주십시오</text>
+<text id="401202">네트워크 연결 상태 확인에 실패했습니다</text>
+<text id="401213">게임의 버전과 저장 데이터의 버전이 다릅니다
+게임을 종료하고, CubeGame 클라이언트에서
+업데이트 파일을 적용한 후 기동해 주십시오</text>
+<text id="401214">마지막으로 이 프로필을 저장했을 때보다
+게임의 버전이 오래되어 불러올 수 없습니다
+게임을 종료하고, CubeGame 클라이언트에서
+업데이트 파일을 적용한 후 기동해 주십시오</text>
+<text id="401502">현재 귀하의 계정은
+SEKIRO 게임 서버의 서비스 이용이 정지되었습니다</text>
+<text id="401503">SEKIRO 게임 서버 로그인에 실패했습니다
+다시 로그인을 시도하려면 [OK]를 선택해 주십시오</text>
+<text id="401504">새로운 버전의 업데이트 파일이 존재합니다
+온라인으로 플레이하기 위해서는
+업데이트 파일을 갱신한 후 재기동해 주십시오</text>
+<text id="401505">점검 중 혹은 서버 정지 중이므로
+SEKIRO 게임 서버에 로그인할 수 없습니다</text>
+<text id="401506">%null%</text>
+<text id="401507">VAC(Valve Anti-Cheat)에 의해 부정행위가 검출된 계정이므로
+SEKIRO 게임 서버의 서비스를 이용할 수 없습니다</text>
+<text id="401601">INFORMATION 취득에 실패했습니다
+다시 취득하려면 [OK]를 선택해 주십시오</text>
+<text id="401701">프로필을 더 이상 작성할 수 없습니다
+기존 프로필을 삭제하고 신규 작성하시겠습니까?
+
+프로필은 최대 10개까지 작성할 수 있습니다</text>
+<text id="401721">저장 데이터를 불러오는 데 실패했습니다
+저장 데이터가 파손되어 있습니다</text>
+<text id="401722">%null%</text>
+<text id="401723">%null%</text>
+<text id="401724">%null%</text>
+<text id="401725">%null%</text>
+<text id="401726">%null%</text>
+<text id="401727">%null%</text>
+<text id="401728">%null%</text>
+<text id="401729">%null%</text>
+<text id="401730">%null%</text>
+<text id="401731">온라인에서 플레이하기 위한
+캐릭터 정보 설정에 실패했습니다
+
+다시 실행하려면 [OK]를 선택해 주십시오</text>
+<text id="401991">에러가 발생했습니다
+타이틀 화면으로 돌아갑니다</text>
+<text id="600000">%null%</text>
+<text id="600001">%null%</text>
+<text id="600002">%null%</text>
+<text id="600003">%null%</text>
+<text id="600004">%null%</text>
+<text id="600005">%null%</text>
+<text id="600006">%null%</text>
+<text id="600007">%null%</text>
+<text id="600008">%null%</text>
+<text id="600009">%null%</text>
+<text id="600010">%null%</text>
+<text id="600011">%null%</text>
+<text id="600012">%null%</text>
+<text id="600013">%null%</text>
+<text id="600014">%null%</text>
+<text id="600015">%null%</text>
+<text id="600016">%null%</text>
+<text id="600017">%null%</text>
+<text id="600018">%null%</text>
+<text id="600019">%null%</text>
+<text id="600020">%null%</text>
+<text id="600021">%null%</text>
+<text id="600022">%null%</text>
+<text id="600023">%null%</text>
+<text id="600024">%null%</text>
+<text id="600025">%null%</text>
+<text id="600026">%null%</text>
+<text id="600027">%null%</text>
+<text id="600028">%null%</text>
+<text id="600029">%null%</text>
+<text id="600030">%null%</text>
+<text id="600031">%null%</text>
+<text id="600032">%null%</text>
+<text id="600033">%null%</text>
+<text id="600034">%null%</text>
+<text id="600035">%null%</text>
+<text id="600036">%null%</text>
+<text id="600037">%null%</text>
+<text id="600038">%null%</text>
+<text id="600039">%null%</text>
+<text id="600040">%null%</text>
+<text id="600041">%null%</text>
+<text id="600042">%null%</text>
+<text id="601000">IMPORTANT NOTICE FOR RESIDENTS IN NORTH AMERICA ONLY: THIS AGREEMENT IS SUBJECT TO BINDING ARBITRATION
+AND A WAIVER OF CLASS ACTION RIGHTS AS DETAILED IN SECTION 16 BELOW. 
+
+SOFTWARE LICENSE AND SERVICE AGREEMENT
+
+</text>
+<text id="601001">USE OF THIS SOFTWARE PROGRAM (AND ANY UPDATES), ANY ONLINE SERVICES, OR DOWNLOADS ASSOCIATED HEREWITH, THE SOFTWARE (INCLUDING FIRMWARE) FOR ANY RELATED PERIPHERALS (collectively, ”Peripheral”), THE ASSOCIATED MEDIA, PRINTED MATERIALS, AND DOCUMENTATION (collectively, “Program”) IS SUBJECT TO THIS SOFTWARE LICENSE AND SERVICE AGREEMENT (“Agreement”). IF YOU ARE UNDER THE AGE OF MAJORITY IN YOUR JURISDICTION OR EIGHTEEN (18) YEARS OF AGE, WHICHEVER IS OLDER, PLEASE ASK YOUR PARENT OR GUARDIAN TO READ AND ACCEPT THIS AGREEMENT ON YOUR BEHALF BEFORE YOU USE THE PROGRAM. BY OPENING THIS PACKAGE, DOWNLOADING, INSTALLING, OR USING THE PROGRAM OR “CLICKING TO ACCEPT,” YOU ACCEPT THE TERMS OF THIS AGREEMENT WITH THE ACTIVISION CORPORATE ENTITY SET OUT IN SECTION 17 ("Activision") DEPENDING ON WHERE YOU ACQUIRED AND USE THE PROGRAM. IF YOU DO NOT AGREE TO THESE TERMS, YOU ARE NOT PERMITTED TO INSTALL, COPY, OR USE THE PROGRAM. TO REJECT THESE TERMS, YOU MUST NOT “CLICK TO ACCEPT” THESE TERMS OR INSTALL, COPY, OR USE THE PROGRAM.    
+
+</text>
+<text id="601002">FOR RESIDENTS IN NORTH AMERICA ONLY: IF YOU REJECT THIS AGREEMENT, YOU CAN RETURN YOUR PERIPHERAL AND THE PROGRAM AND REQUEST A REFUND FOR YOUR PERIPHERAL AND THE PROGRAM WITHIN THIRTY (30) DAYS AFTER THE DATE OF YOUR PURCHASE, BY VISITING http://support.activision.com. ACTIVISION’S PRIVACY POLICY AVAILABLE AT http://www.activision.com/legal/privacy-policy SHALL BE DEEMED TO BE PART OF THE “AGREEMENT” ACCEPTED AND AGREED TO BY YOU AND THE TERMS OF SUCH ARE INCORPORATED HEREIN BY REFERENCE.  
+
+</text>
+<text id="601003">FOR RESIDENTS OUTSIDE NORTH AMERICA: IF YOU (OR, IF APPLICABLE, YOUR PARENT OR GUARDIAN) DO NOT AGREE TO THIS AGREEMENT, THEN YOU MUST NOT USE OR ACCESS THE PROGRAM OR ANY PART THEREOF.  BY “CLICKING TO ACCEPT,” YOU REPRESENT AND WARRANT THAT YOU ARE A “NATURAL PERSON” WHO IS OVER THE AGE OF EIGHTEEN (18) OR WHOSE LEGAL GUARDIAN HAS ACCEPTED AND AGREED TO THIS AGREEMENT.  IF YOU REJECT THIS AGREEMENT, YOUR RETURN RIGHTS IN RELATION TO THE PROGRAM ARE GOVERNED BY YOUR STATUTORY RIGHTS IN THE COUNTRY WHERE YOU BOUGHT THE PROGRAM. PLEASE VISIT http://support.activision.com. NOTHING IN THIS PARAGRAPH SHALL AFFECT YOUR STATUTORY RIGHTS. PLEASE NOTE THAT YOUR RIGHTS IN RESPECT OF ONLINE SERVICES AND SERVICE PROVIDED CONTENT ARE COVERED IN SECTIONS 12 AND 13.  YOUR USE OF THE PROGRAM SHALL BE SUBJECT TO THE TERMS OF ACTIVISION’S PRIVACY POLICY AVAILABLE AT http://www.activision.com/legal/privacy-policy.  
+
+</text>
+<text id="601004">EXCEPT FOR SECTION 16 (ARBITRATION AND CLASS ACTION WAIVER), ACTIVISION RESERVES THE RIGHT TO MODIFY THIS AGREEMENT AT ANY TIME BY ANY MEANS, INCLUDING WITHOUT LIMITATION BY (1) POSTING THE MODIFICATIONS TO http://support.activision.com/license AND/OR (2) REQUIRING YOU TO “CLICK TO ACCEPT” THE AGREEMENT, AND YOUR CONTINUED USE OF THE PROGRAM CONSTITUTES YOUR ACCEPTANCE OF THE MODIFICATIONS. IF ANY FUTURE MODIFICATIONS TO THE AGREEMENT ARE UNACCEPTABLE TO YOU OR CAUSE YOU TO NO LONGER BE IN COMPLIANCE WITH THIS AGREEMENT, YOU MUST TERMINATE, AND IMMEDIATELY STOP USING, THE PROGRAM. IF ANY FUTURE MODIFICATIONS ARE IMPLEMENTED AS A “CLICK TO ACCEPT” AGREEMENT, YOU MAY NOT BE ABLE TO CONTINUE USING THE PROGRAM UNLESS YOU AFFIRMATIVELY ACCEPT THE MODIFIED AGREEMENT.
+
+</text>
+<text id="601005">1. SERVICES AND ADDITIONAL TERMS OF SERVICE:  USE OF CERTAIN FEATURES OF THE PROGRAM, INCLUDING ONLINE OR MULTIPLAYER COMPONENTS, OR UPDATED FEATURES, MAY REQUIRE ASSENT TO ADDITIONAL TERMS OF SERVICE.  YOU WILL BE PROVIDED WITH THESE ADDITIONAL TERMS OF SERVICE AT THE TIME THE APPLICABLE FEATURES ARE MADE AVAILABLE TO YOU.  IF YOU DO NOT ASSENT TO THE ADDITIONAL TERMS OF SERVICE, YOU MAY NOT BE ABLE TO ACCESS OR USE THE ADDITIONAL FEATURES THAT ARE SUBJECT TO THE ADDITIONAL TERMS OF SERVICE.  
+
+</text>
+<text id="601006">2. LIMITED USE LICENSE: Subject to any system requirements, Activision grants you the non-exclusive, non-transferable, limited right and license to install and use one copy of the software component(s) of the Program solely for your personal use. All rights not specifically granted are reserved by Activision. The Program is licensed, not sold, for your use. Your license confers no title or ownership in the Program, and should not be construed as a sale of any rights in the Program.  This Agreement shall also apply to patches or updates you may obtain for the Program, unless that patch or update is accompanied by additional terms.  YOU ACKNOWLEDGE AND AGREE THAT, OTHER THAN LICENSE GRANTED TO YOU BY THIS AGREEMENT, YOU SHALL HAVE NO OWNERSHIP OR PROPERTY INTEREST IN ANY PRODUCT OR SERVICE PROVIDED CONTENT (AS DEFINED BELOW), INCLUDING, WITHOUT LIMITATION, ONLINE ACCOUNTS, ANY VIRTUAL CURRENCY OR GOODS, AND YOU FURTHER ACKNOWLEDGE AND AGREE THAT TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW ALL RIGHTS IN AND TO SUCH PRODUCTS AND SERVICE PROVIDED CONTENT ARE AND SHALL FOREVER BE OWNED BY AND INURE TO THE BENEFIT OF ACTIVISION.
+
+FOR RESIDENTS OUTSIDE NORTH AMERICA: For the avoidance of doubt, nothing in Section 2 shall limit your right to sell and transfer the physical media containing the Program which you have rightfully purchased.
+
+</text>
+<text id="601007">3. LICENSE CONDITIONS: This license is subject to the following limitations ("License Limitations"). Any use of the Program in violation of the License Limitations will result in an immediate termination of your license, and continued use of the Program will be an infringement of Activision's copyrights and other rights in and to the Program. 
+
+You agree that you will not do, or allow, any of the following: (1) exploit the Program commercially; (2) subject to any system requirements, use the Program on more than one system at the same time; (3) make copies of the Program, in whole or in part; (4) without limiting the foregoing clause (3), copy the Program onto a hard drive or other storage device unless the Program itself makes a copy during installation, or unless you are downloading the Program from an authorized Activision online retailer; (5) use the Program in a network, multi-user arrangement, or remote access arrangement, including any online use except as included in the Program functionality; (6) sell, rent, lease, license, distribute, or otherwise transfer the Program; (7) subject to applicable laws, reverse engineer, derive source code, modify, decompile, disassemble, or create derivative works of the software and other proprietary technology in the Program, in whole or in part; (8) create, develop, modify, distribute, or use any unauthorized software programs to gain advantage in any offline, online or multiplayer game modes, such behavior will be subject to sanction at Activision’s discretion; (9) remove, disable, or circumvent any proprietary notices or labels contained on or within the Program; or (10) export or re-export the Program in violation of any applicable laws or regulations of the United States government. 
+
+</text>
+<text id="601008">Unless expressly permitted by Activision and subject to applicable local laws, YOU AGREE NOT TO PERMIT THE SOFTWARE IN THE PERIPHERAL OR ANY PART OF IT TO BE COMBINED WITH, BECOME INCORPORATED IN, OR USED WITH ANY SOFTWARE PRODUCT OTHER THAN THE PROGRAM. ALL RIGHTS GRANTED TO YOU UNDER THIS AGREEMENT (INCLUDING YOUR USE OF THE SOFTWARE IN THE PERIPHERAL) WILL TERMINATE IMMEDIATELY IN THE EVENT THAT YOU ARE IN BREACH OF ANY OF THE TERMS, THIS PARAGRAPH OR DO ANYTHING WITH ANY SOFTWARE IN THE PERIPHERAL THAT IS NOT EXPRESSLY PERMITTED BY THIS AGREEMENT.  
+
+You agree not to do any of the following actions while using the Program:  (A) harass, threaten, embarrass or cause distress or discomfort upon another participant, user, or other individual or entity; (B) transmit any UGC (as defined in Section 14) that Activision considers to be disruptive, unlawful, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, hateful, or racially, sexually, ethnically or otherwise objectionable; (C) impersonate any person or entity, including but not limited to Activision; (D) disrupt normal Program functionality, or otherwise act in a manner that negatively affects other participants and/or the overall Program experience; (E) post or transmit any unsolicited advertising, promotional materials, or any other forms of solicitation; (F) intentionally or unintentionally violate any applicable law, regulation or treaty while using or accessing the Program; (G) post multiple posts of the same content (i.e., “spam”);  or (H) invade the privacy or violate or infringe any right of any person or entity, including, without limitation, any intellectual property right.
+
+Parents and guardians of children under the age of majority in their jurisdiction or 18 years of age, whichever is older, agree that you will be responsible for all uses of the Program by your child whether or not such uses were authorized by you.
+
+</text>
+<text id="601009">4. OWNERSHIP: All title, ownership rights, and intellectual property rights in and to the Program are owned by Activision, affiliates of Activision, or Activision’s licensors. The Program is protected by the copyright laws of the United States of America, international copyright treaties, conventions and other laws. The Program may contain certain licensed materials, and Activision’s licensors may protect their rights in the event of any violation of this Agreement. NOTWITHSTANDING ANYTHING TO THE CONTRARY, YOU ACKNOWLEDGE AND AGREE THAT YOU SHALL HAVE NO OWNERSHIP OR OTHER PROPERTY INTEREST IN ANY ACCOUNT STORED OR HOSTED ON AN ACTIVISION SYSTEM, AND YOU FURTHER ACKNOWLEDGE AND AGREE THAT ALL RIGHTS IN AND TO THESE ACCOUNTS ARE AND SHALL FOREVER BE OWNED BY AND INURE TO THE BENEFIT OF ACTIVISION. ACTIVISION MAY SUSPEND, TERMINATE, MODIFY OR DELETE ANY OF THESE ACCOUNTS AT ANY TIME FOR ANY REASON OR NO REASON, WITH OR WITHOUT NOTICE TO YOU. 
+
+</text>
+<text id="601010">5. PATCHES AND UPDATES:  Activision may deploy or provide mandatory patches, updates, and modifications to the Program that must be installed for you to continue to use the Program. Activision may update the Program remotely without notifying you, and you hereby grant to Activision consent to deploy and apply such patches, updates, and modifications. Broadband internet is required for such patches, updates, and modifications. You are responsible for any and all broadband access and usage fees.   
+
+</text>
+<text id="601011">6. LIMITED HARDWARE WARRANTY (RESIDENTS IN NORTH AMERICA AND AUSTRALIA ONLY): 
+
+6(A)  Activision warrants to the original consumer purchaser of this Program that the physical media on which this Program is stored and any physical accessories (together the “Goods”) will be free from defects in material and workmanship for 90 days from the date of purchase. If the Goods are found defective within 90 days of original purchase, Activision agrees to replace, free of charge, the applicable defective Goods within the applicable 90 day period, upon its receipt of the Program (postage paid, with proof of the date of purchase) so long as the Goods are still being manufactured by Activision. If the Goods are no longer available, Activision retains the right to substitute similar goods of equal or greater value. This warranty is limited to the Goods, as originally provided by Activision, and is not applicable to normal wear and tear. This warranty shall not be applicable, and shall be void, if the defect has arisen through abuse, mistreatment, or neglect. Any implied warranties prescribed by statute are expressly limited to the 90-day period described above.  EXCEPT AS SET FORTH HEREIN, THIS WARRANTY IS IN LIEU OF ALL OTHER WARRANTIES, EXPRESS OR IMPLIED.
+
+For residents in North America: For information about warranty replacement, or other customer service inquires, visit http://support.activision.com.  If a replacement is appropriate you will need to return: (1) the original Goods; (2) a copy of your dated sales receipt; (3) your name and return address; (4) a description of the defect and the problem(s) you are encountering; and (5) the incident/RMA number given to you by Customer Support.  In the United States, send to: Warranty Replacements, Activision Publishing, Inc., 100 N. Sepulveda Blvd. Suite 900, El Segundo, CA 90245; outside of the United States please visit http://support.activision.com.
+
+</text>
+<text id="601012">For residents of Australia: This warranty is provided in addition to other rights and remedies you may have regarding the Goods provided to you in this game bundle, under the Australian Consumer Law. The Goods come with guarantees that cannot be excluded under the Australian Consumer Law. You are entitled to a replacement or refund for a major failure and compensation for any other reasonably foreseeable loss or damage. You are also entitled to have the Goods repaired or replaced if the Goods fail to be of acceptable quality and the failure does not amount to a major failure. Please contact Activision on 1300 748 995 or email ausupport@activision.com or mail PO Box 544 Pyrmont NSW 2009 Australia  if you have an issue with the Goods provided to you in this game bundle. If a replacement or repair is required Activision will instruct you on the process. As part of the process you may be asked to send: (1) the physical media (for example, CD-ROM/DVD/Blu-ray Disc/cartridge (not including manual or case)) in protective packaging; (2) the accessory; (3) photocopy of your dated sales receipt; (4) your name and return address typed or clearly printed; (5) a brief note describing the defect, the problem(s) you are encountering, and the system on which you are running the software; and (6) the incident number given to you by Customer Support. You may be required to also send a cheque or money order but if your claim is determined to be valid you may be entitled to a refund of this amount. Unless otherwise directed by Customer Support, please send items to be replaced (registered mail recommended) to Limited Physical Media/Peripheral Warranty Replacements, Activision Blizzard Australia Pty Ltd, PO Box 544 Pyrmont NSW 2009 Australia . The provisions of the Limitation of Damages clause below apply only to the extent permitted by the Competition and Consumer Act 2010 (Cth).
+
+</text>
+<text id="601013">6(B).  LIMITED HARDWARE WARRANTY (RESIDENTS OF ALL COUNTRIES OTHER THAN NORTH AMERICA AND AUSTRALIA ONLY):  The warranty for the Program is provided in accordance with your statutory rights as a consumer which will always prevail.  For information about Activision's procedures on replacements of the Program in the European Union and other countries outside of North America and Australia, or other customer service inquires please check:  http://support.activision.com. 
+
+</text>
+<text id="601014">7. LIMITATION OF DAMAGES 
+
+7(A) FOR RESIDENTS IN NORTH AMERICA: 
+
+ACTIVISION SHALL NOT BE LIABLE FOR SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES RESULTING FROM POSSESSION, USE, OR MALFUNCTION OF THE PROGRAM, INCLUDING DAMAGES TO PROPERTY, COMPUTER FAILURE OR MALFUNCTION AND, TO THE EXTENT PERMITTED BY LAW, DAMAGES FOR PERSONAL INJURIES, EVEN IF ACTIVISION HAS BEEN ADVISED OF THE POSSIBILITY OF THESE DAMAGES. ACTIVISION’S LIABILITY SHALL NOT EXCEED THE ACTUAL PRICE PAID FOR THE LICENSE TO USE THE PROGRAM. SOME STATES/COUNTRIES DO NOT ALLOW LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY LASTS AND/OR THE EXCLUSION OR LIMITATION OF DAMAGES, SO THE ABOVE LIMITATIONS AND/OR EXCLUSIONS MAY NOT APPLY TO YOU. THIS WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS, AND YOU MAY HAVE OTHER RIGHTS WHICH VARY FROM JURISDICTION TO JURISDICTION.
+
+</text>
+<text id="601015">7(B) FOR RESIDENTS OUTSIDE NORTH AMERICA: 
+
+NOTHING IN THIS AGREEMENT SHALL LIMIT OR EXCLUDE ACTIVISION'S LIABILITY TO YOU:
+ FOR DEATH OR PERSONAL INJURY CAUSED BY OUR NEGLIGENCE;
+ FOR FRAUDULENT MISREPRESENTATION; OR
+ FOR ANY OTHER LIABILITY THAT MAY NOT, UNDER THE LAWS OF THE JURISDICTION WHERE YOU RESIDE, BE LIMITED OR EXCLUDED.
+SUBJECT TO THIS, IN NO EVENT SHALL ACTIVISION BE LIABLE TO YOU FOR ANY BUSINESS LOSSES AND ANY LIABILITY ACTIVISION DOES HAVE FOR LOSSES YOU SUFFER IS STRICTLY LIMITED TO LOSSES THAT WERE REASONABLY FORESEEABLE AND SHALL NOT, IN AGGREGATE, EXCEED THE GREATER OF THE FOLLOWING: THE TOTAL PRICE PAID BY YOU FOR THE PROGRAM (PLUS ANY PAID-FOR SERVICE PROVIDED CONTENT) OVER THE PREVIOUS 12-MONTHS FROM THE DATE ON WHICH THE LIABILITY ARISES; OR THE SUM OF GBP£500 OR EQUIVALENT AMOUNT UNDER THE CURRENT FOREIGN EXCHANGE RATE.
+
+</text>
+<text id="601016">8. TERMINATION: Without prejudice to any other rights of Activision, this Agreement will terminate automatically if you fail to comply with its terms and conditions. In the event of termination for this reason, you must destroy all copies of the Program and all of its component parts.  You may also terminate the Agreement at any time by permanently deleting any installation of the Program, and destroying all copies of the Program in your possession or control. The following provisions shall survive termination of this agreement: LICENSE CONDITIONS (SECTION 3), OWNERSHIP (SECTION 4), LIMITED HARDWARE WARRANTY (SECTIONS 6A AND 6B), LIMITATION OF DAMAGES (SECTIONS 7A AND 7B), TERMINATION (SECTION 8), INDEMNITY (SECTION 10), SERVICE PROVIDED CONTENT (SECTION 11), AVAILABILITY (SECTION 12), ACCESS (SECTION 13), BINDING ARBITRATION AND CLASS ACTION WAIVER (SECTION 16), JURISDICTION AND APPLICABLE LAW (SECTION 17), AND MISCELLANEOUS (SECTION 18).
+
+</text>
+<text id="601017">9. For residents in North America-- U.S. GOVERNMENT RESTRICTED RIGHTS: The Program has been developed entirely at private expense and are provided as "Commercial Computer Software" or "restricted computer software." Use, duplication or disclosure by the U.S. Government or a U.S. Government subcontractor is subject to the restrictions set forth in subparagraph (c)(1)(ii) of the Rights in Technical Data and Computer Software clauses in DFARS 252.227-7013 or as set forth in subparagraph (c)(1) and (2) of the Commercial Computer Software Restricted Rights clauses at FAR 52.227-19, as applicable. The Contractor/Manufacturer is Activision Publishing, Inc., 3100 Ocean Park Boulevard, Santa Monica, California 90405.
+
+</text>
+<text id="601018">10. For residents in North America-- INDEMNITY: You agree to indemnify, defend, and hold Activision, its partners, affiliates, licensors, contractors, officers, directors, employees, and agents harmless from all damages, losses and expenses arising directly or indirectly from your breach of this Agreement and/or your acts and omissions in using the Program pursuant to the terms of this Agreement. 
+
+</text>
+<text id="601019">11. SERVICE PROVIDED CONTENT:  “Service Provided Content" consists of all virtual materials, information and content provided to you (e.g., unlockable content, accounts, stats, virtual assets, virtual currencies, codes, achievements, virtual rewards, credits, access, shows, tokens, coins, power-ups, and customizations) in connection with your use of the Program, including the Online Services, which you need to "earn", "grind", "buy" and/or "purchase" in order to obtain additional content. 
+
+While the Program may allow you to “earn,” “grind,” "buy," or "purchase" Service Provided Content within or in connection with gameplay, you do not in fact own or have any property interest in the Service Provided Content and the price of any Service Provided Content does not refer to any credit balance of real currency or its equivalent.  Unless otherwise specified in writing, any Service Provided Content that you receive is licensed to you as set forth herein, and you shall have no ownership right thereto in any Service Provided Content. You may not, sell, lend, rent, trade, or otherwise transfer any Service Provided Content, except for other Service Provided Content where applicable.  Any sale of Service Provided Content, including, but not limited to, virtual currency for “real” money or exchange of those items or virtual currency for value outside of the Program is prohibited.   Service Provided Content may be altered, removed, deleted, or discontinued by Activision (e.g., upon termination of this Agreement and/or cessation of online support for the Program as set out in Section 8) even if you have not “used” or “consumed” the Service Provided Content prior to alteration, removal, deletion, or discontinuation.  Without limiting the above, Service Provided Content may include virtual coins, points or other virtual currencies (“Virtual Currency”). 
+
+</text>
+<text id="601020">By purchasing or otherwise acquiring Virtual Currency, you obtain a limited license (which is revocable by Activision at any time unless otherwise required by applicable laws) to access and select from other Service Provided Content. Virtual Currency has no monetary value and does not constitute currency or property of any type. Virtual Currency may be redeemed for other Service Provided Content only, if at all. Subject to applicable local law, Virtual Currency is non-refundable. You are not entitled to a refund or any other compensation such as Service Provided Content for any unused Virtual Currency and unused Virtual Currency is non-exchangeable.  Activision may revise the pricing for the Service Provided Content and Virtual Currency offered through the Program at any time.  Activision may limit the total amount of Service Provided Content or Virtual Currency that may be purchased at any one time, and/or limit the total amount of Service Provided Content or Virtual Currency that may be held in your account in the aggregate.  You are only allowed to purchase Service Provided Content or Virtual Currency from Activision or our authorized partners through the Program, and not in any other way.  Activision reserves the right to refuse your request(s) to acquire Service Provided Content and/or Virtual Currency.  You agree that you will be solely responsible for paying any applicable taxes related to the acquisition of, use of or access to Service Provided Content and/or Virtual Currency.
+
+</text>
+<text id="601021">There may be Service Provided Content (should you choose to purchase it) which will require you to make a payment with real money, the amount of which will be set out in the Program. All Service Provided Content will be made available immediately when you purchase it with real money and you acknowledge that this is the case and that you will have no right to change your mind and cancel (sometimes known as a 'cooling off' right) once your purchase is complete.  Depending on your platform, any Service Provided Content purchased, will be purchased from your platform provider and such purchase will be subject to their respective Terms of Service and User Agreement. Please check usage rights for each purchase as these may differ from item to item. Unless otherwise shown, content available in any in-game store has the same age rating as the game.
+
+</text>
+<text id="601022">12. AVAILABILITY: 
+
+12(A) For residents in North America:  Activision does not guarantee that any online services, play or features associated with the Program (collectively, “Online Services”) or Service Provided Content will be available at all times or at any given time or that Activision will continue to offer Online Services or Service Provided Content for any particular length of time. Activision may change and update Online Services or Service Provided Content without notice to you. Activision makes no warranty or representation regarding the availability of Online Services and reserves the right to modify or discontinue Online Services in its sole discretion without notice, including for example, ceasing an Online Service for economic reasons due to a limited number of users continuing to make use of the Online Service over time. NOTWITHSTANDING ANYTHING TO THE CONTRARY, YOU ACKNOWLEDGE AND AGREE THAT ONLINE SERVICES MAY BE TERMINATED IN WHOLE OR IN PART AT ACTIVISION’S SOLE DISCRETION WITHOUT NOTICE TO YOU, AND IN CONNECTION WITH ONLINE SERVICES’ TERMINATION, ANY AND ALL SERVICE PROVIDED CONTENT LICENSED TO YOU MAY BE TERMINATED. YOU ASSUME ANY AND ALL RISK OF LOSS ASSOCIATED WITH THE TERMINATION OF ONLINE SERVICES AND ANY LOSS OF SERVICE PROVIDED CONTENT OR OTHERWISE.  
+
+</text>
+<text id="601023">12(B) For residents outside North America: Subject to the next sentence, Activision does not guarantee that any Online Services or Service Provided Content will be available or error-free at all times or at any given time. Activision warrants that the Program, in addition to any Service Provided Content which has been paid-for with real money, will substantially comply with the description provided by it at the point of purchase and be of satisfactory quality  (in addition any related services provided through them will be provided with reasonable care and skill).  Activision may change and update Online Services or Service Provided Content without notice to you (provided always that any such changes do not result in material degradation in the functionality of the Program or any Service Provided Content which has been paid-for with real money). Activision makes no warranty or representation regarding the availability of Online Services and/or Service Provided Content which are free (i.e. not paid-for with real money) and reserves the right to modify or discontinue them in its sole discretion without notice to you, including for example, for economic reasons due to a limited number of users continuing to make use of them over time. Activision is not liable or responsible for any failure to perform, or delay in performance of, any of its obligations that is caused by events outside its reasonable control. If such circumstances result in material degradation in the functionality of the Program or Service Provided Content then your obligation to make any payment to download, use or access them will be suspended for the duration of such period. Activision is entitled to modify or discontinue Online Services and/or Service Provided Content which are paid-for with real money in its sole discretion upon reasonable notice to you. The warranty for such Online Services and/or Service Provided Content is provided in accordance with your statutory rights as a consumer which will always prevail. Please see Section 7 in respect of Activision's limitation on damages, but nothing in this paragraph shall affect your statutory rights. 
+
+</text>
+<text id="601024">13. ACCESS:  YOU ARE SOLELY RESPONSIBLE FOR ANY THIRD PARTY COSTS YOU INCUR TO USE THE PROGRAM AND SERVICES.  You acknowledge and agree that you will provide at your own cost and expense the equipment, Internet, or other connection charges required to access and use the Program. Activision makes no warranty that the Program can be accessed or used on all systems, controllers, or devices, by means of any specific Internet or other connection provider, or in all territories. The Program may integrate, be integrated into, or be provided in connection with third-party services and content.  Activision does not control those third-party services and content.  You should read the terms of use agreements and privacy policies that apply to such third-party services and content. 
+
+</text>
+<text id="601025">14. USER GENERATED CONTENT: The Program may include means by which you and other users may share user generated content (“UGC”).  To the fullest extent permitted by applicable law, by submitting any UGC you automatically grant (or represent and warrant that the owner of such rights has expressly granted) Activision a perpetual, worldwide, royalty-free, irrevocable, non-exclusive right and license to use, reproduce, modify, adapt, publish, translate, sub-license, create derivative works from and distribute such UGC or incorporate such UGC content into any form, medium, or technology now known or later developed throughout the universe, and agree that Activision shall be entitled to unrestricted use of the UGC for any purpose whatsoever, commercial or otherwise, without compensation (but subject to applicable local legislation), notice or attribution.  You waive and agree not to assert against Activision or any of its partners, affiliates, subsidiaries or licensees, any moral or similar rights you may have in any of your UGC.  To the extent the Program permits other users to access and use your UGC, you also grant such users the right to use, copy, modify, display, perform, create derivative works from, and otherwise communicate and distribute your UGC on or through the Program without further notice, attribution or compensation to you. You may only upload your own UGC to the Program; do not upload anyone else’s UGC.  Activision reserves the right (but has no obligation) to remove, block, edit, move, or disable UGC for any reason in Activision’s sole discretion.  Activision is not responsible for, and does not endorse or guarantee, the opinions, views, advice or recommendations posted or sent by other users. 
+
+</text>
+<text id="601026">For residents of all countries outside North America: Users of the Program create, upload, download and use UGC at their own risk. If you upload or make available to other users your UGC via our Program, we do not control, monitor, endorse or own your UGC, and you are commissioning us to host and make available such UGC subject to the above license. 
+
+Complaints about the content of any UGC must be sent to legalaffairs@activision.com and must contain details of the specific UGC giving rise to the complaint.
+
+</text>
+<text id="601027">15. For residents in North America-- COPYRIGHT NOTICE:
+
+If you believe that any content appearing in the Program and/or UGC has been copied in a way that constitutes copyright infringement, please forward the following information to the copyright agent named below.  Your copyright infringement notification must comply with the Digital Millennium Copyright Act ("DMCA"). You are encouraged to review 17 U.S.C. § 512(c)(3) or consult with an attorney prior to sending a notice hereunder.  To file a copyright infringement notice, you will need to send a written communication that includes the following to the address listed below: (a) your name, address, telephone number, and email address; (b) a description of the copyrighted work that you claim has been infringed; (c) the exact URL or a description of where the alleged infringing material is located; (d) a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; (e) an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest; and (f) a statement by you, under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
+
+</text>
+<text id="601028">Copyright Agent
+Activision Publishing, Inc.
+3100 Ocean Park Boulevard
+Santa Monica, California 90405
+Attn: Activision Business and Legal Affairs 
+Fax: (310) 255-2152 
+E-Mail: legalaffairs@activision.com
+
+Please note that the DMCA provides that you may be liable for damages (including costs and attorney fees) if you knowingly misrepresent that material or activity is infringing. Please also note that the information provided in your copyright infringement notice may be provided to the person responsible for the allegedly infringing material.
+
+</text>
+<text id="601029">16. For residents in North America-- BINDING ARBITRATION AND CLASS ACTION WAIVER:
+
+READ THIS SECTION CAREFULLY.  IT MAY SIGNIFICANTLY AFFECT YOUR LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.
+
+These BINDING ARBITRATION AND CLASS ACTION WAIVER provisions apply to you if you are domiciled in and/or acquired and use the Program in the United States. These provisions may also apply to you if you are domiciled in and/or acquired and use the Program from outside the United States. See JURISDICTION AND APPLICABLE LAW below for details.
+
+Initial Dispute Resolution:  Activision's Customer Support department is available at https://support.activision.com/ to address any concerns you may have regarding the Program. Most concerns are quickly resolved in this manner to our customers' satisfaction. The parties shall use their best efforts to settle any dispute, claim, question, or disagreement directly through consultation and good faith negotiations which shall be a precondition to either party initiating a lawsuit or arbitration.
+
+</text>
+<text id="601030">Binding Arbitration:  If the parties do not reach an agreed upon solution within a period of 30 days from the time informal dispute resolution is pursued pursuant to the paragraph above, then either party may initiate binding arbitration as the sole means to formally resolve claims, subject to the terms set forth below. Specifically, all claims arising out of or relating to this Agreement (including its interpretation, formation, performance and breach), the parties' relationship with each other and/or your use of the Program shall be finally settled by binding arbitration administered by JAMS in accordance with the provisions of its Comprehensive Arbitration Rules or Streamlined Arbitrations Rules, as appropriate, excluding any rules or procedures governing or permitting class actions. This arbitration provision is made pursuant to a transaction involving interstate commerce, and the Federal Arbitration Act (the "FAA") shall apply to the interpretation, applicability, enforceability and formation of this Agreement notwithstanding any other choice of law provision contained in this Agreement.  The arbitrator, and not any federal, state, or local court or agency, shall have exclusive authority to resolve all disputes arising out of or relating to the interpretation, applicability, enforceability, or formation of this Agreement, including without limitation any claim that all or any part of this Agreement is void or voidable, or whether a claim is subject to arbitration. The arbitrator shall be empowered to grant whatever relief would be available in a court under law or in equity. The arbitrator's award shall be binding on the parties and may be entered as a judgment in any court of competent jurisdiction. 
+
+</text>
+<text id="601031">The JAMS Rules governing the arbitration may be accessed at http://www.jamsadr.com/ or by calling JAMS at (800) 352-5267. Your arbitration fees and your share of arbitrator compensation shall be governed by the JAMS Comprehensive Arbitration Rules, but shall not incorporate the JAMS Class Action Procedures, and, to the extent applicable, the Consumer Minimum Standards, including the then-current limit on arbitration filing fees. To the extent the filing fee for the arbitration exceeds the cost of filing a lawsuit, Activision will pay the additional cost. The parties understand that, absent this mandatory provision, they would have the right to sue in court and have a jury trial.  They further understand that, in some instances, the costs of arbitration could exceed the costs of litigation and the right to discovery may be more limited in arbitration than in court.
+
+</text>
+<text id="601032">Location:  If you are a resident of the United States, arbitration will take place at any reasonable location within the United States convenient for you. For residents outside the United States, arbitration shall be initiated in Los Angeles County, California, and you and Activision agree to submit to the personal jurisdiction of any federal or state court in Los Angeles County, California, in order to compel arbitration, to stay proceedings pending arbitration, or to confirm, modify, vacate, or enter judgment on the award entered by the arbitrator.
+ 
+Class Action Waiver:  The parties further agree that any arbitration shall be conducted in their individual capacities only and not as a class action or other representative action, and the parties expressly waive their right to file a class action or seek relief on a class basis. YOU AND ACTIVISION AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. If any court or arbitrator determines that the class action waiver set forth in this paragraph is void or unenforceable for any reason or that an arbitration can proceed on a class basis, then the arbitration provision set forth above shall be deemed null and void in its entirety and the parties shall be deemed to have not agreed to arbitrate disputes.
+
+</text>
+<text id="601033">Exception - Litigation of Intellectual Property and Small Claims Court Claims: Notwithstanding the parties' decision to resolve all disputes through arbitration, either party may bring an action in state or federal court that only asserts claims for patent infringement or invalidity, copyright infringement, moral rights violations, trademark infringement, and/or trade secret misappropriation, but not, for clarity, claims related to the license granted to you for the Program under this Agreement. Either party may also seek relief in a small claims court for disputes or claims within the scope of that court's jurisdiction.
+
+30 Day Right to Opt Out:  You have the right to opt-out and not be bound by the arbitration and class action waiver provisions set forth in the "Binding Arbitration," "Location," and "Class Action Waiver" paragraphs above by sending written notice of your decision to opt-out to the following address: Activision Publishing, Inc., 3100 Ocean Park Boulevard, Santa Monica, CA 90405-3032, Attn: Legal. The notice must be sent within 30 days of purchasing the Program (or if no purchase was made, then within 30 days of the date on which you first access or use the Program and agree to these terms); otherwise you shall be bound to arbitrate disputes in accordance with the terms of those paragraphs. If you opt-out of these arbitration provisions, Activision also will not be bound by them. 
+
+Changes to this Section:  Activision will provide 60-days’ notice of any changes to this Section. Changes will become effective on the 60th day and will apply prospectively only to any claims arising after the 60th day.
+
+</text>
+<text id="601034">17. JURISDICTION AND APPLICABLE LAW 
+The Program is made available subject to the terms of this Agreement.  If you acquired and use the Program from:
+A. For residents in the United States, Mexico, or Canada, then you are contracting with Activision Publishing, Inc., 3100 Ocean Park Boulevard, Santa Monica, CA 90405-3032 and any claims arising out of this Agreement (including interpretation, claims for breach, and all other claims (including consumer protection, unfair competition, and tort claims)) will be subject to the laws of the State of Delaware, without reference to conflict of laws principles. If any court or arbitrator determines that the “Class Action Waiver” paragraph set forth above is void or unenforceable for any reason or that an arbitration can proceed on a class basis, then any and all claims arising out of this Agreement (including interpretation, claims for breach, and all other claims (including consumer protection, unfair competition, and tort claims)) shall be decided under the laws of the state where you were a citizen at the time you obtained or bought the Program that was subject to this Agreement. In addition, you and we irrevocably consent to the exclusive jurisdiction and venue of state or federal courts in Los Angeles County, California to resolve any claims that are subject to exceptions to the arbitration agreement described in BINDING ARBITRATION AND CLASS ACTION WAIVER above, or otherwise determined not to be arbitrable.
+</text>
+<text id="601035">B. For residents in the European Union, then you are contracting with Activision Blizzard International B.V. formerly known as Cooperatie Activision Blizzard International UA of Beechavenue 131, 1119RB Schiphol-Rijk, Netherlands and the laws of England and Wales govern the interpretation of this Agreement and apply to claims for breach of it, without reference to conflict of laws principles. All other claims, including claims regarding consumer protection laws, unfair competition laws, and in tort, will be subject to the laws of the European Union country (e.g., the United Kingdom, the French Republic, or the Federal Republic of Germany) in which you acquired and use the Program. In addition, with respect to jurisdiction, you may choose either the courts of the country (e.g., the United Kingdom, the French Republic, or the Federal Republic of Germany) in which you acquired and use the Program, or in the alternative the courts of England and Wales or other court as applicable under the Brussels Regulation EC 44/2001. 
+C. For residents in Australia or Japan, then you are contracting with Activision Blizzard International B.V. formerly known as Cooperatie Activision Blizzard International UA of Beechavenue 131, 1119RB Schiphol-Rijk, Netherlands and the laws of Australia govern the interpretation of this Agreement and apply to claims for breach of it, without reference to conflict of laws principles. All other claims, including claims regarding consumer protection laws, unfair competition laws, and in tort, will be subject to the laws of the country in which you acquired and use the Program (being either Australia or Japan). To the extent permitted by applicable law, you agree to the jurisdiction of the courts of New South Wales, Australia. 
+
+</text>
+<text id="601036">D. For residents in the Rest of the World, If you acquired and use this Program from countries other than those listed in sections A, B and C above, then you do so on your own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable, and you expressly indemnify and hold harmless Activision from any and all claims, loss, injury, damage, or costs arising from your use of the Program to the extent permitted by applicable law. No warranty or representation is made by Activision that the Program or any use of the Program outside of the countries listed in sections A, B and C above complies with any applicable local law. Further your use of the Program and all claims arising out of or related to the Program or this Agreement will, to the extent permitted under applicable law, be subject to the laws of England and Wales, without reference to conflict of laws principles and you consent to the jurisdiction of the courts of England and Wales.
+To the fullest extent permitted by applicable law, if any user outside of the United States is entitled to commence and/or participate in legal proceedings within the United States, then that user agrees to be bound by the BINDING ARBITRATION AND CLASS ACTION WAIVER provisions above.
+ 
+</text>
+<text id="601037">18. MISCELLANEOUS: This Agreement is the complete agreement concerning this license between the parties and supersedes all prior agreements and representations between them. If any provision of this Agreement is held to be unenforceable, the applicable provision shall be reformed only to the extent necessary to make it enforceable and the remaining provisions of this Agreement shall not be affected, except as otherwise expressly provided herein.
+
+</text>
+<text id="601038">19. SUPPLEMENTAL TERMS– GERMANY
+
+The following Sections below supersede and replace the corresponding Sections above for residents in Germany:
+ 
+Modification of Terms: From time to time, Activision may need to amend this Agreement, for example to reflect or include new products or services, to enhance security for users or because of changes in the law. If Activision makes such a change to this Agreement we will inform you of the particular changes in advance no later than thirty (30) calendar days before such changes come into force and you shall be deemed to have accepted these changes (i) unless you have notified us of your objection to such changes within thirty (30) calendar days from the moment of receipt of notification from us, or (ii) if you use the Program after the changes have entered into force. In the notification, we will inform you of your right to object, of the applicable notice period and the legal consequences of a failure to object.
+
+The latest version of this Agreement will always be available on our website, so we recommend that you check for updates to this Agreement each time you use the Program. Changes to the Agreement shall not affect your accrued rights, shall not substantially disrupt the contractual balance between you and us under this Agreement and shall not have retroactive effect.
+
+Service Provided Content: In addition to the above, the following Right of Withdrawal shall apply to German residents.
+
+If you are a consumer (i.e. a natural person who enters into a legal transaction for purposes that predominantly are outside his trade, business or profession), then you shall have a right of withdrawal as set out hereafter.
+
+</text>
+<text id="601039">Information concerning the exercise of the right of withdrawal
+
+Right of Withdrawal
+
+You have the right to withdraw from any Purchase Contract within 14 calendar days without giving any reason. The withdrawal period will expire after 14 calendar days from the day of the conclusion of the Purchase Contract. To exercise the right of withdrawal, you must inform us (Activision Blizzard International B.V. of Beechavenue 131, 1119RB Schiphol-Rijk, Netherlands contact details available at www.support.activision.com  of your decision to withdraw from a Purchase Contract by an unequivocal statement (e.g. a letter sent by post, fax or e-mail). You may use the model withdrawal form attached hereafter, but it is not obligatory. To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired.
+
+</text>
+<text id="601040">Effects of withdrawal
+
+If you withdraw from the Purchase Contract, we shall reimburse to you all payments received from you under this Purchase Contract, including the costs of delivery (with the exception of the supplementary costs resulting from your choice of a type of delivery other than the least expensive type of standard delivery offered by us), without undue delay and in any event not later than 14 calendar days from the day on which we are informed about your decision to withdraw from this Purchase Contract. We will carry out such reimbursement using the same means of payment as you used for the initial transaction, unless you have expressly agreed otherwise; in any event, you will not incur any fees as a result of such reimbursement.
+
+If you requested to begin the performance of services under a Purchase Contract during the withdrawal period, you shall pay us an amount which is in proportion to what has been provided until you have communicated us your withdrawal from that Purchase Contract, in comparison with the full coverage of these services under the Purchase Contract.
+
+</text>
+<text id="601041">End of the information concerning the exercise of the right of withdrawal
+
+You lose your right of withdrawal, insofar as the Purchase Contract is a service contract, after the service has been fully performed and if the performance has begun with your prior express consent, and with the acknowledgement that you will lose your right of withdrawal once the service has been fully performed by us.
+
+You lose your right of withdrawal insofar as the Purchase Contract comprises the supply of digital content which is not supplied on a tangible medium if the performance has begun with your prior express consent and your acknowledgment that you thereby lose your right of withdrawal.
+
+Based on the aforesaid you understand that by purchasing Service Provided Content, you consent that we make available these Service Provided Content to you directly after we have accepted your order. You will lose your right of withdrawal once the Service Provided Content have been made fully available to you by us. However, your right of withdrawal is not lost if you purchase Virtual Goods that are granted to you for a certain period of time (e.g. time-limited premium memberships). 
+****
+</text>
+<text id="601042">Model withdrawal Form
+
+Please complete and return this withdrawal form if you wish to withdraw from a contract with us.
+
+- To: [Activision Blizzard International B.V. of Beechavenue 131, 1119RB Schiphol-Rijk, Netherlands, 
+- I/We hereby give notice that I/We withdraw from my/our contract for the purchase of the following goods/ the provision of the following services:*
+- Ordered/ received on*:
+- Name of consumer(s): 
+- Address of consumer(s):
+- Signature of consumer(s): (only required if this form is notified on paper)
+- Date: 
+
+(*) Delete where appropriate.
+</text>
+<text id="602000">IMPORTANT NOTICE FOR RESIDENTS IN NORTH AMERICA ONLY: THIS AGREEMENT IS SUBJECT TO BINDING ARBITRATION
+AND A WAIVER OF CLASS ACTION RIGHTS AS DETAILED IN SECTION 16 BELOW. 
+
+SOFTWARE LICENSE AND SERVICE AGREEMENT
+
+</text>
+<text id="602001">USE OF THIS SOFTWARE PROGRAM (AND ANY UPDATES), ANY ONLINE SERVICES, OR DOWNLOADS ASSOCIATED HEREWITH, THE SOFTWARE (INCLUDING FIRMWARE) FOR ANY RELATED PERIPHERALS (collectively, ”Peripheral”), THE ASSOCIATED MEDIA, PRINTED MATERIALS, AND DOCUMENTATION (collectively, “Program”) IS SUBJECT TO THIS SOFTWARE LICENSE AND SERVICE AGREEMENT (“Agreement”). IF YOU ARE UNDER THE AGE OF MAJORITY IN YOUR JURISDICTION OR EIGHTEEN (18) YEARS OF AGE, WHICHEVER IS OLDER, PLEASE ASK YOUR PARENT OR GUARDIAN TO READ AND ACCEPT THIS AGREEMENT ON YOUR BEHALF BEFORE YOU USE THE PROGRAM. BY OPENING THIS PACKAGE, DOWNLOADING, INSTALLING, OR USING THE PROGRAM OR “CLICKING TO ACCEPT,” YOU ACCEPT THE TERMS OF THIS AGREEMENT WITH THE ACTIVISION CORPORATE ENTITY SET OUT IN SECTION 17 ("Activision") DEPENDING ON WHERE YOU ACQUIRED AND USE THE PROGRAM. IF YOU DO NOT AGREE TO THESE TERMS, YOU ARE NOT PERMITTED TO INSTALL, COPY, OR USE THE PROGRAM. TO REJECT THESE TERMS, YOU MUST NOT “CLICK TO ACCEPT” THESE TERMS OR INSTALL, COPY, OR USE THE PROGRAM.    
+
+</text>
+<text id="602002">FOR RESIDENTS IN NORTH AMERICA ONLY: IF YOU REJECT THIS AGREEMENT, YOU CAN RETURN YOUR PERIPHERAL AND THE PROGRAM AND REQUEST A REFUND FOR YOUR PERIPHERAL AND THE PROGRAM WITHIN THIRTY (30) DAYS AFTER THE DATE OF YOUR PURCHASE, BY VISITING http://support.activision.com. ACTIVISION’S PRIVACY POLICY AVAILABLE AT http://www.activision.com/legal/privacy-policy SHALL BE DEEMED TO BE PART OF THE “AGREEMENT” ACCEPTED AND AGREED TO BY YOU AND THE TERMS OF SUCH ARE INCORPORATED HEREIN BY REFERENCE.  
+
+</text>
+<text id="602003">FOR RESIDENTS OUTSIDE NORTH AMERICA: IF YOU (OR, IF APPLICABLE, YOUR PARENT OR GUARDIAN) DO NOT AGREE TO THIS AGREEMENT, THEN YOU MUST NOT USE OR ACCESS THE PROGRAM OR ANY PART THEREOF.  BY “CLICKING TO ACCEPT,” YOU REPRESENT AND WARRANT THAT YOU ARE A “NATURAL PERSON” WHO IS OVER THE AGE OF EIGHTEEN (18) OR WHOSE LEGAL GUARDIAN HAS ACCEPTED AND AGREED TO THIS AGREEMENT.  IF YOU REJECT THIS AGREEMENT, YOUR RETURN RIGHTS IN RELATION TO THE PROGRAM ARE GOVERNED BY YOUR STATUTORY RIGHTS IN THE COUNTRY WHERE YOU BOUGHT THE PROGRAM. PLEASE VISIT http://support.activision.com. NOTHING IN THIS PARAGRAPH SHALL AFFECT YOUR STATUTORY RIGHTS. PLEASE NOTE THAT YOUR RIGHTS IN RESPECT OF ONLINE SERVICES AND SERVICE PROVIDED CONTENT ARE COVERED IN SECTIONS 12 AND 13.  YOUR USE OF THE PROGRAM SHALL BE SUBJECT TO THE TERMS OF ACTIVISION’S PRIVACY POLICY AVAILABLE AT http://www.activision.com/legal/privacy-policy.  
+
+</text>
+<text id="602004">EXCEPT FOR SECTION 16 (ARBITRATION AND CLASS ACTION WAIVER), ACTIVISION RESERVES THE RIGHT TO MODIFY THIS AGREEMENT AT ANY TIME BY ANY MEANS, INCLUDING WITHOUT LIMITATION BY (1) POSTING THE MODIFICATIONS TO http://support.activision.com/license AND/OR (2) REQUIRING YOU TO “CLICK TO ACCEPT” THE AGREEMENT, AND YOUR CONTINUED USE OF THE PROGRAM CONSTITUTES YOUR ACCEPTANCE OF THE MODIFICATIONS. IF ANY FUTURE MODIFICATIONS TO THE AGREEMENT ARE UNACCEPTABLE TO YOU OR CAUSE YOU TO NO LONGER BE IN COMPLIANCE WITH THIS AGREEMENT, YOU MUST TERMINATE, AND IMMEDIATELY STOP USING, THE PROGRAM. IF ANY FUTURE MODIFICATIONS ARE IMPLEMENTED AS A “CLICK TO ACCEPT” AGREEMENT, YOU MAY NOT BE ABLE TO CONTINUE USING THE PROGRAM UNLESS YOU AFFIRMATIVELY ACCEPT THE MODIFIED AGREEMENT.
+
+</text>
+<text id="602005">1. SERVICES AND ADDITIONAL TERMS OF SERVICE:  USE OF CERTAIN FEATURES OF THE PROGRAM, INCLUDING ONLINE OR MULTIPLAYER COMPONENTS, OR UPDATED FEATURES, MAY REQUIRE ASSENT TO ADDITIONAL TERMS OF SERVICE.  YOU WILL BE PROVIDED WITH THESE ADDITIONAL TERMS OF SERVICE AT THE TIME THE APPLICABLE FEATURES ARE MADE AVAILABLE TO YOU.  IF YOU DO NOT ASSENT TO THE ADDITIONAL TERMS OF SERVICE, YOU MAY NOT BE ABLE TO ACCESS OR USE THE ADDITIONAL FEATURES THAT ARE SUBJECT TO THE ADDITIONAL TERMS OF SERVICE.  
+
+</text>
+<text id="602006">2. LIMITED USE LICENSE: Subject to any system requirements, Activision grants you the non-exclusive, non-transferable, limited right and license to install and use one copy of the software component(s) of the Program solely for your personal use. All rights not specifically granted are reserved by Activision. The Program is licensed, not sold, for your use. Your license confers no title or ownership in the Program, and should not be construed as a sale of any rights in the Program.  This Agreement shall also apply to patches or updates you may obtain for the Program, unless that patch or update is accompanied by additional terms.  YOU ACKNOWLEDGE AND AGREE THAT, OTHER THAN LICENSE GRANTED TO YOU BY THIS AGREEMENT, YOU SHALL HAVE NO OWNERSHIP OR PROPERTY INTEREST IN ANY PRODUCT OR SERVICE PROVIDED CONTENT (AS DEFINED BELOW), INCLUDING, WITHOUT LIMITATION, ONLINE ACCOUNTS, ANY VIRTUAL CURRENCY OR GOODS, AND YOU FURTHER ACKNOWLEDGE AND AGREE THAT TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW ALL RIGHTS IN AND TO SUCH PRODUCTS AND SERVICE PROVIDED CONTENT ARE AND SHALL FOREVER BE OWNED BY AND INURE TO THE BENEFIT OF ACTIVISION.
+
+FOR RESIDENTS OUTSIDE NORTH AMERICA: For the avoidance of doubt, nothing in Section 2 shall limit your right to sell and transfer the physical media containing the Program which you have rightfully purchased.
+
+</text>
+<text id="602007">3. LICENSE CONDITIONS: This license is subject to the following limitations ("License Limitations"). Any use of the Program in violation of the License Limitations will result in an immediate termination of your license, and continued use of the Program will be an infringement of Activision's copyrights and other rights in and to the Program. 
+
+You agree that you will not do, or allow, any of the following: (1) exploit the Program commercially; (2) subject to any system requirements, use the Program on more than one system at the same time; (3) make copies of the Program, in whole or in part; (4) without limiting the foregoing clause (3), copy the Program onto a hard drive or other storage device unless the Program itself makes a copy during installation, or unless you are downloading the Program from an authorized Activision online retailer; (5) use the Program in a network, multi-user arrangement, or remote access arrangement, including any online use except as included in the Program functionality; (6) sell, rent, lease, license, distribute, or otherwise transfer the Program; (7) subject to applicable laws, reverse engineer, derive source code, modify, decompile, disassemble, or create derivative works of the software and other proprietary technology in the Program, in whole or in part; (8) create, develop, modify, distribute, or use any unauthorized software programs to gain advantage in any offline, online or multiplayer game modes, such behavior will be subject to sanction at Activision’s discretion; (9) remove, disable, or circumvent any proprietary notices or labels contained on or within the Program; or (10) export or re-export the Program in violation of any applicable laws or regulations of the United States government. 
+
+</text>
+<text id="602008">Unless expressly permitted by Activision and subject to applicable local laws, YOU AGREE NOT TO PERMIT THE SOFTWARE IN THE PERIPHERAL OR ANY PART OF IT TO BE COMBINED WITH, BECOME INCORPORATED IN, OR USED WITH ANY SOFTWARE PRODUCT OTHER THAN THE PROGRAM. ALL RIGHTS GRANTED TO YOU UNDER THIS AGREEMENT (INCLUDING YOUR USE OF THE SOFTWARE IN THE PERIPHERAL) WILL TERMINATE IMMEDIATELY IN THE EVENT THAT YOU ARE IN BREACH OF ANY OF THE TERMS, THIS PARAGRAPH OR DO ANYTHING WITH ANY SOFTWARE IN THE PERIPHERAL THAT IS NOT EXPRESSLY PERMITTED BY THIS AGREEMENT.  
+
+You agree not to do any of the following actions while using the Program:  (A) harass, threaten, embarrass or cause distress or discomfort upon another participant, user, or other individual or entity; (B) transmit any UGC (as defined in Section 14) that Activision considers to be disruptive, unlawful, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, hateful, or racially, sexually, ethnically or otherwise objectionable; (C) impersonate any person or entity, including but not limited to Activision; (D) disrupt normal Program functionality, or otherwise act in a manner that negatively affects other participants and/or the overall Program experience; (E) post or transmit any unsolicited advertising, promotional materials, or any other forms of solicitation; (F) intentionally or unintentionally violate any applicable law, regulation or treaty while using or accessing the Program; (G) post multiple posts of the same content (i.e., “spam”);  or (H) invade the privacy or violate or infringe any right of any person or entity, including, without limitation, any intellectual property right.
+
+Parents and guardians of children under the age of majority in their jurisdiction or 18 years of age, whichever is older, agree that you will be responsible for all uses of the Program by your child whether or not such uses were authorized by you.
+
+</text>
+<text id="602009">4. OWNERSHIP: All title, ownership rights, and intellectual property rights in and to the Program are owned by Activision, affiliates of Activision, or Activision’s licensors. The Program is protected by the copyright laws of the United States of America, international copyright treaties, conventions and other laws. The Program may contain certain licensed materials, and Activision’s licensors may protect their rights in the event of any violation of this Agreement. NOTWITHSTANDING ANYTHING TO THE CONTRARY, YOU ACKNOWLEDGE AND AGREE THAT YOU SHALL HAVE NO OWNERSHIP OR OTHER PROPERTY INTEREST IN ANY ACCOUNT STORED OR HOSTED ON AN ACTIVISION SYSTEM, AND YOU FURTHER ACKNOWLEDGE AND AGREE THAT ALL RIGHTS IN AND TO THESE ACCOUNTS ARE AND SHALL FOREVER BE OWNED BY AND INURE TO THE BENEFIT OF ACTIVISION. ACTIVISION MAY SUSPEND, TERMINATE, MODIFY OR DELETE ANY OF THESE ACCOUNTS AT ANY TIME FOR ANY REASON OR NO REASON, WITH OR WITHOUT NOTICE TO YOU. 
+
+</text>
+<text id="602010">5. PATCHES AND UPDATES:  Activision may deploy or provide mandatory patches, updates, and modifications to the Program that must be installed for you to continue to use the Program. Activision may update the Program remotely without notifying you, and you hereby grant to Activision consent to deploy and apply such patches, updates, and modifications. Broadband internet is required for such patches, updates, and modifications. You are responsible for any and all broadband access and usage fees.   
+
+</text>
+<text id="602011">6. LIMITED HARDWARE WARRANTY (RESIDENTS IN NORTH AMERICA AND AUSTRALIA ONLY): 
+
+6(A)  Activision warrants to the original consumer purchaser of this Program that the physical media on which this Program is stored and any physical accessories (together the “Goods”) will be free from defects in material and workmanship for 90 days from the date of purchase. If the Goods are found defective within 90 days of original purchase, Activision agrees to replace, free of charge, the applicable defective Goods within the applicable 90 day period, upon its receipt of the Program (postage paid, with proof of the date of purchase) so long as the Goods are still being manufactured by Activision. If the Goods are no longer available, Activision retains the right to substitute similar goods of equal or greater value. This warranty is limited to the Goods, as originally provided by Activision, and is not applicable to normal wear and tear. This warranty shall not be applicable, and shall be void, if the defect has arisen through abuse, mistreatment, or neglect. Any implied warranties prescribed by statute are expressly limited to the 90-day period described above.  EXCEPT AS SET FORTH HEREIN, THIS WARRANTY IS IN LIEU OF ALL OTHER WARRANTIES, EXPRESS OR IMPLIED.
+
+For residents in North America: For information about warranty replacement, or other customer service inquires, visit http://support.activision.com.  If a replacement is appropriate you will need to return: (1) the original Goods; (2) a copy of your dated sales receipt; (3) your name and return address; (4) a description of the defect and the problem(s) you are encountering; and (5) the incident/RMA number given to you by Customer Support.  In the United States, send to: Warranty Replacements, Activision Publishing, Inc., 100 N. Sepulveda Blvd. Suite 900, El Segundo, CA 90245; outside of the United States please visit http://support.activision.com.
+
+</text>
+<text id="602012">For residents of Australia: This warranty is provided in addition to other rights and remedies you may have regarding the Goods provided to you in this game bundle, under the Australian Consumer Law. The Goods come with guarantees that cannot be excluded under the Australian Consumer Law. You are entitled to a replacement or refund for a major failure and compensation for any other reasonably foreseeable loss or damage. You are also entitled to have the Goods repaired or replaced if the Goods fail to be of acceptable quality and the failure does not amount to a major failure. Please contact Activision on 1300 748 995 or email ausupport@activision.com or mail PO Box 544 Pyrmont NSW 2009 Australia  if you have an issue with the Goods provided to you in this game bundle. If a replacement or repair is required Activision will instruct you on the process. As part of the process you may be asked to send: (1) the physical media (for example, CD-ROM/DVD/Blu-ray Disc/cartridge (not including manual or case)) in protective packaging; (2) the accessory; (3) photocopy of your dated sales receipt; (4) your name and return address typed or clearly printed; (5) a brief note describing the defect, the problem(s) you are encountering, and the system on which you are running the software; and (6) the incident number given to you by Customer Support. You may be required to also send a cheque or money order but if your claim is determined to be valid you may be entitled to a refund of this amount. Unless otherwise directed by Customer Support, please send items to be replaced (registered mail recommended) to Limited Physical Media/Peripheral Warranty Replacements, Activision Blizzard Australia Pty Ltd, PO Box 544 Pyrmont NSW 2009 Australia . The provisions of the Limitation of Damages clause below apply only to the extent permitted by the Competition and Consumer Act 2010 (Cth).
+
+</text>
+<text id="602013">6(B).  LIMITED HARDWARE WARRANTY (RESIDENTS OF ALL COUNTRIES OTHER THAN NORTH AMERICA AND AUSTRALIA ONLY):  The warranty for the Program is provided in accordance with your statutory rights as a consumer which will always prevail.  For information about Activision's procedures on replacements of the Program in the European Union and other countries outside of North America and Australia, or other customer service inquires please check:  http://support.activision.com. 
+
+</text>
+<text id="602014">7. LIMITATION OF DAMAGES 
+
+7(A) FOR RESIDENTS IN NORTH AMERICA: 
+
+ACTIVISION SHALL NOT BE LIABLE FOR SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES RESULTING FROM POSSESSION, USE, OR MALFUNCTION OF THE PROGRAM, INCLUDING DAMAGES TO PROPERTY, COMPUTER FAILURE OR MALFUNCTION AND, TO THE EXTENT PERMITTED BY LAW, DAMAGES FOR PERSONAL INJURIES, EVEN IF ACTIVISION HAS BEEN ADVISED OF THE POSSIBILITY OF THESE DAMAGES. ACTIVISION’S LIABILITY SHALL NOT EXCEED THE ACTUAL PRICE PAID FOR THE LICENSE TO USE THE PROGRAM. SOME STATES/COUNTRIES DO NOT ALLOW LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY LASTS AND/OR THE EXCLUSION OR LIMITATION OF DAMAGES, SO THE ABOVE LIMITATIONS AND/OR EXCLUSIONS MAY NOT APPLY TO YOU. THIS WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS, AND YOU MAY HAVE OTHER RIGHTS WHICH VARY FROM JURISDICTION TO JURISDICTION.
+
+</text>
+<text id="602015">7(B) FOR RESIDENTS OUTSIDE NORTH AMERICA: 
+
+NOTHING IN THIS AGREEMENT SHALL LIMIT OR EXCLUDE ACTIVISION'S LIABILITY TO YOU:
+ FOR DEATH OR PERSONAL INJURY CAUSED BY OUR NEGLIGENCE;
+ FOR FRAUDULENT MISREPRESENTATION; OR
+ FOR ANY OTHER LIABILITY THAT MAY NOT, UNDER THE LAWS OF THE JURISDICTION WHERE YOU RESIDE, BE LIMITED OR EXCLUDED.
+SUBJECT TO THIS, IN NO EVENT SHALL ACTIVISION BE LIABLE TO YOU FOR ANY BUSINESS LOSSES AND ANY LIABILITY ACTIVISION DOES HAVE FOR LOSSES YOU SUFFER IS STRICTLY LIMITED TO LOSSES THAT WERE REASONABLY FORESEEABLE AND SHALL NOT, IN AGGREGATE, EXCEED THE GREATER OF THE FOLLOWING: THE TOTAL PRICE PAID BY YOU FOR THE PROGRAM (PLUS ANY PAID-FOR SERVICE PROVIDED CONTENT) OVER THE PREVIOUS 12-MONTHS FROM THE DATE ON WHICH THE LIABILITY ARISES; OR THE SUM OF GBP£500 OR EQUIVALENT AMOUNT UNDER THE CURRENT FOREIGN EXCHANGE RATE.
+
+</text>
+<text id="602016">8. TERMINATION: Without prejudice to any other rights of Activision, this Agreement will terminate automatically if you fail to comply with its terms and conditions. In the event of termination for this reason, you must destroy all copies of the Program and all of its component parts.  You may also terminate the Agreement at any time by permanently deleting any installation of the Program, and destroying all copies of the Program in your possession or control. The following provisions shall survive termination of this agreement: LICENSE CONDITIONS (SECTION 3), OWNERSHIP (SECTION 4), LIMITED HARDWARE WARRANTY (SECTIONS 6A AND 6B), LIMITATION OF DAMAGES (SECTIONS 7A AND 7B), TERMINATION (SECTION 8), INDEMNITY (SECTION 10), SERVICE PROVIDED CONTENT (SECTION 11), AVAILABILITY (SECTION 12), ACCESS (SECTION 13), BINDING ARBITRATION AND CLASS ACTION WAIVER (SECTION 16), JURISDICTION AND APPLICABLE LAW (SECTION 17), AND MISCELLANEOUS (SECTION 18).
+
+</text>
+<text id="602017">9. For residents in North America-- U.S. GOVERNMENT RESTRICTED RIGHTS: The Program has been developed entirely at private expense and are provided as "Commercial Computer Software" or "restricted computer software." Use, duplication or disclosure by the U.S. Government or a U.S. Government subcontractor is subject to the restrictions set forth in subparagraph (c)(1)(ii) of the Rights in Technical Data and Computer Software clauses in DFARS 252.227-7013 or as set forth in subparagraph (c)(1) and (2) of the Commercial Computer Software Restricted Rights clauses at FAR 52.227-19, as applicable. The Contractor/Manufacturer is Activision Publishing, Inc., 3100 Ocean Park Boulevard, Santa Monica, California 90405.
+
+</text>
+<text id="602018">10. For residents in North America-- INDEMNITY: You agree to indemnify, defend, and hold Activision, its partners, affiliates, licensors, contractors, officers, directors, employees, and agents harmless from all damages, losses and expenses arising directly or indirectly from your breach of this Agreement and/or your acts and omissions in using the Program pursuant to the terms of this Agreement. 
+
+</text>
+<text id="602019">11. SERVICE PROVIDED CONTENT:  “Service Provided Content" consists of all virtual materials, information and content provided to you (e.g., unlockable content, accounts, stats, virtual assets, virtual currencies, codes, achievements, virtual rewards, credits, access, shows, tokens, coins, power-ups, and customizations) in connection with your use of the Program, including the Online Services, which you need to "earn", "grind", "buy" and/or "purchase" in order to obtain additional content. 
+
+While the Program may allow you to “earn,” “grind,” "buy," or "purchase" Service Provided Content within or in connection with gameplay, you do not in fact own or have any property interest in the Service Provided Content and the price of any Service Provided Content does not refer to any credit balance of real currency or its equivalent.  Unless otherwise specified in writing, any Service Provided Content that you receive is licensed to you as set forth herein, and you shall have no ownership right thereto in any Service Provided Content. You may not, sell, lend, rent, trade, or otherwise transfer any Service Provided Content, except for other Service Provided Content where applicable.  Any sale of Service Provided Content, including, but not limited to, virtual currency for “real” money or exchange of those items or virtual currency for value outside of the Program is prohibited.   Service Provided Content may be altered, removed, deleted, or discontinued by Activision (e.g., upon termination of this Agreement and/or cessation of online support for the Program as set out in Section 8) even if you have not “used” or “consumed” the Service Provided Content prior to alteration, removal, deletion, or discontinuation.  Without limiting the above, Service Provided Content may include virtual coins, points or other virtual currencies (“Virtual Currency”). 
+
+</text>
+<text id="602020">By purchasing or otherwise acquiring Virtual Currency, you obtain a limited license (which is revocable by Activision at any time unless otherwise required by applicable laws) to access and select from other Service Provided Content. Virtual Currency has no monetary value and does not constitute currency or property of any type. Virtual Currency may be redeemed for other Service Provided Content only, if at all. Subject to applicable local law, Virtual Currency is non-refundable. You are not entitled to a refund or any other compensation such as Service Provided Content for any unused Virtual Currency and unused Virtual Currency is non-exchangeable.  Activision may revise the pricing for the Service Provided Content and Virtual Currency offered through the Program at any time.  Activision may limit the total amount of Service Provided Content or Virtual Currency that may be purchased at any one time, and/or limit the total amount of Service Provided Content or Virtual Currency that may be held in your account in the aggregate.  You are only allowed to purchase Service Provided Content or Virtual Currency from Activision or our authorized partners through the Program, and not in any other way.  Activision reserves the right to refuse your request(s) to acquire Service Provided Content and/or Virtual Currency.  You agree that you will be solely responsible for paying any applicable taxes related to the acquisition of, use of or access to Service Provided Content and/or Virtual Currency.
+
+</text>
+<text id="602021">There may be Service Provided Content (should you choose to purchase it) which will require you to make a payment with real money, the amount of which will be set out in the Program. All Service Provided Content will be made available immediately when you purchase it with real money and you acknowledge that this is the case and that you will have no right to change your mind and cancel (sometimes known as a 'cooling off' right) once your purchase is complete.  Depending on your platform, any Service Provided Content purchased, will be purchased from your platform provider and such purchase will be subject to their respective Terms of Service and User Agreement. Please check usage rights for each purchase as these may differ from item to item. Unless otherwise shown, content available in any in-game store has the same age rating as the game.
+
+</text>
+<text id="602022">12. AVAILABILITY: 
+
+12(A) For residents in North America:  Activision does not guarantee that any online services, play or features associated with the Program (collectively, “Online Services”) or Service Provided Content will be available at all times or at any given time or that Activision will continue to offer Online Services or Service Provided Content for any particular length of time. Activision may change and update Online Services or Service Provided Content without notice to you. Activision makes no warranty or representation regarding the availability of Online Services and reserves the right to modify or discontinue Online Services in its sole discretion without notice, including for example, ceasing an Online Service for economic reasons due to a limited number of users continuing to make use of the Online Service over time. NOTWITHSTANDING ANYTHING TO THE CONTRARY, YOU ACKNOWLEDGE AND AGREE THAT ONLINE SERVICES MAY BE TERMINATED IN WHOLE OR IN PART AT ACTIVISION’S SOLE DISCRETION WITHOUT NOTICE TO YOU, AND IN CONNECTION WITH ONLINE SERVICES’ TERMINATION, ANY AND ALL SERVICE PROVIDED CONTENT LICENSED TO YOU MAY BE TERMINATED. YOU ASSUME ANY AND ALL RISK OF LOSS ASSOCIATED WITH THE TERMINATION OF ONLINE SERVICES AND ANY LOSS OF SERVICE PROVIDED CONTENT OR OTHERWISE.  
+
+</text>
+<text id="602023">12(B) For residents outside North America: Subject to the next sentence, Activision does not guarantee that any Online Services or Service Provided Content will be available or error-free at all times or at any given time. Activision warrants that the Program, in addition to any Service Provided Content which has been paid-for with real money, will substantially comply with the description provided by it at the point of purchase and be of satisfactory quality  (in addition any related services provided through them will be provided with reasonable care and skill).  Activision may change and update Online Services or Service Provided Content without notice to you (provided always that any such changes do not result in material degradation in the functionality of the Program or any Service Provided Content which has been paid-for with real money). Activision makes no warranty or representation regarding the availability of Online Services and/or Service Provided Content which are free (i.e. not paid-for with real money) and reserves the right to modify or discontinue them in its sole discretion without notice to you, including for example, for economic reasons due to a limited number of users continuing to make use of them over time. Activision is not liable or responsible for any failure to perform, or delay in performance of, any of its obligations that is caused by events outside its reasonable control. If such circumstances result in material degradation in the functionality of the Program or Service Provided Content then your obligation to make any payment to download, use or access them will be suspended for the duration of such period. Activision is entitled to modify or discontinue Online Services and/or Service Provided Content which are paid-for with real money in its sole discretion upon reasonable notice to you. The warranty for such Online Services and/or Service Provided Content is provided in accordance with your statutory rights as a consumer which will always prevail. Please see Section 7 in respect of Activision's limitation on damages, but nothing in this paragraph shall affect your statutory rights. 
+
+</text>
+<text id="602024">13. ACCESS:  YOU ARE SOLELY RESPONSIBLE FOR ANY THIRD PARTY COSTS YOU INCUR TO USE THE PROGRAM AND SERVICES.  You acknowledge and agree that you will provide at your own cost and expense the equipment, Internet, or other connection charges required to access and use the Program. Activision makes no warranty that the Program can be accessed or used on all systems, controllers, or devices, by means of any specific Internet or other connection provider, or in all territories. The Program may integrate, be integrated into, or be provided in connection with third-party services and content.  Activision does not control those third-party services and content.  You should read the terms of use agreements and privacy policies that apply to such third-party services and content. 
+
+</text>
+<text id="602025">14. USER GENERATED CONTENT: The Program may include means by which you and other users may share user generated content (“UGC”).  To the fullest extent permitted by applicable law, by submitting any UGC you automatically grant (or represent and warrant that the owner of such rights has expressly granted) Activision a perpetual, worldwide, royalty-free, irrevocable, non-exclusive right and license to use, reproduce, modify, adapt, publish, translate, sub-license, create derivative works from and distribute such UGC or incorporate such UGC content into any form, medium, or technology now known or later developed throughout the universe, and agree that Activision shall be entitled to unrestricted use of the UGC for any purpose whatsoever, commercial or otherwise, without compensation (but subject to applicable local legislation), notice or attribution.  You waive and agree not to assert against Activision or any of its partners, affiliates, subsidiaries or licensees, any moral or similar rights you may have in any of your UGC.  To the extent the Program permits other users to access and use your UGC, you also grant such users the right to use, copy, modify, display, perform, create derivative works from, and otherwise communicate and distribute your UGC on or through the Program without further notice, attribution or compensation to you. You may only upload your own UGC to the Program; do not upload anyone else’s UGC.  Activision reserves the right (but has no obligation) to remove, block, edit, move, or disable UGC for any reason in Activision’s sole discretion.  Activision is not responsible for, and does not endorse or guarantee, the opinions, views, advice or recommendations posted or sent by other users. 
+
+</text>
+<text id="602026">For residents of all countries outside North America: Users of the Program create, upload, download and use UGC at their own risk. If you upload or make available to other users your UGC via our Program, we do not control, monitor, endorse or own your UGC, and you are commissioning us to host and make available such UGC subject to the above license. 
+
+Complaints about the content of any UGC must be sent to legalaffairs@activision.com and must contain details of the specific UGC giving rise to the complaint.
+
+</text>
+<text id="602027">15. For residents in North America-- COPYRIGHT NOTICE:
+
+If you believe that any content appearing in the Program and/or UGC has been copied in a way that constitutes copyright infringement, please forward the following information to the copyright agent named below.  Your copyright infringement notification must comply with the Digital Millennium Copyright Act ("DMCA"). You are encouraged to review 17 U.S.C. § 512(c)(3) or consult with an attorney prior to sending a notice hereunder.  To file a copyright infringement notice, you will need to send a written communication that includes the following to the address listed below: (a) your name, address, telephone number, and email address; (b) a description of the copyrighted work that you claim has been infringed; (c) the exact URL or a description of where the alleged infringing material is located; (d) a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; (e) an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest; and (f) a statement by you, under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
+
+</text>
+<text id="602028">Copyright Agent
+Activision Publishing, Inc.
+3100 Ocean Park Boulevard
+Santa Monica, California 90405
+Attn: Activision Business and Legal Affairs 
+Fax: (310) 255-2152 
+E-Mail: legalaffairs@activision.com
+
+Please note that the DMCA provides that you may be liable for damages (including costs and attorney fees) if you knowingly misrepresent that material or activity is infringing. Please also note that the information provided in your copyright infringement notice may be provided to the person responsible for the allegedly infringing material.
+
+</text>
+<text id="602029">16. For residents in North America-- BINDING ARBITRATION AND CLASS ACTION WAIVER:
+
+READ THIS SECTION CAREFULLY.  IT MAY SIGNIFICANTLY AFFECT YOUR LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.
+
+These BINDING ARBITRATION AND CLASS ACTION WAIVER provisions apply to you if you are domiciled in and/or acquired and use the Program in the United States. These provisions may also apply to you if you are domiciled in and/or acquired and use the Program from outside the United States. See JURISDICTION AND APPLICABLE LAW below for details.
+
+Initial Dispute Resolution:  Activision's Customer Support department is available at https://support.activision.com/ to address any concerns you may have regarding the Program. Most concerns are quickly resolved in this manner to our customers' satisfaction. The parties shall use their best efforts to settle any dispute, claim, question, or disagreement directly through consultation and good faith negotiations which shall be a precondition to either party initiating a lawsuit or arbitration.
+
+</text>
+<text id="602030">Binding Arbitration:  If the parties do not reach an agreed upon solution within a period of 30 days from the time informal dispute resolution is pursued pursuant to the paragraph above, then either party may initiate binding arbitration as the sole means to formally resolve claims, subject to the terms set forth below. Specifically, all claims arising out of or relating to this Agreement (including its interpretation, formation, performance and breach), the parties' relationship with each other and/or your use of the Program shall be finally settled by binding arbitration administered by JAMS in accordance with the provisions of its Comprehensive Arbitration Rules or Streamlined Arbitrations Rules, as appropriate, excluding any rules or procedures governing or permitting class actions. This arbitration provision is made pursuant to a transaction involving interstate commerce, and the Federal Arbitration Act (the "FAA") shall apply to the interpretation, applicability, enforceability and formation of this Agreement notwithstanding any other choice of law provision contained in this Agreement.  The arbitrator, and not any federal, state, or local court or agency, shall have exclusive authority to resolve all disputes arising out of or relating to the interpretation, applicability, enforceability, or formation of this Agreement, including without limitation any claim that all or any part of this Agreement is void or voidable, or whether a claim is subject to arbitration. The arbitrator shall be empowered to grant whatever relief would be available in a court under law or in equity. The arbitrator's award shall be binding on the parties and may be entered as a judgment in any court of competent jurisdiction. 
+
+</text>
+<text id="602031">The JAMS Rules governing the arbitration may be accessed at http://www.jamsadr.com/ or by calling JAMS at (800) 352-5267. Your arbitration fees and your share of arbitrator compensation shall be governed by the JAMS Comprehensive Arbitration Rules, but shall not incorporate the JAMS Class Action Procedures, and, to the extent applicable, the Consumer Minimum Standards, including the then-current limit on arbitration filing fees. To the extent the filing fee for the arbitration exceeds the cost of filing a lawsuit, Activision will pay the additional cost. The parties understand that, absent this mandatory provision, they would have the right to sue in court and have a jury trial.  They further understand that, in some instances, the costs of arbitration could exceed the costs of litigation and the right to discovery may be more limited in arbitration than in court.
+
+</text>
+<text id="602032">Location:  If you are a resident of the United States, arbitration will take place at any reasonable location within the United States convenient for you. For residents outside the United States, arbitration shall be initiated in Los Angeles County, California, and you and Activision agree to submit to the personal jurisdiction of any federal or state court in Los Angeles County, California, in order to compel arbitration, to stay proceedings pending arbitration, or to confirm, modify, vacate, or enter judgment on the award entered by the arbitrator.
+ 
+Class Action Waiver:  The parties further agree that any arbitration shall be conducted in their individual capacities only and not as a class action or other representative action, and the parties expressly waive their right to file a class action or seek relief on a class basis. YOU AND ACTIVISION AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. If any court or arbitrator determines that the class action waiver set forth in this paragraph is void or unenforceable for any reason or that an arbitration can proceed on a class basis, then the arbitration provision set forth above shall be deemed null and void in its entirety and the parties shall be deemed to have not agreed to arbitrate disputes.
+
+</text>
+<text id="602033">Exception - Litigation of Intellectual Property and Small Claims Court Claims: Notwithstanding the parties' decision to resolve all disputes through arbitration, either party may bring an action in state or federal court that only asserts claims for patent infringement or invalidity, copyright infringement, moral rights violations, trademark infringement, and/or trade secret misappropriation, but not, for clarity, claims related to the license granted to you for the Program under this Agreement. Either party may also seek relief in a small claims court for disputes or claims within the scope of that court's jurisdiction.
+
+30 Day Right to Opt Out:  You have the right to opt-out and not be bound by the arbitration and class action waiver provisions set forth in the "Binding Arbitration," "Location," and "Class Action Waiver" paragraphs above by sending written notice of your decision to opt-out to the following address: Activision Publishing, Inc., 3100 Ocean Park Boulevard, Santa Monica, CA 90405-3032, Attn: Legal. The notice must be sent within 30 days of purchasing the Program (or if no purchase was made, then within 30 days of the date on which you first access or use the Program and agree to these terms); otherwise you shall be bound to arbitrate disputes in accordance with the terms of those paragraphs. If you opt-out of these arbitration provisions, Activision also will not be bound by them. 
+
+Changes to this Section:  Activision will provide 60-days’ notice of any changes to this Section. Changes will become effective on the 60th day and will apply prospectively only to any claims arising after the 60th day.
+
+</text>
+<text id="602034">17. JURISDICTION AND APPLICABLE LAW 
+The Program is made available subject to the terms of this Agreement.  If you acquired and use the Program from:
+A. For residents in the United States, Mexico, or Canada, then you are contracting with Activision Publishing, Inc., 3100 Ocean Park Boulevard, Santa Monica, CA 90405-3032 and any claims arising out of this Agreement (including interpretation, claims for breach, and all other claims (including consumer protection, unfair competition, and tort claims)) will be subject to the laws of the State of Delaware, without reference to conflict of laws principles. If any court or arbitrator determines that the “Class Action Waiver” paragraph set forth above is void or unenforceable for any reason or that an arbitration can proceed on a class basis, then any and all claims arising out of this Agreement (including interpretation, claims for breach, and all other claims (including consumer protection, unfair competition, and tort claims)) shall be decided under the laws of the state where you were a citizen at the time you obtained or bought the Program that was subject to this Agreement. In addition, you and we irrevocably consent to the exclusive jurisdiction and venue of state or federal courts in Los Angeles County, California to resolve any claims that are subject to exceptions to the arbitration agreement described in BINDING ARBITRATION AND CLASS ACTION WAIVER above, or otherwise determined not to be arbitrable.
+</text>
+<text id="602035">B. For residents in the European Union, then you are contracting with Activision Blizzard International B.V. formerly known as Cooperatie Activision Blizzard International UA of Beechavenue 131, 1119RB Schiphol-Rijk, Netherlands and the laws of England and Wales govern the interpretation of this Agreement and apply to claims for breach of it, without reference to conflict of laws principles. All other claims, including claims regarding consumer protection laws, unfair competition laws, and in tort, will be subject to the laws of the European Union country (e.g., the United Kingdom, the French Republic, or the Federal Republic of Germany) in which you acquired and use the Program. In addition, with respect to jurisdiction, you may choose either the courts of the country (e.g., the United Kingdom, the French Republic, or the Federal Republic of Germany) in which you acquired and use the Program, or in the alternative the courts of England and Wales or other court as applicable under the Brussels Regulation EC 44/2001. 
+C. For residents in Australia or Japan, then you are contracting with Activision Blizzard International B.V. formerly known as Cooperatie Activision Blizzard International UA of Beechavenue 131, 1119RB Schiphol-Rijk, Netherlands and the laws of Australia govern the interpretation of this Agreement and apply to claims for breach of it, without reference to conflict of laws principles. All other claims, including claims regarding consumer protection laws, unfair competition laws, and in tort, will be subject to the laws of the country in which you acquired and use the Program (being either Australia or Japan). To the extent permitted by applicable law, you agree to the jurisdiction of the courts of New South Wales, Australia. 
+
+</text>
+<text id="602036">D. For residents in the Rest of the World, If you acquired and use this Program from countries other than those listed in sections A, B and C above, then you do so on your own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable, and you expressly indemnify and hold harmless Activision from any and all claims, loss, injury, damage, or costs arising from your use of the Program to the extent permitted by applicable law. No warranty or representation is made by Activision that the Program or any use of the Program outside of the countries listed in sections A, B and C above complies with any applicable local law. Further your use of the Program and all claims arising out of or related to the Program or this Agreement will, to the extent permitted under applicable law, be subject to the laws of England and Wales, without reference to conflict of laws principles and you consent to the jurisdiction of the courts of England and Wales.
+To the fullest extent permitted by applicable law, if any user outside of the United States is entitled to commence and/or participate in legal proceedings within the United States, then that user agrees to be bound by the BINDING ARBITRATION AND CLASS ACTION WAIVER provisions above.
+ 
+</text>
+<text id="602037">18. MISCELLANEOUS: This Agreement is the complete agreement concerning this license between the parties and supersedes all prior agreements and representations between them. If any provision of this Agreement is held to be unenforceable, the applicable provision shall be reformed only to the extent necessary to make it enforceable and the remaining provisions of this Agreement shall not be affected, except as otherwise expressly provided herein.
+
+</text>
+<text id="602038">19. SUPPLEMENTAL TERMS– GERMANY
+
+The following Sections below supersede and replace the corresponding Sections above for residents in Germany:
+ 
+Modification of Terms: From time to time, Activision may need to amend this Agreement, for example to reflect or include new products or services, to enhance security for users or because of changes in the law. If Activision makes such a change to this Agreement we will inform you of the particular changes in advance no later than thirty (30) calendar days before such changes come into force and you shall be deemed to have accepted these changes (i) unless you have notified us of your objection to such changes within thirty (30) calendar days from the moment of receipt of notification from us, or (ii) if you use the Program after the changes have entered into force. In the notification, we will inform you of your right to object, of the applicable notice period and the legal consequences of a failure to object.
+
+The latest version of this Agreement will always be available on our website, so we recommend that you check for updates to this Agreement each time you use the Program. Changes to the Agreement shall not affect your accrued rights, shall not substantially disrupt the contractual balance between you and us under this Agreement and shall not have retroactive effect.
+
+Service Provided Content: In addition to the above, the following Right of Withdrawal shall apply to German residents.
+
+If you are a consumer (i.e. a natural person who enters into a legal transaction for purposes that predominantly are outside his trade, business or profession), then you shall have a right of withdrawal as set out hereafter.
+
+</text>
+<text id="602039">Information concerning the exercise of the right of withdrawal
+
+Right of Withdrawal
+
+You have the right to withdraw from any Purchase Contract within 14 calendar days without giving any reason. The withdrawal period will expire after 14 calendar days from the day of the conclusion of the Purchase Contract. To exercise the right of withdrawal, you must inform us (Activision Blizzard International B.V. of Beechavenue 131, 1119RB Schiphol-Rijk, Netherlands contact details available at www.support.activision.com  of your decision to withdraw from a Purchase Contract by an unequivocal statement (e.g. a letter sent by post, fax or e-mail). You may use the model withdrawal form attached hereafter, but it is not obligatory. To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired.
+
+</text>
+<text id="602040">Effects of withdrawal
+
+If you withdraw from the Purchase Contract, we shall reimburse to you all payments received from you under this Purchase Contract, including the costs of delivery (with the exception of the supplementary costs resulting from your choice of a type of delivery other than the least expensive type of standard delivery offered by us), without undue delay and in any event not later than 14 calendar days from the day on which we are informed about your decision to withdraw from this Purchase Contract. We will carry out such reimbursement using the same means of payment as you used for the initial transaction, unless you have expressly agreed otherwise; in any event, you will not incur any fees as a result of such reimbursement.
+
+If you requested to begin the performance of services under a Purchase Contract during the withdrawal period, you shall pay us an amount which is in proportion to what has been provided until you have communicated us your withdrawal from that Purchase Contract, in comparison with the full coverage of these services under the Purchase Contract.
+
+</text>
+<text id="602041">End of the information concerning the exercise of the right of withdrawal
+
+You lose your right of withdrawal, insofar as the Purchase Contract is a service contract, after the service has been fully performed and if the performance has begun with your prior express consent, and with the acknowledgement that you will lose your right of withdrawal once the service has been fully performed by us.
+
+You lose your right of withdrawal insofar as the Purchase Contract comprises the supply of digital content which is not supplied on a tangible medium if the performance has begun with your prior express consent and your acknowledgment that you thereby lose your right of withdrawal.
+
+Based on the aforesaid you understand that by purchasing Service Provided Content, you consent that we make available these Service Provided Content to you directly after we have accepted your order. You will lose your right of withdrawal once the Service Provided Content have been made fully available to you by us. However, your right of withdrawal is not lost if you purchase Virtual Goods that are granted to you for a certain period of time (e.g. time-limited premium memberships). 
+****
+</text>
+<text id="602042">Model withdrawal Form
+
+Please complete and return this withdrawal form if you wish to withdraw from a contract with us.
+
+- To: [Activision Blizzard International B.V. of Beechavenue 131, 1119RB Schiphol-Rijk, Netherlands, 
+- I/We hereby give notice that I/We withdraw from my/our contract for the purchase of the following goods/ the provision of the following services:*
+- Ordered/ received on*:
+- Name of consumer(s): 
+- Address of consumer(s):
+- Signature of consumer(s): (only required if this form is notified on paper)
+- Date: 
+
+(*) Delete where appropriate.
+</text>
+<text id="605000">These Terms of Service (hereinafter referred to as the "TOS") shall apply to any matters between Players, as defined in the TOS, and FromSoftware, Inc. (hereinafter referred to as the "Company") of the use of online services (hereinafter referred to as the "Services") for the game software, "SEKIRO : SHADOWS DIE TWICE" (hereinafter referred to as the "Software") developed by the Company. Players shall use the Services in accordance with the TOS. Should any Player fail to consent to the TOS, such Player may not use the Services. Players shall be deemed to have consented to the TOS when using the Services.
+</text>
+<text id="605001">Article 1. Scope and Modification of TOS
+1. The Company may, in addition to the TOS, separately notify Players of terms of use, precautions, guidelines and other terms and conditions (hereinafter referred to as "Individual Terms") where appropriate by posting Individual Terms on the official website operated by the Company (hereinafter referred to as the "Website") or through other means. Individual Terms shall constitute part of the TOS, and if any provision of Individual Terms conflicts with the TOS, the provision of Individual Terms shall apply and supersede the TOS.
+2. The Company shall be entitled to modify or revise the TOS and Individual Terms where appropriate from time to time, and in this case, may notify Players of such modification or revision by posting the same on the Website or through other means the Company thinks it reasonable.
+3. If any Player fails to consent to the modification or revision of the TOS and Individual Terms, the Company shall be entitled to have the Player cease or suspend his/her use of the Services.
+4. Players shall be deemed to have consented to the modified or revised the TOS through their continuous use of the Services after the Players have been notified of such modification or revision through any means set forth in Paragraph 1 of this Article.
+5. When Players use the Services, the necessary terms and conditions for the use of STEAM® shall apply.
+</text>
+<text id="605002">Article 2. Definition of Players
+The term "Player" means a customer who consents to the TOS (in the plural, "Players"). Players less than twenty (20) years of age shall be deemed to have obtained the consent of their parents or other persons who have parental authority when consenting to the TOS.
+</text>
+<text id="605003">Article 3. Principle of Self-responsibility
+1. Players shall use the Services at their own responsibility, and if any Player causes any loss or damage to another or the Company when using the Services, the Player shall pay damages therefor at his/her own expense and responsibility.
+2. Players shall, when giving and receiving any information or service to and from any third party other than the Company through the Services, be fully liable for any acts and contents incidental thereto. If any Player causes any loss or damage to another or to the Company when giving and receiving any such information or service, the Player shall pay damages therefor at his/her own expense and responsibility.
+3. Players shall, if any problem arises through the Services with any third party other than the Company, deal with and resolve the problem at their own expense and responsibility. The Company shall not be obligated or liable in any way whatsoever for arbitration, dealing, compensation, damages or any other matters with respect to such problem.
+</text>
+<text id="605004">Article 4. Liability for Fees and Charges
+1. The Services are free of charge; however, Players shall prepare the necessary hardware, lines and any other items for their use of the Services at their own expense and responsibility.
+2. In addition to the preceding paragraph, Players hereby accept that communications charges such as telephone charges, Internet connection charges, electrical charges and other necessary charges for their use of the Services will be incurred, and shall be liable therefor.
+3. Fees for the Software and contents and services provided accompanying the Services will be determined by the Company at its discretion depending on the details and time of such provision.
+</text>
+<text id="605005">Article 5. Management of Personal Information
+1. For the protection of personal information, Players shall not include information that leads to his/her identification in any information posted or disclosed by him/her through the Services when using the Services.
+2. The Company shall not protect information posted on or disclosed in the Services.
+</text>
+<text id="605006">Article 6. Ownership of Rights
+1. Any rights in and to the Software and the Services, including intellectual property rights (any and all rights including, but not limited to patent rights, utility model rights, trademark rights, design rights, knowhow, trade secrets and copyrights) shall belong to the Company or the third parties in question.
+2. Players shall not be entitled to alter, adapt, copy, edit, reproduce, distribute, transmit or publish all pieces of information included in the Software and the Services (any and all kinds of information including, but not limited to images, pictures, characters, scenarios, plots, programs, software and ideas) without the prior approval of the Company.
+3. When using the Services, Players shall not have any intellectual property right or claim with respect to data stored on any storage device such as a server for the Services (hereinafter referred to as "Recorded Data"), and Players hereby grant the Company or the third party designated by the Company the right to copy, edit and distribute Recorded Data.
+</text>
+<text id="605007">Article 7. Outsourcing of Operation of the Services
+The Company shall be entitled to assign to another all or any part of its rights and obligations related to the operation of the Services (including personal information in connection therewith) or outsource to another the operation of all or any part of the Services.
+</text>
+<text id="605008">Article 8. Suspension of the Services
+1. The Company shall, in cases falling under the following items, suspend any part or all of the Services without prior notice to Players:
+(1) Where any failure or other defect occurs in any of the systems used for the Services (including, but not limited to communication lines, power sources, and any structures where the foregoing is accommodated);
+(2) Where maintenance, inspection, repair or modification work is regularly or urgently carried out on any systems used for the Services;
+(3) Where services for STEAM® cease or are suspended; or
+(4) Otherwise where the Company determines that it is necessary to suspend the Services for operational or technical reasons.
+2. Even if the provision of the Services is delayed or suspended for any of the reasons listed in the items of the preceding paragraph, and thereby any loss or damage is caused to Players or other third parties, the Company shall not be liable therefor in any way whatsoever.
+</text>
+<text id="605009">Article 9 Discontinuation of Provision of the Services
+1. The Company shall, at any time upon giving prior notice of termination to Players, be entitled to discontinue the provision of all or any part of the Services. In this case, the Company shall notify Players of that fact by posting the same on the Website, by e-mail or through other means the Company thinks reasonable. The notice of termination shall be deemed to have reached all Players upon expiration of thirty (30) days after the Company has started posting such notice on the Website.
+2. The Company shall not be liable in any way whatsoever for any loss or damage caused to Players or other third parties in connection with the discontinuation of provision of the Services.
+</text>
+<text id="605010">Article 10 Prohibited Matters
+1. No Player shall be entitled to assign to, transfer to, sell to or buy from another, change the name to another's name of, or provide another as pledge or other security with, any of his/her rights held as a Player, and items, characters and saved data within the game related to the Software which are obtained in the Services (including so-called "real money trading").
+2. No Player shall perform any of the following other acts on the Services:
+(1) Playing a game in a manner offensive to other Players;
+(2) Playing a game using falsified data regardless of the circumstances;
+(3) Playing a game in a manner not intended by the Company using any function or failure of the Software or the Services; or
+(4) Performing any other act determined to be inappropriate by the Company or a third party providing any of the systems used for the Services.
+3. With respect to Players who have performed acts prohibited under this Article, the Company or the third party providing any of the systems used for the Services shall be entitled at its discretion to give such Players warnings, delete the Recorded Data of such Players, or have such Players suspend or cease their use of the Services.
+</text>
+<text id="605011">Article 11 Damages
+1. The Company shall not be liable in any way to Players for any loss or damage caused to Players and third parties due to the Players' use of the Services, nor shall the Company be obligated to pay damages therefor.
+2. With respect to the deletion of the Recorded Data of Players, the cessation or cancellation of Players' registration, or the cessation, suspension or discontinuation of Players' use of the Services by the Company, the Company shall not be obligated to pay any damages for any reason whatsoever.
+3. Even if the Company is liable for damages for any reason, the Company shall not be liable to pay damages of an amount exceeding those for the loss or damage directly caused to Players, nor shall the Company be liable to pay damages for any incidental, indirect, special or future damage, or lost profits.
+4. If any Player causes any loss or damage to other Players or third parties due to his/her use of the Services, the Player shall resolve such issue at his/her own expense and responsibility, and not cause any loss or damage to the Company.
+5. If any Player causes any loss or damage to the Company due to his/her act in violation of the TOS or his/her improper or illegal actions, the Company shall be entitled to make a claim for damages against the Player.
+</text>
+<text id="605012">Article 12 Disclaimers
+1. Each Player shall, if another makes any inquiry or complaint to him/her in connection with his/her use of the Services, or he/she has any request, question or complaint about another's act, deal with and resolve such issue at his/her own expense and responsibility, and the Company shall not be liable or obligated in any way therefor.
+2. Players shall note that they will avoid using the Services at their discretion in an excessive manner that may disturb their sound lifestyle. The Company shall not be liable in any way for any social, mental or physical damage caused to any Player due to the Player's deviant behavior therefrom.
+3. For conflicts of interests or problems between Players arising in connection with the Players' use of the Services, or for measures taken thereunder by the Company or third parties, the Company shall not be liable in any way whatsoever.
+4. Since there is a possibility for the Services to be unavailable depending on the individual environment of each Player due to the nature of the Services, the Company shall not warrant that the Services will be available in any environment.
+5. The Company shall not warrant in any way that the Services are free of errors or viruses, or otherwise games will progress in a safe manner.
+</text>
+<text id="605013">Article 13 Governing Law and Dispute Resolution
+The TOS shall, including the execution, validity, interpretation and performance hereof, be governed by the laws and regulations of Japan by all means. If any problem, dispute, difficulty or other issue arises in connection with the Services between any Player and the Company, the Player and the Company shall resolve the issue through consultation in good faith, and in the event of a failure in resolving it through consultation, it shall be subject to the exclusive jurisdiction of the Tokyo District Court in the first instance as agreed upon between the parties.
+</text>
+<text id="605014">Supplementary Provisions
+The TOS shall come into effect upon sale of the Software.
+The TOS may be modified from time to time.
+The latest information shall be posted on the Website and made referenceable by Players from time to time.
+</text>
+<text id="605015">%null%</text>
+<text id="605016">%null%</text>
+<text id="605017">%null%</text>
+<text id="605018">%null%</text>
+<text id="605019">%null%</text>
+<text id="605020">%null%</text>
+<text id="606000">%null%</text>
+<text id="606001">%null%</text>
+<text id="606002">%null%</text>
+<text id="606003">%null%</text>
+<text id="606004">%null%</text>
+<text id="606005">%null%</text>
+<text id="606006">%null%</text>
+<text id="606007">%null%</text>
+<text id="606008">%null%</text>
+<text id="606009">%null%</text>
+<text id="606010">%null%</text>
+<text id="606011">%null%</text>
+<text id="606012">%null%</text>
+<text id="606013">%null%</text>
+<text id="606014">%null%</text>
+<text id="606015">%null%</text>
+<text id="606016">%null%</text>
+<text id="606017">%null%</text>
+<text id="606018">%null%</text>
+<text id="606019">%null%</text>
+<text id="606020">%null%</text>
+<text id="606021">%null%</text>
+<text id="606022">%null%</text>
+<text id="606023">%null%</text>
+<text id="606024">%null%</text>
+<text id="606025">%null%</text>
+<text id="606026">%null%</text>
+<text id="606027">%null%</text>
+<text id="606028">%null%</text>
+<text id="606029">%null%</text>
+<text id="606030">%null%</text>
+<text id="606031">%null%</text>
+<text id="606032">%null%</text>
+<text id="606033">%null%</text>
+<text id="606034">%null%</text>
+<text id="606035">%null%</text>
+<text id="606036">%null%</text>
+<text id="606037">%null%</text>
+<text id="606038">%null%</text>
+<text id="606039">%null%</text>
+<text id="606040">%null%</text>
+<text id="606041">%null%</text>
+<text id="606042">%null%</text>
+<text id="606043">%null%</text>
+<text id="606044">%null%</text>
+<text id="606045">%null%</text>
+<text id="606046">%null%</text>
+<text id="606047">%null%</text>
+<text id="606048">%null%</text>
+<text id="606049">%null%</text>
+<text id="606050">%null%</text>
+<text id="607000">%null%</text>
+<text id="607001">%null%</text>
+<text id="607002">%null%</text>
+<text id="607003">%null%</text>
+<text id="607004">%null%</text>
+<text id="607005">%null%</text>
+<text id="607006">%null%</text>
+<text id="607007">%null%</text>
+<text id="607008">%null%</text>
+<text id="607009">%null%</text>
+<text id="607010">%null%</text>
+<text id="607011">%null%</text>
+<text id="607012">%null%</text>
+<text id="607013">%null%</text>
+<text id="607014">%null%</text>
+<text id="607015">%null%</text>
+<text id="607016">%null%</text>
+<text id="607017">%null%</text>
+<text id="607018">%null%</text>
+<text id="607019">%null%</text>
+<text id="607020">%null%</text>
+<text id="607021">%null%</text>
+<text id="607022">%null%</text>
+<text id="607023">%null%</text>
+<text id="607024">%null%</text>
+<text id="607025">%null%</text>
+<text id="607026">%null%</text>
+<text id="607027">%null%</text>
+<text id="607028">%null%</text>
+<text id="607029">%null%</text>
+<text id="607030">%null%</text>
+<text id="607031">%null%</text>
+<text id="607032">%null%</text>
+<text id="607033">%null%</text>
+<text id="607034">%null%</text>
+<text id="607035">%null%</text>
+<text id="607036">%null%</text>
+<text id="607037">%null%</text>
+<text id="607038">%null%</text>
+<text id="607039">%null%</text>
+<text id="607040">%null%</text>
+<text id="607041">%null%</text>
+<text id="607042">%null%</text>
+<text id="607043">%null%</text>
+<text id="607044">%null%</text>
+<text id="607045">%null%</text>
+<text id="607046">%null%</text>
+<text id="607047">%null%</text>
+<text id="607048">%null%</text>
+<text id="607049">%null%</text>
+<text id="607050">%null%</text>
+<text id="608000">최종 사용자 라이선스 계약
+</text>
+<text id="608001">WANXIN CULTURE TECHNOLOGY CO., LIMITED
+최종 사용자 라이선스 계약
+</text>
+<text id="608002">최종 업데이트: 2020년 1월8일
+</text>
+<text id="608003">본 계약을 신중하게 읽으십시오. 귀하가 당사의 게임 또는 서비스에 접근하거나 이를 이용하는 것은, 귀하가 본 계약에 기술된 모든 조건 그리고 참조나 언급을 통해 본 계약의 일부를 이루는 모든 조건에 구속되기로 동의함을 의미합니다. 귀하가 이러한 조건 모두에 동의하지 않는 경우, 당사의 게임 또는 서비스에 접근하거나 이를 이용하지 마십시오.
+</text>
+<text id="608004">최종 사용자 라이선스 계약(통칭 "계약")은 귀하와 WANXIN CULTURE TECHNOLOGY CO., LIMITED의 다운로드 가능한 일부와 그에 관련된 모든 것을 포함하며 이에 국한되지 않은 이 계약에 나오는 게임(또는 온라인에 게시된 경우 위에서 언급한 게임)의 액세스와 사용에 적용되는 계약입니다. 본 게임은 판매되는 것이 아니라 라이선스가 부여되는 것이며, 본 계약은 본 게임이나 그 사본에 대한 명의나 소유권을 부여하지 않습니다. 본 계약은, 귀하와 WANXIN CULTURE TECHNOLOGY CO., LIMITED 사이에 다른 제품이나 서비스를 위한 다른 계약이 존재하는 경우 해당 계약의 조건을 어떤 방식으로도 변경시키지 않습니다. 귀하에 의한 변경, 추가 혹은 삭제는 인정되지 않으며 WANXIN CULTURE TECHNOLOGY CO., LIMITED는 이를 명시적으로 거부합니다.
+</text>
+<text id="608005">당사가 제공하는 추가 조건(여기에는 게시된 요금, 청구 절차, 프로모션 규칙이 포함되며 이에 한정되지 않음)은 본 게임의 일부인 특정 기능 및 특징에 적용될 수 있습니다. 달리 명시되지 않은 한, 해당 추가 조건은 참조나 언급을 통해 본 계약의 일부를 이룹니다. 본 계약과 추가 조건이 상충하는 경우, 관련 특정 기능 및 특징에 있어서는 해당 추가 조건이 우선합니다.
+</text>
+<text id="608006">1. 	계약 당사자.   
+본 계약은 귀하와 WANXIN CULTURE TECHNOLOGY CO., LIMITED사이에 체결됩니다.
+</text>
+<text id="608007">2. 	개인정보. 
+본 게임을 통해 수집되는 데이터는 중국에 위치한 WANXIN CULTURE TECHNOLOGY CO., LIMITED가 보유합니다. 
+</text>
+<text id="608008">3. 	라이선스의 전제 조건. 
+본 계약을 통해 부여되는 라이선스는 구체적으로 다음의 사항들, 그리고 귀하가 본 계약상의 모든 조건을 완전히 준수함을 전제 조건으로 합니다.
+a)	귀하가 속한 관할권의 법상 귀하는 성년에 해당하는 연령입니다. 만약 귀하가 속한 관할권의 법상 귀하가 미성년인 경우에는, 귀하의 부모 또는 법적 후견인이 본 계약 및 모든 해당 추가 조건에 구속되기로 동의해야 합니다.
+b)	귀하는 본 계약의 모든 조건 그리고 본 게임에 적용 가능한 모든 추가 조건에 동의하고 이를 준수합니다.
+c)	귀하에 의한 본 게임 접근 및 이용에는 특정 보안 조치(여기에는 일련코드를 통한 본 게임의 등록, 지속적인 인터넷 연결 확보, 특정 보안/디지털 권한 관리 기능에 대한 동의가 포함되며 이에 한정되지 않음)가 적용됩니다. 이 같은 보안 조치에 동의하지 않거나 일부라도 준수하지 않는 경우, 귀하는 본 게임의 일부 또는 전부를 이용하지 못하게 될 수 있습니다.
+d)	귀하에 의한 본 게임 접근 및 이용은 지방, 주, 국가, 외국의 모든 관련 법 및 규정에 부합하도록 이루어집니다.
+e)	귀하에 의한 본 게임 접근 및 이용은, 본 게임용 작동 기반으로 정식 인정되는 운영체계의 정식 라이선스판이 실행되는 로컬 컴퓨터("하드웨어")에서만 이루어집니다.
+f)	귀하가 아시아에 거주하는 경우:
+귀하는 하드웨어에 적용되는 모든 조건(여기에는 해당 플랫폼의 모든 체크아웃 과정 관련 조건도 포함됨)에 동의했고 이를 준수하고 있습니다.
+아이템에 따라 사용 권리가 다를 수 있으므로 각 구입마다 사용 권리를 확인하십시오. 달리 명시되지 않은 한, 인게임 스토어에서 구입 가능한 콘텐츠의 연령 제한은 해당 게임과 동일합니다.
+</text>
+<text id="608009">4. 	제한적 이용 라이선스.
+a)	본 계약의 조건 그리고 귀하의 해당 조건 준수를 전제로 하여, 당사는 귀하가 귀하의 거주 국가에서, 본 계약 기간 동안, 귀하가 소유하거나 독점적으로 제어하는 하드웨어상에서, 오직 해당 플랫폼 이용 규칙 혹은 이용 약관(있는 경우)에 부합하도록 본 게임을 이용할 비배타적이고 양도불가한 제한적 라이선스를 귀하에게 부여합니다. 본 게임의 오리지널 버전에 대한 업데이트, 보충 혹은 대체는 본 계약에 따라 이루어지며, 단 해당 업데이트에 별도의 라이선스 조건이 수반되는 경우는 예외입니다.
+b)	전술한 내용은 본 게임에 관한 귀하의 권리 전부이며, 본 계약을 통해 귀하에게 명시적으로 부여되지 않은 모든 본 게임 관련 권리는 당사가 보유합니다. 이상의 내용을 제한하지 않는 범위에서, 귀하는 다음 중 어느 행위도 해서는 안 되고 제3자가 이를 하도록 허락 혹은 허용해서도 안 됩니다. (i) 본 게임을 배포하거나 복제하거나 라이선스를 부여하거나 임대하거나 판매하는 행위(단 본 라이선스나 해당 플랫폼 이용 규칙에 의해 명시적으로 허용되는 경우는 제외), (ii) 본 게임을 귀하 자신의 개인적이고 비상업적인 용도 외의 목적으로 사용하는 행위, (iii) 본 게임의 소스코드를 역분석/역설계하거나 역컴파일하거나 역어셈블하거나 발견을 시도하는 행위, (iv) 본 게임을 변경하거나 개조하거나 파생물을 만드는 행위, (v) 본 게임상의 저작권이나 특허권 혹은 기타 소유권 관련 고지를 제거하거나 변경하거나 알아보기 어렵게 만드는 행위, (vi) 본 게임을 본 게임 제작 의도에서 벗어나는 목적으로 사용하는 행위, (vii) 귀하가 소유하거나 배타적으로 지배하지 않는 하드웨어에서 본 게임을 사용하는 행위, (viii) 본 게임의 보안 조치를 우회하거나 우회를 시도하는 행위, 또는 (ix) 본 게임의 온라인 기능에 접근함에 있어 귀하의 지역을 인식하기 어렵게 만들거나 은폐를 시도하는 행위.
+</text>
+<text id="608010">5. 	소유권. 
+본 게임 그리고 본 게임상의 혹은 본 게임을 통해 이용 가능한 모든 콘텐츠(단 아래 정의된 사용자 콘텐츠는 제외) 및 기타 소재(여기에는CUBE GAME 로고, 디자인, 텍스트, 그래픽, 사진, 정보, 데이터, 소프트웨어, 사운드 파일, 게임 통화, 가상 아이템, 기타 파일, 그리고 이들의 선택/조합 및 배열 일체가 포함되며 이에 한정되지 않음)는WANXIN CULTURE TECHNOLOGY CO., LIMITED또는 그 라이선스 인가자의 재산이며 저작권 및 기타 지적재산권 관련 법과 조약에 의해 보호됩니다. 설사 본 계약 내에 달리 정하는 조항이 있더라도, 귀하는 본 게임에 등장하는 일체의 콘텐츠(여기에는 게임 통화 및 가상 아이템이 포함되며 이에 한정되지 않음)에 대해 어떤 권리나 명의도 없다는 점에 동의합니다.
+</text>
+<text id="608011">6. 	기간.
+a)	귀하가 제3절에 규정된 전제 조건을 충족함을 전제로 하여, 본 계약은 귀하가 본 게임을 이용하는 동안 유효합니다. 각 당사자는 이유 여부를 불문하고 언제라도 합리적인 사전 고지를 통해 본 계약을 해지할 수 있습니다. 귀하는 귀하의 점유, 보관 혹은 통제 하에 있는 본 게임의 모든 사본을 삭제하거나 파기함으로써 본 계약을 해지할 수 있습니다. WANXIN CULTURE TECHNOLOGY CO., LIMITED는 귀하의 본 게임 이용 해지와 관련하여 귀하나 제3자를 상대로 아무런 책임도 지지 않습니다.
+b)	귀하가 본 계약의 조건을 준수하지 않는 경우, WANXIN CULTURE TECHNOLOGY CO., LIMITED는 WANXIN CULTURE TECHNOLOGY CO., LIMITED의 다른 어떤 권리도 제한하지 않는 범위에서 귀하의 본 게임 라이선스를 즉시 제한, 정지, 또는 종료할 권리를 보유합니다.
+c)	본 계약 해지 시, (i) 귀하의 본 게임 라이선스는 즉시 종료되고 (ii) 귀하는 어떤 요금도 환불 받을 권리가 없습니다(여기에는 미사용 요금도 포함되며 단 관련 법에 따라 환불되는 구매된 게임 통화는 제외됩니다).
+d)	본 계약이 해지되더라도 제4(b)절, 제5절, 제6(d)절, 제8절, 제11절, 제13절~제19절은 계속 유효합니다.
+</text>
+<text id="608012">7. 	개정. 
+WANXIN CULTURE TECHNOLOGY CO., LIMITED는 WANXIN CULTURE TECHNOLOGY CO., LIMITED의 전적인 자체 재량에 따라 언제든 어떤 이유로든 본 계약을 변경하거나 수정할 권리를 보유합니다. WANXIN가 본 계약을 변경하는 경우, 당사는 본 게임을 통해 고지하는 등의 방법으로 해당 변경 사항을 1개월 전에 사전 고지할 것입니다. 귀하가 해당 변경 사항의 발효일 후에도 본 게임을 계속 이용하는 것은 귀하가 개정된 계약에 동의함을 의미합니다.
+</text>
+<text id="608013">8. 	게임의 변경. 
+WANXIN CULTURE TECHNOLOGY CO., LIMITED는 합리적인 사전 고지 후(단 비상 시나 절대적으로 필요한 경우에는 사전 고지 없이) 본 게임 또는 그 기능이나 일부를 임시 혹은 영구적으로 변경하거나 중단할 권리를 보유합니다. 귀하는 WANXIN CULTURE TECHNOLOGY CO., LIMITED가 본 게임 또는 그 일부의 변경, 정지 혹은 중단에 대하여 아무런 책임도 없다는 데 동의합니다.
+</text>
+<text id="608014">9. 	인게임 통화 및 가상 아이템.
+a)	WANXIN CULTURE TECHNOLOGY CO., LIMITED는 귀하에게 다음과 같은 권한을 제공할 수 있습니다. (i) 인게임 통화를 이용할 제한적 라이선스를 구입할 권한("구매된 게임 통화"), (ii) 본 게임에서 특정 과제의 수행을 통해 인게임 통화를 이용할 제한적 라이선스를 획득할 권한(구매된 게임 통화와 더불어 "게임 통화"로 통칭), 그리고/또는 (iii) WANXIN CULTURE TECHNOLOGY CO., LIMITED가 본 게임을 통해 제공하는 가상 재화 및 서비스에 대한 제한적 라이선스를 획득하고/획득하거나 게임 통화를 사용해 구입할 권한("가상 아이템"). WANXIN CULTURE TECHNOLOGY CO., LIMITED가 이처럼 라이선스를 구입하거나 획득할 권한을 제공하는 경우, WANXIN CULTURE TECHNOLOGY CO., LIMITED는 오직 본 게임 내에서 귀하의 개인적이고 비상업적인 용도로 본 계약의 조건에 따라 그리고 귀하의 해당 조건 준수를 전제로 하여 해당 게임 통화나 가상 아이템을 이용할 수 있는 비독점적이고 양도불가하고 철회가능한 제한적 권리 및 라이선스를 귀하에게 부여합니다.
+b)	게임 통화는 본 게임에서 사용할 가상 아이템으로만 교환 가능하며, 게임 통화나 가상 아이템은 WANXIN CULTURE TECHNOLOGY CO., LIMITED를 통해서든 기타 개인이나 단체를 통해서든 금전으로 또는 금전적 가치를 지니거나 금전과 동등하게 취급되는 것으로 교환할 수 없습니다(단 관련 법에 따라 요구되는 경우는 제외됩니다). 게임 통화 및 가상 아이템은 실제 통화로는 동등한 가치가 없으며 실제 통화를 대체할 용도로 사용할 수 없습니다. WANXIN CULTURE TECHNOLOGY CO., LIMITED 그리고 어떤 개인이나 단체도, 게임 통화나 가상 아이템을 가치가 있는 다른 것(여기에는 실제 통화가 포함되며 이에 한정되지 않음)으로 교환해 줄 의무가 전혀 없습니다. 귀하는 WANXIN CULTURE TECHNOLOGY CO., LIMITED가 언제라도 인게임 속성이나 게임 통화 및/또는 가상 아이템 통용 가치에 영향을 미칠 수 있는 행위를 할 수 있음(단 관련 법이 불허하는 경우는 제외)을 인정하고 이에 동의합니다. WANXIN CULTURE TECHNOLOGY CO., LIMITED는 전적으로 자체 재량에 따라, 구입이나 획득 혹은 교환 가능한 게임 통화 액수를 제한할 수 있습니다.
+c)	구매된 게임 통화의 구매는 최종적이며, 관련 법에서 달리 정하는 경우를 제외하고는 어떤 경우에도 환불이나 양도 혹은 교환이 불가능합니다.  구매된 게임 통화 및 일부 가상 아이템의 구매 가격을 제외하고는,WANXIN CULTURE TECHNOLOGY CO., LIMITED는 게임 통화나 가상 아이템의 접근, 사용 혹은 미사용에 대해 어떤 요금도 부과하지 않습니다.
+d)	귀하는, 게임 내에서 그리고WANXIN CULTURE TECHNOLOGY CO., LIMITED가 명시적으로 허락하는 경우를 제외하고는, 게임 통화나 가상 아이템을 양도하거나 판매하거나 기증하거나 교환하거나 거래하거나 대여하거나 2차 라이선스를 부여하거나 임대할 수 없습니다. 본 계약에서 달리 합의된 경우를 제외하고는, WANXIN CULTURE TECHNOLOGY CO., LIMITED는 게임 통화 및 가상 아이템에 대한 모든 권리, 명의 및 이익을 보유합니다.
+e)	본 계약에서 달리 정하는 경우를 제외하고는, 본 계약을 통해 부여되는 게임 통화 및 가상 아이템 라이선스는 본 계약 해지 시 제6절에 따라 종료됩니다.
+</text>
+<text id="608015">10. 	사용자 콘텐츠. 
+귀하는 현지의 관련 법이 허용하는 범위에서 통신, 정보, 지적재산권, 소재, 메시지, 사진, 그래픽, 동영상, URL 및 기타 아이템 혹은 콘텐츠를 본 게임에 게시("사용자 콘텐츠")함으로써, 사용자 콘텐츠를 본 게임 그리고 관련 재화 및 서비스와 관련하여 사용할 비독점적이고 로열티 없고 전적으로 양도 및 2차 라이선스 부여 가능한 전세계적 라이선스(여기에는 귀하에게 향후 일체의 고지나 보상을 제공함 없이, 현재 알려져 있거나 미래에 개발될 수단 및 미디어를 통해 복사, 복제, 각색, 변경, 공연, 파생물 제작, 전시, 출판, 방송, 전송, 또는 기타의 방법으로 이용, 배포, 활용, 대중에게 전달할 권리가 포함됨)를 지적재산권 관련 법에 따라 보호되는 전 기간에 걸쳐 WANXIN CULTURE TECHNOLOGY CO., LIMITED에게 부여합니다. 관련 법이 허용하는 범위에서, 귀하는 WANXIN CULTURE TECHNOLOGY CO., LIMITED 및 다른 플레이어가 본 게임 그리고 관련 재화 및 서비스와 관련하여 이용하고 누리는 저작, 출판, 평판 혹은 속성에 대해 관련 법상 인정되는 일체의 저작인격권을 포기합니다. WANXIN CULTURE TECHNOLOGY CO., LIMITED에게 부여되는 라이선스는 본 계약이 해지 혹은 철회되더라도 계속 유효합니다.
+</text>
+<text id="608016">11. 	온라인상의 행위. 
+WANXIN CULTURE TECHNOLOGY CO., LIMITED는 WANXIN CULTURE TECHNOLOGY CO., LIMITED의 고의나 중과실로 인한 경우를 제외하고는 어떤 사용자의 행위에 대해서도 아무런 책임이 없으며, 이는 해당 행위가 본 게임의 접근 혹은 이용에 관련되는지 여부에 관계 없이 마찬가지입니다. 귀하가 본 제11절의 조건이나 본 계약의 기타 조건을 위반하는 경우, WANXIN CULTURE TECHNOLOGY CO., LIMITED는 귀하의 본 게임 접근을 언제라도 정지 혹은 종료시킬 수 있습니다. WANXIN CULTURE TECHNOLOGY CO., LIMITED는 본 게임에 업로드, 발표, 저장 혹은 표시된(이하 "게시된") 사용자 콘텐츠를 (예를 들어 저작권자의 주장에 따른 조치의 일환으로) 검토할 수 있습니다. 단, 본 게임 내에서 비공개 메시지의 일부로 공유된 사용자 콘텐츠의 경우, WANXIN CULTURE TECHNOLOGY CO., LIMITED는 적어도 해당 통신의 당사자 1인이 동의(예를 들어 해당 메시지가 부적절하다며 WANXIN CULTURE TECHNOLOGY CO., LIMITED에 신고)하지 않는 한 해당 콘텐츠를 검열하거나 검토하지 않습니다. WANXIN CULTURE TECHNOLOGY CO., LIMITED는 사용자 콘텐츠를 삭제하거나 온라인을 통한 수령을 거부할 권리를 보유합니다. 비록 WANXIN CULTURE TECHNOLOGY CO., LIMITED가 본 게임에 게시된 사용자 콘텐츠를 정기적으로 검열하거나 수정하거나 감시하지는 않으나, WANXIN CULTURE TECHNOLOGY CO., LIMITED가 합리적인 재량에 따라 판단할 때 본 게임을 통해 게시된 사용자 콘텐츠가 본 계약 및/또는 제3자의 권리, 관련 법, 규칙 혹은 규정을 위반했다고 결론 내리는 경우 WANXIN CULTURE TECHNOLOGY CO., LIMITED는 해당 사용자 콘텐츠를 삭제, 검열 혹은 수정할 권리와 절대적 재량을 보유합니다. 귀하가 과거에 본 게임으로부터 정지 혹은 퇴출당한 적이 있는 경우에는 본 게임을 이용할 수 없습니다. 귀하가 게시하거나 다른 사용자 혹은 제3자에게 전송하는 사용자 콘텐츠에 관한 일체의 책임은 오직 귀하에게 있습니다. 구체적으로, 귀하는 본 게임과 관련하여 다음 중 어떤 행위도 하거나 시도하지 않고 타인의 이 같은 행위를 유발하지도 않기로 동의합니다.
+
+a)	불법이거나 비방하거나 명예를 훼손하거나 모욕하거나 불쾌하거나 음란하거나 외설적이거나 저속하거나 선정적이거나 성적으로 노골적이거나 괴롭히거나 협박하거나 프라이버시 혹은 퍼블리시티를 침해하거나 학대하거나 선동하거나 사기성 사용자 콘텐츠를 게시하는 행위. 불법적 혹은 기타 반사회적인 활동(해킹 포함)을 조장하거나 부추기는 행위. 개인이나 집단을 상대로 한 인종차별, 편견, 증오, 또는 신체적인 혹은 기타 일체의 가해나 기타 부적절한 행동을 조장하거나 부추기는 행위.
+b)	개인이나 단체의 특허권, 상표권, 영업비밀, 저작권, 또는 기타 지적재산권이나 소유권을 침해할 수 있는 사용자 콘텐츠를 게시하는 행위.
+c)	상업적 활동이나 상업적 판매에 관여하는 행위(상업적 광고나 구매 권유를 전송하는 행위도 포함).
+d)	귀하 혹은 타인의 개인정보를 입력하거나 공개하거나 퍼뜨리는 행위.
+e)	타인 혹은 단체(WANXIN CULTURE TECHNOLOGY CO., LIMITED 관계자, 포럼 리더, 가이드, 주최자, 직원 혹은 대리인도 포함)를 사칭하거나, 귀하와 타인 혹은 단체와의 관계를 허위로 진술 혹은 표시하는 행위.
+f)	본 게임에 또는 게임 플레이나 대화의 정상적인 진행에 지장을 주거나 이를 방해하는 행위, 외설적 언어나 욕설 또는 과도한 외침(예를 들어 전부 대문자)이나 "스팸" 메시지를 사용하는 행위, 기타 본 게임의 다른 사용자들에게 지장을 주는 방해성의 혹은 해로운 행위.
+g)	본 게임에 무단 접근하기 위해, 다른 플레이어보다 부당하게 유리한 플레이를 하기 위해, 또는 본 게임과 관련하여 부정하게 플레이하거나 취약점을 무단 활용하기 위해, 버그나 오류 혹은 설계상 하자를 이용 또는 활용하는 행위(여기에는 귀하가 본 게임 중 접근 권한이 없는 부분에 접근하는 행위, 봇이나 에뮬레이터 혹은 기타 불법 제3자 도구를 사용하는 행위가 포함되며 이에 한정되지 않음).
+h)	다른 사용자들이 본 게임을 해당 규칙에 따라 플레이할 능력을 어떤 방식으로든 방해하는 행위, 또는 WANXIN CULTURE TECHNOLOGY CO., LIMITED 혹은 플랫폼 제공자가 모든 사용자들의 플레이를 위해 본 게임을 유지 관리하는 비용이나 어려움을 어떤 방식으로든 크게 가중시키는 행위.
+i)	특정 플레이어의 본 게임 내 순위나 승수를 올리기 위해 온라인 플레이 도중 고의로 네트워크 연결을 끊거나 해당 플레이어에게 반복해서 져 주는 행위.
+j)	가상 아이템이나 게임 통화를 본 게임 밖에서 거래하거나 판매하거나 경매하거나 기타 방법으로 양도하는 행위 또는 그러한 양도를 시도하는 행위.
+k)	그 밖에 본 계약이나 WANXIN CULTURE TECHNOLOGY CO., LIMITED가 발표하는 기타 정책의 조건을 위반하는 행위, 또는 WANXIN CULTURE TECHNOLOGY CO., LIMITED의 책임을 발생시키는 행위.
+</text>
+<text id="608017">12. 	저작권 정책. 
+자신이 소유 혹은 통제하는 저작권이 본 게임 내의 요소에 의해 침해되었다고 판단하는 저작권 소유자나 그 대리인은, 아래 안내된 바에 따라 당사 지정 저작권 담당자에게 침해 통지를 제출할 수 있습니다. 특정 소재 혹은 활동이 저작권을 침해한다는 통지가 허위임을 알면서도 이를 제출하는 자는, 당사가 해당 허위 통지에 근거하여 해당 소재 혹은 활동을 삭제하거나 그에 대한 접근을 차단함으로 인해 당사에게 또는 침해자로 주장된 자에게 발생하는 일체의 손해(각종 비용 및 변호사 비용도 포함)를 배상할 책임이 있을 수 있습니다. WANXIN CULTURE TECHNOLOGY CO., LIMITED는 제3자의 지적재산권을 상습적으로 침해하는 사용자를, 적절한 상황에서 그리고 WANXIN CULTURE TECHNOLOGY CO., LIMITED의 전적인 자체 재량에 따라 퇴출시키는 정책을 시행하고 있습니다. 단 WANXIN CULTURE TECHNOLOGY CO., LIMITED는 타인의 지적재산권을 침해하는 사용자에 대해서는, 상습적인 침해 여부에 관계 없이도 본 게임 접근을 제한하거나 종료시킬 수 있습니다.
+
+WANXIN CULTURE TECHNOLOGY CO., LIMITED
+Attn: Copyright Agent
+NO 10, Dangshan Road, Luyang District, HeFei
+Anhui
+China
+전화: + 86-0551-65606811
+
+copyrightagent@WANXIN CULTURE TECHNOLOGY CO., LIMITED
+</text>
+<text id="608018">13. 	제3자 콘텐츠. 
+다른 사용자, 광고주, 기타 제3자가 제공하는 콘텐츠의 경우, 귀하가 이를 이용할 수 있도록 본 게임을 통해 제공될 수 있습니다. 당사가 제3자 콘텐츠를 통제하지 않음에 따라, 귀하는 WANXIN CULTURE TECHNOLOGY CO., LIMITED의 고의나 중과실로 인한 경우를 제외하고는 당사가 제3자 콘텐츠에 대해 아무런 책임이 없고 제3자 콘텐츠에 포함된 정보의 정확성이나 질에 대해 아무런 보장도 제공하지 않으며 의도치 않거나 부적절하거나 부정확하거나 오해의 소지가 있거나 불법적인 제3자 콘텐츠에 대해서도 아무런 책임이 없다는 점에 동의합니다. 제품, 서비스, 절차 혹은 기타 정보가 상호, 상표, 제조사, 공급자 혹은 기타 형태로 언급되거나 소개되더라도, 이는 WANXIN CULTURE TECHNOLOGY CO., LIMITED가 이를 지지하거나 후원하거나 추천하거나 이와 연계되어 있다는 의미가 아닙니다. 단 WANXIN CULTURE TECHNOLOGY CO., LIMITED가 달리 명시하는 경우는 예외입니다.
+</text>
+<text id="608019">14. 	책임 부인. 
+귀하의 본 게임 접근이나 이용에 영향을 미치는 바이러스 혹은 기타 장애 유발 요소에 대해, 또는 본 게임과 다른 서비스 및 하드웨어 간의 비호환성에 대해, 귀하는 WANXIN CULTURE TECHNOLOGY CO., LIMITED와 그 라이선스 인가자 및 공급자에게 아무런 책임이 없음을 인정하고 이에 동의합니다. 본 게임 및 기타 모든 서비스는 "있는 그대로의 상태"로 제공됩니다. 본 계약 내에 달리 기술된 경우를 제외하고는, WANXIN CULTURE TECHNOLOGY CO., LIMITED와 그 라이선스 인가자 및 공급자는 명시적, 묵시적, 법적 및 기타 유형을 비롯한 모든 종류의 보증 및 조건(여기에는 권리 비침해성, 상품성 혹은 특정 목적에의 적합성에 대한 묵시적 보증도 포함되며 이에 한정되지 않음)을 명시적으로 부인합니다.
+일부 관할권에서는 소비자와의 계약에 있어 묵시적 조건의 부인이나 보증/보장의 배제 혹은 제한을 허용하지 않으므로, 본 절의 책임 부인 중 일부 혹은 전부는 귀하에게 적용되지 않을 수도 있습니다.
+</text>
+<text id="608020">15. 	인터넷. 
+귀하는, 귀하가 본 게임과 관련하여 전송 혹은 거래를 시작하거나 실행하거나 완료하는 과정에서 지연, 부정확 혹은 지체로 인한 장애를 경험하더라도 WANXIN CULTURE TECHNOLOGY CO., LIMITED는 이에 대해 아무런 책임이 없음을 인정하고 동의합니다. 더 나아가, WANXIN CULTURE TECHNOLOGY CO., LIMITED는 귀하가 원할 때 언제든지 본 게임의 온라인, 멀티플레이어 혹은 다운로드 부분에 접근할 수 있다고 약속하거나 보장하지 않습니다. 귀하가 본 게임의 해당 부분에 오랫동안 접근하지 못하는 경우도 발생할 수 있습니다. WANXIN CULTURE TECHNOLOGY CO., LIMITED는 본 게임의 온라인, 멀티플레이어 혹은 다운로드 부분이 지속적으로, 오류 없이, 안전하게, 또는 바이러스 없이 작동한다고 보장하지 않으며, 서버의 운영이나 이용 가능 상태가 지속된다고 보장하지도 않습니다.
+</text>
+<text id="608021">16. 	책임 제한. 
+(1) WANXIN CULTURE TECHNOLOGY CO., LIMITED의 과실로 인한 사망이나 신체 상해, (2) WANXIN CULTURE TECHNOLOGY CO., LIMITED에 의한 사기나 사기적 허위 표시, (3)WANXIN CULTURE TECHNOLOGY CO., LIMITED의 고의적 행위나 중과실, (4) 본 게임 이용으로 인한 유형 동산의 상실이나 멸실, 그리고 (5) 관련 법상 제한이나 배제가 불가능한 기타 책임의 경우를 제외하고는, WANXIN CULTURE TECHNOLOGY CO., LIMITED나 그 자회사, 계열사, 임원, 직원, 대리인 및 기타 제휴자 및 공급자는, 본 게임 또는 본 게임에 포함되거나 본 게임을 통해 접근 가능한 콘텐츠의 이용 혹은 이용불가로 인해 또는 지원 서비스 제공 미비로 인해(또는 어떤 형태로든 이상과 관련하여) 발생하는 일체의 간접손해, 특별손해, 징벌적 손해 또는 기타 손해(여기에는 계약법에 근거한 법 절차인지 불법행위법(과실 포함)에 근거한 법 절차인지를 불문하고 사용이익의 상실과 수익의 상실이 포함되며 이에 한정되지 않음)에 대해 어떤 경우에도 아무런 책임이 없습니다. 경과실이나 일반 과실의 경우 또는 WANXIN CULTURE TECHNOLOGY CO., LIMITED가 본 계약상 필수적 의무를 위반한 경우, WANXIN CULTURE TECHNOLOGY CO., LIMITED의 책임 범위는 귀하에게 발생한 예견 가능 직접손해에 한합니다. 본 게임의 이용이나 이용불가로 인해(혹은 이와 관련하여) 또는 본 계약의 조건과 관련하여 발생하는 WANXIN CULTURE TECHNOLOGY CO., LIMITED의 책임 총액은, 계약, 보증, 불법행위, 제조물 책임, 무과실 책임, 지적재산권 침해, 또는 기타 어떤 법리에 근거한 것인지를 불문하고, 어떤 경우에도 일백 달러($100) 또는 귀하가 본 게임 이용을 위해 WANXIN CULTURE TECHNOLOGY CO., LIMITED에 지불한 금액 중 높은 액수를 초과할 수 없습니다. 본 제16절은 귀하가 속한 현지 관할권의 법상 계약을 통해 제한할 수 없는 의무적 혹은 법정 보증을 제한하지 않습니다.
+</text>
+<text id="608022">17. 	준거법.
+관련 법이 요구하는 범위에서, 본 계약의 모든 조건 및 조항은 모든 관련 강행법의 적용을 받고 그에 따라 해석되며 이는 본 제17절에서 정하는 준거법과 상반되더라도 마찬가지입니다. 본 계약의 조건을 본 제17절의 범위에 포함되는 어떤 관할법에 따라 적용하거나 해석하거나 집행하더라도, 관련 소비자 보호법상 귀하에게 인정되는 소비자로서의 권리는 어떤 경우에도 배제되거나 제한되거나 한정되지 않습니다. 귀하의 행위에는 기타 지방법, 주법, 국가법, 국제법이 적용될 수도 있음을 유념하십시오. 당사자들은, 본 계약으로 인해 발생하는 분쟁이나 거래에는 국제 물품 매매 계약에 관한 유엔 협약이 적용되지 않는다는 데 동의합니다.
+	귀하가 일본을 제외한 아시아에 거주하는 경우:
+본 계약으로 인해(또는 그와 관련하여) 당사자들 간에 발생하는 모든 분쟁에는 본 계약과 중국법이 적용되며, 단 다른 관할권 법의 적용을 허용하거나 규정하는 섭외사법 원칙은 효력이 없습니다.
+</text>
+<text id="608023">18. 	재판지.
+	귀하가 일본을 제외한 아시아에 거주하는 경우:
+본 계약으로 인해(또는 그와 관련하여) 당사자들 간에 발생하는 모든 분쟁은 중국의법원 의 관할이며, 귀하와 WANXIN CULTURE TECHNOLOGY CO., LIMITED는 해당 법원이 배타적 관할권을 행사하는 데 동의합니다.
+</text>
+<text id="608024">19. 	기타. 
+본 계약은 본 게임 이용과 관련하여 귀하와 WANXIN CULTURE TECHNOLOGY CO., LIMITED 간의 합의 전체를 담고 있습니다. 본 계약의 일부 조항이 무효 혹은 집행불가로 결정되더라도, 본 계약의 나머지 부분은 잔여 기간 또는 제6(d)절에서 정하는 기간 동안 유효합니다. 단, 해당 조항이 본 계약의 본질적 약정 내용을 박탈하는 경우는 예외입니다. 귀하는 WANXIN CULTURE TECHNOLOGY CO., LIMITED의 사전 서면 동의 없이는 본 계약이나 본 계약에 따른 권리를 양도할 수 없으며, 이 같은 동의가 없는 양도 시도는 무효입니다. 전술한 제한의 범위에서, 당사 그리고 당사의 각 승계인 및 양수인은 본 계약에 온전히 구속되고 본 계약의 효력 대상이 되며 본 계약을 집행할 수 있습니다. WANXIN CULTURE TECHNOLOGY CO., LIMITED가 본 계약상의 권리 혹은 조항을 행사하지 않거나 집행하지 않더라도, 이는 해당 권리 혹은 조항의 포기가 아닙니다. 본 계약 내 각 절의 제목은 오직 편의를 위한 것으로, 법적 효력이나 계약적 효력이 없습니다.
+</text>
+<text id="608025">WANXIN CULTURE TECHNOLOGY CO., LIMITED에 연락하기 위해서는 WANXIN의 고객 지원 라인(http://cs.cubejoy.com/index.html)에 연락하거나 다음 주소로WANXIN CULTURE TECHNOLOGY CO., LIMITED에 서신을 보내십시오. NO 10, Dangshan Road, Luyang District, HeFei Anhui,China.
+</text>
+<text id="608026">%null%</text>
+<text id="608027">%null%</text>
+<text id="608028">%null%</text>
+<text id="608029">%null%</text>
+<text id="608030">%null%</text>
+<text id="608031">%null%</text>
+<text id="608032">%null%</text>
+<text id="608033">%null%</text>
+<text id="608034">%null%</text>
+<text id="608035">%null%</text>
+<text id="608036">%null%</text>
+<text id="608037">%null%</text>
+<text id="608038">%null%</text>
+<text id="608039">%null%</text>
+<text id="608040">%null%</text>
+<text id="608041">%null%</text>
+<text id="608042">%null%</text>
+<text id="608043">%null%</text>
+<text id="608044">%null%</text>
+<text id="608045">%null%</text>
+<text id="608046">%null%</text>
+<text id="608047">%null%</text>
+<text id="608048">%null%</text>
+<text id="608049">%null%</text>
+<text id="608050">%null%</text>
+</entries>
+</fmg>

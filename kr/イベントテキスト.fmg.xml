@@ -1,0 +1,3982 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="3">%null%</text>
+<text id="4">%null%</text>
+<text id="5">%null%</text>
+<text id="6">%null%</text>
+<text id="7">%null%</text>
+<text id="8">%null%</text>
+<text id="9">%null%</text>
+<text id="10">%null%</text>
+<text id="11">%null%</text>
+<text id="12">%null%</text>
+<text id="13">%null%</text>
+<text id="14">%null%</text>
+<text id="15">%null%</text>
+<text id="16">%null%</text>
+<text id="17">%null%</text>
+<text id="18">%null%</text>
+<text id="19">%null%</text>
+<text id="20">%null%</text>
+<text id="21">%null%</text>
+<text id="22">%null%</text>
+<text id="23">%null%</text>
+<text id="24">%null%</text>
+<text id="25">%null%</text>
+<text id="26">%null%</text>
+<text id="27">%null%</text>
+<text id="28">%null%</text>
+<text id="29">%null%</text>
+<text id="30">%null%</text>
+<text id="31">%null%</text>
+<text id="32">%null%</text>
+<text id="33">%null%</text>
+<text id="34">%null%</text>
+<text id="35">%null%</text>
+<text id="36">%null%</text>
+<text id="37">%null%</text>
+<text id="38">%null%</text>
+<text id="39">%null%</text>
+<text id="40">%null%</text>
+<text id="41">%null%</text>
+<text id="42">%null%</text>
+<text id="43">%null%</text>
+<text id="44">%null%</text>
+<text id="45">%null%</text>
+<text id="46">%null%</text>
+<text id="47">%null%</text>
+<text id="48">%null%</text>
+<text id="49">%null%</text>
+<text id="50">%null%</text>
+<text id="51">%null%</text>
+<text id="52">%null%</text>
+<text id="53">%null%</text>
+<text id="54">%null%</text>
+<text id="55">%null%</text>
+<text id="56">%null%</text>
+<text id="57">%null%</text>
+<text id="58">%null%</text>
+<text id="59">%null%</text>
+<text id="60">%null%</text>
+<text id="61">%null%</text>
+<text id="62">%null%</text>
+<text id="63">%null%</text>
+<text id="64">%null%</text>
+<text id="65">%null%</text>
+<text id="66">%null%</text>
+<text id="67">%null%</text>
+<text id="68">%null%</text>
+<text id="69">%null%</text>
+<text id="70">%null%</text>
+<text id="71">%null%</text>
+<text id="72">%null%</text>
+<text id="73">%null%</text>
+<text id="74">%null%</text>
+<text id="75">%null%</text>
+<text id="76">%null%</text>
+<text id="77">%null%</text>
+<text id="78">%null%</text>
+<text id="79">%null%</text>
+<text id="80">%null%</text>
+<text id="81">%null%</text>
+<text id="82">%null%</text>
+<text id="83">%null%</text>
+<text id="2290">%null%</text>
+<text id="2291">%null%</text>
+<text id="2292">%null%</text>
+<text id="2293">%null%</text>
+<text id="2294">%null%</text>
+<text id="2295">%null%</text>
+<text id="2296">%null%</text>
+<text id="2297">%null%</text>
+<text id="2298">%null%</text>
+<text id="2299">%null%</text>
+<text id="2300">%null%</text>
+<text id="2301">%null%</text>
+<text id="2302">%null%</text>
+<text id="2303">%null%</text>
+<text id="2304">%null%</text>
+<text id="2305">%null%</text>
+<text id="2306">%null%</text>
+<text id="2307">%null%</text>
+<text id="2308">%null%</text>
+<text id="2309">%null%</text>
+<text id="2310">%null%</text>
+<text id="2311">%null%</text>
+<text id="2312">%null%</text>
+<text id="2313">%null%</text>
+<text id="2314">%null%</text>
+<text id="2315">%null%</text>
+<text id="2316">%null%</text>
+<text id="2317">%null%</text>
+<text id="2318">%null%</text>
+<text id="2319">%null%</text>
+<text id="2320">%null%</text>
+<text id="2321">%null%</text>
+<text id="2322">%null%</text>
+<text id="2323">%null%</text>
+<text id="2324">%null%</text>
+<text id="2400">%null%</text>
+<text id="2401">%null%</text>
+<text id="2402">%null%</text>
+<text id="2403">%null%</text>
+<text id="2404">%null%</text>
+<text id="2405">%null%</text>
+<text id="2406">%null%</text>
+<text id="2407">%null%</text>
+<text id="2408">%null%</text>
+<text id="2409">%null%</text>
+<text id="2410">%null%</text>
+<text id="2411">%null%</text>
+<text id="2412">%null%</text>
+<text id="2413">%null%</text>
+<text id="2414">%null%</text>
+<text id="2415">%null%</text>
+<text id="2416">%null%</text>
+<text id="2417">%null%</text>
+<text id="2418">%null%</text>
+<text id="2419">%null%</text>
+<text id="2420">%null%</text>
+<text id="2421">%null%</text>
+<text id="2422">%null%</text>
+<text id="2450">%null%</text>
+<text id="2451">%null%</text>
+<text id="2452">%null%</text>
+<text id="2453">%null%</text>
+<text id="2500">%null%</text>
+<text id="2501">%null%</text>
+<text id="2502">%null%</text>
+<text id="2503">%null%</text>
+<text id="2504">%null%</text>
+<text id="2505">%null%</text>
+<text id="2506">%null%</text>
+<text id="2507">%null%</text>
+<text id="2508">%null%</text>
+<text id="2509">%null%</text>
+<text id="2510">%null%</text>
+<text id="2511">%null%</text>
+<text id="2512">%null%</text>
+<text id="2513">%null%</text>
+<text id="2514">%null%</text>
+<text id="2515">%null%</text>
+<text id="2516">%null%</text>
+<text id="2517">%null%</text>
+<text id="2518">%null%</text>
+<text id="2519">%null%</text>
+<text id="2520">%null%</text>
+<text id="2521">%null%</text>
+<text id="2522">%null%</text>
+<text id="2523">%null%</text>
+<text id="2524">%null%</text>
+<text id="2525">%null%</text>
+<text id="2526">%null%</text>
+<text id="2527">%null%</text>
+<text id="2528">%null%</text>
+<text id="2529">%null%</text>
+<text id="2530">%null%</text>
+<text id="2531">%null%</text>
+<text id="2532">%null%</text>
+<text id="2533">%null%</text>
+<text id="2534">%null%</text>
+<text id="2535">%null%</text>
+<text id="2610">%null%</text>
+<text id="2611">%null%</text>
+<text id="2612">%null%</text>
+<text id="2613">%null%</text>
+<text id="2614">%null%</text>
+<text id="2615">%null%</text>
+<text id="2616">%null%</text>
+<text id="2617">%null%</text>
+<text id="2618">%null%</text>
+<text id="2619">%null%</text>
+<text id="2620">%null%</text>
+<text id="2621">%null%</text>
+<text id="2622">%null%</text>
+<text id="2623">%null%</text>
+<text id="2624">%null%</text>
+<text id="2625">%null%</text>
+<text id="70000">수리검 (수리검 투척 후)</text>
+<text id="71000">폭죽 (뿌리기 후)</text>
+<text id="78000">장치 창 (찌르기 / 후려치기 후)</text>
+<text id="83000">장치 도끼 (찍기 후)</text>
+<text id="84000">안개 까마귀 (안개 까마귀 발동 후)</text>
+<text id="88000">장치 창 (끌어당기기 후)</text>
+<text id="96000">장치 우산 (가드 중)
+　장치 우산은
+　적의 투척 도구를 받아 힘을 축적하고
+　발사할 수 있다</text>
+<text id="99000">손가락 피리 (손가락 피리 후)
+　손가락 피리는 불고 난 후에
+　노린 위치에 음을 발생시킬 수 있다</text>
+<text id="102000">화통 (화염 방사 후)</text>
+<text id="107000">행방불명 (소용돌이 바람 모으기 후)</text>
+<text id="10010103">아이템을 줍는다</text>
+<text id="10010104">%null%</text>
+<text id="10010105">%null%</text>
+<text id="10010106">%null%</text>
+<text id="10010107">아이템을 줍는다</text>
+<text id="10010108">%null%</text>
+<text id="10010109">%null%</text>
+<text id="10010110">OK</text>
+<text id="10010111">%null%</text>
+<text id="10010112">%null%</text>
+<text id="10010113">%null%</text>
+<text id="10010114">%null%</text>
+<text id="10010115">%null%</text>
+<text id="10010116">%null%</text>
+<text id="10010117">%null%</text>
+<text id="10010118">%null%</text>
+<text id="10010119">%null%</text>
+<text id="10010120">조사한다</text>
+<text id="10010121">새전함을 조사한다</text>
+<text id="10010122">환랑으로 간다</text>
+<text id="10010123">환랑을 떠난다</text>
+<text id="10010124">%null%</text>
+<text id="10010125">%null%</text>
+<text id="10010126">%null%</text>
+<text id="10010127">%null%</text>
+<text id="10010128">%null%</text>
+<text id="10010129">%null%</text>
+<text id="10010130">공손하게 빈다</text>
+<text id="10010131">공손하게 빈다</text>
+<text id="10010132">%null%</text>
+<text id="10010133">%null%</text>
+<text id="10010134">%null%</text>
+<text id="10010135">%null%</text>
+<text id="10010136">%null%</text>
+<text id="10010137">%null%</text>
+<text id="10010138">%null%</text>
+<text id="10010139">%null%</text>
+<text id="10010140">읽는다</text>
+<text id="10010141">%null%</text>
+<text id="10010142">%null%</text>
+<text id="10010143">%null%</text>
+<text id="10010144">%null%</text>
+<text id="10010145">%null%</text>
+<text id="10010146">%null%</text>
+<text id="10010147">%null%</text>
+<text id="10010148">%null%</text>
+<text id="10010149">%null%</text>
+<text id="10010150">대기소의 열쇠를 사용했습니다</text>
+<text id="10010151">숨겨진 불전의 열쇠를 사용했습니다</text>
+<text id="10010152">구멍의 열쇠를 사용했습니다</text>
+<text id="10010153">소총 요새의 신사 열쇠를 사용했습니다</text>
+<text id="10010154">%null%</text>
+<text id="10010155">%null%</text>
+<text id="10010156">%null%</text>
+<text id="10010157">%null%</text>
+<text id="10010158">%null%</text>
+<text id="10010159">%null%</text>
+<text id="10010160">%null%</text>
+<text id="10010161">이쪽에서는 열리지 않는다</text>
+<text id="10010162">열쇠가 잠겨있다</text>
+<text id="10010163">굳게 닫혀 있다</text>
+<text id="10010164">장치를 조작할 수 없다</text>
+<text id="10010182">귀불과 마주 앉는다</text>
+<text id="10010183">귀불과 마주 앉는다</text>
+<text id="10010184">%null%</text>
+<text id="10010185">%null%</text>
+<text id="10010186">%null%</text>
+<text id="10010187">%null%</text>
+<text id="10010188">%null%</text>
+<text id="10010189">%null%</text>
+<text id="10010190">신성한 계승자에게 무릎을 꿇는다</text>
+<text id="10010191">잔영에 접촉한다</text>
+<text id="10010192">%null%</text>
+<text id="10010193">%null%</text>
+<text id="10010194">%null%</text>
+<text id="10010195">%null%</text>
+<text id="10010196">%null%</text>
+<text id="10010197">%null%</text>
+<text id="10010198">%null%</text>
+<text id="10010199">%null%</text>
+<text id="10010200">말을 건다</text>
+<text id="10010250">훔쳐 듣는다</text>
+<text id="10010251">%null%</text>
+<text id="10010252">%null%</text>
+<text id="10010253">%null%</text>
+<text id="10010254">%null%</text>
+<text id="10010255">%null%</text>
+<text id="10010256">%null%</text>
+<text id="10010257">%null%</text>
+<text id="10010258">%null%</text>
+<text id="10010259">%null%</text>
+<text id="10010260">잔영에 귀를 기울인다</text>
+<text id="10010310">&lt;?kgiconKc@20?&gt;: 벽에 붙기</text>
+<text id="10010311">&lt;?kgiconKc@20?&gt;: 떨어지기</text>
+<text id="10010312">%null%</text>
+<text id="10010313">%null%</text>
+<text id="10010314">%null%</text>
+<text id="10010315">%null%</text>
+<text id="10010316">%null%</text>
+<text id="10010317">%null%</text>
+<text id="10010318">%null%</text>
+<text id="10010319">%null%</text>
+<text id="10010320">&lt;?kgiconKc@20?&gt;: 매달리기</text>
+<text id="10010321">&lt;?kgiconKc@20?&gt;: 기어오르기</text>
+<text id="10010322">&lt;?kgiconKc@5?&gt;: 내려가기</text>
+<text id="10010323">%null%</text>
+<text id="10010324">%null%</text>
+<text id="10010325">%null%</text>
+<text id="10010326">%null%</text>
+<text id="10010327">%null%</text>
+<text id="10010328">%null%</text>
+<text id="10010329">%null%</text>
+<text id="10010330">&lt;?kgiconKc@17?&gt;: 잠수하기</text>
+<text id="10010331">%null%</text>
+<text id="10010332">%null%</text>
+<text id="10010333">%null%</text>
+<text id="10010334">%null%</text>
+<text id="10010335">%null%</text>
+<text id="10010336">%null%</text>
+<text id="10010337">%null%</text>
+<text id="10010338">%null%</text>
+<text id="10010339">%null%</text>
+<text id="10010340">&lt;?kgiconKc@5?&gt;: 수중 가속</text>
+<text id="10010341">&lt;?kgiconKc@19?&gt;: 부상</text>
+<text id="10010342">&lt;?kgiconKc@17?&gt;: 잠수</text>
+<text id="10010343">&lt;?kgiconKc@19?&gt;: 부상</text>
+<text id="10010390">&lt;?kgiconKc@16?&gt;: 회생한다</text>
+<text id="10010391">&lt;?kgiconKc@18?&gt;: 이대로 죽는다</text>
+<text id="10010392">%null%</text>
+<text id="10010393">%null%</text>
+<text id="10010394">%null%</text>
+<text id="10010395">%null%</text>
+<text id="10010396">%null%</text>
+<text id="10010397">%null%</text>
+<text id="10010398">%null%</text>
+<text id="10010399">%null%</text>
+<text id="10010400">열기</text>
+<text id="10010401">%null%</text>
+<text id="10010402">%null%</text>
+<text id="10010403">%null%</text>
+<text id="10010404">%null%</text>
+<text id="10010405">%null%</text>
+<text id="10010406">%null%</text>
+<text id="10010407">%null%</text>
+<text id="10010408">%null%</text>
+<text id="10010409">%null%</text>
+<text id="10010410">다다미를 치운다</text>
+<text id="10010411">%null%</text>
+<text id="10010412">%null%</text>
+<text id="10010413">%null%</text>
+<text id="10010414">%null%</text>
+<text id="10010415">%null%</text>
+<text id="10010416">%null%</text>
+<text id="10010417">%null%</text>
+<text id="10010418">%null%</text>
+<text id="10010419">%null%</text>
+<text id="10010420">보물 상자를 연다</text>
+<text id="10010500">기계 장치를 기동한다</text>
+<text id="10010501">기계 장치를 기동한다</text>
+<text id="10010502">%null%</text>
+<text id="10010503">%null%</text>
+<text id="10010504">%null%</text>
+<text id="10010505">%null%</text>
+<text id="10010506">%null%</text>
+<text id="10010507">%null%</text>
+<text id="10010508">%null%</text>
+<text id="10010509">%null%</text>
+<text id="10010510">종을 친다</text>
+<text id="10010511">종을 울린다</text>
+<text id="10010512">%null%</text>
+<text id="10010513">%null%</text>
+<text id="10010514">%null%</text>
+<text id="10010515">%null%</text>
+<text id="10010516">%null%</text>
+<text id="10010517">%null%</text>
+<text id="10010518">%null%</text>
+<text id="10010519">%null%</text>
+<text id="10010520">가마에 들어간다</text>
+<text id="10010521">가마에서 나온다</text>
+<text id="10010522">%null%</text>
+<text id="10010523">%null%</text>
+<text id="10010524">%null%</text>
+<text id="10010525">%null%</text>
+<text id="10010526">%null%</text>
+<text id="10010527">%null%</text>
+<text id="10010528">%null%</text>
+<text id="10010529">%null%</text>
+<text id="10010530">연을 날린다</text>
+<text id="10010531">손을 뗀다</text>
+<text id="10010532">%null%</text>
+<text id="10010533">%null%</text>
+<text id="10010534">%null%</text>
+<text id="10010535">%null%</text>
+<text id="10010536">%null%</text>
+<text id="10010537">%null%</text>
+<text id="10010538">%null%</text>
+<text id="10010539">%null%</text>
+<text id="10010540">뒤집는다</text>
+<text id="10010541">deleted</text>
+<text id="10010542">닌자의 샛길은 닫혀 있다</text>
+<text id="10010543">%null%</text>
+<text id="10010544">%null%</text>
+<text id="10010545">%null%</text>
+<text id="10010546">%null%</text>
+<text id="10010547">%null%</text>
+<text id="10010548">%null%</text>
+<text id="10010549">%null%</text>
+<text id="10010550">시집을 간다</text>
+<text id="10010551">기원의 궁에 간다</text>
+<text id="10010552">기원의 궁에 가지 않는다</text>
+<text id="10010553">%null%</text>
+<text id="10010554">%null%</text>
+<text id="10010555">%null%</text>
+<text id="10010556">%null%</text>
+<text id="10010557">%null%</text>
+<text id="10010558">%null%</text>
+<text id="10010559">%null%</text>
+<text id="10010560">공손하게 빈다</text>
+<text id="10010561">무녀는 조용히 잠들어 있다</text>
+<text id="10010562">%null%</text>
+<text id="10010563">%null%</text>
+<text id="10010564">%null%</text>
+<text id="10010565">%null%</text>
+<text id="10010566">%null%</text>
+<text id="10010567">%null%</text>
+<text id="10010568">%null%</text>
+<text id="10010569">%null%</text>
+<text id="10010570">%null%</text>
+<text id="10010571">%null%</text>
+<text id="10010572">%null%</text>
+<text id="10010573">%null%</text>
+<text id="10010574">%null%</text>
+<text id="10010575">%null%</text>
+<text id="10010576">%null%</text>
+<text id="10010577">%null%</text>
+<text id="10010578">%null%</text>
+<text id="10010579">%null%</text>
+<text id="10010580">향로를 조사한다</text>
+<text id="10010581">기원의 향을 피운다</text>
+<text id="10010582">%null%</text>
+<text id="10010583">%null%</text>
+<text id="10010584">%null%</text>
+<text id="10010585">%null%</text>
+<text id="10010586">%null%</text>
+<text id="10010587">%null%</text>
+<text id="10010588">%null%</text>
+<text id="10010589">%null%</text>
+<text id="10010590">수련을 멈춘다</text>
+<text id="10010591">%null%</text>
+<text id="10010592">%null%</text>
+<text id="10010593">%null%</text>
+<text id="10010594">%null%</text>
+<text id="10010595">%null%</text>
+<text id="10010596">%null%</text>
+<text id="10010597">%null%</text>
+<text id="10010598">%null%</text>
+<text id="10010599">%null%</text>
+<text id="10010600">&lt;?kgiconKc@44?&gt;: 기록 중단</text>
+<text id="10010700">이 앞이 구멍인 것 같다
+갈대 피리를 불어 신성한 계승자를 부르시겠습니까?</text>
+<text id="10010713">게임 설치가 완료되지 않아
+이 앞으로 진행할 수 없습니다</text>
+<text id="10010714">%null%</text>
+<text id="10010715">%null%</text>
+<text id="10010716">%null%</text>
+<text id="10010717">%null%</text>
+<text id="10010718">%null%</text>
+<text id="10010719">%null%</text>
+<text id="10010720">돌아갈 장소를 선택해 주십시오</text>
+<text id="10010768">&lt;?null?&gt;</text>
+<text id="10010769">%null%</text>
+<text id="10010770">화상</text>
+<text id="10010771">중독</text>
+<text id="10010772">공포</text>
+<text id="10010773">%null%</text>
+<text id="10010774">%null%</text>
+<text id="10010775">%null%</text>
+<text id="10010776">노인</text>
+<text id="10010777">타뢰</text>
+<text id="10010778">%null%</text>
+<text id="10010779">%null%</text>
+<text id="10010780">%null%</text>
+<text id="10010781">%null%</text>
+<text id="10010782">%null%</text>
+<text id="10010783">%null%</text>
+<text id="10010784">%null%</text>
+<text id="10010785">%null%</text>
+<text id="10010786">%null%</text>
+<text id="10010787">%null%</text>
+<text id="10010788">%null%</text>
+<text id="10010789">%null%</text>
+<text id="10010790">위험</text>
+<text id="10010791">%null%</text>
+<text id="10010792">%null%</text>
+<text id="10010793">%null%</text>
+<text id="10010794">%null%</text>
+<text id="10010795">%null%</text>
+<text id="10010796">%null%</text>
+<text id="10010797">%null%</text>
+<text id="10010798">%null%</text>
+<text id="10010799">%null%</text>
+<text id="10010800">지금은 흘러온 아이템이 없는 것 같다</text>
+<text id="10010900">SHINOBI EXECUTION</text>
+<text id="10010901">SCULPTOR'S IDOL FOUND</text>
+<text id="10010902">DEATH</text>
+<text id="10010903">IMMORTALITY SEVERED</text>
+<text id="10010950">GRACIOUS GIFT OF TEARS</text>
+<text id="10010951">SINISTER BURDEN</text>
+<text id="10010952">BURDEN DISPELLED</text>
+<text id="10010953">UNSEEN AID</text>
+<text id="10010954">DRAGONROT HEALED</text>
+<text id="10010955">INNER REFLECTION CONQUERED</text>
+<text id="10011951">황폐한 절의 귀불</text>
+<text id="10011952">마지막에 마주 앉은 귀불</text>
+<text id="10020000">%null%</text>
+<text id="10020001">%null%</text>
+<text id="10020002">%null%</text>
+<text id="10020003">%null%</text>
+<text id="10020004">%null%</text>
+<text id="10020005">%null%</text>
+<text id="10020006">%null%</text>
+<text id="10020007">%null%</text>
+<text id="10020008">%null%</text>
+<text id="10020009">%null%</text>
+<text id="10020010">마루 밑 이동</text>
+<text id="10020011">웅크리고 있으면
+마루 밑처럼 좁은 장소에도 들어갈 수 있다</text>
+<text id="10020012">%null%</text>
+<text id="10020013">%null%</text>
+<text id="10020014">%null%</text>
+<text id="10020015">%null%</text>
+<text id="10020016">%null%</text>
+<text id="10020017">%null%</text>
+<text id="10020018">%null%</text>
+<text id="10020019">%null%</text>
+<text id="10020020">공중 갈고리</text>
+<text id="10020021">&lt;?kgiconKc@6?&gt;→&lt;?kgiconKc@19?&gt;: 공중 갈고리</text>
+<text id="10020022">%null%</text>
+<text id="10020023">%null%</text>
+<text id="10020024">%null%</text>
+<text id="10020025">%null%</text>
+<text id="10020026">%null%</text>
+<text id="10020027">%null%</text>
+<text id="10020028">%null%</text>
+<text id="10020029">%null%</text>
+<text id="10020030">%null%</text>
+<text id="10020031">%null%</text>
+<text id="10020032">%null%</text>
+<text id="10020033">%null%</text>
+<text id="10020034">%null%</text>
+<text id="10020035">%null%</text>
+<text id="10020036">%null%</text>
+<text id="10020037">%null%</text>
+<text id="10020038">%null%</text>
+<text id="10020039">%null%</text>
+<text id="10020040">벽차기와 매달리기</text>
+<text id="10020041">점프 중 벽 쪽에서 &lt;?kgiconKc@6?&gt;: 벽차기
+모서리에서 &lt;?kgiconKc@20?&gt;: 매달리기</text>
+<text id="10020042">%null%</text>
+<text id="10020043">%null%</text>
+<text id="10020044">%null%</text>
+<text id="10020045">%null%</text>
+<text id="10020046">%null%</text>
+<text id="10020047">%null%</text>
+<text id="10020048">%null%</text>
+<text id="10020049">%null%</text>
+<text id="10020050">%null%</text>
+<text id="10020051">%null%</text>
+<text id="10020052">%null%</text>
+<text id="10020053">%null%</text>
+<text id="10020054">%null%</text>
+<text id="10020055">%null%</text>
+<text id="10020056">%null%</text>
+<text id="10020057">%null%</text>
+<text id="10020058">%null%</text>
+<text id="10020059">%null%</text>
+<text id="10020060">연속 벽차기</text>
+<text id="10020061">발을 디딜 곳이 있는 벽에서
+&lt;?kgiconKc@6?&gt;을 연속 입력: 연속 벽차기</text>
+<text id="10020080">%null%</text>
+<text id="10020081">%null%</text>
+<text id="10020082">%null%</text>
+<text id="10020083">%null%</text>
+<text id="10020084">%null%</text>
+<text id="10020085">%null%</text>
+<text id="10020086">%null%</text>
+<text id="10020087">%null%</text>
+<text id="10020088">%null%</text>
+<text id="10020089">%null%</text>
+<text id="10020090">점프 매달리기</text>
+<text id="10020091">&lt;?kgiconKc@6?&gt;: 점프
+모서리에서 &lt;?kgiconKc@20?&gt;: 매달리기</text>
+<text id="10020120">대공 인살</text>
+<text id="10020121">뛰어오른 적을 향해 &lt;?kgiconKc@6?&gt;: 점프
+붉은 표시가 있을 때 &lt;?kgiconKc@16?&gt;: 대공 인살</text>
+<text id="10020250">수중 조작</text>
+<text id="10020251">&lt;?kgiconKc@17?&gt;: 잠수
+&lt;?kgiconKc@19?&gt;: 부상
+&lt;?kgMove?&gt;으로 이동하며 &lt;?kgiconKc@5?&gt;: 수중 가속</text>
+<text id="10020252">%null%</text>
+<text id="10020253">%null%</text>
+<text id="10020254">%null%</text>
+<text id="10020255">%null%</text>
+<text id="10020256">%null%</text>
+<text id="10020257">%null%</text>
+<text id="10020258">%null%</text>
+<text id="10020259">%null%</text>
+<text id="10020260">낙하 인살</text>
+<text id="10020261">&lt;?kgiconKc@12?&gt;: 타깃 고정
+&lt;?kgiconKc@6?&gt;: 점프
+적의 머리 위에
+붉은 표시가 있을 때 &lt;?kgiconKc@16?&gt;: 낙하 인살</text>
+<text id="10020262">%null%</text>
+<text id="10020263">%null%</text>
+<text id="10020264">%null%</text>
+<text id="10020265">%null%</text>
+<text id="10020266">%null%</text>
+<text id="10020267">%null%</text>
+<text id="10020268">%null%</text>
+<text id="10020269">%null%</text>
+<text id="10020270">은밀</text>
+<text id="10020271">지금은 도를 지니고 있지 않다
+은밀하게 적을 피하고 망월루를 목표로 하면 될 것이다</text>
+<text id="10020272">%null%</text>
+<text id="10020273">%null%</text>
+<text id="10020274">%null%</text>
+<text id="10020275">%null%</text>
+<text id="10020276">%null%</text>
+<text id="10020277">%null%</text>
+<text id="10020278">%null%</text>
+<text id="10020279">%null%</text>
+<text id="10020280">날아오는 도구에 대한 대처</text>
+<text id="10020281">총탄이나 투척 무기도 도를 이용해 튕겨낼 수 있다</text>
+<text id="10020282">%null%</text>
+<text id="10020283">%null%</text>
+<text id="10020284">%null%</text>
+<text id="10020285">%null%</text>
+<text id="10020286">%null%</text>
+<text id="10020287">%null%</text>
+<text id="10020288">%null%</text>
+<text id="10020289">%null%</text>
+<text id="10020290">뇌반</text>
+<text id="10020291">공중에서 번개 공격을 받고, 착지 전에 &lt;?kgiconKc@16?&gt;: 뇌반</text>
+<text id="10020292">%null%</text>
+<text id="10020293">%null%</text>
+<text id="10020294">%null%</text>
+<text id="10020295">%null%</text>
+<text id="10020296">%null%</text>
+<text id="10020297">%null%</text>
+<text id="10020298">%null%</text>
+<text id="10020299">%null%</text>
+<text id="10020300">기침 소리</text>
+<text id="10020301">용해에 병든 자가 늘어나
+"기침 소리"를 많이 소지하고 있을수록
+명조 확률이 낮아진다</text>
+<text id="10020302">%null%</text>
+<text id="10020303">%null%</text>
+<text id="10020304">%null%</text>
+<text id="10020305">%null%</text>
+<text id="10020306">%null%</text>
+<text id="10020307">%null%</text>
+<text id="10020308">%null%</text>
+<text id="10020309">%null%</text>
+<text id="10020310">기억 속에서 일어난 일</text>
+<text id="10020311">재전투 및 연속 전투 후 원래 세계로 돌아오면
+소비했던 아이템과 카타시로는 원래 상태로 돌아온다
+
+기억 속이라면
+아낌없이 사용하는 것이 좋을 것이다</text>
+<text id="10020840">%null%</text>
+<text id="10020841">%null%</text>
+<text id="10021000">&lt;?kgControlCamera?&gt;: 시점 이동</text>
+<text id="10021001">%null%</text>
+<text id="10021002">%null%</text>
+<text id="10021003">%null%</text>
+<text id="10021004">%null%</text>
+<text id="10021005">%null%</text>
+<text id="10021006">%null%</text>
+<text id="10021007">%null%</text>
+<text id="10021008">%null%</text>
+<text id="10021009">%null%</text>
+<text id="10021010">&lt;?kgiconKc@6?&gt;: 점프</text>
+<text id="10021011">%null%</text>
+<text id="10021012">%null%</text>
+<text id="10021013">%null%</text>
+<text id="10021014">%null%</text>
+<text id="10021015">%null%</text>
+<text id="10021016">%null%</text>
+<text id="10021017">%null%</text>
+<text id="10021018">%null%</text>
+<text id="10021019">%null%</text>
+<text id="10021020">점프 중 벽 쪽에서 &lt;?kgiconKc@6?&gt;: 벽차기</text>
+<text id="10021021">%null%</text>
+<text id="10021022">%null%</text>
+<text id="10021023">%null%</text>
+<text id="10021024">%null%</text>
+<text id="10021025">%null%</text>
+<text id="10021026">%null%</text>
+<text id="10021027">%null%</text>
+<text id="10021028">%null%</text>
+<text id="10021029">%null%</text>
+<text id="10021030">&lt;?kgiconKc@20?&gt;: 벽에 붙기 / 떨어지기</text>
+<text id="10021031">%null%</text>
+<text id="10021032">%null%</text>
+<text id="10021033">%null%</text>
+<text id="10021034">%null%</text>
+<text id="10021035">%null%</text>
+<text id="10021036">%null%</text>
+<text id="10021037">%null%</text>
+<text id="10021038">%null%</text>
+<text id="10021039">%null%</text>
+<text id="10021040">벽에 붙어있는 중 &lt;?kgMove?&gt;: 벽에 붙어 이동</text>
+<text id="10021041">%null%</text>
+<text id="10021042">%null%</text>
+<text id="10021043">%null%</text>
+<text id="10021044">%null%</text>
+<text id="10021045">%null%</text>
+<text id="10021046">%null%</text>
+<text id="10021047">%null%</text>
+<text id="10021048">%null%</text>
+<text id="10021049">%null%</text>
+<text id="10021050">&lt;?kgiconKc@7?&gt;: 웅크리기 / 일어서기</text>
+<text id="10021051">%null%</text>
+<text id="10021052">%null%</text>
+<text id="10021053">%null%</text>
+<text id="10021054">%null%</text>
+<text id="10021055">%null%</text>
+<text id="10021056">%null%</text>
+<text id="10021057">%null%</text>
+<text id="10021058">%null%</text>
+<text id="10021059">%null%</text>
+<text id="10021060">&lt;?kgiconKc@22?&gt;: 훔쳐 듣기</text>
+<text id="10021061">%null%</text>
+<text id="10021062">%null%</text>
+<text id="10021063">%null%</text>
+<text id="10021064">%null%</text>
+<text id="10021065">%null%</text>
+<text id="10021066">%null%</text>
+<text id="10021067">%null%</text>
+<text id="10021068">%null%</text>
+<text id="10021069">%null%</text>
+<text id="10021070">모서리 근처에서 &lt;?kgiconKc@20?&gt;: 매달리기</text>
+<text id="10021071">%null%</text>
+<text id="10021072">%null%</text>
+<text id="10021073">%null%</text>
+<text id="10021074">%null%</text>
+<text id="10021075">%null%</text>
+<text id="10021076">%null%</text>
+<text id="10021077">%null%</text>
+<text id="10021078">%null%</text>
+<text id="10021079">%null%</text>
+<text id="10021080">매달리기 중 &lt;?kgMove?&gt;: 매달리기 이동</text>
+<text id="10021081">%null%</text>
+<text id="10021082">%null%</text>
+<text id="10021083">%null%</text>
+<text id="10021084">%null%</text>
+<text id="10021085">%null%</text>
+<text id="10021086">%null%</text>
+<text id="10021087">%null%</text>
+<text id="10021088">%null%</text>
+<text id="10021089">%null%</text>
+<text id="10021090">&lt;?kgiconKc@20?&gt;: 기어오르기</text>
+<text id="10021091">%null%</text>
+<text id="10021092">%null%</text>
+<text id="10021093">%null%</text>
+<text id="10021094">%null%</text>
+<text id="10021095">%null%</text>
+<text id="10021096">%null%</text>
+<text id="10021097">%null%</text>
+<text id="10021098">%null%</text>
+<text id="10021099">%null%</text>
+<text id="10021100">&lt;?kgiconKc@5?&gt;: 매달리기 해제</text>
+<text id="10021101">%null%</text>
+<text id="10021102">%null%</text>
+<text id="10021103">%null%</text>
+<text id="10021104">%null%</text>
+<text id="10021105">%null%</text>
+<text id="10021106">%null%</text>
+<text id="10021107">%null%</text>
+<text id="10021108">%null%</text>
+<text id="10021109">%null%</text>
+<text id="10021110">&lt;?kgiconKc@27?&gt;: 장비 메뉴 열기</text>
+<text id="10021111">%null%</text>
+<text id="10021112">%null%</text>
+<text id="10021113">%null%</text>
+<text id="10021114">%null%</text>
+<text id="10021115">%null%</text>
+<text id="10021116">%null%</text>
+<text id="10021117">%null%</text>
+<text id="10021118">%null%</text>
+<text id="10021119">%null%</text>
+<text id="10021120">&lt;?kgiconKc@12?&gt;: 타깃 고정 / 해제</text>
+<text id="10021121">%null%</text>
+<text id="10021122">%null%</text>
+<text id="10021123">%null%</text>
+<text id="10021124">%null%</text>
+<text id="10021125">%null%</text>
+<text id="10021126">%null%</text>
+<text id="10021127">%null%</text>
+<text id="10021128">%null%</text>
+<text id="10021129">%null%</text>
+<text id="10021130">&lt;?kgiconKc@16?&gt;: 공격</text>
+<text id="10021131">%null%</text>
+<text id="10021132">%null%</text>
+<text id="10021133">%null%</text>
+<text id="10021134">%null%</text>
+<text id="10021135">%null%</text>
+<text id="10021136">%null%</text>
+<text id="10021137">%null%</text>
+<text id="10021138">%null%</text>
+<text id="10021139">%null%</text>
+<text id="10021140">자세가 무너진 적에게 &lt;?kgiconKc@16?&gt;: 인살</text>
+<text id="10021141">%null%</text>
+<text id="10021142">%null%</text>
+<text id="10021143">%null%</text>
+<text id="10021144">%null%</text>
+<text id="10021145">%null%</text>
+<text id="10021146">%null%</text>
+<text id="10021147">%null%</text>
+<text id="10021148">%null%</text>
+<text id="10021149">%null%</text>
+<text id="10021150">적에 공격에 맞춰 &lt;?kgiconKc@18?&gt;: 튕겨내기</text>
+<text id="10021151">%null%</text>
+<text id="10021152">%null%</text>
+<text id="10021153">%null%</text>
+<text id="10021154">%null%</text>
+<text id="10021155">%null%</text>
+<text id="10021156">%null%</text>
+<text id="10021157">%null%</text>
+<text id="10021158">%null%</text>
+<text id="10021159">%null%</text>
+<text id="10021160">타깃 고정 중 &lt;?kgControlCamera?&gt;: 타깃 전환</text>
+<text id="10021161">%null%</text>
+<text id="10021162">%null%</text>
+<text id="10021163">%null%</text>
+<text id="10021164">%null%</text>
+<text id="10021165">%null%</text>
+<text id="10021166">%null%</text>
+<text id="10021167">%null%</text>
+<text id="10021168">%null%</text>
+<text id="10021169">%null%</text>
+<text id="10021170">&lt;?kgiconKc@5?&gt;: 매달리기 해제</text>
+<text id="10021171">%null%</text>
+<text id="10021172">%null%</text>
+<text id="10021173">%null%</text>
+<text id="10021174">%null%</text>
+<text id="10021175">%null%</text>
+<text id="10021176">%null%</text>
+<text id="10021177">%null%</text>
+<text id="10021178">%null%</text>
+<text id="10021179">%null%</text>
+<text id="10021180">&lt;?kgiconKc@19?&gt;: 갈고리</text>
+<text id="10021181">%null%</text>
+<text id="10021182">%null%</text>
+<text id="10021183">%null%</text>
+<text id="10021184">%null%</text>
+<text id="10021185">%null%</text>
+<text id="10021186">%null%</text>
+<text id="10021187">%null%</text>
+<text id="10021188">%null%</text>
+<text id="10021189">%null%</text>
+<text id="10021190">%null%</text>
+<text id="10021191">%null%</text>
+<text id="10021192">%null%</text>
+<text id="10021193">%null%</text>
+<text id="10021194">%null%</text>
+<text id="10021195">%null%</text>
+<text id="10021196">%null%</text>
+<text id="10021197">%null%</text>
+<text id="10021198">%null%</text>
+<text id="10021199">%null%</text>
+<text id="10021200">&lt;?kgiconKc@17?&gt;: 의수 닌자 도구</text>
+<text id="10021201">%null%</text>
+<text id="10021202">%null%</text>
+<text id="10021203">%null%</text>
+<text id="10021204">%null%</text>
+<text id="10021205">%null%</text>
+<text id="10021206">%null%</text>
+<text id="10021207">%null%</text>
+<text id="10021208">%null%</text>
+<text id="10021209">%null%</text>
+<text id="10021210">&lt;?kgiconKc@15?&gt;: 의수 닌자 도구 전환</text>
+<text id="10021211">%null%</text>
+<text id="10021212">%null%</text>
+<text id="10021213">%null%</text>
+<text id="10021214">%null%</text>
+<text id="10021215">%null%</text>
+<text id="10021216">%null%</text>
+<text id="10021217">%null%</text>
+<text id="10021218">%null%</text>
+<text id="10021219">%null%</text>
+<text id="10021220">&lt;?kgiconKc@21?&gt;: 아이템 사용</text>
+<text id="10021221">%null%</text>
+<text id="10021222">%null%</text>
+<text id="10021223">%null%</text>
+<text id="10021224">%null%</text>
+<text id="10021225">%null%</text>
+<text id="10021226">%null%</text>
+<text id="10021227">%null%</text>
+<text id="10021228">%null%</text>
+<text id="10021229">%null%</text>
+<text id="10021230">적을 배후 인살했을 때 &lt;?kgiconKc@16?&gt;: 인살 인술</text>
+<text id="10021231">%null%</text>
+<text id="10021232">%null%</text>
+<text id="10021233">%null%</text>
+<text id="10021234">%null%</text>
+<text id="10021235">%null%</text>
+<text id="10021236">%null%</text>
+<text id="10021237">%null%</text>
+<text id="10021238">%null%</text>
+<text id="10021239">%null%</text>
+<text id="10021240">&lt;?kgiconKc@20?&gt; 길게 누르기: 유물 획득</text>
+<text id="10021241">%null%</text>
+<text id="10021242">%null%</text>
+<text id="10021243">%null%</text>
+<text id="10021244">%null%</text>
+<text id="10021245">%null%</text>
+<text id="10021246">%null%</text>
+<text id="10021247">%null%</text>
+<text id="10021248">%null%</text>
+<text id="10021249">%null%</text>
+<text id="10021250">&lt;?kgiconKc@6?&gt;→&lt;?kgiconKc@19?&gt;: 공중 갈고리</text>
+<text id="10021251">%null%</text>
+<text id="10021252">%null%</text>
+<text id="10021253">%null%</text>
+<text id="10021254">%null%</text>
+<text id="10021255">%null%</text>
+<text id="10021256">%null%</text>
+<text id="10021257">%null%</text>
+<text id="10021258">%null%</text>
+<text id="10021259">%null%</text>
+<text id="10021260">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: 유파 기술</text>
+<text id="10021261">%null%</text>
+<text id="10021262">%null%</text>
+<text id="10021263">%null%</text>
+<text id="10021264">%null%</text>
+<text id="10021265">%null%</text>
+<text id="10021266">%null%</text>
+<text id="10021267">%null%</text>
+<text id="10021268">%null%</text>
+<text id="10021269">%null%</text>
+<text id="10021270">&lt;?kgiconKc@5?&gt;: 스텝</text>
+<text id="10021271">%null%</text>
+<text id="10021272">%null%</text>
+<text id="10021273">%null%</text>
+<text id="10021274">%null%</text>
+<text id="10021275">%null%</text>
+<text id="10021276">%null%</text>
+<text id="10021277">%null%</text>
+<text id="10021278">%null%</text>
+<text id="10021279">%null%</text>
+<text id="10021280">벽에 붙어있는 중 &lt;?kgMove?&gt;으로 가장자리까지 이동: 들여다보기</text>
+<text id="10021500">귀불 앞에서 &lt;?kgiconKc@20?&gt;: 귀불과 마주 앉기</text>
+<text id="10021501">%null%</text>
+<text id="10021502">%null%</text>
+<text id="10021503">%null%</text>
+<text id="10021504">%null%</text>
+<text id="10021505">%null%</text>
+<text id="10021506">%null%</text>
+<text id="10021507">%null%</text>
+<text id="10021508">%null%</text>
+<text id="10021509">%null%</text>
+<text id="10021510">날아오는 도구에 맞춰 &lt;?kgiconKc@18?&gt;: 튕겨내기</text>
+<text id="10021511">%null%</text>
+<text id="10021512">%null%</text>
+<text id="10021513">%null%</text>
+<text id="10021514">%null%</text>
+<text id="10021515">%null%</text>
+<text id="10021516">%null%</text>
+<text id="10021517">%null%</text>
+<text id="10021518">%null%</text>
+<text id="10021519">%null%</text>
+<text id="10021520">인살 후, 붉은 표시가 있을 때 &lt;?kgiconKc@16?&gt;: 마무리 인살</text>
+<text id="10021521">%null%</text>
+<text id="10021522">%null%</text>
+<text id="10021523">%null%</text>
+<text id="10021524">%null%</text>
+<text id="10021525">%null%</text>
+<text id="10021526">%null%</text>
+<text id="10021527">%null%</text>
+<text id="10021528">%null%</text>
+<text id="10021529">%null%</text>
+<text id="10021530">자세가 무너지거나, 쓰러졌을 때 &lt;?kgiconKc@6?&gt;/&lt;?kgiconKc@5?&gt;: 구르며 회피</text>
+<text id="10021531">%null%</text>
+<text id="10021532">%null%</text>
+<text id="10021533">%null%</text>
+<text id="10021534">%null%</text>
+<text id="10021535">%null%</text>
+<text id="10021536">%null%</text>
+<text id="10021537">%null%</text>
+<text id="10021538">%null%</text>
+<text id="10021539">%null%</text>
+<text id="10021540">튕겨내기 후 &lt;?kgiconKc@16?&gt;: 되받아 베기</text>
+<text id="10021541">%null%</text>
+<text id="10021542">%null%</text>
+<text id="10021543">%null%</text>
+<text id="10021544">%null%</text>
+<text id="10021545">%null%</text>
+<text id="10021546">%null%</text>
+<text id="10021547">%null%</text>
+<text id="10021548">%null%</text>
+<text id="10021549">%null%</text>
+<text id="10021550">&lt;?kgiconKc@16?&gt; 길게 누르기: 찌르기</text>
+<text id="10021551">%null%</text>
+<text id="10021552">%null%</text>
+<text id="10021553">%null%</text>
+<text id="10021554">%null%</text>
+<text id="10021555">%null%</text>
+<text id="10021556">%null%</text>
+<text id="10021557">%null%</text>
+<text id="10021558">%null%</text>
+<text id="10021559">%null%</text>
+<text id="10021560">&lt;?kgiconKc@5?&gt; 길게 누르기 ＋ &lt;?kgMove?&gt;: 대시</text>
+<text id="10021800">%null%</text>
+<text id="10021801">%null%</text>
+<text id="10021802">%null%</text>
+<text id="10021803">%null%</text>
+<text id="10021804">%null%</text>
+<text id="10021805">%null%</text>
+<text id="10021806">%null%</text>
+<text id="10021807">%null%</text>
+<text id="10021808">%null%</text>
+<text id="10021809">%null%</text>
+<text id="10021810">%null%</text>
+<text id="10021811">%null%</text>
+<text id="10021812">%null%</text>
+<text id="10021813">%null%</text>
+<text id="10021814">%null%</text>
+<text id="10021815">%null%</text>
+<text id="10021816">%null%</text>
+<text id="10021817">%null%</text>
+<text id="10021818">%null%</text>
+<text id="10021819">%null%</text>
+<text id="10021820">%null%</text>
+<text id="10022000">체간</text>
+<text id="10022001">체간 게이지가 0이 되면, 플레이어도 적도 자세가 무너진다
+공격이나 튕겨내기로 적의 체간을 줄일 수 있다</text>
+<text id="10022002">%null%</text>
+<text id="10022003">%null%</text>
+<text id="10022004">%null%</text>
+<text id="10022005">%null%</text>
+<text id="10022006">%null%</text>
+<text id="10022007">%null%</text>
+<text id="10022008">%null%</text>
+<text id="10022009">%null%</text>
+<text id="10022010">%null%</text>
+<text id="10022011">%null%</text>
+<text id="10022012">%null%</text>
+<text id="10022013">%null%</text>
+<text id="10022014">%null%</text>
+<text id="10022015">%null%</text>
+<text id="10022016">%null%</text>
+<text id="10022017">%null%</text>
+<text id="10022018">%null%</text>
+<text id="10022019">%null%</text>
+<text id="10022020">%null%</text>
+<text id="10022021">%null%</text>
+<text id="10022022">%null%</text>
+<text id="10022023">%null%</text>
+<text id="10022024">%null%</text>
+<text id="10022025">%null%</text>
+<text id="10022026">%null%</text>
+<text id="10022027">%null%</text>
+<text id="10022028">%null%</text>
+<text id="10022029">%null%</text>
+<text id="10022030">%null%</text>
+<text id="10022031">%null%</text>
+<text id="10022032">%null%</text>
+<text id="10022033">%null%</text>
+<text id="10022034">%null%</text>
+<text id="10022035">%null%</text>
+<text id="10022036">%null%</text>
+<text id="10022037">%null%</text>
+<text id="10022038">%null%</text>
+<text id="10022039">%null%</text>
+<text id="10022040">%null%</text>
+<text id="10022041">%null%</text>
+<text id="10022042">%null%</text>
+<text id="10022043">%null%</text>
+<text id="10022044">%null%</text>
+<text id="10022045">%null%</text>
+<text id="10022046">%null%</text>
+<text id="10022047">%null%</text>
+<text id="10022048">%null%</text>
+<text id="10022049">%null%</text>
+<text id="10022050">%null%</text>
+<text id="10022051">%null%</text>
+<text id="10022052">%null%</text>
+<text id="10022053">%null%</text>
+<text id="10022054">%null%</text>
+<text id="10022055">%null%</text>
+<text id="10022056">%null%</text>
+<text id="10022057">%null%</text>
+<text id="10022058">%null%</text>
+<text id="10022059">%null%</text>
+<text id="10022060">낙하 인살</text>
+<text id="10022061">&lt;?kgiconKc@6?&gt;: 점프
+적의 머리 위에 붉은 표시가 있을 때 &lt;?kgiconKc@16?&gt;: 낙하 인살</text>
+<text id="10023000">검극</text>
+<text id="10023001">&lt;?kgiconKc@16?&gt;: 공격
+적의 공격에 맞춰 &lt;?kgiconKc@18?&gt;: 튕겨내기</text>
+<text id="10023002">%null%</text>
+<text id="10023003">%null%</text>
+<text id="10023004">%null%</text>
+<text id="10023005">%null%</text>
+<text id="10023006">%null%</text>
+<text id="10023007">%null%</text>
+<text id="10023008">%null%</text>
+<text id="10023009">%null%</text>
+<text id="10023010">%null%</text>
+<text id="10023011">%null%</text>
+<text id="10023012">%null%</text>
+<text id="10023013">%null%</text>
+<text id="10023014">%null%</text>
+<text id="10023015">%null%</text>
+<text id="10023016">%null%</text>
+<text id="10023017">%null%</text>
+<text id="10023018">%null%</text>
+<text id="10023019">%null%</text>
+<text id="10023020">&lt;?kgiconKc@21?&gt;: 아이템 사용</text>
+<text id="10023021">%null%</text>
+<text id="10023022">%null%</text>
+<text id="10023023">%null%</text>
+<text id="10023024">%null%</text>
+<text id="10023025">%null%</text>
+<text id="10023026">%null%</text>
+<text id="10023027">%null%</text>
+<text id="10023028">%null%</text>
+<text id="10023029">%null%</text>
+<text id="10023030">카타시로</text>
+<text id="10023031">의수 닌자 도구는 카타시로를 소비해서 사용한다</text>
+<text id="10023032">%null%</text>
+<text id="10023033">%null%</text>
+<text id="10023034">%null%</text>
+<text id="10023035">%null%</text>
+<text id="10023036">%null%</text>
+<text id="10023037">%null%</text>
+<text id="10023038">%null%</text>
+<text id="10023039">%null%</text>
+<text id="10023040">귀불</text>
+<text id="10023041">귀불에 합장하면 휴식할 수 있다
+재시도하면 마지막에 합장한 귀불에서 재개된다</text>
+<text id="10023042">%null%</text>
+<text id="10023043">%null%</text>
+<text id="10023044">%null%</text>
+<text id="10023045">%null%</text>
+<text id="10023046">%null%</text>
+<text id="10023047">%null%</text>
+<text id="10023048">%null%</text>
+<text id="10023049">%null%</text>
+<text id="10023050">&lt;?kgiconKc@5?&gt;: 스텝</text>
+<text id="10023051">%null%</text>
+<text id="10023052">%null%</text>
+<text id="10023053">%null%</text>
+<text id="10023054">%null%</text>
+<text id="10023055">%null%</text>
+<text id="10023056">%null%</text>
+<text id="10023057">%null%</text>
+<text id="10023058">%null%</text>
+<text id="10023059">%null%</text>
+<text id="10023060">아이템</text>
+<text id="10023061">&lt;?kgiconKc@21?&gt;: 아이템 사용
+&lt;?kgToggleItems?&gt;: 아이템 전환</text>
+<text id="10023062">%null%</text>
+<text id="10023063">%null%</text>
+<text id="10023064">%null%</text>
+<text id="10023065">%null%</text>
+<text id="10023066">%null%</text>
+<text id="10023067">%null%</text>
+<text id="10023068">%null%</text>
+<text id="10023069">%null%</text>
+<text id="10023070">체간의 회복 속도</text>
+<text id="10023071">체간은 시간이 지나면 회복되지만
+생명력이 낮을수록 회복이 더디다</text>
+<text id="10023090">위험 공격</text>
+<text id="10023091">가드할 수 없는 공격도 있다
+
+위험한 공격은 강한 살기를 뿜는다
+[위험]을 나타내는 일문자가 표시됐다면
+공격을 잘 보고 적절하게 대처해야 할 것이다
+
+찌르기 공격에 맞춰 &lt;?kgiconKc@18?&gt;: 튕겨내기
+하단 공격에 맞춰 &lt;?kgiconKc@6?&gt;: 점프
+잡기 공격은 잡히지 않도록 거리를 벌리거나
+&lt;?kgiconKc@5?&gt;: 스텝으로 회피</text>
+<text id="10023092">%null%</text>
+<text id="10023093">%null%</text>
+<text id="10023094">%null%</text>
+<text id="10023095">%null%</text>
+<text id="10023096">%null%</text>
+<text id="10023097">%null%</text>
+<text id="10023098">%null%</text>
+<text id="10023099">%null%</text>
+<text id="10023100">%null%</text>
+<text id="10023101">%null%</text>
+<text id="10023102">%null%</text>
+<text id="10023103">%null%</text>
+<text id="10023104">%null%</text>
+<text id="10023105">%null%</text>
+<text id="10023106">%null%</text>
+<text id="10023107">%null%</text>
+<text id="10023108">%null%</text>
+<text id="10023109">%null%</text>
+<text id="10023110">낙하 인살</text>
+<text id="10023111">플레이어를 눈치채지 못한 적은
+머리 위에서 낙하하여
+인살할 수 있다
+
+&lt;?kgiconKc@12?&gt;: 타깃 고정
+&lt;?kgiconKc@6?&gt;: 점프
+적의 머리 위에
+붉은 표시가 있을 때 &lt;?kgiconKc@16?&gt;: 낙하 인살</text>
+<text id="10023112">%null%</text>
+<text id="10023113">%null%</text>
+<text id="10023114">%null%</text>
+<text id="10023115">%null%</text>
+<text id="10023116">%null%</text>
+<text id="10023117">%null%</text>
+<text id="10023118">%null%</text>
+<text id="10023119">%null%</text>
+<text id="10023120">검극</text>
+<text id="10023121">검극이란 "체간에 대한 공격"
+
+공격과 튕겨내기로
+적의 체간에 대미지를 주면
+적의 자세를 무너뜨려 인살할 수 있다
+
+&lt;?kgiconKc@16?&gt;: 공격
+적의 공격에 맞춰 &lt;?kgiconKc@18?&gt;: 튕겨내기
+자세가 무너진 적에게 &lt;?kgiconKc@16?&gt;: 인살</text>
+<text id="10023122">%null%</text>
+<text id="10023123">%null%</text>
+<text id="10023124">%null%</text>
+<text id="10023125">%null%</text>
+<text id="10023126">%null%</text>
+<text id="10023127">%null%</text>
+<text id="10023128">%null%</text>
+<text id="10023129">%null%</text>
+<text id="10023130">의수 닌자 도구</text>
+<text id="10023131">닌자 의수에 장치한 비밀 기구
+
+의수 닌자 도구의 종류는 다양하여
+상황에 따라 유효한 것이 달라진다
+
+&lt;?kgiconKc@17?&gt;: 의수 닌자 도구 사용
+&lt;?kgiconKc@15?&gt;: 의수 닌자 도구 전환</text>
+<text id="10023150">아이템의 사용</text>
+<text id="10023151">아이템에는 다양한 종류가 있어
+상황에 따라 전환하며 사용할 수 있다
+
+예를 들면, 적에게 공격을 받았을 때는
+"상약 표주박"으로 생명력을 회복할 수 있다
+
+&lt;?kgiconKc@21?&gt;: 아이템 사용
+&lt;?kgToggleItems?&gt;: 아이템 전환</text>
+<text id="10023152">%null%</text>
+<text id="10023153">%null%</text>
+<text id="10023154">%null%</text>
+<text id="10023155">%null%</text>
+<text id="10023156">%null%</text>
+<text id="10023157">%null%</text>
+<text id="10023158">%null%</text>
+<text id="10023159">%null%</text>
+<text id="10023160">구르며 회피</text>
+<text id="10023161">자세가 무너지게 되었을 때에는 
+구르며 회피로 빈틈을 줄일 수 있다
+
+적에게 자세가 무너지거나, 쓰러졌을 때
+&lt;?kgiconKc@6?&gt; 또는 &lt;?kgiconKc@5?&gt;: 구르며 회피</text>
+<text id="10023162">%null%</text>
+<text id="10023163">%null%</text>
+<text id="10023164">%null%</text>
+<text id="10023165">%null%</text>
+<text id="10023166">%null%</text>
+<text id="10023167">%null%</text>
+<text id="10023168">%null%</text>
+<text id="10023169">%null%</text>
+<text id="10023170">&lt;?kgToggleItems?&gt;:아이템 전환</text>
+<text id="10024500">은밀</text>
+<text id="10024501">웅크리고 수풀에 숨거나, 마루 밑으로 이동하면
+적에게 들키지 않고 지나갈 수 있다
+
+지금은 도를 지니고 있지 않다
+은밀하게 적을 피해, 망월루를 목표로 하면 될 것이다
+
+적에게 들킬 것 같을 때는
+적 머리 위에 경계 마커가 표시된다</text>
+<text id="10024502">%null%</text>
+<text id="10024503">%null%</text>
+<text id="10024504">%null%</text>
+<text id="10024505">%null%</text>
+<text id="10024506">%null%</text>
+<text id="10024507">%null%</text>
+<text id="10024508">%null%</text>
+<text id="10024509">%null%</text>
+<text id="10024510">아이템의 사용</text>
+<text id="10024511">아이템에는 다양한 종류가 있어
+상황에 따라 전환하며 사용할 수 있다
+
+예를 들면, 적에게 공격을 받았을 때는
+"상약 표주박"으로 생명력을 회복할 수 있다
+
+&lt;?kgiconKc@21?&gt;: 아이템 사용
+&lt;?kgToggleItems?&gt;: 아이템 전환</text>
+<text id="10024512">%null%</text>
+<text id="10024513">%null%</text>
+<text id="10024514">%null%</text>
+<text id="10024515">%null%</text>
+<text id="10024516">%null%</text>
+<text id="10024517">%null%</text>
+<text id="10024518">%null%</text>
+<text id="10024519">%null%</text>
+<text id="10024520">되받아 베기</text>
+<text id="10024521">공격을 튕겨내면 즉시 "되받아 베기"를 한다
+
+그렇게 하면 적에게 쉴 틈을 주지 않고
+체간 대미지를 줄 수 있다
+
+적의 공격에 맞춰 &lt;?kgiconKc@18?&gt;: 튕겨내기
+튕겨내기 후 &lt;?kgiconKc@16?&gt;: 되받아 베기</text>
+<text id="10024522">%null%</text>
+<text id="10024523">%null%</text>
+<text id="10024524">%null%</text>
+<text id="10024525">%null%</text>
+<text id="10024526">%null%</text>
+<text id="10024527">%null%</text>
+<text id="10024528">%null%</text>
+<text id="10024529">%null%</text>
+<text id="10024530">강자에 대한 인살</text>
+<text id="10024531">한 번의 인살로는 죽지 않는 강자가 있다
+
+그러나 한 번에 죽지 않는다면
+몇 번이고 죽이면 될 것이다
+
+HP 게이지 위에 인살 마커가 표시된 적을
+완전히 죽이려면
+마커 횟수만큼 인살을 하면 될 것이다</text>
+<text id="10024532">%null%</text>
+<text id="10024533">%null%</text>
+<text id="10024534">%null%</text>
+<text id="10024535">%null%</text>
+<text id="10024536">%null%</text>
+<text id="10024537">%null%</text>
+<text id="10024538">%null%</text>
+<text id="10024539">%null%</text>
+<text id="10024540">갈고리</text>
+<text id="10024541">닌자 의수에 장치된 갈고리로
+길 아닌 길, 보통 인간은 가지 못할 장소로
+이동할 수 있다
+
+높은 곳에서 전장을 내려보면
+어떻게 적에게 도전할지 계획할 수 있을 것이다
+
+고리를 걸 수 있는 장소에는 표시가 나타나며
+녹색이 됐을 때 갈고리를 던질 수 있다
+
+&lt;?kgiconKc@19?&gt;: 갈고리</text>
+<text id="10024542">%null%</text>
+<text id="10024543">%null%</text>
+<text id="10024544">%null%</text>
+<text id="10024545">%null%</text>
+<text id="10024546">%null%</text>
+<text id="10024547">%null%</text>
+<text id="10024548">%null%</text>
+<text id="10024549">%null%</text>
+<text id="10024550">은밀 인살</text>
+<text id="10024551">플레이어를 눈치채지 못한 적에게는
+"은밀 인살"을 할 수 있다
+
+은밀 인살 중 하나로
+머리 위에서 낙하하며 공격하는 것을 낙하 인살이라 한다
+
+&lt;?kgiconKc@12?&gt;: 타깃 고정
+&lt;?kgiconKc@6?&gt;: 점프
+적의 머리 위에
+붉은 표시가 있을 때 &lt;?kgiconKc@16?&gt;: 낙하 인살</text>
+<text id="10024552">%null%</text>
+<text id="10024553">%null%</text>
+<text id="10024554">%null%</text>
+<text id="10024555">%null%</text>
+<text id="10024556">%null%</text>
+<text id="10024557">%null%</text>
+<text id="10024558">%null%</text>
+<text id="10024559">%null%</text>
+<text id="10024560">의수 닌자 도구의 장치</text>
+<text id="10024561">닌자 도구는 그대로는 쓸 수 없다
+불상 조각가에게 건네면
+닌자 의수에 장치할 수 있다
+
+불상 조각가에게는 귀불의 불상 건너기나
+불상 귀환을 사용하면 빠르게 돌아갈 수 있다</text>
+<text id="10024562">%null%</text>
+<text id="10024563">%null%</text>
+<text id="10024564">%null%</text>
+<text id="10024565">%null%</text>
+<text id="10024566">%null%</text>
+<text id="10024567">%null%</text>
+<text id="10024568">%null%</text>
+<text id="10024569">%null%</text>
+<text id="10024570">의수 닌자 도구</text>
+<text id="10024571">닌자 의수에 장치된 닌자 도구
+
+장비 메뉴에서 장비하고
+카타시로를 소비해 사용할 수 있다
+
+&lt;?kgiconKc@27?&gt;: 장비 메뉴 열기
+&lt;?kgiconKc@17?&gt;: 의수 닌자 도구 사용
+&lt;?kgiconKc@15?&gt;: 의수 닌자 도구 전환</text>
+<text id="10024572">%null%</text>
+<text id="10024573">%null%</text>
+<text id="10024574">%null%</text>
+<text id="10024575">%null%</text>
+<text id="10024576">%null%</text>
+<text id="10024577">%null%</text>
+<text id="10024578">%null%</text>
+<text id="10024579">%null%</text>
+<text id="10024580">위험 공격</text>
+<text id="10024581">가드할 수 없는 공격도 있다
+
+위험한 공격은 강한 살기를 뿜는다
+[위험]을 나타내는 일문자가 표시됐다면
+공격을 잘 보고 적절하게 대처해야 할 것이다
+
+찌르기 공격에 맞춰 &lt;?kgiconKc@18?&gt;: 튕겨내기
+하단 공격에 맞춰 &lt;?kgiconKc@6?&gt;: 점프
+잡기 공격은 잡히지 않도록 거리를 벌리거나
+&lt;?kgiconKc@5?&gt;: 스텝으로 회피</text>
+<text id="10024582">%null%</text>
+<text id="10024583">%null%</text>
+<text id="10024584">%null%</text>
+<text id="10024585">%null%</text>
+<text id="10024586">%null%</text>
+<text id="10024587">%null%</text>
+<text id="10024588">%null%</text>
+<text id="10024589">%null%</text>
+<text id="10024590">강화 의수 닌자 도구의 작성</text>
+<text id="10024591">기계 장치 통을 불상 조각가에게 건네면
+강화 의수 닌자 도구를 작성할 수 있게 된다
+
+불상 조각가에게는 귀불의 불상 건너기나
+불상 귀환을 사용하면 빠르게 돌아갈 수 있다</text>
+<text id="10024592">%null%</text>
+<text id="10024593">%null%</text>
+<text id="10024594">%null%</text>
+<text id="10024595">%null%</text>
+<text id="10024596">%null%</text>
+<text id="10024597">%null%</text>
+<text id="10024598">%null%</text>
+<text id="10024599">%null%</text>
+<text id="10024600">용윤의 탁기</text>
+<text id="10024601">회생의 힘이 없을 때 사망하면
+"용윤의 탁기"가 고인다
+
+탁기가 가득 고인 상태에서 사망하면
+탁기가 넘칠 가능성이 있다
+죽을 때마다 그 확률은 올라간다
+
+탁기가 넘치면
+늑대가 알게 된 누군가가 "용해"라는 병에 걸린다
+또한, 회생의 힘 1개를 사용할 수 없게 된다</text>
+<text id="10024602">%null%</text>
+<text id="10024603">%null%</text>
+<text id="10024604">%null%</text>
+<text id="10024605">%null%</text>
+<text id="10024606">%null%</text>
+<text id="10024607">%null%</text>
+<text id="10024608">%null%</text>
+<text id="10024609">%null%</text>
+<text id="10024610">용해의 치료</text>
+<text id="10024611">용해에 걸린 자는
+그대로 두면 죽고 만다
+
+그러나 에마가 만든 용해의 약을 주면 낫는다
+
+회생의 힘을 1개 소비하여
+용해의 약을 만들 수 있다</text>
+<text id="10024612">%null%</text>
+<text id="10024613">%null%</text>
+<text id="10024614">%null%</text>
+<text id="10024615">%null%</text>
+<text id="10024616">%null%</text>
+<text id="10024617">%null%</text>
+<text id="10024618">%null%</text>
+<text id="10024619">%null%</text>
+<text id="10024620">뇌반</text>
+<text id="10024621">번개는 땅에 발을 디딘 자의 전신을 휘감고
+일순간 움직임을 봉한다
+
+공중에서 일순간 도신에 번개를 받아
+되돌리는 비기가 있다
+그것을 뇌반이라 부른다
+
+대전 중, 착지 전에 &lt;?kgiconKc@16?&gt;: 뇌반</text>
+<text id="10024622">%null%</text>
+<text id="10024623">%null%</text>
+<text id="10024624">%null%</text>
+<text id="10024625">%null%</text>
+<text id="10024626">%null%</text>
+<text id="10024627">%null%</text>
+<text id="10024628">%null%</text>
+<text id="10024629">%null%</text>
+<text id="10024630">스킬</text>
+<text id="10024631">"전서"를 소유하고 있으면
+그 전서에 쓰여진 유파와 관련된 스킬을
+귀불에서 습득할 수 있다
+
+습득에 필요한 스킬 포인트는 
+적을 쓰러뜨릴 때에 얻는 스킬 경험치를
+모으면 얻게 된다
+
+또한, "기술서"나 적을 쓰러뜨리는 것으로
+스킬을 습득하는 경우도 있다</text>
+<text id="10024632">%null%</text>
+<text id="10024633">%null%</text>
+<text id="10024634">%null%</text>
+<text id="10024635">%null%</text>
+<text id="10024636">%null%</text>
+<text id="10024637">%null%</text>
+<text id="10024638">%null%</text>
+<text id="10024639">%null%</text>
+<text id="10024640">유파 기술</text>
+<text id="10024641">유파의 특징에 따른
+특수한 공격을 "유파 기술"이라 부른다
+
+스킬 메뉴나 전서로 습득한 유파 기술은
+장비 메뉴에서 선택하고 장비하면 사용할 수 있다
+
+&lt;?kgiconKc@18?&gt;을 누르면서 &lt;?kgiconKc@16?&gt;: 유파 기술</text>
+<text id="10024642">%null%</text>
+<text id="10024643">%null%</text>
+<text id="10024644">%null%</text>
+<text id="10024645">%null%</text>
+<text id="10024646">%null%</text>
+<text id="10024647">%null%</text>
+<text id="10024648">%null%</text>
+<text id="10024649">%null%</text>
+<text id="10024650">파생 공격</text>
+<text id="10024651">의수 닌자 도구를 사용한 후
+파생되어 구사하는 검술이 있다
+
+&lt;?kgiconKc@17?&gt;: 의수 닌자 도구
+의수 닌자 도구 사용 후 &lt;?kgiconKc@16?&gt;: 파생 공격
+
+파생 공격 각각의 조작 방법은
+장비 메뉴에서 확인할 수 있다</text>
+<text id="10024652">%null%</text>
+<text id="10024653">%null%</text>
+<text id="10024654">%null%</text>
+<text id="10024655">%null%</text>
+<text id="10024656">%null%</text>
+<text id="10024657">%null%</text>
+<text id="10024658">%null%</text>
+<text id="10024659">%null%</text>
+<text id="10024660">인살 인술</text>
+<text id="10024661">배후에서 적을 인살했을 때
+"인살 인술"이라 부르는
+특수한 술법을 사용할 수 있다
+
+장비 메뉴에서 임의의 한 가지를 장비하고
+카타시로를 소비해 발동한다
+
+적을 배후 인살했을 때 &lt;?kgiconKc@16?&gt;: 인살 인술</text>
+<text id="10024662">%null%</text>
+<text id="10024663">%null%</text>
+<text id="10024664">%null%</text>
+<text id="10024665">%null%</text>
+<text id="10024666">%null%</text>
+<text id="10024667">%null%</text>
+<text id="10024668">%null%</text>
+<text id="10024669">%null%</text>
+<text id="10024670">유물 획득</text>
+<text id="10024671">유물은 한꺼번에 획득할 수 있다
+유물이란 죽은 적이 떨어뜨린
+아이템이나 금전을 뜻한다
+
+원래 놓여있는 아이템은 유물이 아니다
+가까이 다가가서 직접 주워야 한다
+
+&lt;?kgiconKc@20?&gt; 길게 누르기: 유물 획득
+놓인 아이템에 다가가 &lt;?kgiconKc@20?&gt;: 아이템을 줍는다</text>
+<text id="10024672">%null%</text>
+<text id="10024673">%null%</text>
+<text id="10024674">%null%</text>
+<text id="10024675">%null%</text>
+<text id="10024676">%null%</text>
+<text id="10024677">%null%</text>
+<text id="10024678">%null%</text>
+<text id="10024679">%null%</text>
+<text id="10024680">회생</text>
+<text id="10024681">용윤의 신성한 계승자의 힘
+회생의 힘을 소비해서 스스로 소생한다
+
+회생의 힘은
+귀불에서 기본 한 개를 보충할 수 있으며
+나머지는 적을 쓰러뜨려 모으면 얻게 된다
+
+회생은 계속 사용할 수 있는 것은 아니지만
+적을 쓰러뜨리거나 인살하면 다시 발동할 수 있다</text>
+<text id="10024682">%null%</text>
+<text id="10024683">%null%</text>
+<text id="10024684">%null%</text>
+<text id="10024685">%null%</text>
+<text id="10024686">%null%</text>
+<text id="10024687">%null%</text>
+<text id="10024688">%null%</text>
+<text id="10024689">%null%</text>
+<text id="10024690">수중 행동</text>
+<text id="10024691">수생의 호흡술이 있으면 숨이 이어진다
+숨이 이어지게 되면 잠수할 수 있다
+
+&lt;?kgiconKc@17?&gt;: 잠수
+&lt;?kgiconKc@19?&gt;: 부상
+&lt;?kgMove?&gt;으로 이동하며 &lt;?kgiconKc@5?&gt;: 수중 가속</text>
+<text id="10024692">%null%</text>
+<text id="10024693">%null%</text>
+<text id="10024694">%null%</text>
+<text id="10024695">%null%</text>
+<text id="10024696">%null%</text>
+<text id="10024697">%null%</text>
+<text id="10024698">%null%</text>
+<text id="10024699">%null%</text>
+<text id="10024700">상태 이상</text>
+<text id="10024701">심신에 변화가 생긴 것을 상태 이상이라 한다
+종류에 따라 마이너스 효과가 발생하고
+전투에서 불리한 상황에 빠진다
+
+일부 공격에 따라 내성 게이지가 축적되고
+가득 차면 상태 이상이 발생한다
+
+축적된 내성 게이지를 억제하거나
+상태 이상을 해제할 수 있는 아이템도 존재한다</text>
+<text id="10024702">%null%</text>
+<text id="10024703">%null%</text>
+<text id="10024704">%null%</text>
+<text id="10024705">%null%</text>
+<text id="10024706">%null%</text>
+<text id="10024707">%null%</text>
+<text id="10024708">%null%</text>
+<text id="10024709">%null%</text>
+<text id="10024710">구르며 회피</text>
+<text id="10024711">자세가 무너졌을 때 
+그대로 누워있다면 분명 죽고 말 것이다
+
+구르며 일어나면 빈틈을 줄일 수 있다
+
+적에게 자세가 무너지거나, 쓰러졌을 때
+&lt;?kgiconKc@6?&gt; 또는 &lt;?kgiconKc@5?&gt;: 구르며 회피</text>
+<text id="10024712">%null%</text>
+<text id="10024713">%null%</text>
+<text id="10024714">%null%</text>
+<text id="10024715">%null%</text>
+<text id="10024716">%null%</text>
+<text id="10024717">%null%</text>
+<text id="10024718">%null%</text>
+<text id="10024719">%null%</text>
+<text id="10024720">카타시로</text>
+<text id="10024721">카타시로는 의수 닌자 도구 등의 발동에
+필요하며 사용할 때마다 소비된다
+
+카타시로는 쓰러진 적에게 획득하거나
+주변을 떠다니는 것도 있어, 가까이 다가가면
+입수할 수 있다
+
+또한, 귀불에서 구입할 수도 있다</text>
+<text id="10024740">새전함</text>
+<text id="10024741">시간이 지나, 갈 곳을 잃은 물건이
+흘러 들어간 새전함
+
+함이 빛나고 있을 때는
+어떤 아이템이 흘러 들어가 있다
+
+새전함을 조사해 금전을 공양하면
+아이템을 획득할 수 있다</text>
+<text id="10024742">%null%</text>
+<text id="10024743">%null%</text>
+<text id="10024744">%null%</text>
+<text id="10024745">%null%</text>
+<text id="10024746">%null%</text>
+<text id="10024747">%null%</text>
+<text id="10024748">%null%</text>
+<text id="10024749">%null%</text>
+<text id="10024750">체간과 인살</text>
+<text id="10024751">닌자의 공격은 "체간"을 깎기 위한 것에 있다
+공격을 거듭하면 결국 적의 자세가 무너진다
+
+자세를 무너뜨리면 "인살"로 일격에 죽일 수 있을 것이다
+
+&lt;?kgiconKc@16?&gt;: 공격
+자세가 무너진 적에게 &lt;?kgiconKc@16?&gt;: 인살</text>
+<text id="10024752">%null%</text>
+<text id="10024753">%null%</text>
+<text id="10024754">%null%</text>
+<text id="10024755">%null%</text>
+<text id="10024756">%null%</text>
+<text id="10024757">%null%</text>
+<text id="10024758">%null%</text>
+<text id="10024759">%null%</text>
+<text id="10024760">튕겨내기</text>
+<text id="10024761">공격만으로는 무너뜨릴 수 없는 상대도 있다
+
+적의 공격을 튕겨내면
+그 기세를 이용해서 체간을 깎아낼 수 있다
+우수한 닌자의 방어는
+동시에 공격을 겸비하는 것이다
+
+적의 공격에 맞춰 &lt;?kgiconKc@18?&gt;: 튕겨내기</text>
+<text id="10024762">%null%</text>
+<text id="10024763">%null%</text>
+<text id="10024764">%null%</text>
+<text id="10024765">%null%</text>
+<text id="10024766">%null%</text>
+<text id="10024767">%null%</text>
+<text id="10024768">%null%</text>
+<text id="10024769">%null%</text>
+<text id="10024770">타깃 고정</text>
+<text id="10024771">타깃을 고정해
+적을 정면에서 노리고 있으면
+공격이나 튕겨내기 등 검극 액션이 수월해진다
+
+&lt;?kgiconKc@12?&gt;: 타깃 고정 / 해제
+타깃 고정 중 &lt;?kgControlCamera?&gt;: 타깃 전환</text>
+<text id="10024772">%null%</text>
+<text id="10024773">%null%</text>
+<text id="10024774">%null%</text>
+<text id="10024775">%null%</text>
+<text id="10024776">%null%</text>
+<text id="10024777">%null%</text>
+<text id="10024778">%null%</text>
+<text id="10024779">%null%</text>
+<text id="10024780">타뢰</text>
+<text id="10024781">땅에 발이 닿은 상태로 번개를 맞으면
+번개가 전신을 휘감아 HP에 큰 대미지를 받는다
+또한, 일시적으로 신체의 자유를 빼앗긴다
+
+공중에서 일순간 도신에 번개를 받아
+되돌리는 비기가 있다
+그것을 뇌반이라 부른다
+
+공중에서 번개 공격을 받았을 때 &lt;?kgiconKc@18?&gt;: 대전
+대전 중, 착지 전에 &lt;?kgiconKc@16?&gt;: 뇌반</text>
+<text id="10024782">%null%</text>
+<text id="10024783">%null%</text>
+<text id="10024784">%null%</text>
+<text id="10024785">%null%</text>
+<text id="10024786">%null%</text>
+<text id="10024787">%null%</text>
+<text id="10024788">%null%</text>
+<text id="10024789">%null%</text>
+<text id="10024790">잡기 공격</text>
+<text id="10024791">잡기 공격은 튕겨낼 수 없다
+잡히면 손 쓸 도리 없이 당하고 만다
+
+하지만 잡히기 전에 점프나 대시로
+거리를 벌리면 잡히지 않는다
+또한, 스텝으로 회피할 수 있는 순간도 있다
+
+&lt;?kgiconKc@6?&gt;＋&lt;?kgMove?&gt;: 입력 방향 점프
+&lt;?kgiconKc@5?&gt; 길게 누르기 +&lt;?kgMove?&gt;: 대시
+&lt;?kgiconKc@5?&gt;: 스텝</text>
+<text id="10024792">%null%</text>
+<text id="10024793">%null%</text>
+<text id="10024794">%null%</text>
+<text id="10024795">%null%</text>
+<text id="10024796">%null%</text>
+<text id="10024797">%null%</text>
+<text id="10024798">%null%</text>
+<text id="10024799">%null%</text>
+<text id="10024800">사망 상실</text>
+<text id="10024801">사망하면 금전과 스킬 경험치를 잃는다
+잃은 것은 되돌릴 수 없다
+
+죽어서 잃는 건 피할 수 없다
+신이나 부처의 도움이 없는 한은…</text>
+<text id="10024802">%null%</text>
+<text id="10024803">%null%</text>
+<text id="10024804">%null%</text>
+<text id="10024805">%null%</text>
+<text id="10024806">%null%</text>
+<text id="10024807">%null%</text>
+<text id="10024808">%null%</text>
+<text id="10024809">%null%</text>
+<text id="10024810">명조</text>
+<text id="10024811">사망 상실로 인해 돈과 스킬 경험치를 잃지만
+아주 가끔 그것을 피할 수 있다
+
+"명조"라고 불리는 신불의 도움이다
+
+명조가 일어날 확률은
+일시 정지 메뉴에서 확인할 수 있다
+
+&lt;?kgiconKc@27?&gt;: 일시 정지 메뉴 열기</text>
+<text id="10024812">%null%</text>
+<text id="10024813">%null%</text>
+<text id="10024814">%null%</text>
+<text id="10024815">%null%</text>
+<text id="10024816">%null%</text>
+<text id="10024817">%null%</text>
+<text id="10024818">%null%</text>
+<text id="10024819">%null%</text>
+<text id="10024820">용윤의 힘을 지닌 자가 죽음을 거듭하면
+"용해"라는 병이 세상에 퍼진다
+
+어딘가에서 들려오는 기침 소리는
+늑대와 관련된 누군가가 용해에 병들었음을 나타낸다</text>
+<text id="10024821">용윤의 힘을 지닌 자가 죽음을 거듭하면
+"용해"라 불리는 병이 세상에 퍼진다
+용해는 회생의 사용 여부와 상관 없이
+늑대가 사망을 반복하면 발생한다
+
+어딘가에서 들려오는 기침 소리는
+늑대와 관련된 누군가가 용해에 걸렸음을 나타낸다
+
+"기침 소리"를 많이 소지할수록
+명조 확률이 낮아진다</text>
+<text id="10024822">%null%</text>
+<text id="10024823">%null%</text>
+<text id="10024824">%null%</text>
+<text id="10024825">%null%</text>
+<text id="10024826">%null%</text>
+<text id="10024827">%null%</text>
+<text id="10024828">%null%</text>
+<text id="10024829">%null%</text>
+<text id="10024830">용해의 쾌차</text>
+<text id="10024831">"쾌차의 부적"이 있으면
+귀불에서 용해의 쾌차가 가능하게 된다
+
+용해의 쾌차는 "용윤의 물방울"을 소비한다
+그러면 한 번에 모든 용해 환자가 쾌차한다
+
+소지하고 있던 "기침 소리"가 사라지고
+내려갔던 명조 확률이 원래대로 돌아온다</text>
+<text id="10024832">%null%</text>
+<text id="10024833">%null%</text>
+<text id="10024834">%null%</text>
+<text id="10024835">%null%</text>
+<text id="10024836">%null%</text>
+<text id="10024837">%null%</text>
+<text id="10024838">%null%</text>
+<text id="10024839">%null%</text>
+<text id="10024840">HP와 체간</text>
+<text id="10024841">HP가 줄어들면 체간의 회복 속도가 느려진다
+체간 회복 속도가 느려짐에 따라
+게이지 배경색이 노랑을 지나 빨강으로 변화한다
+
+체간의 회복이 빠른 강자를 상대로는
+스텝 후 공격 등으로 HP를 깎고
+체간을 무너뜨리는 전술이 유효하다
+
+&lt;?kgiconKc@5?&gt;: 스텝
+적의 공격을 회피하고 &lt;?kgiconKc@16?&gt;: 스텝 후 공격</text>
+<text id="10024842">%null%</text>
+<text id="10024843">%null%</text>
+<text id="10024844">%null%</text>
+<text id="10024845">%null%</text>
+<text id="10024846">%null%</text>
+<text id="10024847">%null%</text>
+<text id="10024848">%null%</text>
+<text id="10024849">%null%</text>
+<text id="10024850">찌르기에 대한 대처</text>
+<text id="10024851">찌르기 공격은
+튕겨낼 수는 있지만 가드가 불가능하다
+
+닌자 기술 "간파하기"를 습득했다면
+찌르기 공격을 간파해 무효화하고
+튕겨내기보다 더 큰 체간 대미지를 주게 된다</text>
+<text id="10024880">잔영</text>
+<text id="10024881">닌자는 그 행동을 환영으로 남길 수 있다
+그것을 "잔영"이라 부른다
+
+잔영은 닌자가 서로 수련하기 위해 남기는 것이다
+때로는 길을 알려주는 스승이 되며
+때로는 뒤를 쫓아야 할 경쟁 상대도 된다
+
+&lt;?kgiconKc@44?&gt;: 잔영 작성 메뉴 열기
+
+(잔영을 남기려면 네트워크 연결이 필요합니다)</text>
+<text id="10024882">%null%</text>
+<text id="10024883">%null%</text>
+<text id="10024884">%null%</text>
+<text id="10024885">%null%</text>
+<text id="10024886">%null%</text>
+<text id="10024887">%null%</text>
+<text id="10024888">%null%</text>
+<text id="10024889">%null%</text>
+<text id="10024890">희귀한 강자와의 재전투</text>
+<text id="10024891">희귀한 강자와 만나 전투에서 이겨
+기억 속에서 다시 싸울 수 있게 되었다
+
+희귀한 강자와의 재전투는 귀불에서 진행할 수 있다</text>
+<text id="10024892">%null%</text>
+<text id="10024893">%null%</text>
+<text id="10024894">%null%</text>
+<text id="10024895">%null%</text>
+<text id="10024896">%null%</text>
+<text id="10024897">%null%</text>
+<text id="10024898">%null%</text>
+<text id="10024899">%null%</text>
+<text id="10024900">희귀한 강자와의 연속 전투</text>
+<text id="10024901">희귀한 강자들과 만나 전투에서 이겨
+기억 속에서 연속으로 싸울 수 있게 되었다
+
+희귀한 강자와의 연속 전투는 귀불에서 진행할 수 있다
+
+자신의 기억과 마주하는 것은
+새로운 가능성을 이끌어내는 것과 비슷하다
+
+싸움의 끝에 보이는 경지도 있을 것인가</text>
+<text id="10024902">%null%</text>
+<text id="10024903">%null%</text>
+<text id="10024904">%null%</text>
+<text id="10024905">%null%</text>
+<text id="10024906">%null%</text>
+<text id="10024907">%null%</text>
+<text id="10024908">%null%</text>
+<text id="10024909">%null%</text>
+<text id="10024910">희귀한 강자와의 재전투 / 연속 전투</text>
+<text id="10024911">희귀한 강자들과 만나 전투에서 이겨
+기억 속에서 재전투와 연속 전투를 할 수 있게 되었다
+
+희귀한 강자와의 재전투와 연속 전투는 귀불에서 진행할 수 있다
+
+자신의 기억과 마주하는 것은
+새로운 가능성을 이끌어내는 것과 비슷하다
+
+싸움의 끝에 보이는 경지도 있을 것인가</text>
+<text id="10024912">%null%</text>
+<text id="10024913">%null%</text>
+<text id="10024914">%null%</text>
+<text id="10024915">%null%</text>
+<text id="10024916">%null%</text>
+<text id="10024917">%null%</text>
+<text id="10024918">%null%</text>
+<text id="10024919">%null%</text>
+<text id="10024920">다른 기억</text>
+<text id="10024921">다른 누군가가 남긴 기억
+미련, 혹은 집념이라고도 부를 수 있는 것
+
+귀불에서 마음속에 품으면
+늑대의 형상을 바꿀 수 있다
+단, 능력에 영향을 주지는 않는다
+
+누군가의 미련을 떠맡아도
+그것은 일시적인 것에 지나지 않기에</text>
+<text id="10024922">%null%</text>
+<text id="10024923">%null%</text>
+<text id="10024924">%null%</text>
+<text id="10024925">%null%</text>
+<text id="10024926">%null%</text>
+<text id="10024927">%null%</text>
+<text id="10024928">%null%</text>
+<text id="10024929">%null%</text>
+<text id="10024930">잔영의 풍평</text>
+<text id="10024931">남긴 잔영이 호평을 받으면
+HP가 회복된다.
+
+닌자의 평판은 바람에 실려 퍼진다
+귀에 들어온다면 기분이 좋으니, 조금은 치유가 될 것이다
+
+(잔영의 풍평을 취득하려면 네트워크 연결이 필요합니다)</text>
+<text id="10025000">장비 메뉴 - 사용 아이템</text>
+<text id="10025001">장비 메뉴에서는
+장비를 교체하거나 확인할 수 있습니다
+
+사용 아이템은 5개의 슬롯에 임의의 아이템을 장비해
+전환하며 사용할 수 있습니다</text>
+<text id="10025002">%null%</text>
+<text id="10025003">%null%</text>
+<text id="10025004">%null%</text>
+<text id="10025005">%null%</text>
+<text id="10025006">%null%</text>
+<text id="10025007">%null%</text>
+<text id="10025008">%null%</text>
+<text id="10025009">%null%</text>
+<text id="10025010">장비 메뉴 - 의수 닌자 도구</text>
+<text id="10025011">의수 닌자 도구의 장비 슬롯이 해금되었습니다
+
+의수 닌자 도구는 3개의 슬롯에 임의의 의수 닌자 도구를 장비해
+전환하며 사용할 수 있습니다
+
+장비 선택 화면에서
+&lt;?kgicon@2010?&gt;으로 조작 방법을 확인할 수 있습니다</text>
+<text id="10025012">%null%</text>
+<text id="10025013">%null%</text>
+<text id="10025014">%null%</text>
+<text id="10025015">%null%</text>
+<text id="10025016">%null%</text>
+<text id="10025017">%null%</text>
+<text id="10025018">%null%</text>
+<text id="10025019">%null%</text>
+<text id="10025020">스킬 메뉴</text>
+<text id="10025021">스킬 메뉴에서는
+현재 습득한 스킬을 확인할 수 있습니다
+
+&lt;?kgicon@2014?&gt;과 &lt;?kgicon@2015?&gt;으로 각종 카테고리를 선택할 수 있습니다
+
+유파 기술의 교체는 장비 메뉴에서 할 수 있습니다</text>
+<text id="10025022">%null%</text>
+<text id="10025023">%null%</text>
+<text id="10025024">%null%</text>
+<text id="10025025">%null%</text>
+<text id="10025026">%null%</text>
+<text id="10025027">%null%</text>
+<text id="10025028">%null%</text>
+<text id="10025029">%null%</text>
+<text id="10025030">장비 메뉴 - 인살 인술</text>
+<text id="10025031">인살 인술의 장비 슬롯이 해금되었습니다
+
+슬롯에는 임의의 인살 인술을 1개 장비할 수 있습니다</text>
+<text id="10025050">불상 건너기</text>
+<text id="10025051">불상 건너기 메뉴가 해금되었습니다
+
+불상 건너기 메뉴에서는
+마주 앉은 적이 있는 귀불을 선택해
+그곳까지 바로 이동할 수 있습니다</text>
+<text id="10025070">신체력 성장</text>
+<text id="10025071">신체력의 성장 메뉴가 해금되었습니다
+
+수주옥을 4개 소비해
+수주옥을 묶어낸 염주를 입수하면
+신체력을 성장시킬 수 있습니다
+
+신체력이 성장하면 HP와 체간의 최대치가 올라갑니다</text>
+<text id="10025090">의수 닌자 도구의 장치</text>
+<text id="10025091">의수 닌자 도구 장치 메뉴에서는
+닌자 도구를 소비해 의수 닌자 도구를 작성할 수 있습니다</text>
+<text id="10025092">%null%</text>
+<text id="10025093">%null%</text>
+<text id="10025094">%null%</text>
+<text id="10025095">%null%</text>
+<text id="10025096">%null%</text>
+<text id="10025097">%null%</text>
+<text id="10025098">%null%</text>
+<text id="10025099">%null%</text>
+<text id="10025100">강화 의수 닌자 도구의 작성</text>
+<text id="10025101">강화 의수 닌자 도구의 작성 메뉴에서는
+통약과 금전을 소비해 강화된 의수 닌자 도구를 작성할 수 있습니다
+
+강화 의수 닌자 도구의 작성에는 대응하는 의수 닌자 도구를 입수해야 합니다
+또한, 대응되는 강화 의수 닌자 도구가 작성 완료 상태여야 합니다
+
+강화 의수 닌자 도구 작성 후에도 강화 전의 의수 닌자 도구를 잃게 되지는 않습니다</text>
+<text id="10025102">%null%</text>
+<text id="10025103">%null%</text>
+<text id="10025104">%null%</text>
+<text id="10025105">%null%</text>
+<text id="10025106">%null%</text>
+<text id="10025107">%null%</text>
+<text id="10025108">%null%</text>
+<text id="10025109">%null%</text>
+<text id="10025110">스킬 습득</text>
+<text id="10025111">스킬 습득 메뉴에서는
+스킬 포인트를 소비해 새로운 스킬을 습득할 수 있습니다
+새로운 유파를 해금하려면 전용 전서가 필요합니다
+
+스킬에는 [유파 기술] [닌자 체술] [상시 효과]가 있습니다
+[유파 기술]은 장비 메뉴에서 장비하여 사용할 수 있게 되며
+[닌자 체술] [상시 효과]는 습득하는 것만으로 효과가 발동합니다</text>
+<text id="10025140">스킬 습득</text>
+<text id="10025141">스킬 습득 메뉴가 해금되었습니다
+
+스킬 습득 메뉴에서는
+스킬 포인트를 소비해 임의의 스킬을 습득할 수 있습니다</text>
+<text id="10025200">소지품 메뉴</text>
+<text id="10025201">소지품 메뉴에서는
+현재 소지하고 있는 아이템을 확인할 수 있습니다
+
+&lt;?kgicon@2014?&gt;과 &lt;?kgicon@2015?&gt;으로 각종 카테고리를 선택할 수 있습니다</text>
+<text id="10025202">%null%</text>
+<text id="10025203">%null%</text>
+<text id="10025204">%null%</text>
+<text id="10025205">%null%</text>
+<text id="10025206">%null%</text>
+<text id="10025207">%null%</text>
+<text id="10025208">%null%</text>
+<text id="10025209">%null%</text>
+<text id="10025210">장비 메뉴 - 유파 기술</text>
+<text id="10025211">유파 기술의 장비 슬롯이 해금되었습니다
+
+슬롯에는 임의의 유파 기술을 1개 장비할 수 있습니다</text>
+<text id="10025212">%null%</text>
+<text id="10025213">%null%</text>
+<text id="10025214">%null%</text>
+<text id="10025215">%null%</text>
+<text id="10025216">%null%</text>
+<text id="10025217">%null%</text>
+<text id="10025218">%null%</text>
+<text id="10025219">%null%</text>
+<text id="10025220">공격력 성장</text>
+<text id="10025221">공격력의 성장 메뉴가 해금되었습니다
+
+싸움의 기억과 마주해
+공격력을 성장시킬 수 있습니다
+
+공격력이 성장하면
+적의 HP와 체간에 주는 대미지가 증가합니다</text>
+<text id="10025222">%null%</text>
+<text id="10025223">%null%</text>
+<text id="10025224">%null%</text>
+<text id="10025225">%null%</text>
+<text id="10025226">%null%</text>
+<text id="10025227">%null%</text>
+<text id="10025228">%null%</text>
+<text id="10025229">%null%</text>
+<text id="10025230">귀불 메뉴</text>
+<text id="10025231">아시나 곳곳에 있는 귀불을 개방하고
+마주 앉으면 각종 기능을 이용할 수 있습니다
+
+휴식하면, HP가 모두 치유되고 상약 표주박의 횟수와
+소지 상한을 초과해 귀불로 전송된 아이템이 보충되지만
+일부를 제외한 모든 적이 부활합니다
+사망 후에는 마지막에 마주 앉은 귀불에서 재개됩니다</text>
+<text id="10025232">%null%</text>
+<text id="10025233">%null%</text>
+<text id="10025234">%null%</text>
+<text id="10025235">%null%</text>
+<text id="10025236">%null%</text>
+<text id="10025237">%null%</text>
+<text id="10025238">%null%</text>
+<text id="10025239">%null%</text>
+<text id="10025240">용해의 쾌차</text>
+<text id="10025241">용해의 쾌차 메뉴가 해금되었습니다
+
+"용윤의 물방울"을 소비해
+용해에 걸린 환자를 쾌차시킬 수 있습니다</text>
+<text id="10025260">형상 변환 메뉴</text>
+<text id="10025261">형상 변환 메뉴에서는
+늑대의 외형을 변경할 수 있습니다
+
+어느 형상을 선택해도 늑대의 능력은 변하지 않습니다
+
+[다른 기억]을 입수하면
+변경할 수 있는 형상이 늘어납니다</text>
+<text id="10025262">%null%</text>
+<text id="10025263">%null%</text>
+<text id="10025264">%null%</text>
+<text id="10025265">%null%</text>
+<text id="10025266">%null%</text>
+<text id="10025267">%null%</text>
+<text id="10025268">%null%</text>
+<text id="10025269">%null%</text>
+<text id="10025270">희귀한 강자와의 재전투</text>
+<text id="10025271">싸움의 기억 속에서 이미 격파한 희귀한 강자를 하나 선택하여 재전투를 할 수 있습니다
+
+기억 속에서는 늑대의 공격력이 고정됩니다
+또한, 원래 세계로 돌아오면
+소비했던 아이템과 카타시로는 원래 상태로 돌아옵니다</text>
+<text id="10025272">%null%</text>
+<text id="10025273">%null%</text>
+<text id="10025274">%null%</text>
+<text id="10025275">%null%</text>
+<text id="10025276">%null%</text>
+<text id="10025277">%null%</text>
+<text id="10025278">%null%</text>
+<text id="10025279">%null%</text>
+<text id="10025280">희귀한 강자와의 연속 전투</text>
+<text id="10025281">싸움의 기억을 따라가며 이미 격파한 희귀한 강자들과 연속으로 싸웁니다
+
+차례대로 일대일 전투를 치루며, 쓰러뜨리면 다음 강자와 싸울 수 있게 됩니다
+패배하면 도전은 실패가 되어 원래 세계로 돌아갑니다
+
+기억 속에서는 늑대의 공격력이 고정됩니다
+또한, 원래 세계로 돌아오면 소비했던 아이템과 카타시로는 원래 상태로 돌아옵니다</text>
+<text id="10025300">형상 변환</text>
+<text id="10025301">형상 변환 메뉴가 해금되었습니다
+
+형상 변환 메뉴에서는 소지하고 있는 [다른 기억]에 따라
+외형을 변경할 수 있습니다</text>
+<text id="10025302">%null%</text>
+<text id="10025303">%null%</text>
+<text id="10025304">%null%</text>
+<text id="10025305">%null%</text>
+<text id="10025306">%null%</text>
+<text id="10025307">%null%</text>
+<text id="10025308">%null%</text>
+<text id="10025309">%null%</text>
+<text id="10025310">희귀한 강자와의 재전투</text>
+<text id="10025311">희귀한 강자와의 재전투 메뉴가 해금되었습니다
+
+희귀한 강자와의 재전투 메뉴에서는
+격파한 희귀한 강자와 다시 싸울 수 있습니다</text>
+<text id="10025312">%null%</text>
+<text id="10025313">%null%</text>
+<text id="10025314">%null%</text>
+<text id="10025315">%null%</text>
+<text id="10025316">%null%</text>
+<text id="10025317">%null%</text>
+<text id="10025318">%null%</text>
+<text id="10025319">%null%</text>
+<text id="10025320">희귀한 강자와의 연속 전투</text>
+<text id="10025321">희귀한 강자와의 연속 전투 메뉴가 해금되었습니다
+
+희귀한 강자와의 연속 전투 메뉴에서는
+격파한 희귀한 강자들과 연속으로 싸울 수 있습니다</text>
+<text id="10025322">%null%</text>
+<text id="10025323">%null%</text>
+<text id="10025324">%null%</text>
+<text id="10025325">%null%</text>
+<text id="10025326">%null%</text>
+<text id="10025327">%null%</text>
+<text id="10025328">%null%</text>
+<text id="10025329">%null%</text>
+<text id="10025330">기억의 연속 전투 - 사투 답파</text>
+<text id="10025331">싸움의 기억을 따라가며 모든 희귀한 강자들과 연속으로 싸웁니다
+
+보상 없는 기나긴 사투의 길입니다 </text>
+<text id="10025332">%null%</text>
+<text id="10025333">%null%</text>
+<text id="10025334">%null%</text>
+<text id="10025335">%null%</text>
+<text id="10025336">%null%</text>
+<text id="10025337">%null%</text>
+<text id="10025338">%null%</text>
+<text id="10025339">%null%</text>
+<text id="10025340">잔영</text>
+<text id="10025341">닌자는 일정 시간 행동을 "잔영"으로 남길 수 있습니다
+잔영이 평가받으면 HP가 회복됩니다
+
+"기록한 잔영 목록" 탭에서 임의의 슬롯을 선택하여 잔영을 기록할 수 있습니다
+또한, 잔영에는 비망록도 추가할 수 있습니다
+
+슬롯 선택 후 &lt;?kgiconKc@33?&gt;: 잔영 기록 시작</text>
+<text id="10025342">%null%</text>
+<text id="10025343">%null%</text>
+<text id="10025344">%null%</text>
+<text id="10025345">%null%</text>
+<text id="10025346">%null%</text>
+<text id="10025347">%null%</text>
+<text id="10025348">%null%</text>
+<text id="10025349">%null%</text>
+<text id="10025350">확인한 잔영 목록</text>
+<text id="10025351">"확인한 잔영 목록" 탭에서는
+과거에 본 적 있는 다른 이의 잔영이 목록으로 표시됩니다
+
+또한, 여기서 확인한 잔영을 평가할 수도 있습니다</text>
+<text id="10025352">%null%</text>
+<text id="10025353">%null%</text>
+<text id="10025354">%null%</text>
+<text id="10025355">%null%</text>
+<text id="10025356">%null%</text>
+<text id="10025357">%null%</text>
+<text id="10025358">%null%</text>
+<text id="10025359">%null%</text>
+<text id="10025360">비망록 추가</text>
+<text id="10025361">잔영에는 비망록을 추가할 수 있습니다
+
+비망록은 기본 문장과 단어를 선택하여 편집합니다
+비망록의 구성을 선택하면 두 번째 문장을 추가할 수도 있습니다
+
+"잔영 기록 시작"을 선택하면 기록이 시작됩니다</text>
+<text id="10025362">%null%</text>
+<text id="10025363">%null%</text>
+<text id="10025364">%null%</text>
+<text id="10025365">%null%</text>
+<text id="10025366">%null%</text>
+<text id="10025367">%null%</text>
+<text id="10025368">%null%</text>
+<text id="10025369">%null%</text>
+<text id="10025370">희귀한 강자의 새로운 경지</text>
+<text id="10025371">싸움의 기억 속에서 희귀한 강자의 새로운 경지를 끌어내었습니다
+
+"마음속 겐이치로"와는
+희귀한 강자와의 재전투에서도 싸울 수 있습니다</text>
+<text id="10025372">%null%</text>
+<text id="10025373">%null%</text>
+<text id="10025374">%null%</text>
+<text id="10025375">%null%</text>
+<text id="10025376">%null%</text>
+<text id="10025377">%null%</text>
+<text id="10025378">%null%</text>
+<text id="10025379">%null%</text>
+<text id="10025380">희귀한 강자의 새로운 경지</text>
+<text id="10025381">싸움의 기억 속에서 희귀한 강자의 새로운 경지를 끌어내었습니다
+
+"마음속 의부"와는
+희귀한 강자와의 재전투에서도 싸울 수 있습니다</text>
+<text id="10025382">%null%</text>
+<text id="10025383">%null%</text>
+<text id="10025384">%null%</text>
+<text id="10025385">%null%</text>
+<text id="10025386">%null%</text>
+<text id="10025387">%null%</text>
+<text id="10025388">%null%</text>
+<text id="10025389">%null%</text>
+<text id="10025390">희귀한 강자의 새로운 경지</text>
+<text id="10025391">싸움의 기억 속에서 희귀한 강자의 새로운 경지를 끌어내었습니다
+
+"마음속 잇신"과는
+희귀한 강자와의 재전투에서도 싸울 수 있습니다</text>
+<text id="10090000">%null%</text>
+<text id="10090001">%null%</text>
+<text id="10090002">%null%</text>
+<text id="10090003">%null%</text>
+<text id="10090004">%null%</text>
+<text id="10090005">%null%</text>
+<text id="10090006">%null%</text>
+<text id="10090007">%null%</text>
+<text id="10090008">%null%</text>
+<text id="10090009">%null%</text>
+<text id="10090010">%null%</text>
+<text id="10090011">%null%</text>
+<text id="10090012">%null%</text>
+<text id="10090013">%null%</text>
+<text id="10090014">%null%</text>
+<text id="10090015">%null%</text>
+<text id="10090016">%null%</text>
+<text id="10090017">%null%</text>
+<text id="10090018">%null%</text>
+<text id="10090019">%null%</text>
+<text id="10090020">%null%</text>
+<text id="10090021">%null%</text>
+<text id="10090022">%null%</text>
+<text id="10090023">%null%</text>
+<text id="10090024">%null%</text>
+<text id="10090025">%null%</text>
+<text id="10090026">%null%</text>
+<text id="10090027">%null%</text>
+<text id="10090028">%null%</text>
+<text id="10090029">%null%</text>
+<text id="10090030">%null%</text>
+<text id="10090031">%null%</text>
+<text id="10090032">%null%</text>
+<text id="10090033">%null%</text>
+<text id="10090034">%null%</text>
+<text id="10090035">%null%</text>
+<text id="10090036">%null%</text>
+<text id="10090037">%null%</text>
+<text id="10090038">%null%</text>
+<text id="10090039">%null%</text>
+<text id="10090040">%null%</text>
+<text id="10090041">%null%</text>
+<text id="10090042">%null%</text>
+<text id="10090043">%null%</text>
+<text id="10090044">%null%</text>
+<text id="10090045">%null%</text>
+<text id="10090046">%null%</text>
+<text id="10090047">%null%</text>
+<text id="10090048">%null%</text>
+<text id="10090049">%null%</text>
+<text id="10090050">%null%</text>
+<text id="10090051">%null%</text>
+<text id="11000000">%null%</text>
+<text id="11000001">%null%</text>
+<text id="11000020">%null%</text>
+<text id="11010030">%null%</text>
+<text id="11010031">%null%</text>
+<text id="11010060">%null%</text>
+<text id="11010061">%null%</text>
+<text id="11010062">%null%</text>
+<text id="11010063">%null%</text>
+<text id="11010064">%null%</text>
+<text id="11010065">%null%</text>
+<text id="11010066">%null%</text>
+<text id="11010067">%null%</text>
+<text id="11010068">%null%</text>
+<text id="11010069">%null%</text>
+<text id="11010070">%null%</text>
+<text id="11010071">%null%</text>
+<text id="11010072">%null%</text>
+<text id="11010073">%null%</text>
+<text id="11010074">%null%</text>
+<text id="11010075">%null%</text>
+<text id="11010076">%null%</text>
+<text id="11010077">%null%</text>
+<text id="11010078">%null%</text>
+<text id="11010079">%null%</text>
+<text id="11010080">%null%</text>
+<text id="11010081">%null%</text>
+<text id="11010082">%null%</text>
+<text id="11010083">%null%</text>
+<text id="11010084">%null%</text>
+<text id="11010085">%null%</text>
+<text id="11010086">%null%</text>
+<text id="11010087">%null%</text>
+<text id="11010088">%null%</text>
+<text id="11010089">%null%</text>
+<text id="11010090">%null%</text>
+<text id="11010091">%null%</text>
+<text id="11100000">공격</text>
+<text id="11100001">닌자의 공격은 "체간"을 깎기 위한 것에 있다
+공격을 거듭하면 결국 적의 자세는 무너진다
+
+자세를 무너뜨리면
+"인살"로 일격에 죽일 수 있을 것이다
+
+"적을 공격해 무너뜨리고, 3회 인살하라"
+
+&lt;?kgiconKc@16?&gt;: 공격
+자세가 무너진 적에게 &lt;?kgiconKc@16?&gt;: 인살</text>
+<text id="11100002">%null%</text>
+<text id="11100003">%null%</text>
+<text id="11100004">%null%</text>
+<text id="11100005">%null%</text>
+<text id="11100006">%null%</text>
+<text id="11100007">%null%</text>
+<text id="11100008">%null%</text>
+<text id="11100009">%null%</text>
+<text id="11100010">튕겨내기</text>
+<text id="11100011">공격만으로는 무너뜨릴 수 없는 상대가 있다
+
+적의 공격을 튕겨내면
+그 기세를 이용해서 체간을 깎아낼 수 있다
+닌자의 방어는 동시에 공격을 겸비하는 것이다
+
+"적의 공격을 튕겨내고, 3회 인살하라"
+
+적의 공격에 맞춰 &lt;?kgiconKc@18?&gt;: 튕겨내기
+자세가 무너진 적에게 &lt;?kgiconKc@16?&gt;: 인살</text>
+<text id="11100012">%null%</text>
+<text id="11100013">%null%</text>
+<text id="11100014">%null%</text>
+<text id="11100015">%null%</text>
+<text id="11100016">%null%</text>
+<text id="11100017">%null%</text>
+<text id="11100018">%null%</text>
+<text id="11100019">%null%</text>
+<text id="11100020">되받아 베기</text>
+<text id="11100021">공격을 튕겨내면 즉시 "되받아 베기"를 한다
+
+그렇게 하면 적에게 쉴 틈을 주지 않고
+체간 대미지를 줄 수 있다
+
+"튕겨내기와 공격을 교대로 하여, 3회 인살하라"
+
+적의 공격에 맞춰 &lt;?kgiconKc@18?&gt;: 튕겨내기
+튕겨내기 후 &lt;?kgiconKc@16?&gt;: 되받아 베기</text>
+<text id="11100022">%null%</text>
+<text id="11100023">%null%</text>
+<text id="11100024">%null%</text>
+<text id="11100025">%null%</text>
+<text id="11100026">%null%</text>
+<text id="11100027">%null%</text>
+<text id="11100028">%null%</text>
+<text id="11100029">%null%</text>
+<text id="11100030">회피</text>
+<text id="11100031">스텝을 사용하면 적의 공격을 회피할 수 있다
+
+회피해도 적의 체간은 깎이지 않지만
+스텝 후의 공격은
+보다 쉽게 빈틈을 찌를 수 있으므로
+HP를 깎는 것에 적합하다
+
+"적의 공격을 회피하고 공격하여, 3회 인살하라"
+
+&lt;?kgiconKc@5?&gt;: 스텝
+적의 공격을 회피하고 &lt;?kgiconKc@16?&gt;: 스텝 후 공격</text>
+<text id="11100032">%null%</text>
+<text id="11100033">%null%</text>
+<text id="11100034">%null%</text>
+<text id="11100035">%null%</text>
+<text id="11100036">%null%</text>
+<text id="11100037">%null%</text>
+<text id="11100038">%null%</text>
+<text id="11100039">%null%</text>
+<text id="11100040">HP와 체간</text>
+<text id="11100041">자신도 적도 HP가 줄어들면 체간 회복이 느려진다
+
+좀처럼 자세가 무너지지 않는 적은
+스텝 후 공격 등으로 HP를 깎고
+체간을 무너뜨리는 것이 좋다
+
+"적을 3회 인살하라"
+
+&lt;?kgiconKc@5?&gt;: 스텝
+적의 공격을 회피하고 &lt;?kgiconKc@16?&gt;: 스텝 후 공격</text>
+<text id="11100042">%null%</text>
+<text id="11100043">%null%</text>
+<text id="11100044">%null%</text>
+<text id="11100045">%null%</text>
+<text id="11100046">%null%</text>
+<text id="11100047">%null%</text>
+<text id="11100048">%null%</text>
+<text id="11100049">%null%</text>
+<text id="11100050">찌르기 공격에 대한 대처</text>
+<text id="11100051">찌르기는 가드할 수 없다
+그러므로 받아내려고 해서는 안 된다
+
+튕겨내기나 스텝으로 대처하는 것이 좋다
+
+"적의 찌르기에 대처해서, 3회 인살하라"
+
+적의 찌르기 공격에 맞춰 &lt;?kgiconKc@18?&gt;: 튕겨내기
+&lt;?kgiconKc@5?&gt;: 스텝</text>
+<text id="11100052">%null%</text>
+<text id="11100053">%null%</text>
+<text id="11100054">%null%</text>
+<text id="11100055">%null%</text>
+<text id="11100056">%null%</text>
+<text id="11100057">%null%</text>
+<text id="11100058">%null%</text>
+<text id="11100059">%null%</text>
+<text id="11100060">하단 공격에 대한 대처</text>
+<text id="11100061">하단 공격은 가드도, 튕겨낼 수도 없다
+하지만, 점프로 회피할 수 있다
+공중에서 발로 차면 체간을 크게 깎는다
+자세가 무너졌을 때는 그대로 인살할 수도 있다
+
+"적의 하단 공격에 대처해서, 3회 인살하라"
+
+&lt;?kgiconKc@6?&gt;: 점프
+점프 중 &lt;?kgiconKc@6?&gt;: 공중차기</text>
+<text id="11100062">%null%</text>
+<text id="11100063">%null%</text>
+<text id="11100064">%null%</text>
+<text id="11100065">%null%</text>
+<text id="11100066">%null%</text>
+<text id="11100067">%null%</text>
+<text id="11100068">%null%</text>
+<text id="11100069">%null%</text>
+<text id="11100070">간파하기</text>
+<text id="11100071">닌자의 눈이라면
+날카로운 찌르기 움직임도 포착할 수 있다
+
+적의 찌르기 공격에 대해
+전방의 스텝으로 칼날을 밟으면
+튕겨내기보다도 큰 체간 대미지를 준다
+
+"간파하기를 사용하여, 3회 인살하라"
+
+적의 찌르기 공격에 맞춰 &lt;?kgiconKc@1?&gt;+&lt;?kgiconKc@5?&gt;: 간파하기</text>
+<text id="11100072">%null%</text>
+<text id="11100073">%null%</text>
+<text id="11100074">%null%</text>
+<text id="11100075">%null%</text>
+<text id="11100076">%null%</text>
+<text id="11100077">%null%</text>
+<text id="11100078">%null%</text>
+<text id="11100079">%null%</text>
+<text id="11100080">무너진 배후 돌기</text>
+<text id="11100081">자세가 무너진 적에게
+"무너진 배후 돌기"를 사용하면
+적의 등 뒤를 잡게 되고
+그대로 배후 인살을 할 수 있다
+
+"배후 돌기를 사용하여, 3회 배후 인살하라"
+
+자세가 무너진 적 앞에서 &lt;?kgiconKc@6?&gt;: 무너진 배후 돌기</text>
+<text id="11100082">%null%</text>
+<text id="11100083">%null%</text>
+<text id="11100084">%null%</text>
+<text id="11100085">%null%</text>
+<text id="11100086">%null%</text>
+<text id="11100087">%null%</text>
+<text id="11100088">%null%</text>
+<text id="11100089">%null%</text>
+<text id="11100090">연속 튕겨내기</text>
+<text id="11100091">한 번의 튕겨내기로
+적의 공격이 멈추지 않을 때도 있다
+
+적의 연속 공격에는
+"연속 튕겨내기"로 대응할 수 있다
+모든 공격을 튕겨내면
+적의 체간을 크게 깎을 수 있을 것이다
+
+”적의 연속 공격을 전부 튕겨내고, 3회 인살하라”
+
+적의 연격에 맞춰 연속으로 &lt;?kgiconKc@18?&gt;: 연속 튕겨내기
+자세가 무너진 적에게 &lt;?kgiconKc@16?&gt;: 인살</text>
+<text id="11101000">검극</text>
+<text id="11101001">&lt;?kgiconKc@16?&gt;: 공격
+적의 공격에 맞춰 &lt;?kgiconKc@18?&gt;: 튕겨내기
+자세가 무너진 적에게 &lt;?kgiconKc@16?&gt;: 인살</text>
+<text id="11101002">%null%</text>
+<text id="11101003">%null%</text>
+<text id="11101004">%null%</text>
+<text id="11101005">%null%</text>
+<text id="11101006">%null%</text>
+<text id="11101007">%null%</text>
+<text id="11101008">%null%</text>
+<text id="11101009">%null%</text>
+<text id="11101010">회피와 반격</text>
+<text id="11101011">&lt;?kgiconKc@5?&gt;: 스텝
+적의 공격을 회피하고 &lt;?kgiconKc@16?&gt;: 공격</text>
+<text id="11101012">%null%</text>
+<text id="11101013">%null%</text>
+<text id="11101014">%null%</text>
+<text id="11101015">%null%</text>
+<text id="11101016">%null%</text>
+<text id="11101017">%null%</text>
+<text id="11101018">%null%</text>
+<text id="11101019">%null%</text>
+<text id="11101020">하단 공격에 대한 대처</text>
+<text id="11101021">&lt;?kgiconKc@6?&gt;: 점프
+점프 중 &lt;?kgiconKc@6?&gt;: 공중차기</text>
+<text id="11101022">%null%</text>
+<text id="11101023">%null%</text>
+<text id="11101024">%null%</text>
+<text id="11101025">%null%</text>
+<text id="11101026">%null%</text>
+<text id="11101027">%null%</text>
+<text id="11101028">%null%</text>
+<text id="11101029">%null%</text>
+<text id="11101030">모의전(기초)</text>
+<text id="11101031">지금까지의 수련을 활용하여 싸우십시오</text>
+<text id="11101032">%null%</text>
+<text id="11101033">%null%</text>
+<text id="11101034">%null%</text>
+<text id="11101035">%null%</text>
+<text id="11101036">%null%</text>
+<text id="11101037">%null%</text>
+<text id="11101038">%null%</text>
+<text id="11101039">%null%</text>
+<text id="11101040">모의전(응용)</text>
+<text id="11101041">지금까지의 수련을 활용해
+다채로워진 공격에 대처하며 싸우십시오</text>
+<text id="11101042">%null%</text>
+<text id="11101043">%null%</text>
+<text id="11101044">%null%</text>
+<text id="11101045">%null%</text>
+<text id="11101046">%null%</text>
+<text id="11101047">%null%</text>
+<text id="11101048">%null%</text>
+<text id="11101049">%null%</text>
+<text id="11101050">HP와 체간(첫 번째)</text>
+<text id="11101051">적의 체간 회복이 빠르므로
+일단은 스텝 후 공격으로 HP를 깎으십시오</text>
+<text id="11101052">%null%</text>
+<text id="11101053">%null%</text>
+<text id="11101054">%null%</text>
+<text id="11101055">%null%</text>
+<text id="11101056">%null%</text>
+<text id="11101057">%null%</text>
+<text id="11101058">%null%</text>
+<text id="11101059">%null%</text>
+<text id="11101060">HP와 체간(두 번째)</text>
+<text id="11101061">적의 HP가 충분히 감소했으므로
+체간 회복이 느려졌습니다
+
+이제 체간을 깎아 인살하십시오</text>
+<text id="11101062">%null%</text>
+<text id="11101063">%null%</text>
+<text id="11101064">%null%</text>
+<text id="11101065">%null%</text>
+<text id="11101066">%null%</text>
+<text id="11101067">%null%</text>
+<text id="11101068">%null%</text>
+<text id="11101069">%null%</text>
+<text id="11101070">가드 중 체간 회복 속도</text>
+<text id="11101071">가드 중에는 체간의 회복 속도가 빨라진다
+
+&lt;?kgiconKc@18?&gt; 길게 누르기: 가드</text>
+<text id="11101072">%null%</text>
+<text id="11101073">%null%</text>
+<text id="11101074">%null%</text>
+<text id="11101075">%null%</text>
+<text id="11101076">%null%</text>
+<text id="11101077">%null%</text>
+<text id="11101078">%null%</text>
+<text id="11101079">%null%</text>
+<text id="11101080">옛 기억의 강자</text>
+<text id="11101081">옛 기억에서 가로막는 강자는 버겁다
+
+이겨내기 어렵다면
+일단 옛 기억에서 빠져나가
+다른 맵에서 강화하고 돌아오는 것도 좋다</text>
+<text id="11102000">&lt;?kgiconKc@16?&gt;: 공격</text>
+<text id="11102001">%null%</text>
+<text id="11102002">%null%</text>
+<text id="11102003">%null%</text>
+<text id="11102004">%null%</text>
+<text id="11102005">%null%</text>
+<text id="11102006">%null%</text>
+<text id="11102007">%null%</text>
+<text id="11102008">%null%</text>
+<text id="11102009">%null%</text>
+<text id="11102010">적에 공격에 맞춰 &lt;?kgiconKc@18?&gt;: 튕겨내기</text>
+<text id="11102011">%null%</text>
+<text id="11102012">%null%</text>
+<text id="11102013">%null%</text>
+<text id="11102014">%null%</text>
+<text id="11102015">%null%</text>
+<text id="11102016">%null%</text>
+<text id="11102017">%null%</text>
+<text id="11102018">%null%</text>
+<text id="11102019">%null%</text>
+<text id="11102020">자세가 무너진 적에게 &lt;?kgiconKc@16?&gt;: 인살</text>
+<text id="11102021">%null%</text>
+<text id="11102022">%null%</text>
+<text id="11102023">%null%</text>
+<text id="11102024">%null%</text>
+<text id="11102025">%null%</text>
+<text id="11102026">%null%</text>
+<text id="11102027">%null%</text>
+<text id="11102028">%null%</text>
+<text id="11102029">%null%</text>
+<text id="11102030">적의 찌르기 공격에 맞춰 &lt;?kgiconKc@18?&gt;: 튕겨내기</text>
+<text id="11102031">%null%</text>
+<text id="11102032">%null%</text>
+<text id="11102033">%null%</text>
+<text id="11102034">%null%</text>
+<text id="11102035">%null%</text>
+<text id="11102036">%null%</text>
+<text id="11102037">%null%</text>
+<text id="11102038">%null%</text>
+<text id="11102039">%null%</text>
+<text id="11102040">적의 찌르기 공격에 맞춰 &lt;?kgiconKc@5?&gt;: 간파하기</text>
+<text id="11102041">%null%</text>
+<text id="11102042">%null%</text>
+<text id="11102043">%null%</text>
+<text id="11102044">%null%</text>
+<text id="11102045">%null%</text>
+<text id="11102046">%null%</text>
+<text id="11102047">%null%</text>
+<text id="11102048">%null%</text>
+<text id="11102049">%null%</text>
+<text id="11102050">자세가 무너진 적 앞에서 &lt;?kgiconKc@6?&gt;: 무너진 배후 돌기</text>
+<text id="11102051">%null%</text>
+<text id="11102052">%null%</text>
+<text id="11102053">%null%</text>
+<text id="11102054">%null%</text>
+<text id="11102055">%null%</text>
+<text id="11102056">%null%</text>
+<text id="11102057">%null%</text>
+<text id="11102058">%null%</text>
+<text id="11102059">%null%</text>
+<text id="11102060">&lt;?kgiconKc@5?&gt;: 스텝</text>
+<text id="11102061">%null%</text>
+<text id="11102062">%null%</text>
+<text id="11102063">%null%</text>
+<text id="11102064">%null%</text>
+<text id="11102065">%null%</text>
+<text id="11102066">%null%</text>
+<text id="11102067">%null%</text>
+<text id="11102068">%null%</text>
+<text id="11102069">%null%</text>
+<text id="11102070">적의 공격을 회피하고 &lt;?kgiconKc@16?&gt;: 공격</text>
+<text id="11102071">%null%</text>
+<text id="11102072">%null%</text>
+<text id="11102073">%null%</text>
+<text id="11102074">%null%</text>
+<text id="11102075">%null%</text>
+<text id="11102076">%null%</text>
+<text id="11102077">%null%</text>
+<text id="11102078">%null%</text>
+<text id="11102079">%null%</text>
+<text id="11102080">%null%</text>
+<text id="11102081">%null%</text>
+<text id="11102082">%null%</text>
+<text id="11102083">%null%</text>
+<text id="11102084">%null%</text>
+<text id="11102085">%null%</text>
+<text id="11102086">%null%</text>
+<text id="11102087">%null%</text>
+<text id="11102088">%null%</text>
+<text id="11102089">%null%</text>
+<text id="11102090">%null%</text>
+<text id="11102091">%null%</text>
+<text id="11102092">%null%</text>
+<text id="11102093">%null%</text>
+<text id="11102094">%null%</text>
+<text id="11102095">%null%</text>
+<text id="11102096">%null%</text>
+<text id="11102097">%null%</text>
+<text id="11102098">%null%</text>
+<text id="11102099">%null%</text>
+<text id="11102100">%null%</text>
+<text id="12000000">목이 아깝다면 돌아가라
+목이 없으니 목을 치지 못하리
+도검도 창도 통하지 않는다</text>
+<text id="12000001">사당의 벽보</text>
+<text id="12000002">%null%</text>
+<text id="12000003">%null%</text>
+<text id="12000004">%null%</text>
+<text id="12000005">%null%</text>
+<text id="12000006">%null%</text>
+<text id="12000007">%null%</text>
+<text id="12000008">%null%</text>
+<text id="12000009">%null%</text>
+<text id="12000010">옛 전투의 족자</text>
+<text id="12000011">과거 아시나에 괴물이 나타났다
+
+괴물의 번개는 기원의 신울림
+신과 같은 움직임 없이는 물리칠 수 없다
+
+즉, 땅에 발을 딛지 않고 번개를 되돌려라</text>
+<text id="12000012">%null%</text>
+<text id="12000013">%null%</text>
+<text id="12000014">%null%</text>
+<text id="12000015">%null%</text>
+<text id="12000016">%null%</text>
+<text id="12000017">%null%</text>
+<text id="12000018">%null%</text>
+<text id="12000019">%null%</text>
+<text id="12000020">무너진 공양탑</text>
+<text id="12000021">국가를 빼앗기고 사형당한
+아시나 도당의 공허한 혼령
+
+이곳에 잠들다</text>
+<text id="12000022">%null%</text>
+<text id="12000023">%null%</text>
+<text id="12000024">%null%</text>
+<text id="12000025">%null%</text>
+<text id="12000026">%null%</text>
+<text id="12000027">%null%</text>
+<text id="12000028">%null%</text>
+<text id="12000029">%null%</text>
+<text id="12000030">낭떠러지 계곡 도당의 기억</text>
+<text id="12000031">낭떠러지 계곡 도당은 백사를 숭배하는 자들이다
+이적으로 간주하면 쏘아 죽인다
+
+그중에서도 뱀의 눈의 석화시는 가히 무섭다
+
+그 여자 도당은 희귀한 눈을 가졌으며
+아득히 먼 곳이라도 쉽게 적중시킨다</text>
+<text id="12000230">에마에게</text>
+<text id="12000231">잠시 용무가 있다
+걱정하지 말거라</text>
+<text id="12000232">%null%</text>
+<text id="12000233">%null%</text>
+<text id="12000234">%null%</text>
+<text id="12000235">%null%</text>
+<text id="12000236">%null%</text>
+<text id="12000237">%null%</text>
+<text id="12000238">%null%</text>
+<text id="12000239">%null%</text>
+<text id="12000240">세키로에게</text>
+<text id="12000241">이번에는 낭떠러지 계곡의 입구
+백사 신사 근처가 소란하다
+텐구가 쥐를 살펴보고 오겠다</text>
+<text id="12000242">%null%</text>
+<text id="12000243">%null%</text>
+<text id="12000244">%null%</text>
+<text id="12000245">%null%</text>
+<text id="12000246">%null%</text>
+<text id="12000247">%null%</text>
+<text id="12000248">%null%</text>
+<text id="12000249">%null%</text>
+<text id="12000250">진흙당의 벽보</text>
+<text id="12000251">이곳은 진흙뿐, 진흙투성이다
+
+걸으면 진흙이 튄다
+누구에게나 진흙이 튄다</text>
+<text id="12000252">진흙당의 벽보</text>
+<text id="12000253">이곳은 진흙뿐, 진흙투성이다
+
+걸으면 진흙이 튄다
+누구에게나 진흙이 튄다
+
+보는 원숭이도, 듣는 원숭이도, 말하는 원숭이도,　　　도…</text>
+<text id="12000254">%null%</text>
+<text id="12000255">%null%</text>
+<text id="12000256">%null%</text>
+<text id="12000257">%null%</text>
+<text id="12000258">%null%</text>
+<text id="12000259">%null%</text>
+<text id="12000260">굉음당의 벽보</text>
+<text id="12000261">우렁찬 폭포 소리는 콸콸 잘도 울린다
+시끄러우므로 어떠한 소리도 들리지 않는다</text>
+<text id="12000262">굉음당의 벽보</text>
+<text id="12000263">우렁찬 폭포 소리는 콸콸 잘도 울린다
+
+시끄러우므로 어떠한 소리도 들리지 않는다
+귀가 좋더라도 도움이 안 될 것이다</text>
+<text id="12000264">%null%</text>
+<text id="12000265">%null%</text>
+<text id="12000266">%null%</text>
+<text id="12000267">%null%</text>
+<text id="12000268">%null%</text>
+<text id="12000269">%null%</text>
+<text id="12000270">등불당의 벽보</text>
+<text id="12000271">풍전등화
+꺼지면 아무것도 보이지 않는 어둠</text>
+<text id="12000272">등불당의 벽보</text>
+<text id="12000273">은은한 등불은 꺼지기 쉽다
+그야말로 풍전등화
+
+꺼져버리면 그곳은 어둠
+보이지 않아 불안해진다
+눈이 좋더라도 두려움만이</text>
+<text id="12000274">등불당의 벽보</text>
+<text id="12000275">풍전등화
+꺼지면 아무것도 보이지 않는 어둠</text>
+<text id="12000276">%null%</text>
+<text id="12000277">%null%</text>
+<text id="12000278">%null%</text>
+<text id="12000279">%null%</text>
+<text id="12000280">나락당의 벽보</text>
+<text id="12000281">아래는 나락, 바닥이 안 보인다
+위는 어둠, 아무것도 안 보인다</text>
+<text id="12000282">나락당의 벽보</text>
+<text id="12000283">아래는 나락
+위는 어둠
+
+올라가면 그곳은 보이지 않는 어둠
+눈이 좋더라도 두려움만이</text>
+<text id="12000284">나락당의 벽보</text>
+<text id="12000285">아래는 나락, 바닥이 안 보인다
+위는 어둠, 아무것도 안 보인다</text>
+<text id="12000286">%null%</text>
+<text id="12000287">%null%</text>
+<text id="12000288">%null%</text>
+<text id="12000289">%null%</text>
+<text id="12000290">잉태의 돌의 제단</text>
+<text id="12000291">잉태는 길조이다
+향기롭기에, 시집을 가 모시리
+
+가마에 들어가면 맞이하러 오시리라</text>
+<text id="12000292">%null%</text>
+<text id="12000293">%null%</text>
+<text id="12000294">%null%</text>
+<text id="12000295">%null%</text>
+<text id="12000296">%null%</text>
+<text id="12000297">%null%</text>
+<text id="12000298">%null%</text>
+<text id="12000299">%null%</text>
+<text id="12000300">텐구가 남긴 쪽지</text>
+<text id="12000301">이번에는 백사의 신사 근처가 소란하다
+텐구가 쥐를 살펴보고 오겠다
+
+세키로여, 신경이 쓰인다면 가보거라</text>
+<text id="12000302">%null%</text>
+<text id="12000303">%null%</text>
+<text id="12000304">%null%</text>
+<text id="12000305">%null%</text>
+<text id="12000306">%null%</text>
+<text id="12000307">%null%</text>
+<text id="12000308">%null%</text>
+<text id="12000309">%null%</text>
+<text id="12000310">신성한 계승자가 남긴 쪽지</text>
+<text id="12000311">늑대에게
+
+　알아낸 것이 있다
+　서고를 열어놓았으니 거길 통해 오너라
+
+　　　　　　　　　　　　　쿠로</text>
+<text id="12000312">%null%</text>
+<text id="12000313">%null%</text>
+<text id="12000314">%null%</text>
+<text id="12000315">%null%</text>
+<text id="12000316">%null%</text>
+<text id="12000317">%null%</text>
+<text id="12000318">%null%</text>
+<text id="12000319">%null%</text>
+<text id="12000320">귀를 뭉개는 종의 벽보</text>
+<text id="12000321">이 종은 귀를 뭉갠다
+함부로 울리면 귀도 울린다</text>
+<text id="12000322">%null%</text>
+<text id="12000323">%null%</text>
+<text id="12000324">%null%</text>
+<text id="12000325">%null%</text>
+<text id="12000326">%null%</text>
+<text id="12000327">%null%</text>
+<text id="12000328">%null%</text>
+<text id="12000329">%null%</text>
+<text id="12000330">닌자길의 벽보</text>
+<text id="12000331">닌자의 샛길
+오니의 종으로 통한다</text>
+<text id="12000332">%null%</text>
+<text id="12000333">%null%</text>
+<text id="12000334">%null%</text>
+<text id="12000335">%null%</text>
+<text id="12000336">%null%</text>
+<text id="12000337">%null%</text>
+<text id="12000338">%null%</text>
+<text id="12000339">%null%</text>
+<text id="12000340">종에 새겨진 글</text>
+<text id="12000341">이 종을 울리지 말라
+
+재앙을 부담하는 것은 공덕이나
+몹시 힘들고 어려우며 고생스러운 고행길이다</text>
+<text id="12001000">&lt;?evntAcquittalPrice?&gt;스킬 포인트를 바쳐 공격력을 강화하시겠습니까?</text>
+<text id="12001001">%null%</text>
+<text id="12001002">%null%</text>
+<text id="12001003">%null%</text>
+<text id="12001004">%null%</text>
+<text id="12001005">%null%</text>
+<text id="12001006">%null%</text>
+<text id="12001007">%null%</text>
+<text id="12001008">%null%</text>
+<text id="12001009">%null%</text>
+<text id="12001010">용해를 쾌차시키시겠습니까?</text>
+<text id="12001011">%null%</text>
+<text id="12001012">%null%</text>
+<text id="12001013">%null%</text>
+<text id="12001014">%null%</text>
+<text id="12001015">%null%</text>
+<text id="12001016">%null%</text>
+<text id="12001017">%null%</text>
+<text id="12001018">%null%</text>
+<text id="12001019">%null%</text>
+<text id="12001020">싸움을 그만두고 원래 귀불로 돌아가시겠습니까?
+(싸움을 그만두어도 아무것도 잃지 않습니다)</text>
+<text id="12001021">%null%</text>
+<text id="12001022">%null%</text>
+<text id="12001023">%null%</text>
+<text id="12001024">%null%</text>
+<text id="12001025">%null%</text>
+<text id="12001026">%null%</text>
+<text id="12001027">%null%</text>
+<text id="12001028">%null%</text>
+<text id="12001029">%null%</text>
+<text id="12001030">싸움을 그만두고 원래 귀불로 돌아가시겠습니까?
+(싸움을 그만두면 연속 전투의 진행 상황은 리셋됩니다)</text>
+<text id="12001031">%null%</text>
+<text id="12001032">%null%</text>
+<text id="12001033">%null%</text>
+<text id="12001034">%null%</text>
+<text id="12001035">%null%</text>
+<text id="12001036">%null%</text>
+<text id="12001037">%null%</text>
+<text id="12001038">%null%</text>
+<text id="12001039">%null%</text>
+<text id="12001040">공격력이 한계까지 강화되어 있어, 더 이상 강화할 수 없습니다.
+싸움의 기억을 싸움의 잔재로 바꾸시겠습니까?</text>
+<text id="12010000">기계 장치 통을 건네시겠습니까?</text>
+<text id="12010100">정말로 부적을 돌려받고 더한 고난에서 벗어나시겠습니까?
+(한 번 벗어나면 그 주차 중엔 더한 고난으로 돌아갈 수 없습니다)</text>
+<text id="12011100">더한 고난에 발을 들이시겠습니까?</text>
+<text id="12014000">&lt;?evntAcquittalPrice?&gt;전으로 용윤의 물방울을 구입하시겠습니까?</text>
+<text id="12017002">아시나 사무라이들이 원하는 물건을 알려주시겠습니까?</text>
+<text id="12017003">&lt;?evntAcquittalPrice?&gt;전을 지불하고 정보를 구입하시겠습니까?</text>
+<text id="12022000">선봉고승의 경전을 건네시겠습니까?</text>
+<text id="12022001">감을 건네시겠습니까?</text>
+<text id="12022002">타로 감을 건네시겠습니까?</text>
+<text id="12023000">회생의 힘을 소비해 용해의 환약을 작성하시겠습니까?</text>
+<text id="12023001">표주박의 씨앗을 소비해 상약 표주박의 사용 횟수를 늘리시겠습니까?</text>
+<text id="12023002">용해의 혈괴를 건네시겠습니까?</text>
+<text id="12090000">&lt;?nextLoopCount?&gt;주차의 싸움을 시작하면
+현재의 &lt;?loopCount?&gt;주차 싸움으로는 돌아올 수 없습니다
+&lt;?nextLoopCount?&gt;주차의 싸움을 시작하시겠습니까?</text>
+<text id="12095000">아시나의 술을 건네시겠습니까?</text>
+<text id="12095001">탁주를 건네시겠습니까?</text>
+<text id="12095002">원숭이 술을 건네시겠습니까?</text>
+<text id="12095003">용천을 건네시겠습니까?</text>
+<text id="12095004">아시나의 술을 건네시겠습니까?</text>
+<text id="12095005">탁주를 건네시겠습니까?</text>
+<text id="12095006">%null%</text>
+<text id="12095007">%null%</text>
+<text id="12095008">%null%</text>
+<text id="12095009">%null%</text>
+<text id="12095010">용해의 환약을 건네시겠습니까?</text>
+<text id="13000000">표주박의 씨앗을 갖고 있지 않습니다</text>
+<text id="13000001">표주박의 씨앗을 소비해 상약 표주박의 사용 횟수를 늘리시겠습니까?</text>
+<text id="13000002">상약 표주박의 사용 횟수가 늘어났습니다</text>
+<text id="13000003">더 이상 상약 표주박의 사용 횟수를 늘릴 수 없습니다</text>
+<text id="13000004">%null%</text>
+<text id="13000005">%null%</text>
+<text id="13000006">%null%</text>
+<text id="13000007">%null%</text>
+<text id="13000008">%null%</text>
+<text id="13000009">%null%</text>
+<text id="13000010">수주옥 &lt;?evntAcquittalPrice?&gt;개를 갖고 있지 않습니다</text>
+<text id="13000011">수주옥 &lt;?evntAcquittalPrice?&gt;개를 소비해 신체력을 성장시키시겠습니까?</text>
+<text id="13000012">신체력이 성장해 HP와 체간의 최대치가 상승했습니다</text>
+<text id="13000013">더 이상 신체력을 성장시킬 수 없습니다</text>
+<text id="13000014">%null%</text>
+<text id="13000015">%null%</text>
+<text id="13000016">%null%</text>
+<text id="13000017">%null%</text>
+<text id="13000018">%null%</text>
+<text id="13000019">%null%</text>
+<text id="13000020">탁기를 억제하는 데 필요한 &lt;?evntAcquittalPrice?&gt;전을 갖고 있지 않습니다</text>
+<text id="13000021">&lt;?evntAcquittalPrice?&gt;전을 귀불에 바쳐 탁기를 억제하시겠습니까?</text>
+<text id="13000022">탁기를 억제했습니다</text>
+<text id="13000023">현재 용윤은 탁하지 않습니다</text>
+<text id="13000024">%null%</text>
+<text id="13000025">%null%</text>
+<text id="13000026">%null%</text>
+<text id="13000027">%null%</text>
+<text id="13000028">%null%</text>
+<text id="13000029">%null%</text>
+<text id="13000030">%null%</text>
+<text id="13000031">%null%</text>
+<text id="13000032">%null%</text>
+<text id="13000033">%null%</text>
+<text id="13000034">%null%</text>
+<text id="13000035">%null%</text>
+<text id="13000036">%null%</text>
+<text id="13000037">%null%</text>
+<text id="13000038">%null%</text>
+<text id="13000039">%null%</text>
+<text id="13000040">공격력을 강화했습니다</text>
+<text id="13000041">더 이상 공격력을 강화할 수 없습니다</text>
+<text id="13000042">싸움의 기억을 갖고 있지 않습니다</text>
+<text id="13000043">%null%</text>
+<text id="13000044">%null%</text>
+<text id="13000045">%null%</text>
+<text id="13000046">%null%</text>
+<text id="13000047">%null%</text>
+<text id="13000048">%null%</text>
+<text id="13000049">%null%</text>
+<text id="13000050">스킬 포인트가 부족합니다</text>
+<text id="13000051">스킬 포인트를 바쳐 공격력을 강화했습니다</text>
+<text id="13000052">공격력이 최대까지 강화되었습니다</text>
+<text id="13000053">%null%</text>
+<text id="13000054">%null%</text>
+<text id="13000055">%null%</text>
+<text id="13000056">%null%</text>
+<text id="13000057">%null%</text>
+<text id="13000058">%null%</text>
+<text id="13000059">%null%</text>
+<text id="13000060">모든 용해 환자가 쾌차하였습니다</text>
+<text id="13000061">%null%</text>
+<text id="13000062">%null%</text>
+<text id="13000063">%null%</text>
+<text id="13000064">%null%</text>
+<text id="13000065">%null%</text>
+<text id="13000066">%null%</text>
+<text id="13000067">%null%</text>
+<text id="13000068">%null%</text>
+<text id="13000069">%null%</text>
+<text id="13000070">용윤의 물방울을 갖고 있지 않습니다</text>
+<text id="13000071">%null%</text>
+<text id="13000072">%null%</text>
+<text id="13000073">%null%</text>
+<text id="13000074">%null%</text>
+<text id="13000075">%null%</text>
+<text id="13000076">%null%</text>
+<text id="13000077">%null%</text>
+<text id="13000078">%null%</text>
+<text id="13000079">%null%</text>
+<text id="13000080">아무도 용해로 병들어 있지 않습니다</text>
+<text id="13001700">필요한 금전이 부족합니다</text>
+<text id="13010000">작성 가능한 의수 닌자 도구가 없습니다</text>
+<text id="13010001">%null%</text>
+<text id="13010002">%null%</text>
+<text id="13010003">%null%</text>
+<text id="13010004">%null%</text>
+<text id="13010005">%null%</text>
+<text id="13010006">%null%</text>
+<text id="13010007">%null%</text>
+<text id="13010008">%null%</text>
+<text id="13010009">%null%</text>
+<text id="13010010">작성 가능한 강화 의수 닌자 도구가 없습니다</text>
+<text id="13010011">%null%</text>
+<text id="13010012">%null%</text>
+<text id="13010013">%null%</text>
+<text id="13010014">%null%</text>
+<text id="13010015">%null%</text>
+<text id="13010016">%null%</text>
+<text id="13010017">%null%</text>
+<text id="13010018">%null%</text>
+<text id="13010019">%null%</text>
+<text id="13010020">%null%</text>
+<text id="13010021">%null%</text>
+<text id="13010022">%null%</text>
+<text id="13010023">%null%</text>
+<text id="13010024">%null%</text>
+<text id="13010025">%null%</text>
+<text id="13010026">%null%</text>
+<text id="13010027">%null%</text>
+<text id="13010028">%null%</text>
+<text id="13010029">%null%</text>
+<text id="13010030">%null%</text>
+<text id="13010031">%null%</text>
+<text id="13010032">%null%</text>
+<text id="13010033">%null%</text>
+<text id="13010034">%null%</text>
+<text id="13010035">%null%</text>
+<text id="13010036">%null%</text>
+<text id="13010037">%null%</text>
+<text id="13010038">%null%</text>
+<text id="13010039">%null%</text>
+<text id="13010040">%null%</text>
+<text id="13010041">%null%</text>
+<text id="13010042">%null%</text>
+<text id="13010043">%null%</text>
+<text id="13010044">%null%</text>
+<text id="13010045">%null%</text>
+<text id="13010046">%null%</text>
+<text id="13010047">%null%</text>
+<text id="13010048">%null%</text>
+<text id="13010049">%null%</text>
+<text id="13010050">%null%</text>
+<text id="13010051">%null%</text>
+<text id="13010052">%null%</text>
+<text id="13010053">%null%</text>
+<text id="13010054">%null%</text>
+<text id="13010055">%null%</text>
+<text id="13010056">%null%</text>
+<text id="13010057">%null%</text>
+<text id="13010058">%null%</text>
+<text id="13010059">%null%</text>
+<text id="13010060">%null%</text>
+<text id="13010061">%null%</text>
+<text id="13010062">%null%</text>
+<text id="13010063">%null%</text>
+<text id="13010064">%null%</text>
+<text id="13010065">%null%</text>
+<text id="13010066">%null%</text>
+<text id="13010067">%null%</text>
+<text id="13010068">%null%</text>
+<text id="13010069">%null%</text>
+<text id="13010070">%null%</text>
+<text id="13010071">%null%</text>
+<text id="13010072">%null%</text>
+<text id="13010073">%null%</text>
+<text id="13010074">%null%</text>
+<text id="13010075">%null%</text>
+<text id="13010076">%null%</text>
+<text id="13010077">%null%</text>
+<text id="13010078">%null%</text>
+<text id="13010079">%null%</text>
+<text id="13010080">%null%</text>
+<text id="13010081">%null%</text>
+<text id="13010082">%null%</text>
+<text id="13010083">%null%</text>
+<text id="13010084">%null%</text>
+<text id="13010085">%null%</text>
+<text id="13010086">%null%</text>
+<text id="13010087">%null%</text>
+<text id="13010088">%null%</text>
+<text id="13010089">%null%</text>
+<text id="13010090">%null%</text>
+<text id="13010091">%null%</text>
+<text id="13010092">%null%</text>
+<text id="13010093">%null%</text>
+<text id="13010094">%null%</text>
+<text id="13010095">%null%</text>
+<text id="13010096">%null%</text>
+<text id="13010097">%null%</text>
+<text id="13010098">%null%</text>
+<text id="13010099">%null%</text>
+<text id="13010100">더한 고난에서 벗어났습니다</text>
+<text id="13010101">기계 장치 통을 건넸습니다</text>
+<text id="13010102">기계 장치 통을 넣었습니다</text>
+<text id="13010103">옛 기억에는 이르기 위한 순서가 있다
+먼저 바쳐야 할 방울이 어딘가에 있다고 한다</text>
+<text id="13010104">부드러운 표정의 부처님이다
+뭔가를 공양받고 싶은 듯하다</text>
+<text id="13011000">신성한 계승자를 두고 갈 수는 없다</text>
+<text id="13011011">향로에서 벚꽃 같은 냄새가 희미하게 남아있다</text>
+<text id="13011100">더한 고난에 발을 들였습니다</text>
+<text id="13011101">%null%</text>
+<text id="13011102">%null%</text>
+<text id="13011103">%null%</text>
+<text id="13011104">%null%</text>
+<text id="13011105">%null%</text>
+<text id="13011106">%null%</text>
+<text id="13011107">%null%</text>
+<text id="13011108">%null%</text>
+<text id="13011109">%null%</text>
+<text id="13011110">쿠로에게 쌀을 건넸습니다</text>
+<text id="13011111">%null%</text>
+<text id="13011112">%null%</text>
+<text id="13011113">%null%</text>
+<text id="13011114">%null%</text>
+<text id="13011115">%null%</text>
+<text id="13011116">%null%</text>
+<text id="13011117">%null%</text>
+<text id="13011118">%null%</text>
+<text id="13011119">%null%</text>
+<text id="13011120">회생의 힘을 사용할 수 있는 횟수가 늘어났습니다</text>
+<text id="13011121">앵우를 갖고 있지 않습니다</text>
+<text id="13011122">더 이상 강화할 수 없습니다</text>
+<text id="13012200">소개할 수 있는 행선지가 없다</text>
+<text id="13013000">모의전을 치를 수 있게 되었습니다</text>
+<text id="13013001">황폐한 절에 있는 죽지 않는 사무라이와
+새로운 수련을 할 수 있게 되었습니다</text>
+<text id="13013002">%null%</text>
+<text id="13013003">황폐한 절에 있는 죽지 않는 사무라이와
+"간파하기" 수련을 할 수 있게 되었습니다</text>
+<text id="13013004">황폐한 절에 있는 죽지 않는 사무라이와
+"무너진 배후 돌기" 수련을 할 수 있게 되었습니다</text>
+<text id="13013005">황폐한 절에 있는 죽지 않는 사무라이와
+새로운 수련을 할 수 있게 되었습니다</text>
+<text id="13013006">모의전을 치를 수 있게 되었습니다</text>
+<text id="13013007">새로운 항목을 선택할 수 있게 되었습니다</text>
+<text id="13013008">"간파하기"를 선택할 수 있게 되었습니다</text>
+<text id="13013009">"무너진 배후 돌기"를 선택할 수 있게 되었습니다</text>
+<text id="13013010">"모의전(응용)"을 선택할 수 있게 되었습니다</text>
+<text id="13017000">&lt;?evntAcquittalPrice?&gt;전을 받았습니다</text>
+<text id="13017001">&lt;?evntAcquittalPrice?&gt;전을 지불했습니다</text>
+<text id="13022000">감을 갖고 있지 않습니다</text>
+<text id="13023003">표주박의 씨앗을 갖고 있지 않습니다</text>
+<text id="13023004">상약 표주박의 사용 횟수가 늘어났습니다</text>
+<text id="13023005">더 이상 상약 표주박의 사용 횟수를 늘릴 수 없습니다</text>
+<text id="13023006">용해의 혈괴를 건넸습니다</text>
+<text id="13024000">희귀한 강자와의 연속 전투에 "기억의 연속 전투 - 계승자 탈환"이 해금되었습니다</text>
+<text id="13024001">%null%</text>
+<text id="13024002">%null%</text>
+<text id="13024003">%null%</text>
+<text id="13024004">%null%</text>
+<text id="13024005">%null%</text>
+<text id="13024006">%null%</text>
+<text id="13024007">%null%</text>
+<text id="13024008">%null%</text>
+<text id="13024009">%null%</text>
+<text id="13024010">희귀한 강자와의 연속 전투에 "기억의 연속 전투 - 수라"가 해금되었습니다</text>
+<text id="13024011">%null%</text>
+<text id="13024012">%null%</text>
+<text id="13024013">%null%</text>
+<text id="13024014">%null%</text>
+<text id="13024015">%null%</text>
+<text id="13024016">%null%</text>
+<text id="13024017">%null%</text>
+<text id="13024018">%null%</text>
+<text id="13024019">%null%</text>
+<text id="13024020">희귀한 강자와의 연속 전투에 "기억의 연속 전투 - 불사 끊기"가 해금되었습니다</text>
+<text id="13024021">%null%</text>
+<text id="13024022">%null%</text>
+<text id="13024023">%null%</text>
+<text id="13024024">%null%</text>
+<text id="13024025">%null%</text>
+<text id="13024026">%null%</text>
+<text id="13024027">%null%</text>
+<text id="13024028">%null%</text>
+<text id="13024029">%null%</text>
+<text id="13024030">희귀한 강자와의 연속 전투에 "기억의 연속 전투 - 사투 답파"가 해금되었습니다</text>
+<text id="14000000">용해의 환약을 먹인다</text>
+<text id="14000001">용해의 환약을 먹이지 않는다</text>
+<text id="14000002">토해낸 피를 받는다</text>
+<text id="14000003">아무것도 하지 않는다</text>
+<text id="14000100">앵룡의 눈물을 먹인다</text>
+<text id="14000101">앵룡의 눈물과 상앵의 꽃을 먹인다</text>
+<text id="14000102">앵룡의 눈물과 얼음 눈물을 먹인다</text>
+<text id="14000500">귀한 먹이를 준다</text>
+<text id="14000501">정말 귀한 먹이를 고른다</text>
+<text id="14000502">떠난다</text>
+<text id="14000503">항아리의 귀인 하루나가에게 받은 먹이</text>
+<text id="14000504">항아리의 귀인 코레모리에게 받은 먹이</text>
+<text id="14010000">무엇이 보였는지 묻는다</text>
+<text id="14010001">무엇이 보였는지 묻지 않는다</text>
+<text id="14010002">%null%</text>
+<text id="14010003">%null%</text>
+<text id="14010004">%null%</text>
+<text id="14010005">%null%</text>
+<text id="14010006">%null%</text>
+<text id="14010007">%null%</text>
+<text id="14010008">%null%</text>
+<text id="14010009">%null%</text>
+<text id="14010010">쿠로의 부적을 돌려받는다</text>
+<text id="14010011">쿠로의 부적을 맡겨 놓는다</text>
+<text id="14011000">쿠로의 부적을 건넨다</text>
+<text id="14011001">아무것도 하지 않는다</text>
+<text id="14011002">%null%</text>
+<text id="14011003">%null%</text>
+<text id="14011004">%null%</text>
+<text id="14011005">%null%</text>
+<text id="14011006">%null%</text>
+<text id="14011007">%null%</text>
+<text id="14011008">%null%</text>
+<text id="14011009">%null%</text>
+<text id="14011010">그래도 돌려준다</text>
+<text id="14011011">맡고 있는다</text>
+<text id="14011012">%null%</text>
+<text id="14011013">%null%</text>
+<text id="14011014">%null%</text>
+<text id="14011015">%null%</text>
+<text id="14011016">%null%</text>
+<text id="14011017">%null%</text>
+<text id="14011018">%null%</text>
+<text id="14011019">%null%</text>
+<text id="14011020">신성한 계승자를 돕는다</text>
+<text id="14011021">철칙에 따라 신성한 계승자를 지킨다</text>
+<text id="14011022">%null%</text>
+<text id="14011023">%null%</text>
+<text id="14011024">%null%</text>
+<text id="14011025">%null%</text>
+<text id="14011026">%null%</text>
+<text id="14011027">%null%</text>
+<text id="14011028">%null%</text>
+<text id="14011029">%null%</text>
+<text id="14011030">깨운다</text>
+<text id="14011031">깨우지 않는다</text>
+<text id="14011032">%null%</text>
+<text id="14011033">%null%</text>
+<text id="14011034">%null%</text>
+<text id="14011035">%null%</text>
+<text id="14011036">%null%</text>
+<text id="14011037">%null%</text>
+<text id="14011038">%null%</text>
+<text id="14011039">%null%</text>
+<text id="14011040">몸을 던지는 장소에 대해서 이야기한다</text>
+<text id="14011041">모른다</text>
+<text id="14011042">%null%</text>
+<text id="14011043">%null%</text>
+<text id="14011044">%null%</text>
+<text id="14011045">%null%</text>
+<text id="14011046">%null%</text>
+<text id="14011047">%null%</text>
+<text id="14011048">%null%</text>
+<text id="14011049">%null%</text>
+<text id="14011050">앵우를 건넨다</text>
+<text id="14011051">앵우를 건네지 않는다</text>
+<text id="14011052">%null%</text>
+<text id="14011053">%null%</text>
+<text id="14011054">%null%</text>
+<text id="14011055">%null%</text>
+<text id="14011056">%null%</text>
+<text id="14011057">%null%</text>
+<text id="14011058">%null%</text>
+<text id="14011059">%null%</text>
+<text id="14011060">잔향을 맡았다</text>
+<text id="14011061">잔향을 맡지 않았다</text>
+<text id="14012000">철칙에 따라 신성한 계승자를 버린다</text>
+<text id="14012001">철칙을 등지고 신성한 계승자를 버리지 않는다</text>
+<text id="14012002">%null%</text>
+<text id="14012003">%null%</text>
+<text id="14012004">%null%</text>
+<text id="14012005">%null%</text>
+<text id="14012006">%null%</text>
+<text id="14012007">%null%</text>
+<text id="14012008">%null%</text>
+<text id="14012009">%null%</text>
+<text id="14012010">철칙에 따라 신성한 계승자를 버린다</text>
+<text id="14012011">철칙을 등지고 신성한 계승자를 버리지 않는다</text>
+<text id="14013000">알았다</text>
+<text id="14013001">거절한다</text>
+<text id="14013002">사과한다</text>
+<text id="14013003">감사를 표한다</text>
+<text id="14013004">불사베기라고 가르쳐준다</text>
+<text id="14013005">가르쳐주기 싫다</text>
+<text id="14013006">알았다</text>
+<text id="14013007">죽이고 싶지 않다</text>
+<text id="14014000">모른다</text>
+<text id="14014001">알고 있다</text>
+<text id="14014002">짐작가는 것이 없다</text>
+<text id="14014003">짐작가는 것이 있다</text>
+<text id="14015000">우는 이유를 듣는다</text>
+<text id="14015001">우는 이유를 듣지 않는다</text>
+<text id="14015002">모른다</text>
+<text id="14015003">대답하지 않는다</text>
+<text id="14016000">아들이 아니라고 대답한다</text>
+<text id="14016001">아무것도 말하지 않는다</text>
+<text id="14017000">그날 밤에 대해 묻는다</text>
+<text id="14017001">아무것도 말하지 않는다</text>
+<text id="14017002">&lt;?evntAcquittalPrice?&gt;전을 지불하고 정보를 산다</text>
+<text id="14017003">정보를 사지 않는다</text>
+<text id="14018000">대답한다</text>
+<text id="14018001">대답하지 않는다</text>
+<text id="14022000">뽑는다</text>
+<text id="14022001">뽑지 않는다</text>
+<text id="14022002">감을 건넨다</text>
+<text id="14022003">감을 건네지 않는다</text>
+<text id="14022004">말을 건다</text>
+<text id="14022005">영려경 - 충양지장을 건넨다</text>
+<text id="14022006">떠난다</text>
+<text id="14022007">뱀감을 건넨다</text>
+<text id="14022008">뱀감을 건네지 않는다</text>
+<text id="14022009">앵우를 건넨다</text>
+<text id="14022010">앵우를 건네지 않는다</text>
+<text id="14023000">잇신의 별채로 들어갈 방법을 묻는다</text>
+<text id="14023001">잇신의 별채로 들어갈 방법을 묻지 않는다</text>
+<text id="14023002">동의한다  쿠로의 목숨을 구하고 싶다</text>
+<text id="14023003">거절한다  불사를 끊는 것은 주군의 명이다</text>
+<text id="14023004">다시 생각하자  역시 쿠로의 목숨을 구하고 싶다</text>
+<text id="14023005">생각은 변하지 않았다</text>
+<text id="14023006">묵묵히 떠난다</text>
+<text id="14023007">숨기고 있는 것에 대해 묻는다</text>
+<text id="14024000">알고 있다</text>
+<text id="14024001">모른다</text>
+<text id="14024050">알았다</text>
+<text id="14024051">거절한다</text>
+<text id="14025000">신령의 흰수염을 건넨다</text>
+<text id="14025001">신령의 흰수염을 건네지 않는다</text>
+<text id="14025002">아무것도 하지 않는다</text>
+<text id="14026000">우는 이유를 듣는다</text>
+<text id="14026001">우는 이유를 듣지 않는다</text>
+<text id="14026002">적백색 바람개비를 건넨다</text>
+<text id="14026003">순백색 바람개비를 건넨다</text>
+<text id="14026004">버려진 감옥으로 불러낸다</text>
+<text id="14026005">행상인 아나야마를 소개한다</text>
+<text id="14026006">알았다</text>
+<text id="14026007">거절한다</text>
+<text id="14026008">행선지를 소개한다</text>
+<text id="14026009">아무것도 하지 않는다</text>
+<text id="14026010">그만둔다</text>
+<text id="14027000">말을 건다</text>
+<text id="14027001">말을 걸지 않는다</text>
+<text id="14028000">말을 건다</text>
+<text id="14028001">말을 걸지 않는다</text>
+<text id="14028002">도회지의 물을 건넨다</text>
+<text id="14028003">도회지의 물을 건네지 않는다</text>
+<text id="14029000">쌀을 건넨다</text>
+<text id="14029001">쌀을 건네지 않는다</text>
+<text id="14029002">아무것도 하지 않는다</text>
+<text id="14030000">말을 건다</text>
+<text id="14030001">말을 걸지 않는다</text>
+<text id="14030002">버려진 감옥으로 불러낸다</text>
+<text id="14030003">모른다</text>
+<text id="14030004">버려진 감옥으로 불러내지 않는다</text>
+<text id="14031002">인정한다</text>
+<text id="14031003">아무것도 말하지 않는다</text>
+<text id="14031004">잉어의 붉은 눈알을 건넨다</text>
+<text id="14031005">잉어의 붉은 눈알을 건네지 않는다</text>
+<text id="14031006">가르쳐준다</text>
+<text id="14031007">가르쳐주지 않는다</text>
+<text id="14032000">귀한 분에 대해서 듣는다</text>
+<text id="14032001">대답하지 않는다</text>
+<text id="14036000">비밀을 듣는다</text>
+<text id="14036001">비밀을 듣지 않는다</text>
+<text id="14047000">인정한다</text>
+<text id="14047001">아무것도 말하지 않는다</text>
+<text id="14070000">무슨 일이 있었는지 묻는다</text>
+<text id="14070001">지금이 언제인지 묻는다</text>
+<text id="14070002">아무것도 묻지 않는다</text>
+<text id="14070003">%null%</text>
+<text id="14070004">%null%</text>
+<text id="14070005">알았다</text>
+<text id="14070006">아무것도 말하지 않는다</text>
+<text id="15000000">이야기한다</text>
+<text id="15000001">%null%</text>
+<text id="15000002">%null%</text>
+<text id="15000003">%null%</text>
+<text id="15000004">%null%</text>
+<text id="15000005">떠난다</text>
+<text id="15000006">그만둔다</text>
+<text id="15000007">%null%</text>
+<text id="15000008">%null%</text>
+<text id="15000009">%null%</text>
+<text id="15000010">아이템을 구입한다</text>
+<text id="15000011">아이템을 판매한다</text>
+<text id="15000012">카타시로를 구입한다</text>
+<text id="15000013">%null%</text>
+<text id="15000014">%null%</text>
+<text id="15000015">%null%</text>
+<text id="15000016">%null%</text>
+<text id="15000017">%null%</text>
+<text id="15000018">%null%</text>
+<text id="15000019">%null%</text>
+<text id="15000020">%null%</text>
+<text id="15000110">떠난다</text>
+<text id="15000111">%null%</text>
+<text id="15000112">%null%</text>
+<text id="15000113">%null%</text>
+<text id="15000114">%null%</text>
+<text id="15000115">%null%</text>
+<text id="15000116">%null%</text>
+<text id="15000117">%null%</text>
+<text id="15000118">%null%</text>
+<text id="15000119">%null%</text>
+<text id="15000120">휴식한다</text>
+<text id="15000121">%null%</text>
+<text id="15000122">%null%</text>
+<text id="15000123">%null%</text>
+<text id="15000124">%null%</text>
+<text id="15000125">%null%</text>
+<text id="15000126">%null%</text>
+<text id="15000127">%null%</text>
+<text id="15000128">%null%</text>
+<text id="15000129">%null%</text>
+<text id="15000130">%null%</text>
+<text id="15000131">%null%</text>
+<text id="15000132">%null%</text>
+<text id="15000133">%null%</text>
+<text id="15000134">%null%</text>
+<text id="15000135">%null%</text>
+<text id="15000136">%null%</text>
+<text id="15000137">%null%</text>
+<text id="15000138">%null%</text>
+<text id="15000139">%null%</text>
+<text id="15000140">아이템을 구입한다</text>
+<text id="15000141">%null%</text>
+<text id="15000142">%null%</text>
+<text id="15000143">%null%</text>
+<text id="15000144">%null%</text>
+<text id="15000145">%null%</text>
+<text id="15000146">%null%</text>
+<text id="15000147">%null%</text>
+<text id="15000148">%null%</text>
+<text id="15000149">%null%</text>
+<text id="15000150">불상 건너기</text>
+<text id="15000170">신체력을 성장시킨다</text>
+<text id="15000171">%null%</text>
+<text id="15000172">%null%</text>
+<text id="15000173">%null%</text>
+<text id="15000174">%null%</text>
+<text id="15000175">%null%</text>
+<text id="15000176">%null%</text>
+<text id="15000177">%null%</text>
+<text id="15000178">%null%</text>
+<text id="15000179">%null%</text>
+<text id="15000180">탁기를 억제한다</text>
+<text id="15000181">%null%</text>
+<text id="15000182">%null%</text>
+<text id="15000183">%null%</text>
+<text id="15000184">%null%</text>
+<text id="15000185">%null%</text>
+<text id="15000186">%null%</text>
+<text id="15000187">%null%</text>
+<text id="15000188">%null%</text>
+<text id="15000189">%null%</text>
+<text id="15000190">&lt;?nextLoopCount?&gt;주차의 싸움을 시작한다</text>
+<text id="15000191">%null%</text>
+<text id="15000192">%null%</text>
+<text id="15000193">%null%</text>
+<text id="15000194">%null%</text>
+<text id="15000195">%null%</text>
+<text id="15000196">%null%</text>
+<text id="15000197">%null%</text>
+<text id="15000198">%null%</text>
+<text id="15000199">%null%</text>
+<text id="15000200">다음</text>
+<text id="15000201">이전</text>
+<text id="15000250">용해를 쾌차시킨다</text>
+<text id="15000300">스킬을 습득한다</text>
+<text id="15000400">%null%</text>
+<text id="15000401">%null%</text>
+<text id="15000402">%null%</text>
+<text id="15000403">%null%</text>
+<text id="15000500">아시나의 술을 대접한다</text>
+<text id="15000501">탁주를 대접한다</text>
+<text id="15000502">원숭이 술을 대접한다</text>
+<text id="15000503">용천을 대접한다</text>
+<text id="15000504">%null%</text>
+<text id="15000505">%null%</text>
+<text id="15000506">%null%</text>
+<text id="15000507">%null%</text>
+<text id="15000508">%null%</text>
+<text id="15000509">%null%</text>
+<text id="15000510">술을 대접한다</text>
+<text id="15000511">%null%</text>
+<text id="15000512">%null%</text>
+<text id="15000513">%null%</text>
+<text id="15000514">%null%</text>
+<text id="15000515">%null%</text>
+<text id="15000516">%null%</text>
+<text id="15000517">%null%</text>
+<text id="15000518">%null%</text>
+<text id="15000519">%null%</text>
+<text id="15000520">용해의 환약을 먹인다</text>
+<text id="15000521">용해의 혈괴를 받는다</text>
+<text id="15000600">공격력을 강화한다</text>
+<text id="15000601">공격력을 강화한다 (스킬 포인트 소비)</text>
+<text id="15000700">싸움의 기억 - 오니교부와 마주한다</text>
+<text id="15000701">%null%</text>
+<text id="15000702">%null%</text>
+<text id="15000703">%null%</text>
+<text id="15000704">%null%</text>
+<text id="15000705">%null%</text>
+<text id="15000706">%null%</text>
+<text id="15000707">%null%</text>
+<text id="15000708">%null%</text>
+<text id="15000709">%null%</text>
+<text id="15000710">싸움의 기억 - 오니교부와 마주한다</text>
+<text id="15000711">싸움의 기억 - 환영의 나비와 마주한다</text>
+<text id="15000712">싸움의 기억 - 아시나 겐이치로와 마주한다</text>
+<text id="15000713">싸움의 기억 - 병풍 원숭이들과 마주한다</text>
+<text id="15000714">싸움의 기억 - 사자원숭이와 마주한다</text>
+<text id="15000715">싸움의 기억 - 파계승과 마주한다</text>
+<text id="15000716">싸움의 기억 - 대닌자 올빼미와 마주한다</text>
+<text id="15000717">싸움의 기억 - 의부와 마주한다</text>
+<text id="15000718">싸움의 기억 - 궁의 파계승과 마주한다</text>
+<text id="15000719">싸움의 기억 - 앵룡과 마주한다</text>
+<text id="15000720">싸움의 기억 - 원망의 오니와 마주한다</text>
+<text id="15000721">싸움의 기억 - 검성 아시나 잇신과 마주한다</text>
+<text id="15000722">싸움의 기억 - 아시나 잇신과 마주한다</text>
+<text id="15000723">싸움의 기억 - 목 없는 사자원숭이와 마주한다</text>
+<text id="15000724">%null%</text>
+<text id="15000725">%null%</text>
+<text id="15000726">%null%</text>
+<text id="15000727">%null%</text>
+<text id="15000728">%null%</text>
+<text id="15000729">%null%</text>
+<text id="15000730">&lt;?gdsparam@5220?&gt;와 마주한다</text>
+<text id="15000731">&lt;?gdsparam@5221?&gt;와 마주한다</text>
+<text id="15000732">&lt;?gdsparam@5222?&gt;과 마주한다</text>
+<text id="15000800">용해의 환약을 먹인다</text>
+<text id="15000811">토해낸 피를 받는다</text>
+<text id="15000900">희귀한 강자와 다시 싸운다</text>
+<text id="15000901">희귀한 강자와 연속으로 싸운다</text>
+<text id="15000902">형상 변환을 한다</text>
+<text id="15000903">%null%</text>
+<text id="15000904">%null%</text>
+<text id="15000905">%null%</text>
+<text id="15000906">%null%</text>
+<text id="15000907">%null%</text>
+<text id="15000908">%null%</text>
+<text id="15000909">%null%</text>
+<text id="15000910">휴식한다</text>
+<text id="15000911">카타시로를 구입한다</text>
+<text id="15000912">희귀한 강자와 다시 싸운다</text>
+<text id="15000913">싸움을 그만둔다</text>
+<text id="15000914">%null%</text>
+<text id="15000915">%null%</text>
+<text id="15000916">%null%</text>
+<text id="15000917">%null%</text>
+<text id="15000918">%null%</text>
+<text id="15000919">%null%</text>
+<text id="15000920">휴식한다</text>
+<text id="15000921">카타시로를 구입한다</text>
+<text id="15000922">다음 희귀한 강자와 싸운다</text>
+<text id="15000923">싸움을 그만둔다</text>
+<text id="15001000">희귀한 강자와의 연속 전투</text>
+<text id="15001001">기억의 연속 전투 - 계승자 탈환</text>
+<text id="15001002">기억의 연속 전투 - 수라</text>
+<text id="15001003">기억의 연속 전투 - 불사 끊기</text>
+<text id="15001004">기억의 연속 전투 - 사투 답파</text>
+<text id="15010000">의수 닌자 도구를 장치한다</text>
+<text id="15010001">강화 의수 닌자 도구를 작성한다</text>
+<text id="15010002">기계 장치 통을 건넨다</text>
+<text id="15010003">닌자 의수를 보여준다</text>
+<text id="15010300">자신에 대해 묻는다</text>
+<text id="15010301">왼팔에 대해 묻는다</text>
+<text id="15010302">신성한 계승자의 피에 대해 묻는다</text>
+<text id="15010900">더한 고난에서 벗어난다</text>
+<text id="15011010">앵우를 보여준다</text>
+<text id="15011011">앵우를 건넨다</text>
+<text id="15011012">꽃에 대해서</text>
+<text id="15011013">돌에 대해서</text>
+<text id="15011014">벚꽃에 대해서</text>
+<text id="15011015">신성한 계승자의 피에 대해서</text>
+<text id="15011016">도련님의 수호 방울에 대해서</text>
+<text id="15013000">수련</text>
+<text id="15013001">모의전</text>
+<text id="15013002">불사베기에 대해 가르쳐준다</text>
+<text id="15013003">불사베기에 대해 이야기한다</text>
+<text id="15013004">신사에 대해 이야기한다</text>
+<text id="15013005">%null%</text>
+<text id="15013006">%null%</text>
+<text id="15013007">%null%</text>
+<text id="15013008">%null%</text>
+<text id="15013009">%null%</text>
+<text id="15013010">모의전(기초)</text>
+<text id="15013011">모의전(응용)</text>
+<text id="15013012">%null%</text>
+<text id="15013013">%null%</text>
+<text id="15013014">%null%</text>
+<text id="15013015">%null%</text>
+<text id="15013016">%null%</text>
+<text id="15013017">%null%</text>
+<text id="15013018">%null%</text>
+<text id="15013019">%null%</text>
+<text id="15013020">공격</text>
+<text id="15013021">튕겨내기</text>
+<text id="15013022">회피</text>
+<text id="15013023">연속 튕겨내기</text>
+<text id="15013024">HP와 체간</text>
+<text id="15013025">찌르기 공격에 대한 대처</text>
+<text id="15013026">하단 공격에 대한 대처</text>
+<text id="15013027">간파하기</text>
+<text id="15013028">무너진 배후 돌기</text>
+<text id="15013039">그만둔다</text>
+<text id="15014000">아이템을 구입한다</text>
+<text id="15017000">%null%</text>
+<text id="15017001">%null%</text>
+<text id="15017002">%null%</text>
+<text id="15017003">아이템을 구입한다</text>
+<text id="15017004">아이템을 판매한다</text>
+<text id="15017005">%null%</text>
+<text id="15017006">정보를 산다</text>
+<text id="15017007">정보를 산다</text>
+<text id="15017008">%null%</text>
+<text id="15017009">구입한 정보를 확인한다</text>
+<text id="15022004">쌀을 받는다</text>
+<text id="15022005">영려경 - 충양지장을 건넨다</text>
+<text id="15022006">감을 건넨다</text>
+<text id="15022007">앵우를 보여준다</text>
+<text id="15022008">감을 건넨다</text>
+<text id="15022009">타로 감을 건넨다</text>
+<text id="15023000">용해의 환약을 만든다</text>
+<text id="15023001">상약 표주박을 보여준다</text>
+<text id="15023002">표주박의 씨앗을 건넨다</text>
+<text id="15023003">용해의 혈괴를 건넨다</text>
+<text id="15023004">훔쳐 들은 것을 묻는다</text>
+<text id="15023005">용해에 대해서 이야기한다</text>
+<text id="15023006">잇신의 전언에 대해서</text>
+<text id="15024000">불사 끊기에 대해서</text>
+<text id="15024001">불사베기의 소재에 대해서</text>
+<text id="15026002">행상인 아나야마를 소개한다</text>
+<text id="15027000">마을에 대해 묻는다</text>
+<text id="15027001">마을 사람에 대해 묻는다</text>
+<text id="15027002">신주에 대해 묻는다</text>
+<text id="15036000">비늘과 교환한다</text>
+<text id="15048000">보라색 옷을 입은 원숭이에 대해서 듣는다</text>
+<text id="15048001">주황색 옷을 입은 원숭이에 대해서 듣는다</text>
+<text id="15048002">초록색 옷을 입은 원숭이에 대해서 듣는다</text>
+<text id="15100000">&lt;?null?&gt;</text>
+<text id="15100001">%null%</text>
+<text id="15100002">%null%</text>
+<text id="15100003">%null%</text>
+<text id="15100004">%null%</text>
+<text id="15100005">&lt;?null?&gt;</text>
+<text id="15100006">&lt;?null?&gt;</text>
+<text id="15100007">%null%</text>
+<text id="15100008">%null%</text>
+<text id="15100009">%null%</text>
+<text id="15100010">&lt;?null?&gt;</text>
+<text id="15100011">&lt;?null?&gt;</text>
+<text id="15100120">귀불에서 휴식합니다</text>
+<text id="15100140">카타시로를 구입합니다</text>
+<text id="15100141">%null%</text>
+<text id="15100142">%null%</text>
+<text id="15100143">%null%</text>
+<text id="15100144">%null%</text>
+<text id="15100145">%null%</text>
+<text id="15100146">%null%</text>
+<text id="15100147">%null%</text>
+<text id="15100148">%null%</text>
+<text id="15100149">%null%</text>
+<text id="15100150">과거에 마주 앉은 귀불 앞으로 건너갑니다</text>
+<text id="15100170">수주옥을 소비해 HP와 체간을 성장시킵니다</text>
+<text id="15100190">&lt;?nextLoopCount?&gt;주차의 싸움을 시작합니다</text>
+<text id="15100250">용해를 쾌차시킵니다</text>
+<text id="15100300">스킬 포인트를 사용해 스킬을 습득합니다</text>
+<text id="15100500">&lt;?null?&gt;</text>
+<text id="15100501">&lt;?null?&gt;</text>
+<text id="15100502">&lt;?null?&gt;</text>
+<text id="15100503">&lt;?null?&gt;</text>
+<text id="15100504">%null%</text>
+<text id="15100505">%null%</text>
+<text id="15100506">%null%</text>
+<text id="15100507">%null%</text>
+<text id="15100508">%null%</text>
+<text id="15100509">%null%</text>
+<text id="15100510">&lt;?null?&gt;</text>
+<text id="15100511">%null%</text>
+<text id="15100512">%null%</text>
+<text id="15100513">%null%</text>
+<text id="15100514">%null%</text>
+<text id="15100515">%null%</text>
+<text id="15100516">%null%</text>
+<text id="15100517">%null%</text>
+<text id="15100518">%null%</text>
+<text id="15100519">%null%</text>
+<text id="15100520">&lt;?null?&gt;</text>
+<text id="15100521">&lt;?null?&gt;</text>
+<text id="15100600">싸움의 기억과 마주해 공격력을 강화합니다</text>
+<text id="15100601">스킬 포인트를 바쳐 공격력을 강화합니다</text>
+<text id="15100700">싸움의 기억과 마주해 공격력을 강화합니다</text>
+<text id="15100701">%null%</text>
+<text id="15100702">%null%</text>
+<text id="15100703">%null%</text>
+<text id="15100704">%null%</text>
+<text id="15100705">%null%</text>
+<text id="15100706">%null%</text>
+<text id="15100707">%null%</text>
+<text id="15100708">%null%</text>
+<text id="15100709">%null%</text>
+<text id="15100710">싸움의 기억 - 오니교부와 마주해 공격력을 강화합니다</text>
+<text id="15100711">싸움의 기억 - 환영의 나비와 마주해 공격력을 강화합니다</text>
+<text id="15100712">싸움의 기억 - 아시나 겐이치로와 마주해 공격력을 강화합니다</text>
+<text id="15100713">싸움의 기억 - 병풍 원숭이들과 마주해 공격력을 강화합니다</text>
+<text id="15100714">싸움의 기억 - 사자원숭이와 마주해 공격력을 강화합니다</text>
+<text id="15100715">싸움의 기억 - 파계승과 마주해 공격력을 강화합니다</text>
+<text id="15100716">싸움의 기억 - 대닌자 올빼미와 마주해 공격력을 강화합니다</text>
+<text id="15100717">싸움의 기억 - 의부와 마주해 공격력을 강화합니다</text>
+<text id="15100718">싸움의 기억 - 궁의 파계승과 마주해 공격력을 강화합니다</text>
+<text id="15100719">싸움의 기억 - 앵룡과 마주해 공격력을 강화합니다</text>
+<text id="15100720">싸움의 기억 - 원망의 오니와 마주해 공격력을 강화합니다</text>
+<text id="15100721">싸움의 기억 - 검성 아시나 잇신과 마주해 공격력을 강화합니다</text>
+<text id="15100722">싸움의 기억 - 아시나 잇신과 마주해 공격력을 강화합니다</text>
+<text id="15100723">싸움의 기억 - 목 없는 사자원숭이와 마주해 공격력을 강화합니다</text>
+<text id="15100724">%null%</text>
+<text id="15100725">%null%</text>
+<text id="15100726">%null%</text>
+<text id="15100727">%null%</text>
+<text id="15100728">%null%</text>
+<text id="15100729">%null%</text>
+<text id="15100730">싸움의 기억 - 마음속 겐이치로와 마주해 공격력을 강화합니다</text>
+<text id="15100731">싸움의 기억 - 마음속 의부와 마주해 공격력을 강화합니다</text>
+<text id="15100732">싸움의 기억 - 마음속 잇신과 마주해 공격력을 강화합니다</text>
+<text id="15100810">&lt;?null?&gt;</text>
+<text id="15100811">&lt;?null?&gt;</text>
+<text id="15100900">기억 속에서 희귀한 강자와 다시 싸웁니다</text>
+<text id="15100901">기억 속에서 희귀한 강자와 연속으로 싸웁니다</text>
+<text id="15100902">늑대의 형상을 변경합니다</text>
+<text id="15100903">%null%</text>
+<text id="15100904">%null%</text>
+<text id="15100905">%null%</text>
+<text id="15100906">%null%</text>
+<text id="15100907">%null%</text>
+<text id="15100908">%null%</text>
+<text id="15100909">%null%</text>
+<text id="15100910">귀불에서 휴식합니다</text>
+<text id="15100911">카타시로를 구입합니다</text>
+<text id="15100912">희귀한 강자를 선택하여 다시 싸웁니다</text>
+<text id="15100913">싸움을 그만두고 원래 귀불로 돌아갑니다</text>
+<text id="15100914">%null%</text>
+<text id="15100915">%null%</text>
+<text id="15100916">%null%</text>
+<text id="15100917">%null%</text>
+<text id="15100918">%null%</text>
+<text id="15100919">%null%</text>
+<text id="15100920">귀불에서 휴식합니다</text>
+<text id="15100921">카타시로를 구입합니다</text>
+<text id="15100922">다음에 싸울 희귀한 강자를 선택합니다</text>
+<text id="15100923">싸움을 그만두고 원래 귀불로 돌아갑니다</text>
+<text id="15101001">계승자 탈환의 기억을 따라가며 희귀한 강자들과 연속으로 싸웁니다</text>
+<text id="15101002">수라의 기억을 따라가며 희귀한 강자들과
+연속으로 싸웁니다</text>
+<text id="15101003">불사 끊기의 기억을 따라가며 희귀한 강자들과 연속으로 싸웁니다</text>
+<text id="15101004">싸움의 기억을 따라가며 모든 희귀한 강자들과 연속으로 싸웁니다</text>
+<text id="15110000">&lt;?null?&gt;</text>
+<text id="15110001">&lt;?null?&gt;</text>
+<text id="15110002">&lt;?null?&gt;</text>
+<text id="15110003">&lt;?null?&gt;</text>
+<text id="15110300">&lt;?null?&gt;</text>
+<text id="15110301">&lt;?null?&gt;</text>
+<text id="15110302">&lt;?null?&gt;</text>
+<text id="15110900">&lt;?null?&gt;</text>
+<text id="15111010">&lt;?null?&gt;</text>
+<text id="15111011">&lt;?null?&gt;</text>
+<text id="15111012">&lt;?null?&gt;</text>
+<text id="15111013">&lt;?null?&gt;</text>
+<text id="15111014">&lt;?null?&gt;</text>
+<text id="15111015">&lt;?null?&gt;</text>
+<text id="15111016">&lt;?null?&gt;</text>
+<text id="15113000">전투에 대한 기초적인 수련을 한다</text>
+<text id="15113001">모의전을 한다</text>
+<text id="15113002">&lt;?null?&gt;</text>
+<text id="15113003">&lt;?null?&gt;</text>
+<text id="15113004">%null%</text>
+<text id="15113005">%null%</text>
+<text id="15113006">%null%</text>
+<text id="15113007">%null%</text>
+<text id="15113008">%null%</text>
+<text id="15113009">%null%</text>
+<text id="15113010">모의전(기초)을 합니다</text>
+<text id="15113011">모의전(응용)을 합니다</text>
+<text id="15113012">%null%</text>
+<text id="15113013">%null%</text>
+<text id="15113014">%null%</text>
+<text id="15113015">%null%</text>
+<text id="15113016">%null%</text>
+<text id="15113017">%null%</text>
+<text id="15113018">%null%</text>
+<text id="15113019">%null%</text>
+<text id="15113020">"공격"의 기본을 수련합니다</text>
+<text id="15113021">"튕겨내기"의 기본을 수련합니다</text>
+<text id="15113022">"회피"의 기본을 수련합니다</text>
+<text id="15113023">"연속 튕겨내기"를 수련합니다</text>
+<text id="15113024">"HP와 체간"에 대해 수련합니다</text>
+<text id="15113025">"찌르기 공격에 대한 대처"를 수련합니다</text>
+<text id="15113026">"하단 공격에 대한 대처"를 수련합니다</text>
+<text id="15113027">"간파하기"를 수련합니다</text>
+<text id="15113028">"무너진 배후 돌기"를 수련합니다</text>
+<text id="15113039">%null%</text>
+<text id="15114000">&lt;?null?&gt;</text>
+<text id="15114001">&lt;?null?&gt;</text>
+<text id="15117000">%null%</text>
+<text id="15117001">%null%</text>
+<text id="15117002">%null%</text>
+<text id="15117003">&lt;?null?&gt;</text>
+<text id="15117004">&lt;?null?&gt;</text>
+<text id="15117005">%null%</text>
+<text id="15117006">&lt;?null?&gt;</text>
+<text id="15117007">&lt;?null?&gt;</text>
+<text id="15117008">&lt;?null?&gt;</text>
+<text id="15122000">&lt;?null?&gt;</text>
+<text id="15122001">&lt;?null?&gt;</text>
+<text id="15122002">&lt;?null?&gt;</text>
+<text id="15122003">&lt;?null?&gt;</text>
+<text id="15122004">&lt;?null?&gt;</text>
+<text id="15122005">&lt;?null?&gt;</text>
+<text id="15122006">&lt;?null?&gt;</text>
+<text id="15122007">&lt;?null?&gt;</text>
+<text id="15122008">&lt;?null?&gt;</text>
+<text id="15122009">&lt;?null?&gt;</text>
+<text id="15123000">&lt;?null?&gt;</text>
+<text id="15123001">&lt;?null?&gt;</text>
+<text id="15123002">&lt;?null?&gt;</text>
+<text id="15123003">&lt;?null?&gt;</text>
+<text id="15123004">&lt;?null?&gt;</text>
+<text id="15123005">&lt;?null?&gt;</text>
+<text id="15123006">&lt;?null?&gt;</text>
+<text id="15124000">&lt;?null?&gt;</text>
+<text id="15124001">&lt;?null?&gt;</text>
+<text id="15126000">&lt;?null?&gt;</text>
+<text id="15126001">&lt;?null?&gt;</text>
+<text id="15127000">&lt;?null?&gt;</text>
+<text id="15127001">&lt;?null?&gt;</text>
+<text id="15127002">&lt;?null?&gt;</text>
+<text id="15136000">&lt;?null?&gt;</text>
+<text id="15148000">&lt;?null?&gt;</text>
+<text id="15148001">&lt;?null?&gt;</text>
+<text id="15148002">&lt;?null?&gt;</text>
+<text id="50000210">잔영에 접촉한다</text>
+<text id="50000500">자신의 잔영에 접촉한다</text>
+<text id="80010400">%null%</text>
+<text id="80010500">%null%</text>
+<text id="80010501">%null%</text>
+</entries>
+</fmg>
